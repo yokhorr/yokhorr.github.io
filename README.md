@@ -1,0 +1,3 @@
+# vkadre
+Showtimes manager service
+
