@@ -45,3 +45,73 @@ const neonGlory = target => target.innerHTML = flickerAndColorText(target.textCo
 
 neonGlory(target);
 target.onclick = ({ target }) =>  neonGlory(target);
+
+const datePicker = document.getElementById('date-picker');
+const today = new Date();
+const daysOfWeek = ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];
+const months = ['Январь', 'Февраль', 'Март', 'Апрель', 'Май', 'Июнь', 'Июль', 'Август', 'Сентябрь', 'Октябрь', 'Ноябрь', 'Декабрь'];
+let lastHoveredItem = null; // Храним ссылку на последний элемент, над которым наведен курсор
+
+// Создаем массив дат
+const dates = [];
+for (let i = 0; i < 18; i++) {
+  const date = new Date(today);
+  date.setDate(today.getDate() + i);
+  dates.push(date);
+}
+
+// Отрисовка календаря
+let currentMonth = dates[0].getMonth(); // Храним текущий месяц
+
+dates.forEach((date, index) => {
+  const dateItem = document.createElement('li');
+  dateItem.classList.add('date-item');
+
+  // Добавляем текст даты
+  dateItem.textContent = date.getDate();
+
+  // Добавляем день недели
+  const dayOfWeek = daysOfWeek[date.getDay()];
+  const dayOfWeekElement = document.createElement('span');
+  dayOfWeekElement.classList.add('day-of-week');
+  dayOfWeekElement.textContent = dayOfWeek;
+  dateItem.appendChild(dayOfWeekElement);
+
+  // Добавляем месяц только если это начало месяца или дата "1"
+  if (index === 0 || date.getDate() === 1 && date.getMonth() !== currentMonth) {
+    currentMonth = date.getMonth();
+    const monthElement = document.createElement('span');
+    monthElement.textContent = months[currentMonth];
+    dateItem.appendChild(monthElement);
+  }
+
+  // Обработчик события для наведения курсора
+  dateItem.addEventListener('mouseover', () => {
+    // Если уже есть подсветка, удаляем ее
+    if (lastHoveredItem) {
+      lastHoveredItem.classList.remove('hovered');
+    }
+
+    // Подсвечиваем текущий элемент
+    dateItem.classList.add('hovered');
+
+    // Запоминаем текущий элемент
+    lastHoveredItem = dateItem;
+  });
+
+  // Обработчик события для клика
+  dateItem.addEventListener('click', () => {
+    // Удаляем класс "selected" из всех элементов
+    const selectedItems = datePicker.querySelectorAll('.date-item.selected');
+    selectedItems.forEach(item => item.classList.remove('selected'));
+
+    // Добавляем класс "selected" к выбранному элементу
+    dateItem.classList.add('selected');
+
+    // Получаем выбранную дату
+    const selectedDate = new Date(date);
+    console.log('Выбрана дата:', selectedDate);
+  });
+
+  datePicker.appendChild(dateItem);
+});
