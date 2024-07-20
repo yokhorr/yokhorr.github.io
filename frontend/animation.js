@@ -101,16 +101,14 @@ dates.forEach((date, index) => {
 
   // Обработчик события для клика
   dateItem.addEventListener('click', () => {
-    // Удаляем класс "selected" из всех элементов
-    const selectedItems = datePicker.querySelectorAll('.date-item.selected');
-    selectedItems.forEach(item => item.classList.remove('selected'));
-
-    // Добавляем класс "selected" к выбранному элементу
-    dateItem.classList.add('selected');
-
-    // Получаем выбранную дату
-    const selectedDate = new Date(date);
-    console.log('Выбрана дата:', selectedDate);
+    // Проверяем, есть ли у элемента класс "selected"
+    if (dateItem.classList.contains('selected')) {
+      // Удаляем класс "selected"
+      dateItem.classList.remove('selected');
+    } else {
+      // Добавляем класс "selected"
+      dateItem.classList.add('selected');
+    }
   });
 
   datePicker.appendChild(dateItem);
