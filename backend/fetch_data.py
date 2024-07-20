@@ -6,6 +6,7 @@ import shutil
 import time
 from datetime import datetime
 from bs4 import BeautifulSoup
+from clear_cache import clear_cache
 
 _, city = sys.argv
 
@@ -76,11 +77,12 @@ def write_film(name: str, rating: int, genres: list[str], length: int,
     if picture_href:
         img_data = requests.get(f'https://kino.vl.ru/kino/images/{picture_href}').content
         print(f'https://kino.vl.ru/kino/images/{picture_href} fetched')
-        with open(f'../../react-app/src/assets/films_images/{film_id}.jpg', 'wb') as handler:
+        with open(f'films_images/{film_id}.jpg', 'wb') as handler:
             handler.write(img_data)
-    else:
-        shutil.copyfile('../../react-app/src/assets/defaultImage.jpg',
-                        f'../../react-app/src/assets/films_images/{film_id}.jpg')
+    ## template for absent picture
+    # else:
+    #     shutil.copyfile('../../react-app/src/assets/defaultImage.jpg',
+    #                     f'films_images/{film_id}.jpg')
 
 
 def parse_film(elem: BeautifulSoup, film_id: int):
@@ -116,7 +118,7 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     # ref constitutes '/film/50183' (films has a uniq id)
     film_id = ref.split('/')[-2]  # separate id
 
-    # костыль:
+    # crutch
     if film_id == 'poslednee_tango_v_parizhe':
         film_id = '000'
 
@@ -156,7 +158,7 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
 def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[int, str, int]]:
     result = []
     tmp = elem.find('a')['href'].split('/')[-2]  
-    if tmp == 'poslednee_tango_v_parizhe':  # жёстко заифал костыль
+    if tmp == 'poslednee_tango_v_parizhe':  # crutch
         tmp = '000'
     name_id: int = int(tmp)
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
@@ -240,17 +242,27 @@ def save_data() -> None:
             (genre_names_dict, 'genre-namesIds'), (dates_days_of_week, 'dates-days-of-week'),
             (all_films_ids, 'films-ids')]
     for elem in data:
-        json.dump(elem[0], open(f'{elem[1]}_{city}_{t_date}.json', 'a'), indent=4, ensure_ascii=False)
+        json.dump(elem[0], open(f'jsons/{elem[1]}_{city}_{t_date}.json', 'a'), indent=4, ensure_ascii=False)
 
 
 def main():
+    # measure working time
     start_time = time.time()
-    os.chdir('data')
+
+    # go to data directory
+    running_file_directory = os.path.dirname(os.path.abspath(__file__))
+    os.chdir(f'{running_file_directory}/data')
+
+    # if parsed files are not relevant, clear cache
+    if open('date_of_data.txt').read() != t_date:
+        clear_cache()
+        open('date_of_data.txt', 'w').write(t_date)
+
     collect_data()
     parse_data()
     save_data()
-    os.chdir('..')
-    print(f'Finished in {int(time.time() - start_time)} seconds')
+    
+    print(f'\nParsing finished in {int(time.time() - start_time)} seconds')
 
 
 def fetch_data():
