@@ -1,6 +1,6 @@
 let jsonData;
 
-fetch('seances_artem_20_07_2024.json')  // path, relevant data
+fetch('../backend/data/jsons/seances_vladivostok_20_07_2024.json')
   .then(response => response.json())
   .then(data => {
     jsonData = data;
@@ -37,6 +37,7 @@ fetch('seances_artem_20_07_2024.json')  // path, relevant data
       details.appendChild(idf); 
       let h3 = document.createElement('h3');
       let genres = document.createElement('div'); 
+      genres.className = "genres";
       details.appendChild(h3); 
       let genre = document.createElement('span');
       genre.innerHTML = `Sci-fi`;
