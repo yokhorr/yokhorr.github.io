@@ -1,6 +1,6 @@
 let jsonData;
 
-fetch('data/films_vladivostok_19_07_2024.json')
+fetch('data/films_vladivostok_19_07_2024.json')  // path, relevant data
   .then(response => response.json())
   .then(data => {
     jsonData = data;
