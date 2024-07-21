@@ -1,5 +1,5 @@
-const urls = ['../backend/data/jsons/seances_artem_20_07_2024.json', '../backend/data/jsons/dates-days-of-week_artem_20_07_2024.json', '../backend/data/jsons/films_artem_20_07_2024.json',
-  '../backend/data/jsons/films-ids_artem_20_07_2024.json', '../backend/data/jsons/genre-namesIds_artem_20_07_2024.json', '../backend/data/jsons/theatres-seancesIds_artem_20_07_2024.json'
+const urls = ['../backend/data/jsons/seances_artem.json', '../backend/data/jsons/dates-days-of-week_artem.json', '../backend/data/jsons/films_artem.json',
+  '../backend/data/jsons/films-ids_artem.json', '../backend/data/jsons/genre-namesIds_artem.json', '../backend/data/jsons/theatres-seancesIds_artem.json'
 ];
 
 console.log(urls.length)

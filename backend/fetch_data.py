@@ -242,7 +242,7 @@ def save_data() -> None:
             (genre_names_dict, 'genre-namesIds'), (dates_days_of_week, 'dates-days-of-week'),
             (all_films_ids, 'films-ids')]
     for elem in data:
-        json.dump(elem[0], open(f'jsons/{elem[1]}_{city}_{t_date}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
+        json.dump(elem[0], open(f'jsons/{elem[1]}_{city}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
 
 
 def main():
