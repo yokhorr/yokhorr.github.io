@@ -10,6 +10,9 @@ dropdowns.forEach(dropdown => {
     const options = dropdown.querySelectorAll('.menu li');
     const selected = dropdown.querySelector('.selected');
 
+    // Массив для хранения выбранных вариантов
+    const selectedOptions = [];
+
     // Добавляем обработчик клика на .select
     select.addEventListener('click', () => {
         // Переключаем классы для анимации
@@ -22,20 +25,32 @@ dropdowns.forEach(dropdown => {
     options.forEach(option => {
         // Добавляем обработчик клика на каждый вариант выбора
         option.addEventListener('click', () => {
+            // Проверяем, выбран ли уже этот вариант
+            if (option.classList.contains('active')) {
+                // Если выбран, удаляем из массива и снимаем класс
+                const index = selectedOptions.indexOf(option.innerText);
+                if (index > -1) {
+                    selectedOptions.splice(index, 1);
+                    option.classList.remove('active');
+                }
+            } else {
+                // Если не выбран, добавляем в массив и добавляем класс
+                selectedOptions.push(option.innerText);
+                option.classList.add('active');
+            }
+
             // Обновляем текст выбранного элемента
-            selected.innerText = option.innerText;
+            if (selectedOptions.length > 0) {
+                selected.innerText = selectedOptions.join(', ');
+            } else {
+                // Если нет выбранных вариантов, показываем начальный текст
+                selected.innerText = 'Выбрать'; 
+            }
+
             // Снимаем классы для закрытия выпадающего списка
             select.classList.remove('select-clicked');
             caret.classList.remove('caret-rotate');
             menu.classList.remove('menu-open');
-
-            // Снимаем класс 'active' со всех вариантов выбора
-            options.forEach(option => {
-                option.classList.remove('active');
-            });
-
-            // Добавляем класс 'active' к выбранному варианту
-            option.classList.add('active');
         });
     });
 });

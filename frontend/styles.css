@@ -17,11 +17,7 @@ body {
 .dropdown {
   min-width: 9em;
   position: relative;
-  justify-content: center; 
-  min-height: 23vh;
-  top: 0px;
-  left: 300px;
-  margin: 2em;
+  min-height: 6vh;
 }
 
 .dropdown * {
@@ -29,11 +25,11 @@ body {
 } 
 
 .dropdown .container {
-  position: absolute;
-
+  position: relative;
+  grid-template-columns: 9em;
+  grid-auto-rows: min-content; /* Задаем минимальную высоту для строк */
+  grid-gap: 1em;
 }
-
-
 
 .select {
   background: #db6ae6;
