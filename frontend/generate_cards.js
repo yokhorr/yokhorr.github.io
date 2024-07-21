@@ -43,7 +43,13 @@ Promise.all(promises)
       card.className = "card";
       let poster = document.createElement('div'); 
       let re = document.createElement('img'); 
-      re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`; 
+      if(`../backend/data/films_images/${jsonData2[0][key].filmId}.jpg` !== undefined){
+        re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
+      }
+      else{
+        re.src = '../frontend/defaultImage.jpg';
+      }
+      
       poster.appendChild(re); 
       poster.classList.add('before-element');
       poster.className = "poster";
