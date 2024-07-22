@@ -12,8 +12,7 @@ dropdowns.forEach(dropdown => {
 
     // Массив для хранения выбранных вариантов
     const selectedOptions = [];
-
-    // Добавляем обработчик клика на .select
+// Добавляем обработчик клика на .select
     select.addEventListener('click', () => {
         // Переключаем классы для анимации
         select.classList.toggle('select-clicked');

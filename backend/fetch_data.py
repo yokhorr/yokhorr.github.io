@@ -162,7 +162,7 @@ def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> lis
         tmp = '000'
     name_id: int = int(tmp)
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
-        _theatre = theatre. get_text().strip()
+        _theatre = theatre.get_text().strip()
         cost = parse_cost(elem.find_next()["href"], _theatre, date, time, city)
         result.append((name_id, _theatre, cost))
     return result

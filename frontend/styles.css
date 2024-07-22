@@ -1,9 +1,7 @@
-
-
 body {
   font-family: Helvetica, sans-serif;
   background: rgb(238,174,202);
-  background: linear-gradient(132deg, rgba(238,174,202,1) 21%, rgba(198,96,226,1) 46%, rgba(103,71,199,1) 77%, rgba(87,36,207,1) 100%);
+  background: linear-gradient(132deg, rgb(121, 121, 121) 21%, rgb(72, 72, 72) 46%, rgb(129, 129, 129) 77%, rgb(58, 58, 58) 100%);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -14,22 +12,61 @@ body {
 
 /*-----------filters------------*/
 
+@media (max-width: 768px) { 
+  .grid {
+    grid-template-columns: 2fr; /* 1 колонка */
+  }
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: auto;
+
+}
+
+
+@media (max-width: 768px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px; 
+  }
+
+  .filter {
+    font-size: 14px; 
+  }
+}
+
+
+@media (max-width: 480px) {
+  .grid-container {
+    grid-template-columns: 1fr; 
+    gap: 5px; 
+  }
+
+  .filter {
+    font-size: 12px; 
+  }
+}
+
+
 .dropdown {
   min-width: 9em;
-  position: relative;
-  min-height: 6vh;
+  justify-content: center; 
+  min-height: 23vh;
+  top: 0px;
+  left: 300px;
+  margin: 2em;
+  padding: 10px;
+  text-align: center;
 }
 
 .dropdown * {
   box-sizing: border-box; 
 } 
 
-.dropdown .container {
-  position: relative;
-  grid-template-columns: 9em;
-  grid-auto-rows: min-content; /* Задаем минимальную высоту для строк */
-  grid-gap: 1em;
-}
+
+
 
 .select {
   background: #db6ae6;
@@ -111,15 +148,41 @@ body {
 
 /*------logo------*/
 
-.logo {
-  position: absolute;
-  top: 0px;
-  left: 60px;
+
+
+  .logo {
+    position: absolute;
+    top: 0px;
+    left: 60px;
+    
+  }
+  
+  .logo .container {
+    display: inline-grid;
+  }
+
+
+  @media (max-width: 8000px) {
+    h1 {
+      font-weight: 50px;
+      font-size: 78px;
+      text-align: center;
+    
+    }
+    
+  }
+
+
+
+@media (max-width: 1100px) {
+  h1 {
+    font-weight: 25px;
+    font-size: 48px;
+    text-align: center;
+  
+  }
 }
 
-.logo .container {
-  display: inline-grid;
-}
 
 @-webkit-keyframes text-flicker-in-glow{0%{opacity:0}10%{opacity:0;text-shadow:none}10.1%{opacity:1;text-shadow:none}10.2%{opacity:0;text-shadow:none}20%{opacity:0;text-shadow:none}20.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.25)}20.6%{opacity:0;text-shadow:none}30%{opacity:0;text-shadow:none}30.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}30.5%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}30.6%{opacity:0;text-shadow:none}45%{opacity:0;text-shadow:none}45.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}50%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}55%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}55.1%{opacity:0;text-shadow:none}57%{opacity:0;text-shadow:none}57.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35)}60%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35)}60.1%{opacity:0;text-shadow:none}65%{opacity:0;text-shadow:none}65.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35),0 0 100px rgba(255,255,255,.1)}75%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35),0 0 100px rgba(255,255,255,.1)}75.1%{opacity:0;text-shadow:none}77%{opacity:0;text-shadow:none}77.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.4),0 0 110px rgba(255,255,255,.2),0 0 100px rgba(255,255,255,.1)}85%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.4),0 0 110px rgba(255,255,255,.2),0 0 100px rgba(255,255,255,.1)}85.1%{opacity:0;text-shadow:none}86%{opacity:0;text-shadow:none}86.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.6),0 0 60px rgba(255,255,255,.45),0 0 110px rgba(255,255,255,.25),0 0 100px rgba(255,255,255,.1)}100%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.6),0 0 60px rgba(255,255,255,.45),0 0 110px rgba(255,255,255,.25),0 0 100px rgba(255,255,255,.1)}}@keyframes text-flicker-in-glow{0%{opacity:0}10%{opacity:0;text-shadow:none}10.1%{opacity:1;text-shadow:none}10.2%{opacity:0;text-shadow:none}20%{opacity:0;text-shadow:none}20.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.25)}20.6%{opacity:0;text-shadow:none}30%{opacity:0;text-shadow:none}30.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}30.5%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}30.6%{opacity:0;text-shadow:none}45%{opacity:0;text-shadow:none}45.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}50%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}55%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.45),0 0 60px rgba(255,255,255,.25)}55.1%{opacity:0;text-shadow:none}57%{opacity:0;text-shadow:none}57.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35)}60%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35)}60.1%{opacity:0;text-shadow:none}65%{opacity:0;text-shadow:none}65.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35),0 0 100px rgba(255,255,255,.1)}75%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.35),0 0 100px rgba(255,255,255,.1)}75.1%{opacity:0;text-shadow:none}77%{opacity:0;text-shadow:none}77.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.4),0 0 110px rgba(255,255,255,.2),0 0 100px rgba(255,255,255,.1)}85%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.55),0 0 60px rgba(255,255,255,.4),0 0 110px rgba(255,255,255,.2),0 0 100px rgba(255,255,255,.1)}85.1%{opacity:0;text-shadow:none}86%{opacity:0;text-shadow:none}86.1%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.6),0 0 60px rgba(255,255,255,.45),0 0 110px rgba(255,255,255,.25),0 0 100px rgba(255,255,255,.1)}100%{opacity:1;text-shadow:0 0 30px rgba(255,255,255,.6),0 0 60px rgba(255,255,255,.45),0 0 110px rgba(255,255,255,.25),0 0 100px rgba(255,255,255,.1)}}
 
@@ -127,12 +190,7 @@ html, body {
 background-color: #15161a;
 font-family: 'Monoton', cursive;
 }
-h1 {
-  font-weight: 50px;
-  font-size: 78px;
-  text-align: center;
 
-}
 
 @font-face {
 font-family: 'Neon Glow';
@@ -217,16 +275,60 @@ width: var(--size);
 /*=====date picker====*/
 
 
+@media (max-width: 8000px) {
+  .date .container {
+    position: relative;
+    align-items: center;
+    left: 260px;
+    top: -100px;
+    min-width: 250px;
+    width: 3000px;
+    height: 50px;
+  }
+}
+
+  @media (max-width: 1200px) {
+    .date .container {
+      position: relative;
+      align-items: center;
+      left: 70px;
+      top: -100px;
+      min-width: 250px;
+      width: 2000px;
+      height: 50px
+      
+    }
+  }
+
+    @media (max-width: 890px) {
+      .date .container {
+        position: relative;
+        align-items: center;
+        left: 0;
+        top: -100px;
+        min-width: 250px;
+        width: 450px;
+        height: 50px;
+      }
+    }
+    @media (max-width: 590px) {
+      .date .container {
+        position: relative;
+        align-items: center;
+        left: 0;
+        top: -250px;
+        min-width: 250px;
+        width: 300px;
+        height: 50px;
+      }
+    }
+
 .date {
   position: relative;
 }
 
-.date .container {
-  position: relative;
-  top: -100px;
-  min-width: 250px;
-  width: 3000px;
-  height: 50px;
+.date .container .ul {
+  align-items: center;
 }
 
 #date-picker {
@@ -246,7 +348,7 @@ padding: 6px 5px;
 margin: 0 5px;
 cursor: pointer;
 text-align: center; /* Выравнивание текста по центру */
-width: 31px; /* Ширина элемента */
+width: 34px; /* Ширина элемента */
 height: 50px;
 transition: background-color 0.3s ease; /* Плавный переход */
 border-radius: 3em 3em 3em 3em;
@@ -286,29 +388,83 @@ font-size: 11px;
 
 
 /*====card==*/
-.grid {
-position: relative;
-display: grid;
-grid-template-columns: repeat(4, 1fr);
-grid-auto-rows: auto;
-gap: 30px;
-}
 
-.item {
-width: 100%;
-max-width: calc(25% - 20px);
-}
+
+
+@media (max-width: 8000px) {
+  .grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: auto;
+    gap: 30px;
+    }
+  .item {
+    width: 100%;
+    max-width: calc(25% - 20px);
+    }
+
+  }
+  @media (max-width: 1140px) {
+    .grid {
+      position: relative;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-auto-rows: auto;
+      gap: 30px;
+      }
+    .item {
+      width: 100%;
+      max-width: calc(25% - 20px);
+      }
+  
+    }
+    @media (max-width: 880px) {
+      .grid {
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-auto-rows: auto;
+        gap: 30px;
+        }
+      .item {
+        width: 100%;
+        max-width: calc(25% - 20px);
+        }
+    
+      }
+      @media (max-width: 580px) {
+        .grid {
+          position: relative;
+          display: grid;
+          grid-template-columns: repeat(1, 1fr);
+          grid-auto-rows: auto;
+          gap: 30px;
+          }
+        .item {
+          width: 100%;
+          max-width: calc(25% - 20px);
+          }
+      
+        }
+
+
+
+
 .card {
-position: relative;
-width: 270px;
-height: 350px;
-background: white;
-border-radius: 10px;
-box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
-overflow: hidden;
-display: grid;
+  position: relative;
+  width: 270px;
+  height: 350px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+  display: grid;
+  
+  }
 
-}
+
+
 
 
 
