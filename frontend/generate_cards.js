@@ -54,13 +54,12 @@ Promise.all(promises).then((results) => {
     card.className = "card";
     let poster = document.createElement("div");
     let re = document.createElement("img");
-    if (
-      `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg` !==
-      undefined
-    ) {
+    if (jsonData2[0][key].filmId !== undefined) {
       re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
-    } else {
-      re.src = "../frontend/defaultImage.jpg";
+    } 
+    else {
+      console.log("no image");
+      re.src = `../backend/data/films_images/No_Image_Available.jpg`;
     }
 
     poster.appendChild(re);
@@ -76,9 +75,78 @@ Promise.all(promises).then((results) => {
     let genres = document.createElement("div");
     genres.className = "genres";
     details.appendChild(h3);
-    let genre = document.createElement("span");
-    genre.innerHTML = `Sci-fi`;
-    genres.appendChild(genre);
+    let theatre = document.createElement("span"); 
+    theatre.innerHTML = `${jsonData2[0][key].theatre}`;
+    genres.appendChild(theatre);
+    for(let i = 0; i < filmsDictionary[jsonData2[0][key].filmId].genres.length; i++) {
+      let genre = document.createElement("span");
+      genre.innerHTML = filmsDictionary[jsonData2[0][key].filmId].genres[i];
+      genres.appendChild(genre);
+    }
+    const startTime = `${jsonData2[0][key].time}`; 
+    let duration = 0; 
+    if(filmsDictionary[jsonData2[0][key].filmId].length === -1){
+      duration = 61;
+    }
+    else{
+      duration = filmsDictionary[jsonData2[0][key].filmId].length;
+    }
+    const [startHour, startMinute] = startTime.split(':').map(Number);
+    let endHour = Math.floor((startHour * 60 + startMinute + duration) / 60) % 24;
+    let endMinute = (startMinute + duration) % 60;
+    const endTime = `${String(endHour).padStart(2, '0')}:${String(endMinute).padStart(2, '0')}`;
+    let time= document.createElement("span");
+    time.innerHTML = `${jsonData2[0][key].time} - ${endTime}`;
+    genres.appendChild(time);
+    let date = document.createElement("span");
+    const [day, month] = `${jsonData2[0][key].date}`.split('.').map(Number);
+    console.log(day, month);
+    let month2; 
+    if(month === 1) {
+      month2 = "января";
+    }
+    if(month === 2) {
+      month2 = "февраля";
+    } 
+    if(month === 3) {
+      month2 = "марта";
+    } 
+    if(month === 4) {
+      month2 = "апреля";
+    } 
+    if(month === 5) {
+      month2 = "мая";
+    } 
+    if(month === 6) {
+      month2 = "июня";
+    } 
+    if(month === 7) {
+      month2 = "июля";
+    } 
+    if(month === 8) {
+      month2 = "августа";
+    }
+    if(month === 9) {
+      month2 = "сентября";
+    }
+    if(month === 10) {
+      month2 = "октября";
+    }
+    if(month === 11) {
+      month2 = "ноября";
+    }
+    if(month === 12) {
+      month2 = "декабря";
+    }
+    date.innerHTML = `${day} ${month2}`; 
+    genres.appendChild(date);
+    let cost = document.createElement("span"); 
+    let p = document.createElement("a"); 
+    p.href = "#"; 
+    p.style = "text-decoration: none; color: black"; 
+    p.innerHTML = `${jsonData2[0][key].cost}₽`; 
+    cost.appendChild(p);
+    genres.appendChild(cost);
     details.appendChild(genres);
     card.appendChild(details);
     item.appendChild(card);
