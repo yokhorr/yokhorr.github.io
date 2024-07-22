@@ -192,31 +192,41 @@ dates.forEach((date, index) => {
 const cityDropdown = document.getElementById('cityDropdown');
 const citySelect = cityDropdown.querySelector('.select');
 const cityMenu = cityDropdown.querySelector('.menu');
-const cityItems = cityMenu.querySelectorAll('li');
+let selectedCity = null;
 
-// Обработчик клика на выпадающий список
-citySelect.addEventListener('click', () => {
-  cityMenu.style.display = cityMenu.style.display === 'block' ? 'none' : 'block';
+cityDropdown.addEventListener('click', () => {
+  cityMenu.classList.toggle('active');
 });
 
-// Обработчик клика на элементы списка
-cityItems.forEach(item => {
-  item.addEventListener('click', () => {
-    const selectedValue = item.dataset.value;
-    citySelect.querySelector('.selected').textContent = selectedValue;
-    cityMenu.style.display = 'none';
-  });
-});
+cityMenu.addEventListener('click', (event) => {
+  if (event.target.tagName === 'LI') {
+    // Удаляем класс 'active' с предыдущего выбранного элемента
+    if (selectedCity) {
+      selectedCity.classList.remove('active');
+    }
 
-// Дополнительная логика для выбора только одного элемента (необязательно)
-cityItems.forEach(item => {
-  item.addEventListener('click', () => {
-    // Сбрасываем выделение у других элементов
-    cityItems.forEach(otherItem => {
-      otherItem.classList.remove('selected');
+    // Проверяем, выбран ли элемент повторно
+    if (event.target === selectedCity) {
+      // Если да, то просто удаляем класс 'active' и обнуляем selectedCity
+      selectedCity = null;
+      cityDropdown.querySelector('.selected').textContent = 'Выбрать';
+    } else {
+      // Если нет, то добавляем класс 'active' к новому выбранному элементу
+      selectedCity = event.target;
+      selectedCity.classList.add('active');
+
+// Обновляем текст выбранного города
+      cityDropdown.querySelector('.selected').textContent = selectedCity.textContent;
+    }
+
+    // Скрываем выпадающий список
+    cityMenu.classList.remove('active');
+
+    // Возвращаем изначальный цвет всем элементам в списке городов
+    cityMenu.querySelectorAll('li').forEach(li => {
+      if (li !== selectedCity) {
+        li.classList.remove('active'); 
+      }
     });
-
-    // Выделяем выбранный элемент
-    item.classList.add('selected');
-  });
+  }
 });

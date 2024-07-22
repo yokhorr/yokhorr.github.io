@@ -52,8 +52,8 @@ body {
 
 .dropdown {
   min-width: 9em;
-  justify-content: center; 
-  min-height: 23vh;
+  justify-content: center; /* relative */
+  min-height: 23vh; /* 6vh */
   top: 0px;
   left: 300px;
   margin: 2em;
