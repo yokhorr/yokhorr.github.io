@@ -1,7 +1,7 @@
 body {
   font-family: Helvetica, sans-serif;
   background: rgb(238,174,202);
-  background: linear-gradient(132deg, rgb(121, 121, 121) 21%, rgb(72, 72, 72) 46%, rgb(129, 129, 129) 77%, rgb(58, 58, 58) 100%);
+  background: linear-gradient(132deg, rgba(238,174,202,1) 21%, rgba(198,96,226,1) 46%, rgba(103,71,199,1) 77%, rgba(87,36,207,1) 100%);
   min-height: 100vh;
   display: flex;
   justify-content: center;
@@ -65,8 +65,12 @@ body {
   box-sizing: border-box; 
 } 
 
-
-
+.dropdown .container {
+  position: relative;
+  grid-template-columns: 9em;
+  grid-auto-rows: min-content; /* Задаем минимальную высоту для строк */
+  grid-gap: 1em;
+}
 
 .select {
   background: #db6ae6;
@@ -331,7 +335,7 @@ width: var(--size);
   align-items: center;
 }
 
-#date-picker {
+#dateSelect {
 display: flex;
 flex-wrap: wrap; /* Если дат больше, чем помещается в строку, перенос на новую строку */
 list-style: none;
@@ -371,14 +375,14 @@ color: #777;
 background-color: #eee; /* Цвет при нажатии */
 }
 
-#date-picker span.day {
+#dateSelect span.day {
 position: relative;
 top: -60px; /* Переместили выше */
 color: rgb(144, 144, 145);
 font-size: 11px;
 }
 
-#date-picker span {
+#dateSelect span {
 position: relative;
 top: 0px; /* Переместили еще выше */
 color: rgb(233, 220, 220);
@@ -538,4 +542,8 @@ margin-top: 5px;
 color: white;
 font-size: 18px;
 margin-top: 5px;
+}
+
+.hidden {
+  display: none;
 }

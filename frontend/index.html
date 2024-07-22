@@ -8,11 +8,26 @@
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
     />
     <link
-      rel="stylesheet"
+      rel="stylesheet"  
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
     />
     <title>Document</title>
     <link rel="stylesheet" href="styles.css" />
+    <style>
+      #filters {
+        min-width: 9em;
+        position: relative;
+        min-height: 6vh;
+        display: flex; /* Изменяем на flexbox */
+        flex-wrap: wrap; /* Добавляем возможность перехода на новую строку */
+        justify-content: space-between; /* Выравниваем элементы по краям */
+      }
+  
+      .dropdown {
+        flex-grow: 0.1; /* Занимаем всё доступное пространство */
+        margin: 0.5em; /* Добавляем отступы */
+      }
+    </style>
   </head>
   <body>
     <!--logo-->
@@ -23,54 +38,62 @@
 
     <!--filters-->
 
-    <div class="grid-container">
-      <div class="dropdown">
-        <div class="select" id="citySelect">
+    <div id="filters">
+      <div class="dropdown" id="cityDropdown">
+        <div class="select">
           <span class="selected">Город</span>
           <div class="caret"></div>
         </div>
         <ul class="menu">
-          <li>Владивосток</li>
-          <li>Артём</li>
-          <li>Уссурийск</li>
+          <li data-value="Владивосток">Владивосток</li>
+          <li data-value="Артём">Артём</li>
+          <li data-value="Уссурийск">Уссурийск</li>
         </ul>
       </div>
 
       <div class="dropdown">
-        <div class="select" id="genreSelect">
+        <div class="select">
           <span class="selected">Жанр</span>
           <div class="caret"></div>
         </div>
-        <ul class="menu">
-          <li>Боевик</li>
-          <li>Детектив</li>
-          <li>Комедия</li>
-          <li>Мелодрама</li>
-          <li>Приключения</li>
-          <li>Триллер</li>
-          <li>Ужасы</li>
-          <li>Фантастика</li>
-          <li>Мультфильм</li>
-          <li>Документалка</li>
+        <ul class="menu" id="genreSelect">
+          <li>анимация</li>
+          <li>аниме</li>
+          <li>балет</li>
+          <li>биография</li>
+          <li>боевик</li>
+          <li>детектив</li>
+          <li>драма</li>
+          <li>документальный</li>
+          <li>фильм-выставка</li>
+          <li>фильм-спектакль</li>
+          <li>лекция</li>
+          <li>мелодрама</li>
+          <li>мультфильм</li>
+          <li>опера</li>
+          <li>приключения</li>
+          <li>семейный</li>
+          <li>триллер</li>
+          <li>ужасы</li>
+          <li>фантастика</li>
+          <li>фэнтези</li>
         </ul>
       </div>
       <div class="dropdown">
-        <div class="select" id="theatreSelect">
+        <div class="select">
           <span class="selected">Кинотеатр</span>
           <div class="caret"></div>
         </div>
-        <ul class="menu">
+        <ul class="menu" id="theatreSelect">
           <li>Уссури</li>
           <li>Иллюзион</li>
           <li>Черёмушки</li>
-          <li>Океан</li>
+          <li>Океан IMAX</li>
           <li>Киномакс-Сапфир</li>
-          <li>Галактика</li>
           <li>Москва</li>
           <li>Нептун</li>
           <li>Владивосток</li>
           <li>Шахтер</li>
-          <li>Россия</li>
         </ul>
       </div>
     </div>
@@ -79,7 +102,7 @@
 
     <div class="date">
       <div class="container">
-        <ul id="date-picker"></ul>
+        <ul id="dateSelect"></ul>
       </div>
     </div>
 
@@ -89,7 +112,7 @@
       <div
         class="item"
         data-city="vladivostok"
-        data-theatre="galaxy"
+        data-theatre="Океан"
         data-genres="sci-fi action comedy"
         data-time="10:00"
         data-date="19.07"
