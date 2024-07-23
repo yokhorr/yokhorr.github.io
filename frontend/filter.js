@@ -50,13 +50,20 @@ menus.forEach((menu) => {
         const option = event.target.textContent;
         const active = event.target.classList.contains("active");
 
-        if (active) {
-            criteriaArrays[criteria].add(option);
+        if (criteria === "citySelect") {
+            criteriaArrays[criteria].clear();
+            if (active) {
+                criteriaArrays[criteria].add(option);
+            }
         } else {
-            criteriaArrays[criteria].delete(option);
+            if (active) {
+                criteriaArrays[criteria].add(option);
+            } else {
+                criteriaArrays[criteria].delete(option);
+            }
         }
 
-        // console.log(criteriaArrays);
+        console.log(criteriaArrays);
 
         filterBox.forEach((card) => {
             validate(card);

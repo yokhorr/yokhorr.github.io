@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html lang="ru">
+
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
@@ -11,8 +13,13 @@
       rel="stylesheet"  
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
     />
-    <title>Document</title>
+    
+    <title>BKadre</title>
+    <link rel="shortcut icon" href="icon.png" type="image/x-icon"> <!--"изображение: Flaticon.com". Эта обложка была разработана с использованием ресурсов сайта Flaticon.com.-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <link rel="stylesheet" href="styles.css" />
+
     <style>
       #filters {
         min-width: 9em;
@@ -28,8 +35,11 @@
         margin: 0.5em; /* Добавляем отступы */
       }
     </style>
+
   </head>
+
   <body>
+
     <!--logo-->
 
     <div class="logo">
@@ -45,7 +55,7 @@
           <span class="selected">Город</span>
           <div class="caret"></div>
         </div>
-        <ul class="menu">
+        <ul class="menu" id="citySelect">
           <li>Владивосток</li>
           <li>Артём</li>
           <li>Уссурийск</li>
@@ -80,7 +90,7 @@
           <li>фэнтези</li>
         </ul>
       </div>
-      <div class="dropdown">
+      <div class="dropdown" id="theatreDropdown">
         <div class="select">
           <span class="selected">Кинотеатр</span>
           <div class="caret"></div>
@@ -111,8 +121,8 @@
 
     <div class="grid" id="cards">
       <div
-        class="item hidden"
-        data-city="vladivostok"
+        class="item"
+        data-city="Артём"
         data-theatre="Океан"
         data-genres="sci-fi action comedy"
         data-time="10:00"
@@ -145,7 +155,7 @@
       </div>
     </div>
 
-    <script src="animation.js"></script>
+    <script src="animations.js"></script>
     <script src="generate_cards.js"></script>
     <script src="filter.js"></script>
   </body>

@@ -61,18 +61,24 @@ Promise.all(promises).then((results) => {
         );
         item.setAttribute("data-cost", jsonData2[0][key].cost);
         item.setAttribute("data-seancesId", jsonData2[0][key].seanceId);
-        cards.appendChild(item);
+        const [days, monthes] = `${jsonData2[0][key].date}`.split('.').map(Number);
+        const [Hour, Minute] = `${jsonData2[0][key].time}`.split(':').map(Number);
+        const NowTime = new Date();
+        const currentTime = new Date(NowTime.getFullYear(), monthes - 1, days, Hour, Minute, 0, 0);
+        console.log(currentTime);
+        if(NowTime < currentTime) {
+            cards.appendChild(item);
+        }
         let card = document.createElement("div");
         card.className = "card";
         let poster = document.createElement("div");
         let re = document.createElement("img");
-        if (
-            `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg` !==
-            undefined
-        ) {
+        if (jsonData2[0][key].filmId !== undefined) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
-        } else {
-            re.src = "../frontend/defaultImage.jpg";
+        } 
+        else {
+            console.log("no image");
+            re.src = `../backend/data/films_images/No_Image_Available.jpg`;
         }
 
     poster.appendChild(re);
@@ -84,6 +90,9 @@ Promise.all(promises).then((results) => {
     let idf = document.createElement("p");
     idf.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
     details.appendChild(idf);
+    let age = document.createElement("h3");
+    age.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].rating}+`;
+    details.appendChild(age);
     let h3 = document.createElement("h3");
     let genres = document.createElement("div");
     genres.className = "genres";
@@ -113,7 +122,7 @@ Promise.all(promises).then((results) => {
     genres.appendChild(time);
     let date = document.createElement("span");
     const [day, month] = `${jsonData2[0][key].date}`.split('.').map(Number);
-    console.log(day, month);
+    // console.log(day, month);
     let month2; 
     if(month === 1) {
       month2 = "января";
@@ -169,3 +178,4 @@ Promise.all(promises).then((results) => {
   document.dispatchEvent(cardsGenerated);
 });
 // console.log(promises);
+
