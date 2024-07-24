@@ -46,13 +46,7 @@ dropdowns.forEach((dropdown) => {
                 option.classList.add("active");
             }
 
-            // Обновляем текст выбранного элемента
-            if (selectedOptions.length > 0) {
-                selected.innerText = selectedOptions.join(", ");
-            } else {
-                // Если нет выбранных вариантов, показываем начальный текст
-                selected.innerText = filterNames.get(option.parentElement.id);
-            }
+            
 
             // Снимаем классы для закрытия выпадающего списка
             select.classList.remove("select-clicked");
@@ -81,7 +75,7 @@ cityMenu.addEventListener('click', (event) => {
     if (event.target === selectedCity) {
       // Если да, то просто удаляем класс 'active' и обнуляем selectedCity
       selectedCity = null;
-      cityDropdown.querySelector('.selected').textContent = 'Выбрать';
+      cityDropdown.querySelector('.selected').textContent = 'Город';
     } else {
       // Если нет, то добавляем класс 'active' к новому выбранному элементу
       selectedCity = event.target;
@@ -208,3 +202,15 @@ dates.forEach((date, index) => {
 
   datePicker.appendChild(dateItem);
 });
+
+
+//Кнопка_____________________________________________
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth' // Добавьте плавную прокрутку
+  });
+}
+
+const endButton = document.querySelector('.btn');
+endButton.addEventListener('click', scrollToTop);
