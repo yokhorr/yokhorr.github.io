@@ -1,7 +1,7 @@
 body {
   font-family: Helvetica, sans-serif;
   background: rgb(188,105,255);
-  background: linear-gradient(132deg, rgba(188,105,255,1) 9%, rgba(188,105,255,1) 55%, rgba(237,214,255,1) 100%);
+  background: linear-gradient(132deg, rgb(167, 87, 233) 9%, rgb(114, 32, 182) 55%, rgb(97, 27, 151) 70%, rgb(64, 9, 107) 88%, rgb(27, 26, 26) 100%);
   
   min-height: 100vh;
   display: flex;
@@ -368,7 +368,7 @@ color: #d4d4d4;
 }
 
 .date-item:hover {
-background-color: #f0f0f0; /* Цвет при наведении курсора */
+background-color: #f0f0f060; /* Цвет при наведении курсора */
 }
 
 .day-of-week {
@@ -489,10 +489,6 @@ font-size: 11px;
   }
 
 
-
-
-
-
 .card .poster {
 position: relative;
 overflow: hidden;
@@ -543,7 +539,11 @@ padding: 0.5rem 0;
 }
 
 .card .details p {
-  color: white;
+  color: rgb(0, 0, 0);
+  padding: 0.2px 2px;
+  background: rgb(148, 38, 250);
+  border-radius: 5px;
+  margin-top: 50px;
 }
 
 .card .genres {
@@ -567,4 +567,113 @@ margin-top: 5px;
 
 .hidden {
   display: none;
+}
+
+/*     ____Tags____     */
+
+
+.card .details .genres span {
+  padding: 0.2px 2px;
+  background: rgb(188,105,255);
+  background: linear-gradient(132deg, rgb(176, 93, 245) 9%, rgb(128, 10, 240) 55%, rgb(7, 0, 12) 100%);
+  border-radius: 5px;
+  margin-top: 2px;
+  display: block; /* Делаем span блочным элементом */
+  width: fit-content; /* Задаем ширину по содержимому */
+  margin-bottom: 2px; /* Добавляем отступ снизу */
+}
+
+.card .details .genres {
+  display: flex; /* Используем flexbox для управления span */
+  flex-wrap: wrap; /* Разрешаем перенос на новую строку */
+  gap: 2px; /* Добавляем небольшой отступ между span */
+}
+
+
+.card details.info h4 {
+color: white;
+font-size: 18px;
+margin-top: 5px;
+}
+
+
+
+/*  ___Button___   */
+
+.container .message {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Занимает всю высоту экрана */
+}
+
+.end-message {
+  background-color: #f0f0f000;
+  padding: 20px;
+  text-align: center;
+  margin-top: 470px; /* Отступ от нижней границы контента */
+}
+
+/* button effects */
+.btn {
+  margin: 100px;
+  padding: 15px 40px;
+  border: none;
+  outline: none;
+  color: #FFF;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 12px;
+}
+.btn::after {
+  content: "";
+  z-index: -1;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #333;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+/* glow */
+.btn::before {
+  content: "";
+  background: linear-gradient(
+    45deg,
+    #FF0000, #FF7300, #FFFB00, #48FF00,
+    #00FFD5, #002BFF, #FF00C8, #FF0000
+  );
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 600%;
+  z-index: -1;
+  width: calc(100% + 4px);
+  height:  calc(100% + 4px);
+  filter: blur(8px);
+  animation: glowing 20s linear infinite;
+  transition: opacity .3s ease-in-out;
+  border-radius: 10px;
+
+}
+
+@keyframes glowing {
+  0% {background-position: 0 0;}
+  50% {background-position: 400% 0;}
+  100% {background-position: 0 0;}
+}
+
+/* hover */
+.btn:hover::before {
+  opacity: 1;
+}
+
+.btn:active:after {
+  background: transparent;
+}
+
+.btn:active {
+  color: #000;
+  font-weight: bold;
 }
