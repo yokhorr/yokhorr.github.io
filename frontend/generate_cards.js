@@ -34,7 +34,7 @@ const promises = jsons.map((url) => {
 });
 let jsonData2;
 const filmsDictionary = {};
-
+console.log(1);
 Promise.all(promises).then((results) => {
     jsonData2 = results;
     // console.log(jsonData2);
@@ -43,6 +43,7 @@ Promise.all(promises).then((results) => {
     });
     // console.log(filmsDictionary);
     let cards = document.getElementById("cards");
+    cards.className = "grid";
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
         item.classList.add("item");
@@ -73,6 +74,7 @@ Promise.all(promises).then((results) => {
         card.className = "card";
         let poster = document.createElement("div");
         let re = document.createElement("img");
+        re.id = "poster";
         if (jsonData2[0][key].filmId !== undefined) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
         } 
@@ -80,99 +82,112 @@ Promise.all(promises).then((results) => {
             console.log("no image");
             re.src = `../backend/data/films_images/No_Image_Available.jpg`;
         }
-
-    poster.appendChild(re);
-    poster.classList.add("before-element");
-    poster.className = "poster";
-    card.appendChild(poster);
-    let details = document.createElement("div");
-    details.className = "details";
-    let idf = document.createElement("p");
-    idf.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
-    details.appendChild(idf);
-    let age = document.createElement("h3");
-    age.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].rating}+`;
-    details.appendChild(age);
-    let h3 = document.createElement("h3");
-    let genres = document.createElement("div");
-    genres.className = "genres";
-    details.appendChild(h3);
-    let theatre = document.createElement("span"); 
-    theatre.innerHTML = `${jsonData2[0][key].theatre}`;
-    genres.appendChild(theatre);
-    for(let i = 0; i < filmsDictionary[jsonData2[0][key].filmId].genres.length; i++) {
-      let genre = document.createElement("span");
-      genre.innerHTML = filmsDictionary[jsonData2[0][key].filmId].genres[i];
-      genres.appendChild(genre);
-    }
-    const startTime = `${jsonData2[0][key].time}`; 
-    let duration = 0; 
-    if(filmsDictionary[jsonData2[0][key].filmId].length === -1){
-      duration = 61;
-    }
-    else{
-      duration = filmsDictionary[jsonData2[0][key].filmId].length;
-    }
-    const [startHour, startMinute] = startTime.split(':').map(Number);
-    let endHour = Math.floor((startHour * 60 + startMinute + duration) / 60) % 24;
-    let endMinute = (startMinute + duration) % 60;
-    const endTime = `${String(endHour).padStart(2, '0')}:${String(endMinute).padStart(2, '0')}`;
-    let time= document.createElement("span");
-    time.innerHTML = `${jsonData2[0][key].time} - ${endTime}`;
-    genres.appendChild(time);
-    let date = document.createElement("span");
-    const [day, month] = `${jsonData2[0][key].date}`.split('.').map(Number);
-    // console.log(day, month);
-    let month2; 
-    if(month === 1) {
-      month2 = "января";
-    }
-    if(month === 2) {
-      month2 = "февраля";
-    } 
-    if(month === 3) {
-      month2 = "марта";
-    } 
-    if(month === 4) {
-      month2 = "апреля";
-    } 
-    if(month === 5) {
-      month2 = "мая";
-    } 
-    if(month === 6) {
-      month2 = "июня";
-    } 
-    if(month === 7) {
-      month2 = "июля";
-    } 
-    if(month === 8) {
-      month2 = "августа";
-    }
-    if(month === 9) {
-      month2 = "сентября";
-    }
-    if(month === 10) {
-      month2 = "октября";
-    }
-    if(month === 11) {
-      month2 = "ноября";
-    }
-    if(month === 12) {
-      month2 = "декабря";
-    }
-    date.innerHTML = `${day} ${month2}`; 
-    genres.appendChild(date);
-    let cost = document.createElement("span"); 
-    let p = document.createElement("a"); 
-    p.href = "#"; 
-    p.style = "text-decoration: none; color: black"; 
-    p.innerHTML = `${jsonData2[0][key].cost}₽`; 
-    cost.appendChild(p);
-    genres.appendChild(cost);
-    details.appendChild(genres);
-    card.appendChild(details);
-    item.appendChild(card);
-  });
+        re.alt = "";
+        poster.appendChild(re);
+        poster.classList.add("before-element");
+        poster.className = "poster";
+        card.appendChild(poster);
+        let detailsTop = document.createElement("div");
+        detailsTop.className = "detailsTop";
+        let genre = document.createElement("div");
+        genre.className = "genres";
+        let tre = document.createElement("span");
+        tre.innerHTML = jsonData2[0][key].theatre;
+        genre.appendChild(tre);
+        detailsTop.appendChild(genre);
+        card.appendChild(detailsTop);
+        let details = document.createElement("div");
+        details.className = "details";
+        let genress = document.createElement("div");
+        genress.className = "genres";
+        let date = document.createElement("span");
+        const [day, month] = `${jsonData2[0][key].date}`.split('.').map(Number);
+        let month2; 
+        if(month === 1) {
+          month2 = "января";
+        }
+        if(month === 2) {
+          month2 = "февраля";
+        } 
+        if(month === 3) {
+          month2 = "марта";
+        } 
+        if(month === 4) {
+          month2 = "апреля";
+        } 
+        if(month === 5) {
+          month2 = "мая";
+        } 
+        if(month === 6) {
+          month2 = "июня";
+        } 
+        if(month === 7) {
+          month2 = "июля";
+        } 
+        if(month === 8) {
+          month2 = "августа";
+        }
+        if(month === 9) {
+          month2 = "сентября";
+        }
+        if(month === 10) {
+          month2 = "октября";
+        }
+        if(month === 11) {
+          month2 = "ноября";
+        }
+        if(month === 12) {
+          month2 = "декабря";
+        }
+        date.innerHTML = `${day} ${month2}`; 
+        genress.appendChild(date);
+        let startTime = document.createElement("span");
+        startTime.className = "startTime";
+        startTime.innerHTML = `${jsonData2[0][key].time} `;
+        let endTime = document.createElement("div");
+        endTime.className = "endTime";
+        endTime.id = "endTime";
+        let duration = 0; 
+        if(filmsDictionary[jsonData2[0][key].filmId].length === -1){
+          duration = 61;
+        }
+        else{
+          duration = filmsDictionary[jsonData2[0][key].filmId].length;
+        }
+        const [startHour, startMinute] = `${jsonData2[0][key].time}`.split(':').map(Number);
+        let endHour = Math.floor((startHour * 60 + startMinute + duration) / 60) % 24;
+        let endMinute = (startMinute + duration) % 60;
+        const endTime2 = `${String(endHour).padStart(2, '0')}:${String(endMinute).padStart(2, '0')}`;
+        endTime.innerHTML = `–${endTime2}`;
+        startTime.appendChild(endTime);
+        genress.appendChild(startTime);
+        let price = document.createElement("span"); 
+        price.className = "price";
+        price.innerHTML = `${jsonData2[0][key].cost}₽`; 
+        genress.appendChild(price);
+        let detailshiddenDetailshidden = document.createElement("div");
+        detailshiddenDetailshidden.className = "details hiddenDetails";
+        let genres2 = document.createElement("div");
+        genres2.className = "genres";
+        for(let i = 0; i < filmsDictionary[jsonData2[0][key].filmId].genres.length; i++) {
+          let genrem = document.createElement("span");
+          genrem.innerHTML = filmsDictionary[jsonData2[0][key].filmId].genres[i];
+          genres2.appendChild(genrem);
+        }
+        console.log(genres2);
+        detailshiddenDetailshidden.appendChild(genres2);
+        details.appendChild(genress);
+        card.appendChild(details);
+        card.appendChild(detailshiddenDetailshidden);
+        item.appendChild(card);
+        let subcard = document.createElement("div");
+        subcard.className = "subcard";
+        let details2 = document.createElement("span");
+        details2.className = "details2";
+        details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
+        subcard.appendChild(details2);
+        item.appendChild(subcard);
+      });
   // report cards generation
   const cardsGenerated = new CustomEvent('cardsGenerated');
   document.dispatchEvent(cardsGenerated);
