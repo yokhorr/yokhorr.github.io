@@ -1,14 +1,25 @@
 import os
-import sys
 import requests
 import json
-import shutil
 import time
+import glob
 from datetime import datetime
 from bs4 import BeautifulSoup
-from clear_cache import clear_cache
 
-_, city = sys.argv
+# every city has it's own id which is passed with cookies
+# to get correct information for requested film
+CITY_IDS = {
+    'vladivostok': '4',
+    'artem': '201',
+    'arsenyev': '255',
+    'ussuriysk': '104',
+    'nakhodka': '63',
+    'spassk': '399',
+    'vrangel': '400',
+    'dalnegorsk': '124',
+    'partizansk': '401',
+    'chernigovka': '402'
+}
 
 t_date = datetime.now().strftime('%d_%m_%Y')
 seances: list[dict] = []
@@ -20,15 +31,30 @@ films_ids: set[int] = set()
 all_films_ids: list[int] = []
 
 
+# clear variables from previous parsing
+# I don't know why they are not cleared automatically tbh
+def clear_variables():
+    global seances, films, theatres_seancesIds, genre_namesIds, dates_days_of_week, films_ids, all_films_ids
+    seances = []
+    films = []
+    theatres_seancesIds = {}
+    genre_namesIds = {}
+    dates_days_of_week = {}
+    films_ids = set()
+    all_films_ids = []
+
+
 # get the HTML document
-def collect_data() -> None:
-    if not os.path.isfile(f'data_{city}_{t_date}.html'):
-        response = requests.get(url=f'https://kino.vl.ru/films/seances/?city={city}')
-        print(f'https://kino.vl.ru/films/seances/?city={city} fetched')
-        if response.status_code != 200:
-            raise KeyError(f'Response is {response.status_code}')
-        with open(f'data_{city}_{t_date}.html', 'w') as file:
-            file.write(response.text)
+def collect_data(city: str) -> str:
+    # note: removed save to file and check for it
+    # if not os.path.isfile(f'data_{city}_{t_date}.html'):
+    response = requests.get(url=f'https://kino.vl.ru/films/seances/?city={city}')
+    print(f'https://kino.vl.ru/films/seances/?city={city} fetched')
+    if response.status_code != 200:
+        raise KeyError(f'Response is {response.status_code}')
+    return response.text
+    # with open(f'data_{city}_{t_date}.html', 'w') as file:
+    #     file.write(response.text)
 
 
 # 1 апреля -> 01.04
@@ -73,16 +99,12 @@ def write_film(name: str, rating: int, genres: list[str], length: int,
     for elem in data:
         films[-1][elem[0]] = elem[1]
 
-    # download picture if it exists
-    if picture_href:
+    # download and save picture if it exists and was not saved before
+    if picture_href and not os.path.isfile(f'../../films_images/{film_id}.jpg'):
         img_data = requests.get(f'https://kino.vl.ru/kino/images/{picture_href}').content
         print(f'https://kino.vl.ru/kino/images/{picture_href} fetched')
-        with open(f'films_images/{film_id}.jpg', 'wb') as handler:
+        with open(f'../../films_images/{film_id}.jpg', 'wb') as handler:
             handler.write(img_data)
-    ## template for absent picture
-    # else:
-    #     shutil.copyfile('../../react-app/src/assets/defaultImage.jpg',
-    #                     f'films_images/{film_id}.jpg')
 
 
 def parse_film(elem: BeautifulSoup, film_id: int):
@@ -118,14 +140,17 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     # ref constitutes '/film/50183' (films has a uniq id)
     film_id = ref.split('/')[-2]  # separate id
 
-    # crutch
-    if film_id == 'poslednee_tango_v_parizhe':
-        film_id = '000'
+    # if film_id is str it should be replaced for its hash
+    if not film_id.isdigit():
+        film_id = abs(hash(film_id))
 
     films_ids.add(int(film_id))
-    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):  # first check if file exists not to parse it twice
+
+    # first check if file exists not to request it twice
+    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):
         new_film = True
-        response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
+        cookies = {'city': CITY_IDS[city]}  # without city cookie the response is unpredictable
+        response = requests.get(f'https://kino.vl.ru{ref}?city={city}', cookies=cookies)
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
         if response.status_code != 200:
             raise KeyError(f'Response is {response.status_code}')
@@ -157,10 +182,13 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
 # list of tuples (flm_name, theatre, cost) (possibly more than one theatre for the same film)
 def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[int, str, int]]:
     result = []
-    tmp = elem.find('a')['href'].split('/')[-2]  
-    if tmp == 'poslednee_tango_v_parizhe':  # crutch
-        tmp = '000'
-    name_id: int = int(tmp)
+    id_or_str = elem.find('a')['href'].split('/')[-2]
+
+    # if id_or_str is str it should be replaced for its hash
+    if not id_or_str.isdigit():
+        id_or_str = abs(hash(id_or_str))
+
+    name_id: int = id_or_str
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
         cost = parse_cost(elem.find_next()["href"], _theatre, date, time, city)
@@ -179,10 +207,12 @@ def write_seance(curr_date: str, curr_time: str, triples: list) -> None:
 
 
 # parse films from the HTML document
-def parse_data():
+def parse_data(city: str, html_seances: str) -> None:
+    # note: removed reading from file, because it's now not saved
     # `date` means the real today's date; `curr_date` and `curr_time` are intended for currently parsing elements
-    with open(f'data_{city}_{t_date}.html') as file:
-        soup = BeautifulSoup(file, 'html.parser')
+    # with open(f'data_{city}_{t_date}.html') as file:
+    #     soup = BeautifulSoup(file, 'html.parser')
+    soup = BeautifulSoup(html_seances, 'html.parser')
 
     curr_date = ""
 
@@ -209,7 +239,7 @@ def parse_data():
         i += 1
 
 
-def save_data() -> None:
+def save_data(city: str) -> None:
     # add ids to seances and theatres
     seance_id = 0
     for seance in seances:
@@ -238,36 +268,45 @@ def save_data() -> None:
         all_films_ids.append(film['filmId'])
 
     # create jsons
-    data = [(seances, 'seances'), (films, 'films'), (theatres_seancesIds_fine, 'theatres-seancesIds'),
-            (genre_names_dict, 'genre-namesIds'), (dates_days_of_week, 'dates-days-of-week'),
-            (all_films_ids, 'films-ids')]
+    data = [(seances, 'seances'), (films, 'films')]
+
+    # deprecated
+    # (theatres_seancesIds_fine, 'theatres-seancesIds'),
+    # (genre_names_dict, 'genre-namesIds'), (dates_days_of_week, 'dates-days-of-week'),
+    # (all_films_ids, 'films-ids')
+
     for elem in data:
-        json.dump(elem[0], open(f'jsons/{elem[1]}_{city}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
+        json.dump(elem[0], open(f'jsons/{elem[1]}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
 
 
-def main():
+def clear_cache(directory: str) -> None:
+    for file in glob.glob(f'{directory}/*'):
+        os.remove(file)
+
+
+def main(city: str) -> None:
     # measure working time
     start_time = time.time()
 
+    print(f'Parsing {city} started')
+
     # go to data directory
     running_file_directory = os.path.dirname(os.path.abspath(__file__))
-    os.chdir(f'{running_file_directory}/data')
+    os.chdir(f'{running_file_directory}/data/cities/{city}')
 
-    # if parsed files are not relevant, clear cache
-    if open('date_of_data.txt').read() != t_date:
-        clear_cache()
-        open('date_of_data.txt', 'w').write(t_date)
-
-    collect_data()
-    parse_data()
-    save_data()
+    clear_cache('jsons')
+    html_seances: str = collect_data(city)
+    parse_data(city, html_seances)
+    save_data(city)
+    clear_variables()
+    clear_cache('films')
     
-    print(f'\nParsing finished in {int(time.time() - start_time)} seconds')
+    print(f'\nParsing {city} finished in {int(time.time() - start_time)} seconds')
 
 
-def fetch_data():
-    main()
+def fetch_data(city: str) -> None:
+    main(city)
 
 
 if __name__ == '__main__':
-    main()
+    main('vladivostok')
