@@ -191,7 +191,7 @@ const ageMenu = ageDropdown.querySelector('.menu');
 let selectedAge = null; // Переменная для хранения выбранного возростного ограничения
 
 
-// Обработчик клика по выпадающему списку возрастов
+// Обработчик клика по выпадающему списку городов
 ageMenu.addEventListener('click', (event) => {
 
   // Проверяем, был ли клик по элементу списка
@@ -201,9 +201,12 @@ ageMenu.addEventListener('click', (event) => {
       selectedAge.classList.remove('active');
     }
     
-      selectedAge = event.target;
-      selectedAge.classList.add('active');
+    selectedAge = event.target;
+    selectedAge.classList.add('active');
       ageMenu.classList.toggle("menu-open");
+
+      // Обновляем текст выбранного города
+      ageDropdown.querySelector('.selected').textContent = selectedAge.textContent;
 
     // Скрываем выпадающий список
     ageMenu.classList.remove('active');
@@ -216,8 +219,6 @@ ageMenu.addEventListener('click', (event) => {
     });
   }
 });
-
-
 
 
 
