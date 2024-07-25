@@ -51,8 +51,11 @@ let selectedTheatre = null; // Переменная для хранения вы
 
 // Обработчик клика по выпадающему списку городов
 cityMenu.addEventListener('click', (event) => {
+  if (event.target.tagName !== 'LI') return; // was clicked menu, not an option
+
   const selectedCityName = event.target.textContent; // Получаем название выбранного города
   theatreSelect.innerHTML = ''; // Очищаем список кинотеатров
+
 
   // Проверяем, есть ли кинотеатры в выбранном городе
   if (cityToTheatres[selectedCityName]) {
@@ -118,7 +121,7 @@ theatreMenu.addEventListener('click', (event) => {
 const genreDropdown = document.getElementById('genreDropdown');
 const antiGenreDropdown = document.getElementById('antiGenreDropdown');
 const genreSelect = document.getElementById('genreSelect');
-const antiGenreSelect = document.getElementById('antiGenreSelect');
+var antiGenreSelect = document.getElementById('antiGenreSelect');
 const genreMenu = genreDropdown.querySelector('.menu');
 const antiGenreMenu = antiGenreDropdown.querySelector('.menu');
 
@@ -185,7 +188,7 @@ antiGenreMenu.addEventListener('click', (event) => {
 
 // Получаем элементы для выпадающего списка возраста
 const ageDropdown = document.getElementById('ageDropdown');
-const ageSelect = document.getElementById('ageSelect');
+var ageSelect = document.getElementById('ageSelect');
 const ageMenu = ageDropdown.querySelector('.menu');
 
 let selectedAge = null; // Переменная для хранения выбранного возростного ограничения
@@ -264,7 +267,7 @@ let lastHoveredItem = null; // Храним ссылку на последний
 
 // Создаем массив дат
 const dates = [];
-for (let i = 0; i < 18; i++) {
+for (let i = 0; i < 21; i++) {
   const date = new Date(today);
   date.setDate(today.getDate() + i);
   dates.push(date);
