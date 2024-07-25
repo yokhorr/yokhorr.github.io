@@ -12,42 +12,39 @@ for (let i = 0; i < translationPairs.length; i++) {
 
 const jsons = [
     "seances",
-    "dates-days-of-week",
-    "films",
-    "films-ids",
-    "genre-namesIds",
-    "theatres-seancesIds",
+    "films"
 ];
 
-const dir = "../backend/data/jsons/";
-const city = "vladivostok";
+const dir = "../backend/data/cities/";
+const city = ["ussuriysk", "artem", "vladivostok","arsenyev","chernigovka","dalnegorsk","nakhodka","partizansk","spassk","vrangel"];
 
 // console.log(jsons.length);
-
-const promises = jsons.map((url) => {
-    return fetch(`${dir}${url}_${city}.json`).then((response) => {
-        if (!response.ok) {
-            throw new Error("Network response was not ok");
-        }
-        return response.json();
+for(let y = 0; y < city.length; y++) {
+  const promises = jsons.map((url) => {
+    return fetch(
+      `${dir}${city[y]}/jsons/${url}.json`).then((response) => {
+      if (!response.ok) {
+          throw new Error("Network response was not ok");
+      }
+      return response.json();
     });
-});
-let jsonData2;
-const filmsDictionary = {};
-console.log(1);
-Promise.all(promises).then((results) => {
+  });
+  let jsonData2;
+  const filmsDictionary = {};
+  console.log(1);
+  Promise.all(promises).then((results) => {
     jsonData2 = results;
-    // console.log(jsonData2);
-    Object.keys(jsonData2[2]).forEach((key) => {
-        filmsDictionary[jsonData2[2][key].filmId] = jsonData2[2][key];
+    console.log(jsonData2);
+    Object.keys(jsonData2[1]).forEach((key) => {
+        filmsDictionary[jsonData2[1][key].filmId] = jsonData2[1][key];
     });
-    // console.log(filmsDictionary);
+    //console.log(filmsDictionary);
     let cards = document.getElementById("cards");
     cards.className = "grid";
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
         item.classList.add("item");
-        item.setAttribute("data-city", citiesTranslation.get(city));
+        item.setAttribute("data-city", city[y]);
         item.setAttribute("data-theatre", jsonData2[0][key].theatre);
         item.setAttribute(
             "data-genres",
@@ -188,8 +185,9 @@ Promise.all(promises).then((results) => {
         subcard.appendChild(details2);
         item.appendChild(subcard);
       });
-  // report cards generation
-  const cardsGenerated = new CustomEvent('cardsGenerated');
-  document.dispatchEvent(cardsGenerated);
-});
+    // report cards generation
+    const cardsGenerated = new CustomEvent('cardsGenerated');
+    document.dispatchEvent(cardsGenerated);
+  });
+}
 // console.log(promises);
