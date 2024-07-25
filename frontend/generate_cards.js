@@ -65,7 +65,7 @@ Promise.all(promises).then((results) => {
         const [Hour, Minute] = `${jsonData2[0][key].time}`.split(':').map(Number);
         const NowTime = new Date();
         const currentTime = new Date(NowTime.getFullYear(), monthes - 1, days, Hour, Minute, 0, 0);
-        console.log(currentTime);
+        // console.log(currentTime);
         if(NowTime < currentTime) {
             cards.appendChild(item);
         }
@@ -178,4 +178,3 @@ Promise.all(promises).then((results) => {
   document.dispatchEvent(cardsGenerated);
 });
 // console.log(promises);
-

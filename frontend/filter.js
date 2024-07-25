@@ -1,9 +1,23 @@
 let filterBox;
+let card;
 
 // when cards are generated
 document.addEventListener("cardsGenerated", () => {
     filterBox = document.querySelectorAll(".item");
     console.log('cards generated');
+
+    // Add the intersection method to the Set prototype
+    Set.prototype.intersection = function(setB) {
+        var intersection = new Set();
+        for (var elem of this) {
+            if (setB.has(elem)) {
+                intersection.add(elem);
+            }
+        }
+        return intersection;
+    };
+    console.log('intersection enabled');
+    console.log('lorem ipsum');
 });
 
 const criteriaArrays = {
@@ -32,6 +46,7 @@ function validate(card) {
     const cardParametersKeys = Object.keys(cardParameters);
 
     for (let i = 0; i < criteriaArraysKeys.length; i++) {
+        // console.log('wow');
         if (criteriaArrays[criteriaArraysKeys[i]].size === 0) continue;
         if (!criteriaArrays[criteriaArraysKeys[i]].intersection(cardParameters[cardParametersKeys[i]]).size) {
             card.classList.add("hidden");

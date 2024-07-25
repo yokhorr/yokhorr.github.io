@@ -87,6 +87,36 @@
           <li>фэнтези</li>
         </ul>
       </div>
+
+      <div class="dropdown" id="antiGenreDropdown">
+        <div class="select">
+          <span class="selected">Антижанр</span>
+          <div class="caret"></div>
+        </div>
+        <ul class="menu" id="antiGenreSelect">
+          <li>анимация</li>
+          <li>аниме</li>
+          <li>балет</li>
+          <li>биография</li>
+          <li>боевик</li>
+          <li>детектив</li>
+          <li>драма</li>
+          <li>документальный</li>
+          <li>фильм-выставка</li>
+          <li>фильм-спектакль</li>
+          <li>лекция</li>
+          <li>мелодрама</li>
+          <li>мультфильм</li>
+          <li>опера</li>
+          <li>приключения</li>
+          <li>семейный</li>
+          <li>триллер</li>
+          <li>ужасы</li>
+          <li>фантастика</li>
+          <li>фэнтези</li>
+        </ul>
+      </div>
+
       <div class="dropdown" id="theatreDropdown">
         <div class="select">
           <span class="selected">Кинотеатр</span>
@@ -104,7 +134,24 @@
           <li>Шахтер</li>
         </ul>
       </div>
+
+      <div class="dropdown" id="ageDropdown">
+        <div class="select">
+          <span class="selected">Возраст</span>
+          <div class="caret"></div>
+        </div>
+        <ul class="menu" id="ageSelect  ">
+          <li>0+</li>
+          <li>6+</li>
+          <li>12+</li>
+          <li>16+</li>
+          <li>18+</li>
+        </ul>
+      </div>
     </div>
+  </div>
+    </div>
+    
 
     <!----date selector-->
 
@@ -121,8 +168,8 @@
     <div class="grid" id="cards">
       <div
         class="item"
-        data-city="vladivostok"
-        data-theatre="galaxy"
+        data-city="Артём"
+        data-theatre="Океан"
         data-genres="sci-fi action comedy"
         data-time="10:00"
         data-date="19.07"
@@ -130,25 +177,45 @@
         data-rating="18"
         data-cost="600"
         data-seancesId="656"
+        id="debug"
       >
         <div class="card">
           <div class="poster">
-            <img src="1.png" alt="" />
+            <img id="poster" src="1.png" alt="" />
           </div>
-          <div class="details">
-            <p>Театр Ан дер Вин: Саул</p>
+          <div class="detailsTop">
             <div class="genres">
-              <span>Иллюзион</span>
-              <span>Ужасы</span>
-              <span>14:30-15:45</span>
-              <span>03.10.2024</span>
-              <span>18+</span>
-              <span>
-                <a href="#" style="text-decoration: none; color: black"
-                  >500p</a>
-              </span>
+              <span>Киномакс-Сапфир</span>
             </div>
           </div>
+          <div class="details">
+            <div class="genres">
+              <span>25 сентября</span>
+              <span class="startTime">
+                14:30
+                <div class="endTime" id="endTime">–15:55</div>
+              </span>
+              <span class="price">1000₽</span>
+              <!-- <span>
+                <a href="#" style="text-decoration: none; color: black"
+                  >500p</a>
+              </span> -->
+            </div>    
+          </div>
+
+          <div class="details hiddenDetails hidden">
+            <div class="genres">
+              <span>мультфильм</span>
+              <span>фэнтези</span>
+              <span>комедия</span>
+              <span>приключения</span>
+              <span>семейный</span>
+            </div>    
+          </div>
+        </div>
+
+        <div class="subcard">
+          <span class="details2">Фуриоса: Хроники Безумного Макса</span>
         </div>
       </div>
     </div>
@@ -160,7 +227,8 @@
 
     
     <script src="animations.js"></script>
-    <script src="generate_cards.js"></script>
-    <script src="filter.js"></script>
+    <!-- <script src="generate_cards.js"></script> -->
+    <!-- <script src="filter.js"></script> -->
+    <script src="random_cards.js"></script>
   </body>
 </html>
