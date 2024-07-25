@@ -43,7 +43,12 @@ for(let y = 0; y < city.length; y++) {
     cards.className = "grid";
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
-        item.classList.add("item");
+        if(y ===2){
+          item.classList.add("item");
+        }
+        else{
+          item.classList.add("item hidden");
+        }
         item.setAttribute("data-city", city[y]);
         item.setAttribute("data-theatre", jsonData2[0][key].theatre);
         item.setAttribute(
