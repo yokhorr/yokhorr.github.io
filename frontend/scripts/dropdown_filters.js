@@ -51,8 +51,11 @@ let selectedTheatre = null; // Переменная для хранения вы
 
 // Обработчик клика по выпадающему списку городов
 cityMenu.addEventListener('click', (event) => {
+  if (event.target.tagName !== 'LI') return; // was clicked menu, not an option
+
   const selectedCityName = event.target.textContent; // Получаем название выбранного города
   theatreSelect.innerHTML = ''; // Очищаем список кинотеатров
+
 
   // Проверяем, есть ли кинотеатры в выбранном городе
   if (cityToTheatres[selectedCityName]) {
@@ -118,7 +121,7 @@ theatreMenu.addEventListener('click', (event) => {
 const genreDropdown = document.getElementById('genreDropdown');
 const antiGenreDropdown = document.getElementById('antiGenreDropdown');
 const genreSelect = document.getElementById('genreSelect');
-const antiGenreSelect = document.getElementById('antiGenreSelect');
+var antiGenreSelect = document.getElementById('antiGenreSelect');
 const genreMenu = genreDropdown.querySelector('.menu');
 const antiGenreMenu = antiGenreDropdown.querySelector('.menu');
 
@@ -185,7 +188,7 @@ antiGenreMenu.addEventListener('click', (event) => {
 
 // Получаем элементы для выпадающего списка возраста
 const ageDropdown = document.getElementById('ageDropdown');
-const ageSelect = document.getElementById('ageSelect');
+var ageSelect = document.getElementById('ageSelect');
 const ageMenu = ageDropdown.querySelector('.menu');
 
 let selectedAge = null; // Переменная для хранения выбранного возростного ограничения
@@ -219,169 +222,3 @@ ageMenu.addEventListener('click', (event) => {
     });
   }
 });
-
-
-
-//Логотип_____________________________________________________
-// Получаем первый заголовок h1 на странице
-const target = window.document.getElementsByTagName('h1')[0]
-
-// Функция для добавления анимации мерцания к букве
-const flickerLetter = letter => `<span style="animation: text-flicker-in-glow ${Math.random()*4}s linear both ">${letter}</span>`
-
-// Функция для добавления случайного цвета к букве
-const colorLetter = letter => `<span style="color: hsla(${Math.random()*360}, 100%, 80%, 1);">${letter}</span>`;
-
-// Функция для создания мерцающего и разноцветного текста
-const flickerAndColorText = text => 
-  text
-    // Разбиваем текст на отдельные буквы
-    .split('')
-    // Добавляем анимацию мерцания к каждой букве
-    .map(flickerLetter)
-    // Добавляем случайный цвет к каждой букве
-    .map(colorLetter)
-    // Объединяем буквы обратно в строку
-    .join('');
-
-// Функция для применения мерцающего и разноцветного текста к элементу
-const neonGlory = target => target.innerHTML = flickerAndColorText(target.textContent);
-
-
-// Применяем мерцающий и разноцветный текст к заголовку при загрузке страницы
-neonGlory(target);
-
-// Добавляем обработчик клика, чтобы при каждом клике по заголовку текст снова становился мерцающим и разноцветным
-target.onclick = ({ target }) =>  neonGlory(target);
-
-
-//Календарь___________________________________________________
-const datePicker = document.getElementById('dateSelect');
-const today = new Date();
-const daysOfWeek = ['Вс', 'Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб'];
-const months = ['Янв', 'Фев', 'Март', 'Апр', 'Май', 'Июнь', 'Июль', 'Авг', 'Сент', 'Окт', 'Нояб', 'Дек'];
-let lastHoveredItem = null; // Храним ссылку на последний элемент, над которым наведен курсор
-
-// Создаем массив дат
-const dates = [];
-for (let i = 0; i < 18; i++) {
-  const date = new Date(today);
-  date.setDate(today.getDate() + i);
-  dates.push(date);
-}
-
-// Отрисовка календаря
-let currentMonth = dates[0].getMonth(); // Храним текущий месяц
-
-dates.forEach((date, index) => {
-  const dateItem = document.createElement('li');
-  dateItem.classList.add('date-item');
-
-  // Добавляем текст даты
-  dateItem.textContent = date.getDate();
-
-  // Добавляем день недели
-  const dayOfWeek = daysOfWeek[date.getDay()];
-  const dayOfWeekElement = document.createElement('span');
-  dayOfWeekElement.classList.add('day-of-week');
-  dayOfWeekElement.textContent = dayOfWeek;
-  dateItem.appendChild(dayOfWeekElement);
-
-  // Добавляем месяц только если это начало месяца или дата "1"
-  if (index === 0 || date.getDate() === 1 && date.getMonth() !== currentMonth) {
-    currentMonth = date.getMonth();
-    const monthElement = document.createElement('span');
-    monthElement.textContent = months[currentMonth];
-    dateItem.appendChild(monthElement);
-  }
-
-  dateItem.setAttribute("data-month", currentMonth + 1);
-
-  // Обработчик события для наведения курсора
-  dateItem.addEventListener('mouseover', () => {
-    // Если уже есть подсветка, удаляем ее
-    if (lastHoveredItem) {
-      lastHoveredItem.classList.remove('hovered');
-    }
-
-    // Подсвечиваем текущий элемент
-    dateItem.classList.add('hovered');
-
-    // Запоминаем текущий элемент
-    lastHoveredItem = dateItem;
-  });
-
-  // Обработчик события для клика
-  dateItem.addEventListener('click', () => {
-    // Проверяем, есть ли у элемента класс "selected"
-    if (dateItem.classList.contains('selected')) {
-      // Удаляем класс "selected"
-      dateItem.classList.remove('selected');
-    } else {
-      // Добавляем класс "selected"
-      dateItem.classList.add('selected');
-    }
-  });
-
-  datePicker.appendChild(dateItem);
-});
-
-
-//Кнопка_____________________________________________
-function scrollToTop() {
-  window.scrollTo({
-    top: 0,
-    behavior: 'smooth' // Добавьте плавную прокрутку
-  });
-}
-
-const endButton = document.querySelector('.btn');
-endButton.addEventListener('click', scrollToTop);
-
-//Баннер_____________________________________________
-
-// Скрываем баннер по умолчанию
-document.getElementById("empty-result").classList.add("hidden");
-
-// Функция для показа баннера
-function showEmptyResult() {
-  document.getElementById("empty-result").classList.remove("hidden");
-}
-
-// Функция для скрытия баннера
-function hideEmptyResult() {
-  document.getElementById("empty-result").classList.add("hidden");
-}
-
-var otTitle = document.getElementById("textBox"),
-		sSpan = document.getElementsByClassName('text').length,
-		letters = document.getElementsByClassName('text'),
-		whichLetter = 0,
-		trailAmount = 7;
-
-
-//Used to get random colors
-function getRandomColor() {
-	var letters = '0123456789ABCDEF';
-	var color = '#';
-	for (var i = 0; i < 6; i++) {
-		color += letters[Math.floor(Math.random() * 16)];
-	}
-	return color;
-}
-
-//Animate color change 
-setInterval(function() {
-	var rColor = getRandomColor();
-	var tColor = getRandomColor();
-	if (whichLetter < sSpan + trailAmount) {
-		if (whichLetter > (trailAmount - 1)) {
-			letters[(whichLetter - trailAmount)].style.color = 'whitesmoke';
-		}
-		if (whichLetter < sSpan) {
-			letters[whichLetter].style.color = rColor;
-			letters[whichLetter].style.textShadow = '0px 0px 10px ' + tColor;
-		}
-		whichLetter++;
-	} else if (whichLetter > sSpan + (trailAmount - 1)) whichLetter = 0;
-}, 75)
