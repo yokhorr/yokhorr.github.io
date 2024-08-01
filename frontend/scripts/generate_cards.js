@@ -171,7 +171,9 @@ for(let y = 0; y < cities.length; y++) {
         let price = document.createElement("span"); 
         price.className = "price";
         price.innerHTML = `${jsonData2[0][key].cost}₽`; 
-        genress.appendChild(price);
+        if (jsonData2[0][key].cost !== -1) { // price is not set
+          genress.appendChild(price);
+        }
         let detailshiddenDetailshidden = document.createElement("div");
         detailshiddenDetailshidden.className = "details hiddenDetails hidden";
         let genres2 = document.createElement("div");
