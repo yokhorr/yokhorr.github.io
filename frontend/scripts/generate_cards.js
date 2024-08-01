@@ -158,7 +158,6 @@ for(let y = 0; y < cities.length; y++) {
         duration = filmsDictionary[jsonData2[0][key].filmId].length;
         const hours = Math.floor(duration / 60);
         const minutes = duration % 60;
-        console.log(filmsDictionary[jsonData2[0][key].filmId].name + " " + duration);
         length.innerHTML = `· ${hours}:${minutes < 10 ? '0' + minutes : minutes}`;
 
         const [startHour, startMinute] = `${jsonData2[0][key].time}`.split(':').map(Number);

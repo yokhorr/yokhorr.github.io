@@ -1,3 +1,5 @@
+const banner = document.getElementById('banner');
+
 let filterBox;
 let card;
 
@@ -18,8 +20,15 @@ async function validateAll() {
         validate(card);
     }));
 
-    // print number of visible cards
-    console.log(document.querySelectorAll(".item").length - document.querySelectorAll(".item.hidden").length);
+    // number of visible cards
+    cardsShown = document.querySelectorAll(".item").length - document.querySelectorAll(".item.hidden").length;
+    console.log(cardsShown);
+    if (cardsShown === 0) { // if no cards are visible
+        banner.classList.remove("hidden"); // show banner
+    } else {
+        banner.classList.add("hidden"); // hide banner
+    }
+    
 }
 
 // when cards are generated
