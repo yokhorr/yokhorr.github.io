@@ -1,4 +1,5 @@
 const banner = document.getElementById('banner');
+localStorage.setItem('selectedCity', 'Владивосток')
 
 let filterBox;
 let card;
@@ -107,6 +108,7 @@ menus.forEach((menu) => {
         if (criteriaSetName === "citySelectSet") {
             criteriaArrays[criteriaSetName].clear();
             criteriaArrays[criteriaSetName].add(option);
+            localStorage.setItem("selectedCity", option); // save selected city in local storage
             // when a city is selected (even if it is the same city) higlight on theatres menu is lost
             // so we need to clear it
             criteriaArrays['theatreSelectSet'].clear();
