@@ -43,11 +43,9 @@ for(let y = 0; y < city.length; y++) {
     cards.className = "grid";
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
-        if(y ===2){
-          item.classList.add("item");
-        }
-        else{
-          item.classList.add("item hidden");
+        item.classList.add("item");
+        if(city[y] !== "vladivostok"){
+          item.classList.add("hidden");
         }
         item.setAttribute("data-city", city[y]);
         item.setAttribute("data-theatre", jsonData2[0][key].theatre);
@@ -176,7 +174,7 @@ for(let y = 0; y < city.length; y++) {
           genrem.innerHTML = filmsDictionary[jsonData2[0][key].filmId].genres[i];
           genres2.appendChild(genrem);
         }
-        console.log(genres2);
+        // console.log(genres2);
         detailshiddenDetailshidden.appendChild(genres2);
         details.appendChild(genress);
         card.appendChild(details);
