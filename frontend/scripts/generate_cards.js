@@ -89,7 +89,7 @@ for(let y = 0; y < cities.length; y++) {
             console.log("no image");
             re.src = `../backend/data/films_images/No_Image_Available.jpg`;
         }
-        re.alt = "";
+        // re.alt = "";
         poster.appendChild(re);
         poster.classList.add("before-element");
         poster.className = "poster";
@@ -148,25 +148,30 @@ for(let y = 0; y < cities.length; y++) {
         }
         date.innerHTML = `${day} ${month2}`; 
         genress.appendChild(date);
+
         let startTime = document.createElement("span");
         startTime.className = "startTime";
         startTime.innerHTML = `${jsonData2[0][key].time} `;
-        let endTime = document.createElement("div");
-        endTime.className = "endTime";
-        endTime.id = "endTime";
-        let duration = 0; 
-        if(filmsDictionary[jsonData2[0][key].filmId].length === -1){
-          duration = 61;
-        }
-        else{
-          duration = filmsDictionary[jsonData2[0][key].filmId].length;
-        }
+        let length = document.createElement("div");
+        length.className = "length";
+        length.id = "length";
+        duration = filmsDictionary[jsonData2[0][key].filmId].length;
+        const hours = Math.floor(duration / 60);
+        const minutes = duration % 60;
+        console.log(filmsDictionary[jsonData2[0][key].filmId].name + " " + duration);
+        length.innerHTML = `· ${hours}:${minutes < 10 ? '0' + minutes : minutes}`;
+
         const [startHour, startMinute] = `${jsonData2[0][key].time}`.split(':').map(Number);
         let endHour = Math.floor((startHour * 60 + startMinute + duration) / 60) % 24;
         let endMinute = (startMinute + duration) % 60;
         const endTime2 = `${String(endHour).padStart(2, '0')}:${String(endMinute).padStart(2, '0')}`;
-        endTime.innerHTML = `–${endTime2}`;
-        startTime.appendChild(endTime);
+        if (duration !== -1) {
+          startTime.appendChild(length);
+          item.setAttribute("data-endTime", endTime2);
+        } else {
+          item.setAttribute("data-endTime", jsonData2[0][key].time);
+        }
+
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
         price.className = "price";

@@ -148,7 +148,7 @@ transition: 0.5s;
   bottom: 70px;
 }
 
-.card:hover #endTime {
+.card:hover #length {
   max-width: 7rem;
 }
 
@@ -288,7 +288,7 @@ margin-top: 5px;
   margin-right: 0;
 }
 
-div #endTime {
+div #length {
   max-width: 0;
   -webkit-transition: max-width 0.3s;
   transition: max-width 0.3s;
@@ -296,7 +296,7 @@ div #endTime {
   vertical-align: top;
   white-space: nowrap;
   overflow: hidden;
-  margin-left: -3px;
+  /* margin-left: -3px; */
 }
 
 

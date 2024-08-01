@@ -115,7 +115,14 @@ def parse_film(elem: BeautifulSoup, film_id: int):
     main_info: BeautifulSoup = elem.find(class_='film__info-main')
     for info in main_info.find_all(class_='film__info-text'):
         if 'Продолжительность' in info.get_text().strip():
-            duration = int(info.get_text().strip().split('\n')[-1].strip().split(' ')[0])
+            if 'ч' not in info.get_text().strip():  # `mm` format
+                duration = int(info.get_text().strip().split('\n')[-1].strip().split(' ')[0])
+            else:  # `h:mm` format
+                text = info.get_text().strip().split('\n')[-1].strip()
+                parts = text.split(' ')
+                hours = int(parts[0])
+                minutes = int(parts[-2])
+                duration = hours * 60 + minutes
             break
     description: str = elem.find(class_='film__description').get_text().strip()
     picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')

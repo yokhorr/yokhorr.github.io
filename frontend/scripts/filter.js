@@ -19,7 +19,7 @@ async function validateAll() {
     }));
 
     // print number of visible cards
-    console.log(document.querySelectorAll(".item").length - document.querySelectorAll(".hidden").length);
+    console.log(document.querySelectorAll(".item").length - document.querySelectorAll(".item.hidden").length);
 }
 
 // when cards are generated
