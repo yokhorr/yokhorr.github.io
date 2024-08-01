@@ -1,5 +1,4 @@
 const banner = document.getElementById('banner');
-localStorage.setItem('selectedCity', 'Владивосток')
 
 let filterBox;
 let card;
