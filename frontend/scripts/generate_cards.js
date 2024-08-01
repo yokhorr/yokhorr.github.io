@@ -3,7 +3,14 @@ const citiesTranslation = new Map();
 const translationPairs = [
     ["vladivostok", "Владивосток"],
     ["artem", "Артём"],
-    ["ussuriysk", "Уссурийск"]
+    ["ussuriysk", "Уссурийск"],
+    ["arsenyev", "Арсеньев"],
+    ["chernigovka", "Черниговка"],
+    ["dalnegorsk", "Дальнегорск"],
+    ["nakhodka", "Находка"],
+    ["partizansk", "Партизанск"],
+    ["spassk", "Спасск"],
+    ["vrangel", "Врангель"]
 ]
 
 for (let i = 0; i < translationPairs.length; i++) {
@@ -16,13 +23,13 @@ const jsons = [
 ];
 
 const dir = "../backend/data/cities/";
-const city = ["ussuriysk", "artem", "vladivostok","arsenyev","chernigovka","dalnegorsk","nakhodka","partizansk","spassk","vrangel"];
+const cities = ["ussuriysk", "artem", "vladivostok", "arsenyev", "chernigovka", "dalnegorsk", "nakhodka", "partizansk", "spassk", "vrangel"];
 
 // console.log(jsons.length);
-for(let y = 0; y < city.length; y++) {
+for(let y = 0; y < cities.length; y++) {
   const promises = jsons.map((url) => {
     return fetch(
-      `${dir}${city[y]}/jsons/${url}.json`).then((response) => {
+      `${dir}${cities[y]}/jsons/${url}.json`).then((response) => {
       if (!response.ok) {
           throw new Error("Network response was not ok");
       }
@@ -34,7 +41,7 @@ for(let y = 0; y < city.length; y++) {
   console.log(1);
   Promise.all(promises).then((results) => {
     jsonData2 = results;
-    console.log(jsonData2);
+    // console.log(jsonData2);
     Object.keys(jsonData2[1]).forEach((key) => {
         filmsDictionary[jsonData2[1][key].filmId] = jsonData2[1][key];
     });
@@ -44,10 +51,10 @@ for(let y = 0; y < city.length; y++) {
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
         item.classList.add("item");
-        if(city[y] !== "vladivostok"){
+        if(cities[y] !== "vladivostok"){
           item.classList.add("hidden");
         }
-        item.setAttribute("data-city", city[y]);
+        item.setAttribute("data-city", citiesTranslation.get(cities[y]));
         item.setAttribute("data-theatre", jsonData2[0][key].theatre);
         item.setAttribute(
             "data-genres",
@@ -166,7 +173,7 @@ for(let y = 0; y < city.length; y++) {
         price.innerHTML = `${jsonData2[0][key].cost}₽`; 
         genress.appendChild(price);
         let detailshiddenDetailshidden = document.createElement("div");
-        detailshiddenDetailshidden.className = "details hiddenDetails";
+        detailshiddenDetailshidden.className = "details hiddenDetails hidden";
         let genres2 = document.createElement("div");
         genres2.className = "genres";
         for(let i = 0; i < filmsDictionary[jsonData2[0][key].filmId].genres.length; i++) {
@@ -188,9 +195,11 @@ for(let y = 0; y < city.length; y++) {
         subcard.appendChild(details2);
         item.appendChild(subcard);
       });
-    // report cards generation
-    const cardsGenerated = new CustomEvent('cardsGenerated');
-    document.dispatchEvent(cardsGenerated);
+      // report cards generation if it was the last cities
+      if (y === cities.length - 1) {
+        const cardsGenerated = new CustomEvent('cardsGenerated');
+        document.dispatchEvent(cardsGenerated);
+      }
   });
 }
-// console.log(promises);
+

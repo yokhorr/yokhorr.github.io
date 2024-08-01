@@ -121,7 +121,7 @@ theatreMenu.addEventListener('click', (event) => {
 const genreDropdown = document.getElementById('genreDropdown');
 const antiGenreDropdown = document.getElementById('antiGenreDropdown');
 const genreSelect = document.getElementById('genreSelect');
-var antiGenreSelect = document.getElementById('antiGenreSelect');
+const antiGenreSelect = document.getElementById('antiGenreSelect');
 const genreMenu = genreDropdown.querySelector('.menu');
 const antiGenreMenu = antiGenreDropdown.querySelector('.menu');
 
@@ -188,7 +188,7 @@ antiGenreMenu.addEventListener('click', (event) => {
 
 // Получаем элементы для выпадающего списка возраста
 const ageDropdown = document.getElementById('ageDropdown');
-var ageSelect = document.getElementById('ageSelect');
+const ageSelect = document.getElementById('ageSelect');
 const ageMenu = ageDropdown.querySelector('.menu');
 
 let selectedAge = null; // Переменная для хранения выбранного возростного ограничения

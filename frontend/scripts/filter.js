@@ -1,43 +1,55 @@
 let filterBox;
 let card;
 
-function validateAll() {
-    console.log(ageSelect);
+// Add the intersection method to the Set prototype
+Set.prototype.intersection = function(setB) {
+    const intersection = new Set();
+    for (const elem of this) {
+        if (setB.has(elem)) {
+            intersection.add(elem);
+        }
+    }
+    return intersection;
+};
 
-    filterBox.forEach((card) => {
+async function validateAll() {
+
+    await Promise.all(Array.from(filterBox).map(async (card) => {
         validate(card);
-    });
+    }));
 
+    // print number of visible cards
     console.log(document.querySelectorAll(".item").length - document.querySelectorAll(".hidden").length);
 }
 
 // when cards are generated
 document.addEventListener("cardsGenerated", () => {
+    // receive cards from the grid
     filterBox = document.querySelectorAll(".item");
-    console.log('cards generated');
 
-    // Add the intersection method to the Set prototype
-    Set.prototype.intersection = function(setB) {
-        var intersection = new Set();
-        for (var elem of this) {
-            if (setB.has(elem)) {
-                intersection.add(elem);
-            }
-        }
-        return intersection;
-    };
+    // this sctipt removes class .hidden from genres when a cards is hovered
+    // .hidden at genres is needed to prevent animation when site is first loaded
+    const cards = document.querySelectorAll('.card');
+    cards.forEach((card) => {
+        card.addEventListener('mouseenter', function() {
+            card.lastElementChild.classList.remove('hidden');
+        });
+    });
+
+    console.log('cards generated');
+    
 });
 
 const criteriaArrays = {
-    citySelect: new Set(["Владивосток"]),
-    genreSelect: new Set(),
-    theatreSelect: new Set(),
-    dateSelect: new Set(),
+    citySelectSet: new Set(["Владивосток"]),
+    genreSelectSet: new Set(),
+    theatreSelectSet: new Set(),
+    dateSelectSet: new Set(),
 }
 const criteriaArraysKeys = Object.keys(criteriaArrays);
 
-var antiGenreSelect = new Set();
-var ageSelect = 100;
+const antiGenreSelectSet = new Set();
+let ageSelectParam = 100;
 
 const menus = [
     document.getElementById("theatreSelect"),
@@ -55,15 +67,18 @@ function validate(card) {
     };
     const cardParametersKeys = Object.keys(cardParameters);
 
+    // console.log(cardParameters);
+    // console.log(criteriaArrays);
+    // console.log(antiGenreSelectSet);
+
     for (let i = 0; i < criteriaArraysKeys.length; i++) {
-        // console.log('wow');
         if (criteriaArrays[criteriaArraysKeys[i]].size === 0) continue;
         if (!criteriaArrays[criteriaArraysKeys[i]].intersection(cardParameters[cardParametersKeys[i]]).size) {
                 card.classList.add("hidden");
                 return;
         }
         
-        if (antiGenreSelect.intersection(cardParameters['genresCard']).size || parseInt(card.dataset["rating"]) >= ageSelect) {
+        if (antiGenreSelectSet.intersection(cardParameters['genresCard']).size || parseInt(card.dataset["rating"]) >= ageSelectParam) {
             card.classList.add("hidden");
             return;
         }
@@ -76,23 +91,21 @@ menus.forEach((menu) => {
     menu.addEventListener("click", (event) => {
         if (event.target.tagName !== "LI") return false;
 
-        const criteria = event.target.parentElement.id;
+        const criteriaSetName = event.target.parentElement.id + "Set";
         const option = event.target.textContent;
         const active = event.target.classList.contains("active");
 
-        if (criteria === "citySelect") {
-            criteriaArrays[criteria].clear();
-            if (active) {
-                criteriaArrays[criteria].add(option);
-            }
+        if (criteriaSetName === "citySelectSet") {
+            criteriaArrays[criteriaSetName].clear();
+            criteriaArrays[criteriaSetName].add(option);
             // when a city is selected (even if it is the same city) higlight on theatres menu is lost
-            // so 
-            criteriaArrays['theatreSelect'].clear();
+            // so we need to clear it
+            criteriaArrays['theatreSelectSet'].clear();
         } else {
             if (active) {
-                criteriaArrays[criteria].add(option);
+                criteriaArrays[criteriaSetName].delete(option);
             } else {
-                criteriaArrays[criteria].delete(option);
+                criteriaArrays[criteriaSetName].add(option);
             }
         }
 
@@ -105,9 +118,9 @@ document.getElementById('antiGenreSelect').addEventListener("click", (event) => 
     const genre = event.target.textContent;
     const active = event.target.classList.contains("active");
     if (active) {
-        antiGenreSelect.add(genre);
+        antiGenreSelectSet.delete(genre);
     } else {
-        antiGenreSelect.delete(genre);
+        antiGenreSelectSet.add(genre);
     }
     
     validateAll();
@@ -120,7 +133,7 @@ document.getElementById('ageSelect').addEventListener("click", (event) => {
     if (ageText[ageText.length - 1] === "+") { // if older than 18
         age = 100; // 100 is more than any restriction
     }
-    ageSelect = age;
+    ageSelectParam = age;
     
     validateAll();
 })
@@ -132,15 +145,15 @@ document.getElementById('dateSelect').addEventListener("click", (event) => {
         element = event.target.parentElement;
     }
 
-    const day = element.firstChild.textContent.padStart(2, "0");
-    const month = element.dataset['month'].padStart(2, "0");
-    const date = `${day}.${month}`;
-    const active = element.classList.contains("selected");
-
+        const day = element.firstChild.textContent.padStart(2, "0");
+        const month = element.dataset['month'].padStart(2, "0");
+        const date = `${day}.${month}`;
+        const active = element.classList.contains("selected");
+    
     if (active) {
-        criteriaArrays['dateSelect'].add(date);
+        criteriaArrays['dateSelectSet'].add(date);
     } else {
-        criteriaArrays['dateSelect'].delete(date);
+        criteriaArrays['dateSelectSet'].delete(date);
     }
 
     validateAll();
