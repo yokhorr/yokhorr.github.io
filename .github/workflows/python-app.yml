@@ -4,10 +4,8 @@
 name: Parser
 
 on:
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    - cron: '0 6,18 * * *'
 
 permissions:
   contents: read
@@ -19,6 +17,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: Cache Python dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/backend/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -35,4 +40,4 @@ jobs:
         # exit-zero treats all errors as warnings. The GitHub editor is 127 chars wide
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Run parser
-      run: python backend/fetch_data.py artem
+      run: python backend/parse_all_cities.py
