@@ -38,7 +38,7 @@ for(let y = 0; y < cities.length; y++) {
   });
   let jsonData2;
   const filmsDictionary = {};
-  console.log(1);
+  // console.log(1);
   Promise.all(promises).then((results) => {
     jsonData2 = results;
     // console.log(jsonData2);
@@ -51,9 +51,8 @@ for(let y = 0; y < cities.length; y++) {
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
         item.classList.add("item");
-        if(cities[y] !== "vladivostok"){
-          item.classList.add("hidden");
-        }
+        // hide all cards, needed ones will be unhided in filter.js
+        item.classList.add("hidden");
         item.setAttribute("data-city", citiesTranslation.get(cities[y]));
         item.setAttribute("data-theatre", jsonData2[0][key].theatre);
         item.setAttribute(

@@ -40,9 +40,13 @@ document.addEventListener("cardsGenerated", () => {
     // .hidden at genres is needed to prevent animation when site is first loaded
     const cards = document.querySelectorAll('.card');
     cards.forEach((card) => {
+        
         card.addEventListener('mouseenter', function() {
             card.lastElementChild.classList.remove('hidden');
         });
+        if ((new Set(Array(card.parentElement.dataset["city"]))).intersection(criteriaArrays["citySelectSet"]).size) {
+            card.parentElement.classList.remove('hidden');
+        }
     });
 
     console.log('cards generated');

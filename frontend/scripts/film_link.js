@@ -14,9 +14,7 @@ const cities_translation = {
 
 document.addEventListener("cardsGenerated", () => {
     const subcards = document.querySelectorAll('.subcard');
-    console.log(subcards);
     subcards.forEach((subcard) => {
-        console.log('smth');
         subcard.addEventListener('click', () => {
             const filmId = subcard.parentElement.dataset["filmid"];
             const city = subcard.parentElement.dataset["city"];
