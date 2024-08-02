@@ -9,7 +9,7 @@
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: auto;
     gap: 30px;
-    top: 300px;
+    top: 120px;
     }
   .item {
     width: 100%;
@@ -25,6 +25,7 @@
       grid-template-columns: repeat(3, 1fr);
       grid-auto-rows: auto;
       gap: 30px;
+      top: 170px;
       }
     .item {
       width: 100%;
@@ -38,7 +39,8 @@
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-auto-rows: auto;
-        gap: 30px;
+        gap: 30px;    
+        top: 220px;
         }
       .item {
         width: 100%;
@@ -52,14 +54,14 @@
           display: grid;
           grid-template-columns: repeat(1, 1fr);
           grid-auto-rows: auto;
-          gap: 30px;
+          gap: 30px;  
+          top: 270px;
 
           }
         .item {
           width: 100%;
           max-width: calc(25% - 20px);
           position: relative;
-          top: 150px;
           }
       
         }
