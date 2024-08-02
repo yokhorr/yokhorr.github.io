@@ -15,42 +15,64 @@ Set.prototype.intersection = function(setB) {
     return intersection;
 };
 
+// show the banner "Not found" when no cards on the screen and hide the button "The end"
+// and vice verca
+function toggleBanner() {
+    // number of visible cards
+    cardsShown = document.querySelectorAll(".item").length - document.querySelectorAll(".item.hidden").length;
+    console.log(cardsShown);
+
+    if (cardsShown === 0) { // if no cards are visible
+        banner.classList.remove("hidden"); // show banner
+        theEnd.classList.add("hidden"); // hide button
+    } else {               // if there are some cards
+        banner.classList.add("hidden"); // hide banner
+        theEnd.classList.remove("hidden"); // show button
+    }
+}
+
 async function validateAll() {
 
     await Promise.all(Array.from(filterBox).map(async (card) => {
         validate(card);
     }));
 
-    // number of visible cards
-    cardsShown = document.querySelectorAll(".item").length - document.querySelectorAll(".item.hidden").length;
-    console.log(cardsShown);
-    if (cardsShown === 0) { // if no cards are visible
-        banner.classList.remove("hidden"); // show banner
-        theEnd.classList.add("hidden");
-    } else {
-        banner.classList.add("hidden"); // hide banner
-        theEnd.classList.remove("hidden");
-    }
-    
+    toggleBanner();
 }
 
 // when cards are generated
 document.addEventListener("cardsGenerated", () => {
     // receive cards from the grid
-    filterBox = document.querySelectorAll(".item");
+    setTimeout(() => {
+        const now1 = new Date();
+        const milliseconds1 = now1.getMilliseconds();
+        console.log(`Heard cards generation at ${now1.toLocaleTimeString()} (${milliseconds1} milliseconds)`);
 
-    // this sctipt removes class .hidden from genres when a cards is hovered
-    // .hidden at genres is needed to prevent animation when site is first loaded
-    const cards = document.querySelectorAll('.card');
-    cards.forEach((card) => {
-        
-        card.addEventListener('mouseenter', function() {
-            card.lastElementChild.classList.remove('hidden');
+        // get items to filter (items, not cards)
+        filterBox = document.querySelectorAll(".item");
+
+        // this script removes class .hidden from genres when a cards is hovered
+        // .hidden at genres is needed to prevent animation when site is first loaded
+        const cardsGeneratedNow = document.querySelectorAll('.card');
+        console.log(cardsGeneratedNow.length);
+        cardsGeneratedNow.forEach((card) => {
+            console.log(card.parentElement.dataset["city"]);
+            card.addEventListener('mouseenter', function() {
+                setTimeout(() => {
+                    card.lastElementChild.classList.remove('hidden');
+                }, 100);
+            });
+            // console.log(card.parentElement.dataset["city"]);
+            if ((new Set(Array(card.parentElement.dataset["city"]))).intersection(criteriaArrays["citySelectSet"]).size) {
+                setTimeout(() => {
+                    card.parentElement.classList.remove('hidden');
+                }, 100);
+            }
+
         });
-        if ((new Set(Array(card.parentElement.dataset["city"]))).intersection(criteriaArrays["citySelectSet"]).size) {
-            card.parentElement.classList.remove('hidden');
-        }
-    });
+    }, 100);
+
+    toggleBanner();
 
     console.log('cards generated');
     
@@ -74,6 +96,7 @@ const menus = [
     document.getElementById("citySelect"),
 ];
 
+// show or hide every card in accordance with all the filters
 function validate(card) {
 
     const cardParameters = {
@@ -84,9 +107,10 @@ function validate(card) {
     };
     const cardParametersKeys = Object.keys(cardParameters);
 
-    // if (cardParameters.cityCard === "Спасск-Дальний") {
-    //     console.log(cardParameters);
-    // }
+    // console.log(cardParameters);
+    // console.log(criteriaArrays);
+    // console.log(antiGenreSelectSet);
+    // console.log(ageSelectParam);
 
     for (let i = 0; i < criteriaArraysKeys.length; i++) {
         if (criteriaArrays[criteriaArraysKeys[i]].size === 0) continue;

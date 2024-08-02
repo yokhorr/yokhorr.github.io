@@ -199,11 +199,16 @@ for(let y = 0; y < cities.length; y++) {
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
         item.appendChild(subcard);
+
       });
+      console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
         const cardsGenerated = new CustomEvent('cardsGenerated');
         document.dispatchEvent(cardsGenerated);
+        const now = new Date();
+        const milliseconds = now.getMilliseconds();
+        console.log(`Shout cards generation at ${now.toLocaleTimeString()} (${milliseconds} milliseconds)`);
       }
   });
 }
