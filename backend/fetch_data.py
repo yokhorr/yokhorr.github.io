@@ -289,4 +289,4 @@ def fetch_data(city: str) -> None:
 
 
 if __name__ == '__main__':
-    main('vladivostok')
+    main('artem')
