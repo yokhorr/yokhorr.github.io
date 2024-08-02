@@ -45,7 +45,7 @@ document.addEventListener("cardsGenerated", () => {
             card.lastElementChild.classList.remove('hidden');
         });
         if ((new Set(Array(card.parentElement.dataset["city"]))).intersection(criteriaArrays["citySelectSet"]).size) {
-            card.parentElement.classList.remove('   ');
+            card.parentElement.classList.remove('hidden');
         }
     });
 
