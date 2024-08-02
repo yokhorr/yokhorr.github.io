@@ -76,9 +76,9 @@ function validate(card) {
     };
     const cardParametersKeys = Object.keys(cardParameters);
 
-    // console.log(cardParameters);
-    // console.log(criteriaArrays);
-    // console.log(antiGenreSelectSet);
+    // if (cardParameters.cityCard === "Спасск") {
+    //     console.log(cardParameters);
+    // }
 
     for (let i = 0; i < criteriaArraysKeys.length; i++) {
         if (criteriaArrays[criteriaArraysKeys[i]].size === 0) continue;
