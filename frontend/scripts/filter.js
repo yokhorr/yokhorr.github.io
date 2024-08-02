@@ -45,7 +45,7 @@ document.addEventListener("cardsGenerated", () => {
             card.lastElementChild.classList.remove('hidden');
         });
         if ((new Set(Array(card.parentElement.dataset["city"]))).intersection(criteriaArrays["citySelectSet"]).size) {
-            card.parentElement.classList.remove('hidden');
+            card.parentElement.classList.remove('   ');
         }
     });
 
@@ -81,7 +81,7 @@ function validate(card) {
     };
     const cardParametersKeys = Object.keys(cardParameters);
 
-    // if (cardParameters.cityCard === "Спасск") {
+    // if (cardParameters.cityCard === "Спасск-Дальний") {
     //     console.log(cardParameters);
     // }
 

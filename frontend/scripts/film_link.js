@@ -4,7 +4,7 @@ const cities_translation = {
     "Арсеньев": "arsenyev",
     "Уссурийск": "ussuriysk",
     "Находка": "nakhodka",
-    "Спасск": "spassk",
+    "Спасск-Дальний": "spassk",
     "Врангель": "vrangel",
     "Дальнегорск": "dalnegorsk",
     "Партизанск": "partizansk",

@@ -9,7 +9,7 @@ const translationPairs = [
     ["dalnegorsk", "Дальнегорск"],
     ["nakhodka", "Находка"],
     ["partizansk", "Партизанск"],
-    ["spassk", "Спасск"],
+    ["spassk", "Спасск-Дальний"],
     ["vrangel", "Врангель"]
 ]
 
