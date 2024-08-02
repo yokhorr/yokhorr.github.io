@@ -1,4 +1,5 @@
 const banner = document.getElementById('banner');
+const theEnd = document.getElementById('endButton');
 
 let filterBox;
 let card;
@@ -25,8 +26,10 @@ async function validateAll() {
     console.log(cardsShown);
     if (cardsShown === 0) { // if no cards are visible
         banner.classList.remove("hidden"); // show banner
+        theEnd.classList.add("hidden");
     } else {
         banner.classList.add("hidden"); // hide banner
+        theEnd.classList.remove("hidden");
     }
     
 }
@@ -54,8 +57,8 @@ document.addEventListener("cardsGenerated", () => {
 });
 
 const criteriaArrays = {
-    // citySelectSet: new Set(localStorage.getItem("selectedCity") ? [localStorage.getItem("selectedCity")] : ["Владивосток"]),
-    citySelectSet: new Set(["Владивосток"]),
+    citySelectSet: new Set(localStorage.getItem("selectedCity") ? [localStorage.getItem("selectedCity")] : ["Владивосток"]),
+    // citySelectSet: new Set(["Владивосток"]),
     genreSelectSet: new Set(),
     theatreSelectSet: new Set(),
     dateSelectSet: new Set(),
