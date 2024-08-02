@@ -44,9 +44,9 @@ async function validateAll() {
 document.addEventListener("cardsGenerated", () => {
     // receive cards from the grid
     setTimeout(() => {
-        const now1 = new Date();
-        const milliseconds1 = now1.getMilliseconds();
-        console.log(`Heard cards generation at ${now1.toLocaleTimeString()} (${milliseconds1} milliseconds)`);
+        const now = new Date();
+        const milliseconds = now.getMilliseconds();
+        console.log(`Heard cards generation in filter.js at ${now.toLocaleTimeString()} (${milliseconds} milliseconds)`);
 
         // get items to filter (items, not cards)
         filterBox = document.querySelectorAll(".item");
