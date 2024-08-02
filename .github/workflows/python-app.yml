@@ -17,17 +17,15 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.9'
+        cache: 'pip' # caching pip dependencies
     - name: Set Timezone
       uses: szenius/set-timezone@v1.0
       with:
         timezoneLinux: 'Asia/Vladivostok'
-    - name: Cache Python dependencies
-      uses: actions/cache@v2
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-${{ hashFiles('**/backend/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-
+    - uses: actions/setup-python@v5
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
