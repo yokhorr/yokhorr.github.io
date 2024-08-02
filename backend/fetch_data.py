@@ -181,7 +181,7 @@ def write_seance(curr_date: str, curr_time: str, triples: list) -> None:
     seances.append({})
     for [nameId, theatre, cost] in triples:
         if theatre == 'Шахтер':  # cosmetics
-        theatre = 'Шахтёр'
+            theatre = 'Шахтёр'
         elems = [("date", strict_date_format(curr_date)), ("time", curr_time), ("filmId", nameId),
                  ("theatre", theatre), ("cost", cost), ("seanceId", -1)]
         for [key, value] in elems:
