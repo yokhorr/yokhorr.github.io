@@ -8,18 +8,18 @@ from bs4 import BeautifulSoup
 
 # every city has it's own id which is passed with cookies
 # to get correct information for requested film
-CITY_IDS = {
-    'vladivostok': '4',
-    'artem': '201',
-    'arsenyev': '255',
-    'ussuriysk': '104',
-    'nakhodka': '63',
-    'spassk': '399',
-    'vrangel': '400',
-    'dalnegorsk': '124',
-    'partizansk': '401',
-    'chernigovka': '402'
-}
+# CITY_IDS = {
+#     'vladivostok': '4',
+#     'artem': '201',
+#     'arsenyev': '255',
+#     'ussuriysk': '104',
+#     'nakhodka': '63',
+#     'spassk': '399',
+#     'vrangel': '400',
+#     'dalnegorsk': '124',
+#     'partizansk': '401',
+#     'chernigovka': '402'
+# }
 
 t_date = datetime.now().strftime('%d_%m_%Y')
 seances: list[dict] = []
@@ -156,8 +156,8 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     # first check if file exists not to request it twice
     if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):
         new_film = True
-        cookies = {'city': CITY_IDS[city]}  # without city cookie the response is unpredictable
-        response = requests.get(f'https://kino.vl.ru{ref}?city={city}', cookies=cookies)
+        ## cookies = {'city': CITY_IDS[city]}  # without city cookie the response is unpredictable
+        response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
         if response.status_code != 200:
             raise KeyError(f'Response is {response.status_code}')
