@@ -282,6 +282,7 @@ def save_data(city: str) -> None:
     # (genre_names_dict, 'genre-namesIds'), (dates_days_of_week, 'dates-days-of-week'),
     # (all_films_ids, 'films-ids')
 
+    clear_cache('jsons')
     for elem in data:
         json.dump(elem[0], open(f'jsons/{elem[1]}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
 
@@ -301,7 +302,6 @@ def main(city: str) -> None:
     running_file_directory = os.path.dirname(os.path.abspath(__file__))
     os.chdir(f'{running_file_directory}/data/cities/{city}')
 
-    clear_cache('jsons')
     html_seances: str = collect_data(city)
     parse_data(city, html_seances)
     save_data(city)

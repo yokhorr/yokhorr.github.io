@@ -54,6 +54,7 @@ document.addEventListener("cardsGenerated", () => {
 });
 
 const criteriaArrays = {
+    // citySelectSet: new Set(localStorage.getItem("selectedCity") ? [localStorage.getItem("selectedCity")] : ["Владивосток"]),
     citySelectSet: new Set(["Владивосток"]),
     genreSelectSet: new Set(),
     theatreSelectSet: new Set(),
