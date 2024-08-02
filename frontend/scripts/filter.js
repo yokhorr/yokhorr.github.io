@@ -55,7 +55,7 @@ document.addEventListener("cardsGenerated", () => {
         // this script removes class .hidden from genres when a cards is hovered
         // .hidden at genres is needed to prevent animation when site is first loaded
         const cardsGeneratedNow = document.querySelectorAll('.card');
-        console.log(cardsGeneratedNow.length);
+        // console.log(cardsGeneratedNow.length);
         cardsGeneratedNow.forEach((card) => {
             // console.log(card.parentElement.dataset["city"]);
             card.addEventListener('mouseenter', function() {
