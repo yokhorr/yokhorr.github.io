@@ -5,7 +5,7 @@ name: Parser
 
 on:
   schedule:
-    - cron: '53 13 * * *'
+    - cron: '0 14 * * *'
 
 permissions:
   contents: read
@@ -17,6 +17,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v4
+    - name: Set Timezone
+      uses: szenius/set-timezone@v1.0
+      with:
+        timezoneLinux: 'Asia/Vladivostok'
     - name: Cache Python dependencies
       uses: actions/cache@v2
       with:
