@@ -6,21 +6,24 @@
 }
 
 .loading-page {
-  position: absolute;
-  top: 0;
-  left: 0;
   background: rgb(237,214,255);
   background: linear-gradient(132deg, rgba(237,214,255,1) 8%, rgba(188,105,255,1) 47%, rgba(163,90,226,1) 91%);
 
-  height: 100%;
-  width: 100%;
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
   align-items: center;
   justify-content: center;
   color: #191654;
-  z-index: 1000;
+  position: fixed; /* Фиксированное положение */
+  top: 0; /* Позиционирование сверху */
+  left: 0; /* Позиционирование слева */
+  width: 100%; /* Занимает всю ширину */
+  height: 100%; /* Занимает всю высоту */
+  z-index: 9999; /* Устанавливаем высокий z-index */
+  display: flex; 
+  justify-content: center;
+  align-items: center;
 }
 
 #svg {
