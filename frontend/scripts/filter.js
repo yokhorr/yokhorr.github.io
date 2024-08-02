@@ -23,6 +23,7 @@ function toggleBanner() {
     console.log(cardsShown);
 
     if (cardsShown === 0) { // if no cards are visible
+        console.log('Showing banner');
         banner.classList.remove("hidden"); // show banner
         theEnd.classList.add("hidden"); // hide button
     } else {               // if there are some cards
@@ -56,23 +57,19 @@ document.addEventListener("cardsGenerated", () => {
         const cardsGeneratedNow = document.querySelectorAll('.card');
         console.log(cardsGeneratedNow.length);
         cardsGeneratedNow.forEach((card) => {
-            console.log(card.parentElement.dataset["city"]);
+            // console.log(card.parentElement.dataset["city"]);
             card.addEventListener('mouseenter', function() {
-                setTimeout(() => {
-                    card.lastElementChild.classList.remove('hidden');
-                }, 100);
+                card.lastElementChild.classList.remove('hidden');
             });
             // console.log(card.parentElement.dataset["city"]);
             if ((new Set(Array(card.parentElement.dataset["city"]))).intersection(criteriaArrays["citySelectSet"]).size) {
-                setTimeout(() => {
-                    card.parentElement.classList.remove('hidden');
-                }, 100);
+                card.parentElement.classList.remove('hidden');
             }
 
         });
+        toggleBanner();
     }, 100);
 
-    toggleBanner();
 
     console.log('cards generated');
     

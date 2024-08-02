@@ -201,7 +201,7 @@ for(let y = 0; y < cities.length; y++) {
         item.appendChild(subcard);
 
       });
-      console.log(`city ${cities[y]} generated`);
+      // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
         const cardsGenerated = new CustomEvent('cardsGenerated');
