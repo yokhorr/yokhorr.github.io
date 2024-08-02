@@ -6,29 +6,14 @@ import glob
 from datetime import datetime
 from bs4 import BeautifulSoup
 
-# every city has it's own id which is passed with cookies
-# to get correct information for requested film
-# CITY_IDS = {
-#     'vladivostok': '4',
-#     'artem': '201',
-#     'arsenyev': '255',
-#     'ussuriysk': '104',
-#     'nakhodka': '63',
-#     'spassk': '399',
-#     'vrangel': '400',
-#     'dalnegorsk': '124',
-#     'partizansk': '401',
-#     'chernigovka': '402'
-# }
-
 t_date = datetime.now().strftime('%d_%m_%Y')
 seances: list[dict] = []
 films: list[dict] = []
 theatres_seancesIds: dict[str, list[int]] = {}
-genre_namesIds: dict[str, set[int]] = {}
+genre_namesIds: dict[str, set[str]] = {}
 dates_days_of_week: dict[str, str] = {}
-films_ids: set[int] = set()
-all_films_ids: list[int] = []
+films_ids: set[str] = set()
+all_films_ids: list[str] = []
 
 
 # clear variables from previous parsing
@@ -87,7 +72,7 @@ def get_clear_text(text: str) -> tuple[str, str]:
 
 
 def write_film(name: str, rating: int, genres: list[str], length: int,
-               description: str, picture_href: str, film_id: int) -> None:
+               description: str, picture_href: str, film_id: str) -> None:
     for genre in genres:
         if genre not in genre_namesIds:
             genre_namesIds[genre] = set()
@@ -107,7 +92,7 @@ def write_film(name: str, rating: int, genres: list[str], length: int,
             handler.write(img_data)
 
 
-def parse_film(elem: BeautifulSoup, film_id: int):
+def parse_film(elem: BeautifulSoup, film_id: str):
     name: str = elem.find(class_='film__title').get_text().strip()
     if name in films:
         return
@@ -146,17 +131,11 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     new_film: bool = False
     # ref constitutes '/film/50183' (films has a uniq id)
     film_id = ref.split('/')[-2]  # separate id
-
-    # if film_id is str it should be replaced for its hash
-    if not film_id.isdigit():
-        film_id = abs(hash(film_id))
-
-    films_ids.add(int(film_id))
+    films_ids.add(film_id)
 
     # first check if file exists not to request it twice
     if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):
         new_film = True
-        ## cookies = {'city': CITY_IDS[city]}  # without city cookie the response is unpredictable
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
         if response.status_code != 200:
@@ -166,7 +145,7 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     with open(f'films/{city}_{t_date}_{film_id}.html') as file:
         soup = BeautifulSoup(file, "html.parser")
     if new_film:
-        parse_film(soup, int(film_id))
+        parse_film(soup, film_id)
     date_headings = soup.find_all(id="film__seances")[0].contents  # headers with dates of tables with times
     i = 0
     rows = ''
@@ -186,16 +165,10 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
                 return -1  # price is not set
 
 
-# list of tuples (flm_name, theatre, cost) (possibly more than one theatre for the same film)
-def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[int, str, int]]:
+# list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
+def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int]]:
     result = []
-    id_or_str = elem.find('a')['href'].split('/')[-2]
-
-    # if id_or_str is str it should be replaced for its hash
-    if not id_or_str.isdigit():
-        id_or_str = abs(hash(id_or_str))
-
-    name_id: int = id_or_str
+    name_id: str = elem.find('a')['href'].split('/')[-2]
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
         cost = parse_cost(elem.find_next()["href"], _theatre, date, time, city)
