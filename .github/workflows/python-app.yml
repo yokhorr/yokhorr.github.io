@@ -55,5 +55,5 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "Seances data updated" -a
+        git commit -m "Update seances data" -a
         git push
