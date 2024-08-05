@@ -100,6 +100,12 @@ for(let y = 0; y < cities.length; y++) {
         let tre = document.createElement("span");
         tre.innerHTML = jsonData2[0][key].theatre;
         genre.appendChild(tre);
+        if(jsonData2[0][key].is3d === true) {
+          let dd = document.createElement("span");
+          dd.className = "price" 
+          dd.innerHTML = "3D";
+          genre.appendChild(dd);
+        }
         detailsTop.appendChild(genre);
         card.appendChild(detailsTop);
         let details = document.createElement("div");
