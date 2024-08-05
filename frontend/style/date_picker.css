@@ -5,8 +5,6 @@
   .date .container {
     position: relative;
     align-items: center;
-    left: -0%;
-    top: 100px;
     min-width: 250px;
     width: 3000px;
     height: 50px;
@@ -14,12 +12,10 @@
 }
 
 
-  @media (max-width: 1200px) {
+  @media (max-width: 1140px) {
     .date .container {
       position: relative;
       align-items: center;
-      left: 70px;
-      top: 100px;
       min-width: 250px;
       width: 2000px;
       height: 50px
@@ -27,23 +23,19 @@
     }
   }
 
-    @media (max-width: 890px) {
+    @media (max-width: 880px) {
       .date .container {
         position: relative;
         align-items: center;
-        left: 0;
-        top: 110px;
         min-width: 250px;
         width: 450px;
         height: 50px;
       }
     }
-    @media (max-width: 590px) {
+    @media (max-width: 580px) {
       .date .container {
         position: relative;
         align-items: center;
-        left: 0;
-        top: 40px;
         min-width: 250px;
         width: 300px;
         height: 50px;

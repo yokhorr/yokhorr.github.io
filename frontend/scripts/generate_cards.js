@@ -9,7 +9,7 @@ const translationPairs = [
     ["dalnegorsk", "Дальнегорск"],
     ["nakhodka", "Находка"],
     ["partizansk", "Партизанск"],
-    ["spassk", "Спасск"],
+    ["spassk", "Спасск-Дальний"],
     ["vrangel", "Врангель"]
 ]
 
@@ -38,7 +38,7 @@ for(let y = 0; y < cities.length; y++) {
   });
   let jsonData2;
   const filmsDictionary = {};
-  console.log(1);
+  // console.log(1);
   Promise.all(promises).then((results) => {
     jsonData2 = results;
     // console.log(jsonData2);
@@ -51,9 +51,8 @@ for(let y = 0; y < cities.length; y++) {
     Object.keys(jsonData2[0]).forEach((key) => {
         let item = document.createElement("div");
         item.classList.add("item");
-        if(cities[y] !== "vladivostok"){
-          item.classList.add("hidden");
-        }
+        // hide all cards, needed ones will be unhided in filter.js
+        item.classList.add("hidden");
         item.setAttribute("data-city", citiesTranslation.get(cities[y]));
         item.setAttribute("data-theatre", jsonData2[0][key].theatre);
         item.setAttribute(
@@ -89,7 +88,7 @@ for(let y = 0; y < cities.length; y++) {
             console.log("no image");
             re.src = `../backend/data/films_images/No_Image_Available.jpg`;
         }
-        re.alt = "";
+        // re.alt = "";
         poster.appendChild(re);
         poster.classList.add("before-element");
         poster.className = "poster";
@@ -148,25 +147,29 @@ for(let y = 0; y < cities.length; y++) {
         }
         date.innerHTML = `${day} ${month2}`; 
         genress.appendChild(date);
+
         let startTime = document.createElement("span");
         startTime.className = "startTime";
         startTime.innerHTML = `${jsonData2[0][key].time} `;
-        let endTime = document.createElement("div");
-        endTime.className = "endTime";
-        endTime.id = "endTime";
-        let duration = 0; 
-        if(filmsDictionary[jsonData2[0][key].filmId].length === -1){
-          duration = 61;
-        }
-        else{
-          duration = filmsDictionary[jsonData2[0][key].filmId].length;
-        }
+        let length = document.createElement("div");
+        length.className = "length";
+        length.id = "length";
+        duration = filmsDictionary[jsonData2[0][key].filmId].length;
+        const hours = Math.floor(duration / 60);
+        const minutes = duration % 60;
+        length.innerHTML = `· ${hours}:${minutes < 10 ? '0' + minutes : minutes}`;
+
         const [startHour, startMinute] = `${jsonData2[0][key].time}`.split(':').map(Number);
         let endHour = Math.floor((startHour * 60 + startMinute + duration) / 60) % 24;
         let endMinute = (startMinute + duration) % 60;
         const endTime2 = `${String(endHour).padStart(2, '0')}:${String(endMinute).padStart(2, '0')}`;
-        endTime.innerHTML = `–${endTime2}`;
-        startTime.appendChild(endTime);
+        if (duration !== -1) {
+          startTime.appendChild(length);
+          item.setAttribute("data-endTime", endTime2);
+        } else {
+          item.setAttribute("data-endTime", jsonData2[0][key].time);
+        }
+
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
         price.className = "price";
@@ -196,11 +199,16 @@ for(let y = 0; y < cities.length; y++) {
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
         item.appendChild(subcard);
+
       });
+      // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
         const cardsGenerated = new CustomEvent('cardsGenerated');
         document.dispatchEvent(cardsGenerated);
+        const now = new Date();
+        const milliseconds = now.getMilliseconds();
+        console.log(`Shout cards generation at ${now.toLocaleTimeString()} (${milliseconds} milliseconds)`);
       }
   });
 }

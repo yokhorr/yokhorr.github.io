@@ -7,7 +7,7 @@ const cityToTheatres = {
   'Арсеньев': ['Космос'],
   'Уссурийск': ['Россия'],
   'Находка': ['8 планет', '8 планет ТЦ Клён'],
-  'Спасск': ['Аврора'],
+  'Спасск-Дальний': ['Аврора'],
   'Врангель': ['Каскад'],
   'Дальнегорск': ['Брусника'],
   'Партизанск': ['Кристалл'],
@@ -36,6 +36,19 @@ dropdowns.forEach((dropdown) => {
     caret.classList.toggle("caret-rotate");
     menu.classList.toggle("menu-open");
   });
+
+  // Добавляем обработчик клика на весь документ
+  document.addEventListener("click", (event) => {
+    // Проверяем, находится ли клик вне .dropdown
+    if (!dropdown.contains(event.target)) {
+      // Закрываем меню, если оно открыто
+      if (menu.classList.contains("menu-open")) {
+        menu.classList.remove("menu-open");
+        select.classList.remove("select-clicked");
+        caret.classList.remove("caret-rotate");
+      }
+    }
+  });
 });
 
 // Получаем элементы для выпадающего списка городов и кинотеатров
@@ -48,24 +61,29 @@ const theatreMenu = theatreDropdown.querySelector('.menu');
 let selectedCity = null; // Переменная для хранения выбранного города
 let selectedTheatre = null; // Переменная для хранения выбранного кинотеатра
 
+// Массив для хранения выбранных опций в меню театра
+const selectedOptionsTheatre = [];
+
+// Функция для обновления списка кинотеатров
+function updateTheatres(cityName) {
+  theatreSelect.innerHTML = ''; // Очищаем список кинотеатров
+
+  // Проверяем, есть ли кинотеатры в выбранном городе
+  if (cityToTheatres[cityName]) {
+    // Заполняем список кинотеатров для выбранного города
+    cityToTheatres[cityName].forEach(theatre => {
+      const li = document.createElement('li');
+      li.textContent = theatre;
+      theatreSelect.appendChild(li);
+    });
+  }
+}
 
 // Обработчик клика по выпадающему списку городов
 cityMenu.addEventListener('click', (event) => {
   if (event.target.tagName !== 'LI') return; // was clicked menu, not an option
 
   const selectedCityName = event.target.textContent; // Получаем название выбранного города
-  theatreSelect.innerHTML = ''; // Очищаем список кинотеатров
-
-
-  // Проверяем, есть ли кинотеатры в выбранном городе
-  if (cityToTheatres[selectedCityName]) {
-    // Заполняем список кинотеатров для выбранного города
-    cityToTheatres[selectedCityName].forEach(theatre => {
-      const li = document.createElement('li');
-      li.textContent = theatre;
-      theatreSelect.appendChild(li);
-    });
-  }
 
   // Проверяем, был ли клик по элементу списка
   if (event.target.tagName === 'LI') {
@@ -91,11 +109,10 @@ cityMenu.addEventListener('click', (event) => {
       }
     });
   }
+
+  // Обновляем список кинотеатров для выбранного города
+  updateTheatres(selectedCityName);
 });
-
-
-// Массив для хранения выбранных опций в меню театра
-const selectedOptionsTheatre = [];
 
 // Добавляем обработчик событий для меню театра
 theatreMenu.addEventListener('click', (event) => {
@@ -114,6 +131,31 @@ theatreMenu.addEventListener('click', (event) => {
     }
   }
 });
+
+let defaultCity = "Владивосток";
+if (localStorage.getItem('selectedCity') != null) {
+  defaultCity = localStorage.getItem('selectedCity'); // Присваиваем новое значение 
+}
+
+
+
+// Находим все элементы li в меню городов
+const cityListItems = cityMenu.querySelectorAll('li');
+
+for (const item of cityListItems) {
+  if (item.textContent.trim() === defaultCity) {
+    selectedCity = item;
+    break; // Прекращаем цикл, как только нашли элемент
+  }
+}
+
+// Проверяем, что элемент найден
+if (selectedCity) {
+  selectedCity.classList.add('active');
+  cityDropdown.querySelector('.selected').textContent = defaultCity;
+  updateTheatres(defaultCity); 
+}
+
 
 
 
@@ -182,8 +224,20 @@ antiGenreMenu.addEventListener('click', (event) => {
         }
       });
     }
+
+    // Проверяем, все ли элементы антижанра выбраны
+    if (selectedOptionsTheatre.length === 22) {
+      // Выводим оповещение
+      if (confirm("Вы что, крэйзи?")) {
+      }
+    }
   }
 });
+
+
+
+
+
 
 
 // Получаем элементы для выпадающего списка возраста

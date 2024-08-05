@@ -1,17 +1,42 @@
 /*  ___Button___   */
 
-.container .message {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh; /* Занимает всю высоту экрана */
+/* Отступ от нижней границы контента */
+@media (min-width: 8000px) {
+  .end-message {
+    margin-top: 200px;
+  }
+}
+
+.grid {
+  position: relative; /* Добавляем позиционирование для .grid */
+}
+
+@media (min-width: 1350px) {
+  .end-message {
+    margin-top: 200px;
+  }
+}
+
+
+
+@media (max-width: 1030px) {
+  .end-message {
+    margin-top: 300px; 
+  }
+  
+}
+
+@media (max-width: 670px) {
+  .end-message {
+    margin-top: 200px; 
+  }
 }
 
 .end-message {
   background-color: #f0f0f000;
-  padding: 20px;
   text-align: center;
-  margin-top: 470px; /* Отступ от нижней границы контента */
 }
+
 
 /* button effects */
 .btn {
