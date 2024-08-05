@@ -184,10 +184,14 @@ padding: 0.2rem 0;
 }
 
 .card .details .genres span {
-padding: 2px 5px;
-background: #03a8f5;
+/* padding: 2px 5px; */
+padding: 0.2px 2px;
+background-color: rgba(255, 255, 255, 0.900);
 border-radius: 5px;
 margin-top: auto;
+display: block; /* Делаем span блочным элементом */
+width: fit-content; /* Задаем ширину по содержимому */
+margin-bottom: 2px; /* Добавляем отступ снизу */
 margin-right: 5px;
 box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
 z-index: -1;
@@ -258,19 +262,6 @@ margin-top: 5px;
 }
 
 /*     ____Tags____     */
-
-
-.card .details .genres span {
-  padding: 0.2px 2px;
-  background-color: rgba(255, 255, 255, 0.900);
-  /* background: rgb(188,105,255);
-  background: linear-gradient(132deg, rgb(176, 93, 245) 9%, rgb(128, 10, 240) 55%, rgb(7, 0, 12) 100%); */
-  border-radius: 5px;
-  margin-top: 2px;
-  display: block; /* Делаем span блочным элементом */
-  width: fit-content; /* Задаем ширину по содержимому */
-  margin-bottom: 2px; /* Добавляем отступ снизу */
-}
 
 .card .details .genres {
   display: flex; /* Используем flexbox для управления span */
