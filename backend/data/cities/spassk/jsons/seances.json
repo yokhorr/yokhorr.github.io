@@ -1,114 +1,380 @@
 [
     {
-        "date": "02.08",
-        "time": "11:45",
-        "filmId": "52334",
-        "theatre": "Аврора",
-        "cost": 280,
-        "seanceId": 0
-    },
-    {
-        "date": "02.08",
-        "time": "12:25",
-        "filmId": "53670",
-        "theatre": "Аврора",
-        "cost": 260,
-        "seanceId": 1
-    },
-    {
-        "date": "02.08",
-        "time": "14:00",
-        "filmId": "53595",
-        "theatre": "Аврора",
-        "cost": 240,
-        "seanceId": 2
-    },
-    {
-        "date": "02.08",
-        "time": "14:10",
-        "filmId": "53677",
-        "theatre": "Аврора",
-        "cost": 260,
-        "seanceId": 3
-    },
-    {
-        "date": "02.08",
-        "time": "16:00",
+        "date": "05.08",
+        "time": "15:30",
         "filmId": "53594",
         "theatre": "Аврора",
         "cost": 260,
-        "seanceId": 4
+        "is3d": false,
+        "seanceId": 0
     },
     {
-        "date": "02.08",
-        "time": "16:10",
-        "filmId": "52334",
+        "date": "05.08",
+        "time": "15:50",
+        "filmId": "52335",
         "theatre": "Аврора",
-        "cost": 280,
-        "seanceId": 5
+        "cost": 300,
+        "is3d": true,
+        "seanceId": 1
     },
     {
-        "date": "02.08",
-        "time": "17:45",
-        "filmId": "53668",
-        "theatre": "Аврора",
-        "cost": 280,
-        "seanceId": 6
-    },
-    {
-        "date": "02.08",
-        "time": "18:00",
-        "filmId": "52334",
-        "theatre": "Аврора",
-        "cost": 280,
-        "seanceId": 7
-    },
-    {
-        "date": "02.08",
-        "time": "19:40",
-        "filmId": "53668",
-        "theatre": "Аврора",
-        "cost": 280,
-        "seanceId": 8
-    },
-    {
-        "date": "02.08",
-        "time": "19:50",
+        "date": "05.08",
+        "time": "17:15",
         "filmId": "unesennye_prizrakami",
         "theatre": "Аврора",
         "cost": 240,
+        "is3d": false,
+        "seanceId": 2
+    },
+    {
+        "date": "05.08",
+        "time": "18:10",
+        "filmId": "53668",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 3
+    },
+    {
+        "date": "05.08",
+        "time": "19:35",
+        "filmId": "53668",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 4
+    },
+    {
+        "date": "05.08",
+        "time": "20:00",
+        "filmId": "52335",
+        "theatre": "Аврора",
+        "cost": 300,
+        "is3d": true,
+        "seanceId": 5
+    },
+    {
+        "date": "05.08",
+        "time": "21:30",
+        "filmId": "53676",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 6
+    },
+    {
+        "date": "05.08",
+        "time": "22:20",
+        "filmId": "53675",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 7
+    },
+    {
+        "date": "05.08",
+        "time": "23:10",
+        "filmId": "53670",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 8
+    },
+    {
+        "date": "05.08",
+        "time": "23:55",
+        "filmId": "53676",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
         "seanceId": 9
     },
     {
-        "date": "02.08",
-        "time": "21:40",
-        "filmId": "53676",
+        "date": "06.08",
+        "time": "10:00",
+        "filmId": "52334",
         "theatre": "Аврора",
-        "cost": 260,
+        "cost": 280,
+        "is3d": false,
         "seanceId": 10
     },
     {
-        "date": "02.08",
-        "time": "22:10",
-        "filmId": "53675",
+        "date": "06.08",
+        "time": "10:00",
+        "filmId": "53595",
         "theatre": "Аврора",
-        "cost": 260,
+        "cost": 240,
+        "is3d": false,
         "seanceId": 11
     },
     {
-        "date": "02.08",
-        "time": "23:20",
-        "filmId": "53675",
+        "date": "06.08",
+        "time": "11:45",
+        "filmId": "52335",
         "theatre": "Аврора",
-        "cost": 260,
+        "cost": 300,
+        "is3d": false,
         "seanceId": 12
     },
     {
-        "date": "02.08",
-        "time": "23:50",
+        "date": "06.08",
+        "time": "12:05",
+        "filmId": "53677",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 13
+    },
+    {
+        "date": "06.08",
+        "time": "13:50",
+        "filmId": "53670",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 14
+    },
+    {
+        "date": "06.08",
+        "time": "14:05",
+        "filmId": "52334",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 15
+    },
+    {
+        "date": "06.08",
+        "time": "15:30",
+        "filmId": "53594",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 16
+    },
+    {
+        "date": "06.08",
+        "time": "15:50",
+        "filmId": "52335",
+        "theatre": "Аврора",
+        "cost": 300,
+        "is3d": true,
+        "seanceId": 17
+    },
+    {
+        "date": "06.08",
+        "time": "17:15",
+        "filmId": "unesennye_prizrakami",
+        "theatre": "Аврора",
+        "cost": 240,
+        "is3d": false,
+        "seanceId": 18
+    },
+    {
+        "date": "06.08",
+        "time": "18:10",
+        "filmId": "53668",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 19
+    },
+    {
+        "date": "06.08",
+        "time": "19:35",
+        "filmId": "53668",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 20
+    },
+    {
+        "date": "06.08",
+        "time": "20:00",
+        "filmId": "52335",
+        "theatre": "Аврора",
+        "cost": 300,
+        "is3d": true,
+        "seanceId": 21
+    },
+    {
+        "date": "06.08",
+        "time": "21:30",
         "filmId": "53676",
         "theatre": "Аврора",
         "cost": 260,
-        "seanceId": 13
+        "is3d": false,
+        "seanceId": 22
+    },
+    {
+        "date": "06.08",
+        "time": "22:20",
+        "filmId": "53675",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 23
+    },
+    {
+        "date": "06.08",
+        "time": "23:10",
+        "filmId": "53670",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 24
+    },
+    {
+        "date": "06.08",
+        "time": "23:55",
+        "filmId": "53676",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 25
+    },
+    {
+        "date": "07.08",
+        "time": "10:00",
+        "filmId": "52334",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 26
+    },
+    {
+        "date": "07.08",
+        "time": "10:00",
+        "filmId": "53595",
+        "theatre": "Аврора",
+        "cost": 240,
+        "is3d": false,
+        "seanceId": 27
+    },
+    {
+        "date": "07.08",
+        "time": "11:45",
+        "filmId": "52335",
+        "theatre": "Аврора",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 28
+    },
+    {
+        "date": "07.08",
+        "time": "12:05",
+        "filmId": "53677",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 29
+    },
+    {
+        "date": "07.08",
+        "time": "13:50",
+        "filmId": "53670",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 30
+    },
+    {
+        "date": "07.08",
+        "time": "14:05",
+        "filmId": "52334",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 31
+    },
+    {
+        "date": "07.08",
+        "time": "15:30",
+        "filmId": "53594",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 32
+    },
+    {
+        "date": "07.08",
+        "time": "15:50",
+        "filmId": "52335",
+        "theatre": "Аврора",
+        "cost": 300,
+        "is3d": true,
+        "seanceId": 33
+    },
+    {
+        "date": "07.08",
+        "time": "17:15",
+        "filmId": "unesennye_prizrakami",
+        "theatre": "Аврора",
+        "cost": 240,
+        "is3d": false,
+        "seanceId": 34
+    },
+    {
+        "date": "07.08",
+        "time": "18:10",
+        "filmId": "53668",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 35
+    },
+    {
+        "date": "07.08",
+        "time": "19:35",
+        "filmId": "53668",
+        "theatre": "Аврора",
+        "cost": 280,
+        "is3d": false,
+        "seanceId": 36
+    },
+    {
+        "date": "07.08",
+        "time": "20:00",
+        "filmId": "52335",
+        "theatre": "Аврора",
+        "cost": 300,
+        "is3d": true,
+        "seanceId": 37
+    },
+    {
+        "date": "07.08",
+        "time": "21:30",
+        "filmId": "53676",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 38
+    },
+    {
+        "date": "07.08",
+        "time": "22:20",
+        "filmId": "53675",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 39
+    },
+    {
+        "date": "07.08",
+        "time": "23:10",
+        "filmId": "53670",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 40
+    },
+    {
+        "date": "07.08",
+        "time": "23:55",
+        "filmId": "53676",
+        "theatre": "Аврора",
+        "cost": 260,
+        "is3d": false,
+        "seanceId": 41
     }
 ]
