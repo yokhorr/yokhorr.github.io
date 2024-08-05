@@ -47,7 +47,7 @@ jobs:
       run: python backend/parse_all_cities.py
     - name: Commit and push
       env:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.BOT_ACCESS_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
