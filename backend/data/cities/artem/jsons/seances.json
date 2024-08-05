@@ -1,66 +1,12 @@
 [
     {
         "date": "05.08",
-        "time": "15:45",
-        "filmId": "52177",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 0
-    },
-    {
-        "date": "05.08",
-        "time": "16:00",
-        "filmId": "53594",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 1
-    },
-    {
-        "date": "05.08",
-        "time": "16:05",
-        "filmId": "52667",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 2
-    },
-    {
-        "date": "05.08",
-        "time": "17:35",
-        "filmId": "53668",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 3
-    },
-    {
-        "date": "05.08",
-        "time": "17:45",
-        "filmId": "53625",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 4
-    },
-    {
-        "date": "05.08",
-        "time": "18:10",
-        "filmId": "52334",
-        "theatre": "Шахтёр",
-        "cost": 370,
-        "is3d": false,
-        "seanceId": 5
-    },
-    {
-        "date": "05.08",
         "time": "19:30",
         "filmId": "53534",
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 6
+        "seanceId": 0
     },
     {
         "date": "05.08",
@@ -69,7 +15,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 7
+        "seanceId": 1
     },
     {
         "date": "05.08",
@@ -78,7 +24,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 8
+        "seanceId": 2
     },
     {
         "date": "05.08",
@@ -87,7 +33,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 9
+        "seanceId": 3
     },
     {
         "date": "05.08",
@@ -96,7 +42,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 10
+        "seanceId": 4
     },
     {
         "date": "05.08",
@@ -105,7 +51,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 11
+        "seanceId": 5
     },
     {
         "date": "06.08",
@@ -114,7 +60,7 @@
         "theatre": "Шахтёр",
         "cost": 180,
         "is3d": false,
-        "seanceId": 12
+        "seanceId": 6
     },
     {
         "date": "06.08",
@@ -123,7 +69,7 @@
         "theatre": "Шахтёр",
         "cost": 180,
         "is3d": false,
-        "seanceId": 13
+        "seanceId": 7
     },
     {
         "date": "06.08",
@@ -132,7 +78,7 @@
         "theatre": "Шахтёр",
         "cost": 180,
         "is3d": false,
-        "seanceId": 14
+        "seanceId": 8
     },
     {
         "date": "06.08",
@@ -141,7 +87,7 @@
         "theatre": "Шахтёр",
         "cost": 220,
         "is3d": false,
-        "seanceId": 15
+        "seanceId": 9
     },
     {
         "date": "06.08",
@@ -150,7 +96,7 @@
         "theatre": "Шахтёр",
         "cost": 270,
         "is3d": false,
-        "seanceId": 16
+        "seanceId": 10
     },
     {
         "date": "06.08",
@@ -159,7 +105,7 @@
         "theatre": "Шахтёр",
         "cost": 270,
         "is3d": false,
-        "seanceId": 17
+        "seanceId": 11
     },
     {
         "date": "06.08",
@@ -168,12 +114,66 @@
         "theatre": "Шахтёр",
         "cost": 270,
         "is3d": false,
-        "seanceId": 18
+        "seanceId": 12
     },
     {
         "date": "06.08",
         "time": "13:55",
         "filmId": "53534",
+        "theatre": "Шахтёр",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 13
+    },
+    {
+        "date": "06.08",
+        "time": "14:10",
+        "filmId": "52334",
+        "theatre": "Шахтёр",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 14
+    },
+    {
+        "date": "06.08",
+        "time": "15:45",
+        "filmId": "52177",
+        "theatre": "Шахтёр",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 15
+    },
+    {
+        "date": "06.08",
+        "time": "16:00",
+        "filmId": "53594",
+        "theatre": "Шахтёр",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 16
+    },
+    {
+        "date": "06.08",
+        "time": "16:05",
+        "filmId": "52667",
+        "theatre": "Шахтёр",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 17
+    },
+    {
+        "date": "06.08",
+        "time": "17:35",
+        "filmId": "53668",
+        "theatre": "Шахтёр",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 18
+    },
+    {
+        "date": "06.08",
+        "time": "17:45",
+        "filmId": "53625",
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
@@ -181,66 +181,12 @@
     },
     {
         "date": "06.08",
-        "time": "14:10",
-        "filmId": "52334",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 20
-    },
-    {
-        "date": "06.08",
-        "time": "15:45",
-        "filmId": "52177",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 21
-    },
-    {
-        "date": "06.08",
-        "time": "16:00",
-        "filmId": "53594",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 22
-    },
-    {
-        "date": "06.08",
-        "time": "16:05",
-        "filmId": "52667",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 23
-    },
-    {
-        "date": "06.08",
-        "time": "17:35",
-        "filmId": "53668",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 24
-    },
-    {
-        "date": "06.08",
-        "time": "17:45",
-        "filmId": "53625",
-        "theatre": "Шахтёр",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 25
-    },
-    {
-        "date": "06.08",
         "time": "18:10",
         "filmId": "52334",
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 26
+        "seanceId": 20
     },
     {
         "date": "06.08",
@@ -249,7 +195,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 27
+        "seanceId": 21
     },
     {
         "date": "06.08",
@@ -258,7 +204,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 28
+        "seanceId": 22
     },
     {
         "date": "06.08",
@@ -267,7 +213,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 29
+        "seanceId": 23
     },
     {
         "date": "06.08",
@@ -276,7 +222,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 30
+        "seanceId": 24
     },
     {
         "date": "06.08",
@@ -285,7 +231,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 31
+        "seanceId": 25
     },
     {
         "date": "06.08",
@@ -294,7 +240,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 32
+        "seanceId": 26
     },
     {
         "date": "07.08",
@@ -303,7 +249,7 @@
         "theatre": "Шахтёр",
         "cost": 180,
         "is3d": false,
-        "seanceId": 33
+        "seanceId": 27
     },
     {
         "date": "07.08",
@@ -312,7 +258,7 @@
         "theatre": "Шахтёр",
         "cost": 180,
         "is3d": false,
-        "seanceId": 34
+        "seanceId": 28
     },
     {
         "date": "07.08",
@@ -321,7 +267,7 @@
         "theatre": "Шахтёр",
         "cost": 180,
         "is3d": false,
-        "seanceId": 35
+        "seanceId": 29
     },
     {
         "date": "07.08",
@@ -330,7 +276,7 @@
         "theatre": "Шахтёр",
         "cost": 220,
         "is3d": false,
-        "seanceId": 36
+        "seanceId": 30
     },
     {
         "date": "07.08",
@@ -339,7 +285,7 @@
         "theatre": "Шахтёр",
         "cost": 270,
         "is3d": false,
-        "seanceId": 37
+        "seanceId": 31
     },
     {
         "date": "07.08",
@@ -348,7 +294,7 @@
         "theatre": "Шахтёр",
         "cost": 270,
         "is3d": false,
-        "seanceId": 38
+        "seanceId": 32
     },
     {
         "date": "07.08",
@@ -357,7 +303,7 @@
         "theatre": "Шахтёр",
         "cost": 270,
         "is3d": false,
-        "seanceId": 39
+        "seanceId": 33
     },
     {
         "date": "07.08",
@@ -366,7 +312,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 40
+        "seanceId": 34
     },
     {
         "date": "07.08",
@@ -375,7 +321,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 41
+        "seanceId": 35
     },
     {
         "date": "07.08",
@@ -384,7 +330,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 42
+        "seanceId": 36
     },
     {
         "date": "07.08",
@@ -393,7 +339,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 43
+        "seanceId": 37
     },
     {
         "date": "07.08",
@@ -402,7 +348,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 44
+        "seanceId": 38
     },
     {
         "date": "07.08",
@@ -411,7 +357,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 45
+        "seanceId": 39
     },
     {
         "date": "07.08",
@@ -420,7 +366,7 @@
         "theatre": "Шахтёр",
         "cost": 350,
         "is3d": false,
-        "seanceId": 46
+        "seanceId": 40
     },
     {
         "date": "07.08",
@@ -429,7 +375,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 47
+        "seanceId": 41
     },
     {
         "date": "07.08",
@@ -438,7 +384,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 48
+        "seanceId": 42
     },
     {
         "date": "07.08",
@@ -447,7 +393,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 49
+        "seanceId": 43
     },
     {
         "date": "07.08",
@@ -456,7 +402,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 50
+        "seanceId": 44
     },
     {
         "date": "07.08",
@@ -465,7 +411,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 51
+        "seanceId": 45
     },
     {
         "date": "07.08",
@@ -474,7 +420,7 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 52
+        "seanceId": 46
     },
     {
         "date": "07.08",
@@ -483,6 +429,6 @@
         "theatre": "Шахтёр",
         "cost": 370,
         "is3d": false,
-        "seanceId": 53
+        "seanceId": 47
     }
 ]
