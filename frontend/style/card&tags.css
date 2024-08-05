@@ -289,6 +289,10 @@ margin-top: 5px;
   margin-right: 0;
 }
 
+.price {
+  margin-left: auto;
+}
+
 div #length {
   max-width: 0;
   -webkit-transition: max-width 0.3s;
