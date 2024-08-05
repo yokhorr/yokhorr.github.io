@@ -9,7 +9,7 @@ for (let i = 0; i < 15; i++) {
 const posters = document.querySelectorAll('#poster');
 for(let i = 0; i < posters.length; i++) {
   const randomImage = Math.floor(Math.random() * 41);
-  posters[i].src = `../backend/data/films_images/${randomImage}.jpg`;
+  posters[i].src = "/backend/data/films_images/52177.jpg";
 }
 
 const cards = document.querySelectorAll('.card');

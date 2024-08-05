@@ -202,7 +202,7 @@ height: 24px;
   padding: 0.2px 2px;
   background-color: rgba(255, 255, 255, 0.900);
   border-radius: 5px;
-  margin-top: auto;
+  margin-top: 0px;
   display: block; /* Делаем span блочным элементом */
   width: fit-content; /* Задаем ширину по содержимому */
   margin-bottom: 2px; /* Добавляем отступ снизу */
@@ -304,4 +304,11 @@ div #length {
   /* margin-left: -3px; */
 }
 
-
+/* alternative 3d tag */
+/* .threeD {
+  width: 40px;
+  margin-left: auto;
+  border-radius: 5px;
+  margin-top: 0px;
+  opacity: 0.9;
+} */
