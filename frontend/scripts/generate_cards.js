@@ -23,7 +23,7 @@ const jsons = [
 ];
 
 const dir = "../backend/data/cities/";
-const cities = ["ussuriysk", "artem", "vladivostok", "arsenyev", "chernigovka", "dalnegorsk", "nakhodka", "partizansk", "spassk", "vrangel"];
+const cities = ["vladivostok", "nakhodka", "ussuriysk", "artem", "arsenyev", "chernigovka", "dalnegorsk", "partizansk", "spassk", "vrangel"];
 
 // console.log(jsons.length);
 for(let y = 0; y < cities.length; y++) {
