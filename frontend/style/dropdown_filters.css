@@ -58,6 +58,7 @@
   display: flex; /* Изменяем на flexbox */
   flex-wrap: wrap; /* Добавляем возможность перехода на новую строку */
   justify-content: space-between; /* Выравниваем элементы по краям */
+  z-index: 3;
 }
 
 .dropdown {

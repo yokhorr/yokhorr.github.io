@@ -47,6 +47,7 @@
 .date {
   position: relative;
   top: 100px;
+  z-index: 2;
 }
 
 .date .container .ul {
