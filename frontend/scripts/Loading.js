@@ -1,5 +1,3 @@
-console.clear();
-
 const wordContainerEl = document.querySelector("[data-word]");
 const word = wordContainerEl.getAttribute("data-word");
 const wordRepeatTimes = wordContainerEl.getAttribute("data-word-repeat");
