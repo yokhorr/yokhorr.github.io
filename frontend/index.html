@@ -157,7 +157,7 @@
 
     <div class="grid" id="cards">
       <div
-        class="item hidden"
+        class="item"
         data-city="Алабуга"
         data-theatre="Фиктивный"
         data-genres="аниме,анимация,боевик"
@@ -171,14 +171,20 @@
         id="debug"
       >
         <div class="card">
+
           <div class="poster">
             <img id="poster" src="images/defaultImage.jpg" alt="" />
           </div>
+
           <div class="detailsTop">
             <div class="genres">
               <span>Фиктивный</span>
+              <span class="price">3D</span>
+              <!-- alternative 3d tag -->
+              <!-- <img class="threeD" src="images/3d-1.jpg" alt="" /> -->
             </div>
           </div>
+
           <div class="details">
             <div class="genres">
               <span>26 июля</span>
@@ -197,11 +203,13 @@
               <span>боевик</span>
             </div>    
           </div>
+
         </div>
 
         <div class="subcard">
           <span class="details2">Фиктивный фильм</span>
         </div>
+
       </div>
     </div>
 
@@ -222,7 +230,7 @@
 
     <script src="scripts/generate_cards.js"></script>
     <script src="scripts/filter.js"></script>
-    <!-- <script src="random_cards.js"></script> -->
+    <!-- <script src="scripts/random_cards.js"></script> -->
     <script src="scripts/logo.js"></script>
     <script src="scripts/dropdown_filters.js"></script>
     <script src="scripts/date_picker.js"></script>
