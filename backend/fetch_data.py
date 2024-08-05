@@ -177,13 +177,13 @@ def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> lis
 
 
 # write the seance to the dict
-def write_seance(curr_date: str, curr_time: str, triples: list) -> None:
+def write_seance(curr_date: str, curr_time: str, is_3d: bool, triples: list) -> None:
     seances.append({})
     for [nameId, theatre, cost] in triples:
         if theatre == 'Шахтер':  # cosmetics
             theatre = 'Шахтёр'
         elems = [("date", strict_date_format(curr_date)), ("time", curr_time), ("filmId", nameId),
-                 ("theatre", theatre), ("cost", cost), ("seanceId", -1)]
+                 ("theatre", theatre), ("cost", cost), ("is3d", is_3d), ("seanceId", -1)]
         for [key, value] in elems:
             seances[-1][key] = value
 
@@ -212,12 +212,13 @@ def parse_data(city: str, html_seances: str) -> None:
             curr_time, _ = get_clear_text(for_time.get_text())
             # seances[curr_date][curr_time] = []
             for_name = trs[i].find(class_='table-responsive__film-name')
-            write_seance(curr_date, curr_time, name_to_theatre(for_name, curr_date, curr_time, city))
+            is_3d = '3D' in trs[i].find(class_='table-responsive__hall-name').text
+            write_seance(curr_date, curr_time, is_3d, name_to_theatre(for_name, curr_date, curr_time, city))
             if 'rowspan' in for_time.attrs:
                 for j in range(int(for_time['rowspan']) - 1):  # the next `rowspan` elems contain films for `curr_time`
                     i += 1
                     for_name = trs[i].find(class_='table-responsive__film-name')
-                    write_seance(curr_date, curr_time, name_to_theatre(for_name, curr_date, curr_time, city))
+                    write_seance(curr_date, curr_time, is_3d, name_to_theatre(for_name, curr_date, curr_time, city))
         i += 1
 
 
@@ -291,4 +292,4 @@ def fetch_data(city: str) -> None:
 
 
 if __name__ == '__main__':
-    main('artem')
+    main('vladivostok')
