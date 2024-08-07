@@ -270,6 +270,7 @@ def save_data(city: str) -> None:
 def clear_cache(directory: str) -> None:
     for file in glob.glob(f'{directory}/*'):
         os.remove(file)
+    print(f'Cleared {directory}')
 
 
 def main(city: str) -> None:
