@@ -159,7 +159,7 @@ for(let y = 0; y < cities.length; y++) {
 
         let startTime = document.createElement("span");
         startTime.className = "startTime";
-        startTime.innerHTML = `${jsonData2[0][key].time} `;
+        startTime.innerHTML = `${jsonData2[0][key].time}`;
         let length = document.createElement("div");
         length.className = "length";
         length.id = "length";
@@ -182,8 +182,8 @@ for(let y = 0; y < cities.length; y++) {
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
         price.className = "price";
-        price.innerHTML = `${jsonData2[0][key].cost}₽`; 
-        if (jsonData2[0][key].cost !== -1) { // price is not set
+        price.innerHTML = `${jsonData2[0][key].cost} ₽`; 
+        if (jsonData2[0][key].cost !== -1 && jsonData2[0][key].cost) { // price is not set
           genress.appendChild(price);
         }
         let detailshiddenDetailshidden = document.createElement("div");
