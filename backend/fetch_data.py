@@ -134,7 +134,7 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     films_ids.add(film_id)
 
     # first check if file exists not to request it twice
-    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):
+    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):  # NOTE: can remove city and date
         new_film = True
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
@@ -154,6 +154,9 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
         if (elem != '\n' and elem.string != 'Нет сеансов'
                 and elem['class'][0] == 'day-title' and date in elem['data-ga-label']):  # right date found
             rows = date_headings[i + 2].find_next().find_all(class_='film_list seances-table__data-row')  # save seances
+            if not rows:  # crutch for special cases
+                rows = date_headings[i + 2].find_next().find_all(
+                    class_='film_list seances-table__data-row without-border')  # save seances
             break
         i += 1
     for row in rows:
