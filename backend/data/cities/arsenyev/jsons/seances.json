@@ -1,48 +1,12 @@
 [
     {
         "date": "07.08",
-        "time": "16:30",
-        "filmId": "53625",
-        "theatre": "Космос",
-        "cost": null,
-        "is3d": false,
-        "seanceId": 0
-    },
-    {
-        "date": "07.08",
-        "time": "17:30",
-        "filmId": "52334",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 1
-    },
-    {
-        "date": "07.08",
-        "time": "18:40",
-        "filmId": "53625",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 2
-    },
-    {
-        "date": "07.08",
-        "time": "19:10",
-        "filmId": "53668",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 3
-    },
-    {
-        "date": "07.08",
         "time": "20:45",
         "filmId": "52192",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 4
+        "seanceId": 0
     },
     {
         "date": "07.08",
@@ -51,7 +15,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 5
+        "seanceId": 1
     },
     {
         "date": "07.08",
@@ -60,7 +24,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 6
+        "seanceId": 2
     },
     {
         "date": "07.08",
@@ -69,7 +33,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 7
+        "seanceId": 3
     },
     {
         "date": "08.08",
@@ -78,7 +42,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 8
+        "seanceId": 4
     },
     {
         "date": "08.08",
@@ -87,7 +51,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 9
+        "seanceId": 5
     },
     {
         "date": "08.08",
@@ -96,7 +60,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 10
+        "seanceId": 6
     },
     {
         "date": "08.08",
@@ -105,7 +69,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 11
+        "seanceId": 7
     },
     {
         "date": "08.08",
@@ -114,7 +78,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 12
+        "seanceId": 8
     },
     {
         "date": "08.08",
@@ -123,7 +87,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 13
+        "seanceId": 9
     },
     {
         "date": "08.08",
@@ -132,11 +96,47 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 14
+        "seanceId": 10
     },
     {
         "date": "08.08",
         "time": "14:40",
+        "filmId": "53572",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 11
+    },
+    {
+        "date": "08.08",
+        "time": "15:45",
+        "filmId": "53676",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 12
+    },
+    {
+        "date": "08.08",
+        "time": "16:35",
+        "filmId": "53668",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 13
+    },
+    {
+        "date": "08.08",
+        "time": "17:20",
+        "filmId": "52335",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 14
+    },
+    {
+        "date": "08.08",
+        "time": "18:20",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
@@ -145,17 +145,17 @@
     },
     {
         "date": "08.08",
-        "time": "15:45",
-        "filmId": "53676",
+        "time": "19:35",
+        "filmId": "52335",
         "theatre": "Космос",
-        "cost": 300,
+        "cost": 350,
         "is3d": false,
         "seanceId": 16
     },
     {
         "date": "08.08",
-        "time": "16:35",
-        "filmId": "53668",
+        "time": "20:15",
+        "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
@@ -163,7 +163,7 @@
     },
     {
         "date": "08.08",
-        "time": "17:20",
+        "time": "21:50",
         "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
@@ -172,48 +172,12 @@
     },
     {
         "date": "08.08",
-        "time": "18:20",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 19
-    },
-    {
-        "date": "08.08",
-        "time": "19:35",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 20
-    },
-    {
-        "date": "08.08",
-        "time": "20:15",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 21
-    },
-    {
-        "date": "08.08",
-        "time": "21:50",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 22
-    },
-    {
-        "date": "08.08",
         "time": "22:10",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 23
+        "seanceId": 19
     },
     {
         "date": "09.08",
@@ -222,7 +186,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 24
+        "seanceId": 20
     },
     {
         "date": "09.08",
@@ -231,7 +195,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 25
+        "seanceId": 21
     },
     {
         "date": "09.08",
@@ -240,7 +204,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 26
+        "seanceId": 22
     },
     {
         "date": "09.08",
@@ -249,7 +213,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 27
+        "seanceId": 23
     },
     {
         "date": "09.08",
@@ -258,7 +222,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 28
+        "seanceId": 24
     },
     {
         "date": "09.08",
@@ -267,7 +231,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 29
+        "seanceId": 25
     },
     {
         "date": "09.08",
@@ -276,11 +240,47 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 30
+        "seanceId": 26
     },
     {
         "date": "09.08",
         "time": "14:40",
+        "filmId": "53572",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 27
+    },
+    {
+        "date": "09.08",
+        "time": "15:45",
+        "filmId": "53676",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 28
+    },
+    {
+        "date": "09.08",
+        "time": "16:35",
+        "filmId": "53668",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 29
+    },
+    {
+        "date": "09.08",
+        "time": "17:20",
+        "filmId": "52335",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 30
+    },
+    {
+        "date": "09.08",
+        "time": "18:20",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
@@ -289,17 +289,17 @@
     },
     {
         "date": "09.08",
-        "time": "15:45",
-        "filmId": "53676",
+        "time": "19:35",
+        "filmId": "52335",
         "theatre": "Космос",
-        "cost": 300,
+        "cost": 350,
         "is3d": false,
         "seanceId": 32
     },
     {
         "date": "09.08",
-        "time": "16:35",
-        "filmId": "53668",
+        "time": "20:15",
+        "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
@@ -307,7 +307,7 @@
     },
     {
         "date": "09.08",
-        "time": "17:20",
+        "time": "21:50",
         "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
@@ -316,48 +316,12 @@
     },
     {
         "date": "09.08",
-        "time": "18:20",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 35
-    },
-    {
-        "date": "09.08",
-        "time": "19:35",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 36
-    },
-    {
-        "date": "09.08",
-        "time": "20:15",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 37
-    },
-    {
-        "date": "09.08",
-        "time": "21:50",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 38
-    },
-    {
-        "date": "09.08",
         "time": "22:10",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 39
+        "seanceId": 35
     },
     {
         "date": "10.08",
@@ -366,7 +330,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 40
+        "seanceId": 36
     },
     {
         "date": "10.08",
@@ -375,7 +339,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 41
+        "seanceId": 37
     },
     {
         "date": "10.08",
@@ -384,7 +348,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 42
+        "seanceId": 38
     },
     {
         "date": "10.08",
@@ -393,7 +357,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 43
+        "seanceId": 39
     },
     {
         "date": "10.08",
@@ -402,7 +366,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 44
+        "seanceId": 40
     },
     {
         "date": "10.08",
@@ -411,7 +375,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 45
+        "seanceId": 41
     },
     {
         "date": "10.08",
@@ -420,11 +384,47 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 46
+        "seanceId": 42
     },
     {
         "date": "10.08",
         "time": "14:40",
+        "filmId": "53572",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 43
+    },
+    {
+        "date": "10.08",
+        "time": "15:45",
+        "filmId": "53676",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 44
+    },
+    {
+        "date": "10.08",
+        "time": "16:35",
+        "filmId": "53668",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 45
+    },
+    {
+        "date": "10.08",
+        "time": "17:20",
+        "filmId": "52335",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 46
+    },
+    {
+        "date": "10.08",
+        "time": "18:20",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 350,
@@ -433,8 +433,8 @@
     },
     {
         "date": "10.08",
-        "time": "15:45",
-        "filmId": "53676",
+        "time": "19:35",
+        "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
@@ -442,8 +442,8 @@
     },
     {
         "date": "10.08",
-        "time": "16:35",
-        "filmId": "53668",
+        "time": "20:15",
+        "filmId": "53572",
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
@@ -451,7 +451,7 @@
     },
     {
         "date": "10.08",
-        "time": "17:20",
+        "time": "21:50",
         "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
@@ -460,48 +460,12 @@
     },
     {
         "date": "10.08",
-        "time": "18:20",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 51
-    },
-    {
-        "date": "10.08",
-        "time": "19:35",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 52
-    },
-    {
-        "date": "10.08",
-        "time": "20:15",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 53
-    },
-    {
-        "date": "10.08",
-        "time": "21:50",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 54
-    },
-    {
-        "date": "10.08",
         "time": "22:10",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 55
+        "seanceId": 51
     },
     {
         "date": "11.08",
@@ -510,7 +474,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 56
+        "seanceId": 52
     },
     {
         "date": "11.08",
@@ -519,7 +483,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 57
+        "seanceId": 53
     },
     {
         "date": "11.08",
@@ -528,7 +492,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 58
+        "seanceId": 54
     },
     {
         "date": "11.08",
@@ -537,7 +501,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 59
+        "seanceId": 55
     },
     {
         "date": "11.08",
@@ -546,7 +510,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 60
+        "seanceId": 56
     },
     {
         "date": "11.08",
@@ -555,7 +519,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 61
+        "seanceId": 57
     },
     {
         "date": "11.08",
@@ -564,11 +528,47 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 62
+        "seanceId": 58
     },
     {
         "date": "11.08",
         "time": "14:40",
+        "filmId": "53572",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 59
+    },
+    {
+        "date": "11.08",
+        "time": "15:45",
+        "filmId": "53676",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 60
+    },
+    {
+        "date": "11.08",
+        "time": "16:35",
+        "filmId": "53668",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 61
+    },
+    {
+        "date": "11.08",
+        "time": "17:20",
+        "filmId": "52335",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 62
+    },
+    {
+        "date": "11.08",
+        "time": "18:20",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 350,
@@ -577,8 +577,8 @@
     },
     {
         "date": "11.08",
-        "time": "15:45",
-        "filmId": "53676",
+        "time": "19:35",
+        "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
@@ -586,8 +586,8 @@
     },
     {
         "date": "11.08",
-        "time": "16:35",
-        "filmId": "53668",
+        "time": "20:15",
+        "filmId": "53572",
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
@@ -595,7 +595,7 @@
     },
     {
         "date": "11.08",
-        "time": "17:20",
+        "time": "21:50",
         "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
@@ -604,48 +604,12 @@
     },
     {
         "date": "11.08",
-        "time": "18:20",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 67
-    },
-    {
-        "date": "11.08",
-        "time": "19:35",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 68
-    },
-    {
-        "date": "11.08",
-        "time": "20:15",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 69
-    },
-    {
-        "date": "11.08",
-        "time": "21:50",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 70
-    },
-    {
-        "date": "11.08",
         "time": "22:10",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 71
+        "seanceId": 67
     },
     {
         "date": "12.08",
@@ -654,7 +618,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 72
+        "seanceId": 68
     },
     {
         "date": "12.08",
@@ -663,7 +627,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 73
+        "seanceId": 69
     },
     {
         "date": "12.08",
@@ -672,7 +636,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 74
+        "seanceId": 70
     },
     {
         "date": "12.08",
@@ -681,7 +645,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 75
+        "seanceId": 71
     },
     {
         "date": "12.08",
@@ -690,7 +654,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 76
+        "seanceId": 72
     },
     {
         "date": "12.08",
@@ -699,7 +663,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 77
+        "seanceId": 73
     },
     {
         "date": "12.08",
@@ -708,11 +672,47 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 78
+        "seanceId": 74
     },
     {
         "date": "12.08",
         "time": "14:40",
+        "filmId": "53572",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 75
+    },
+    {
+        "date": "12.08",
+        "time": "15:45",
+        "filmId": "53676",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 76
+    },
+    {
+        "date": "12.08",
+        "time": "16:35",
+        "filmId": "53668",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 77
+    },
+    {
+        "date": "12.08",
+        "time": "17:20",
+        "filmId": "52335",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 78
+    },
+    {
+        "date": "12.08",
+        "time": "18:20",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
@@ -721,17 +721,17 @@
     },
     {
         "date": "12.08",
-        "time": "15:45",
-        "filmId": "53676",
+        "time": "19:35",
+        "filmId": "52335",
         "theatre": "Космос",
-        "cost": 300,
+        "cost": 350,
         "is3d": false,
         "seanceId": 80
     },
     {
         "date": "12.08",
-        "time": "16:35",
-        "filmId": "53668",
+        "time": "20:15",
+        "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
@@ -739,7 +739,7 @@
     },
     {
         "date": "12.08",
-        "time": "17:20",
+        "time": "21:50",
         "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
@@ -748,48 +748,12 @@
     },
     {
         "date": "12.08",
-        "time": "18:20",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 83
-    },
-    {
-        "date": "12.08",
-        "time": "19:35",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 84
-    },
-    {
-        "date": "12.08",
-        "time": "20:15",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 85
-    },
-    {
-        "date": "12.08",
-        "time": "21:50",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 86
-    },
-    {
-        "date": "12.08",
         "time": "22:10",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 87
+        "seanceId": 83
     },
     {
         "date": "13.08",
@@ -798,7 +762,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 88
+        "seanceId": 84
     },
     {
         "date": "13.08",
@@ -807,7 +771,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 89
+        "seanceId": 85
     },
     {
         "date": "13.08",
@@ -816,7 +780,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 90
+        "seanceId": 86
     },
     {
         "date": "13.08",
@@ -825,7 +789,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 91
+        "seanceId": 87
     },
     {
         "date": "13.08",
@@ -834,7 +798,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 92
+        "seanceId": 88
     },
     {
         "date": "13.08",
@@ -843,7 +807,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 93
+        "seanceId": 89
     },
     {
         "date": "13.08",
@@ -852,11 +816,47 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 94
+        "seanceId": 90
     },
     {
         "date": "13.08",
         "time": "14:40",
+        "filmId": "53572",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 91
+    },
+    {
+        "date": "13.08",
+        "time": "15:45",
+        "filmId": "53676",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 92
+    },
+    {
+        "date": "13.08",
+        "time": "16:35",
+        "filmId": "53668",
+        "theatre": "Космос",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 93
+    },
+    {
+        "date": "13.08",
+        "time": "17:20",
+        "filmId": "52335",
+        "theatre": "Космос",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 94
+    },
+    {
+        "date": "13.08",
+        "time": "18:20",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
@@ -865,17 +865,17 @@
     },
     {
         "date": "13.08",
-        "time": "15:45",
-        "filmId": "53676",
+        "time": "19:35",
+        "filmId": "52335",
         "theatre": "Космос",
-        "cost": 300,
+        "cost": 350,
         "is3d": false,
         "seanceId": 96
     },
     {
         "date": "13.08",
-        "time": "16:35",
-        "filmId": "53668",
+        "time": "20:15",
+        "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
@@ -883,7 +883,7 @@
     },
     {
         "date": "13.08",
-        "time": "17:20",
+        "time": "21:50",
         "filmId": "52335",
         "theatre": "Космос",
         "cost": 350,
@@ -892,48 +892,12 @@
     },
     {
         "date": "13.08",
-        "time": "18:20",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 99
-    },
-    {
-        "date": "13.08",
-        "time": "19:35",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 100
-    },
-    {
-        "date": "13.08",
-        "time": "20:15",
-        "filmId": "53572",
-        "theatre": "Космос",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 101
-    },
-    {
-        "date": "13.08",
-        "time": "21:50",
-        "filmId": "52335",
-        "theatre": "Космос",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 102
-    },
-    {
-        "date": "13.08",
         "time": "22:10",
         "filmId": "53572",
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 103
+        "seanceId": 99
     },
     {
         "date": "14.08",
@@ -942,7 +906,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 104
+        "seanceId": 100
     },
     {
         "date": "14.08",
@@ -951,7 +915,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 105
+        "seanceId": 101
     },
     {
         "date": "14.08",
@@ -960,7 +924,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 106
+        "seanceId": 102
     },
     {
         "date": "14.08",
@@ -969,7 +933,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 107
+        "seanceId": 103
     },
     {
         "date": "14.08",
@@ -978,7 +942,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 108
+        "seanceId": 104
     },
     {
         "date": "14.08",
@@ -987,7 +951,7 @@
         "theatre": "Космос",
         "cost": 200,
         "is3d": false,
-        "seanceId": 109
+        "seanceId": 105
     },
     {
         "date": "14.08",
@@ -996,7 +960,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 110
+        "seanceId": 106
     },
     {
         "date": "14.08",
@@ -1005,7 +969,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 111
+        "seanceId": 107
     },
     {
         "date": "14.08",
@@ -1014,7 +978,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 112
+        "seanceId": 108
     },
     {
         "date": "14.08",
@@ -1023,7 +987,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 113
+        "seanceId": 109
     },
     {
         "date": "14.08",
@@ -1032,7 +996,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 114
+        "seanceId": 110
     },
     {
         "date": "14.08",
@@ -1041,7 +1005,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 115
+        "seanceId": 111
     },
     {
         "date": "14.08",
@@ -1050,7 +1014,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 116
+        "seanceId": 112
     },
     {
         "date": "14.08",
@@ -1059,7 +1023,7 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 117
+        "seanceId": 113
     },
     {
         "date": "14.08",
@@ -1068,7 +1032,7 @@
         "theatre": "Космос",
         "cost": 350,
         "is3d": false,
-        "seanceId": 118
+        "seanceId": 114
     },
     {
         "date": "14.08",
@@ -1077,6 +1041,6 @@
         "theatre": "Космос",
         "cost": 300,
         "is3d": false,
-        "seanceId": 119
+        "seanceId": 115
     }
 ]
