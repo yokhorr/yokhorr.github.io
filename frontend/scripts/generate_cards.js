@@ -1,5 +1,7 @@
 const citiesTranslation = new Map();
 
+
+
 const translationPairs = [
     ["vladivostok", "Владивосток"],
     ["artem", "Артём"],
@@ -201,11 +203,24 @@ for(let y = 0; y < cities.length; y++) {
         let subcard = document.createElement("div");
         subcard.className = "subcard";
         let details2 = document.createElement("span");
+        const element = document.querySelector('.subcard');
+        const text = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
+        const characterCount = text.length;
+        console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
         details2.className = "details2";
+        if(characterCount > 36) {
+          details2.style.fontSize = "18px";
+        }
+        else{
+          details2.style.fontSize = "25px";
+        }
+        
+        const fontSize = window.getComputedStyle(element).getPropertyValue('font-size');
+
+        console.log(fontSize);
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
         item.appendChild(subcard);
-
       });
       // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
