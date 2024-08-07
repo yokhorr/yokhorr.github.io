@@ -12,8 +12,8 @@
     <link
       rel="stylesheet"  
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-    />
-    <title>BKadre</title>
+      />
+      <title>BKadre</title>
     <link rel="shortcut icon" href="images/icon.png" type="image/x-icon"> <!--"изображение: Flaticon.com". Эта обложка была разработана с использованием ресурсов сайта Flaticon.com.-->
     
     
@@ -26,20 +26,24 @@
     <link rel="stylesheet" href="style/banner.css" />
     <link rel="stylesheet" href="style/end_button.css" />
     <link rel="stylesheet" href="style/loading.css" />
-
-
+    
+    
   </head>
-
+  
   <body>
-
+    
     <!--logo-->
     <div class="logo">
       <h1>BKadre</h1>
     </div>
 
+    <!-- loading -->
+    <span class="word-container" data-word="Loading..." data-word-repeat="4"
+      data-text-colors="#00000,#007FFF,#800080,#FFFFFF" id="loading"></span>
+    
     <!--filters-->
 
-    <div id="filters">
+    <div id="filters" class="hidden">
       <div class="dropdown" id="cityDropdown">
         <div class="select">
           <span class="selected">Владивосток</span>
@@ -148,7 +152,7 @@
 
     <!----date selector-->
 
-    <div class="date">
+    <div class="date hidden" id="calendar">
       <div class="container">
         <ul id="dateSelect"></ul>
       </div>
@@ -216,13 +220,12 @@
     </div>
 
   
-  <div class="end-message" id="endButton">
+  <!-- end button -->
+  <div class="end-message hidden" id="endButton">
     <button class="btn">THE END!</button>
   </div>
 
-  <span class="word-container" data-word="Loading..." data-word-repeat="4" data-text-colors="#00000,#007FFF,#800080,#FFFFFF"></span>
-
-
+    <script src="scripts/loading.js"></script>
     <script src="scripts/generate_cards.js"></script>
     <script src="scripts/filter.js"></script>
     <!-- <script src="random_cards.js"></script> -->
@@ -231,7 +234,6 @@
     <script src="scripts/date_picker.js"></script>
     <script src="scripts/end_button.js"></script>
     <script src="scripts/film_link.js"></script>
-    <script src="scripts/loading.js"></script>
 
   </body>
 </html>

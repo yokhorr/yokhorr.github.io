@@ -16,6 +16,8 @@
   width: 100%;
   min-height: 100%;
     animation: neon-glow 1s linear infinite;
+  /* crutch to move banner lower */
+  margin-top: -350px;
 }
 
 .word {

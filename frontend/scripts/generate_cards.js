@@ -1,3 +1,12 @@
+let firstCardGenerated = false;
+
+function showPage() {
+  document.getElementById("loading").classList.add("hidden");
+  document.getElementById("filters").classList.remove("hidden");
+  document.getElementById("calendar").classList.remove("hidden");
+  document.getElementById("endButton").classList.remove("hidden");
+}
+
 const citiesTranslation = new Map();
 
 const translationPairs = [
@@ -75,9 +84,6 @@ for(let y = 0; y < cities.length; y++) {
         // console.log(currentTime);
         if(NowTime < currentTime) {
             cards.appendChild(item);
-            const now = new Date();
-            const date = now.toISOString();
-            console.log(date);
         }
         let card = document.createElement("div");
         card.className = "card";
@@ -207,6 +213,7 @@ for(let y = 0; y < cities.length; y++) {
       // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
+        showPage();
         const cardsGenerated = new CustomEvent('cardsGenerated');
         document.dispatchEvent(cardsGenerated);
         const now = new Date();
