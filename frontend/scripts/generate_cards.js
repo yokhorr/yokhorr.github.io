@@ -179,7 +179,7 @@ for(let y = 0; y < cities.length; y++) {
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
         price.className = "price";
-        price.innerHTML = `${jsonData2[0][key].cost}₽`; 
+        price.innerHTML = `${jsonData2[0][key].cost} ₽`; 
         if (jsonData2[0][key].cost !== -1) { // price is not set
           genress.appendChild(price);
         }
