@@ -75,6 +75,9 @@ for(let y = 0; y < cities.length; y++) {
         // console.log(currentTime);
         if(NowTime < currentTime) {
             cards.appendChild(item);
+            const now = new Date();
+            const date = now.toISOString();
+            console.log(date);
         }
         let card = document.createElement("div");
         card.className = "card";
