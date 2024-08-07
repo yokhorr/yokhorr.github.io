@@ -70,6 +70,7 @@ for(let y = 0; y < cities.length; y++) {
         );
         item.setAttribute("data-cost", jsonData2[0][key].cost);
         item.setAttribute("data-seancesId", jsonData2[0][key].seanceId);
+        item.setAttribute("data-buyLink", jsonData2[0][key].buyLink);
         const [days, monthes] = `${jsonData2[0][key].date}`.split('.').map(Number);
         const [Hour, Minute] = `${jsonData2[0][key].time}`.split(':').map(Number);
         const NowTime = new Date();
@@ -206,7 +207,7 @@ for(let y = 0; y < cities.length; y++) {
         const element = document.querySelector('.subcard');
         const text = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         const characterCount = text.length;
-        console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
+        // console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
         details2.className = "details2";
         if(characterCount > 36) {
           details2.style.fontSize = "18px";
@@ -217,11 +218,23 @@ for(let y = 0; y < cities.length; y++) {
         
         const fontSize = window.getComputedStyle(element).getPropertyValue('font-size');
 
-        console.log(fontSize);
+        // console.log(fontSize);
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
+
+        if (cities[y] === "vladivostok") {
+          // Create the image element
+          let subcardImage = document.createElement("img");
+          subcardImage.src = "images/ticket.png";
+          subcardImage.className = "subcard-image";
+
+          // Append the image to the subcard
+          subcard.appendChild(subcardImage);
+        }
+
         item.appendChild(subcard);
       });
+
       // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
