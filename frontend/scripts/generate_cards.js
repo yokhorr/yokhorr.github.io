@@ -180,7 +180,7 @@ for(let y = 0; y < cities.length; y++) {
         let price = document.createElement("span"); 
         price.className = "price";
         price.innerHTML = `${jsonData2[0][key].cost} ₽`; 
-        if (jsonData2[0][key].cost !== -1) { // price is not set
+        if (jsonData2[0][key].cost !== -1 && jsonData2[0][key].cost) { // price is not set
           genress.appendChild(price);
         }
         let detailshiddenDetailshidden = document.createElement("div");
