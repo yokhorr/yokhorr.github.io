@@ -134,15 +134,15 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     films_ids.add(film_id)
 
     # first check if file exists not to request it twice
-    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):  # NOTE: can remove city and date
+    if not os.path.isfile(f'films/{film_id}.html'):  # NOTE: can remove city and date
         new_film = True
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
         if response.status_code != 200:
             raise KeyError(f'Response is {response.status_code}')
-        with open(f'films/{city}_{t_date}_{film_id}.html', 'w') as file:
+        with open(f'films/{film_id}.html', 'w') as file:
             file.write(response.text)
-    with open(f'films/{city}_{t_date}_{film_id}.html') as file:
+    with open(f'films/{film_id}.html') as file:
         soup = BeautifulSoup(file, "html.parser")
     if new_film:
         parse_film(soup, film_id)
