@@ -156,7 +156,7 @@ for(let y = 0; y < cities.length; y++) {
 
         let startTime = document.createElement("span");
         startTime.className = "startTime";
-        startTime.innerHTML = `${jsonData2[0][key].time} `;
+        startTime.innerHTML = `${jsonData2[0][key].time}`;
         let length = document.createElement("div");
         length.className = "length";
         length.id = "length";
