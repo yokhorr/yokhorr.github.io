@@ -134,7 +134,7 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     films_ids.add(film_id)
 
     # first check if file exists not to request it twice
-    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):
+    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):  # NOTE: can remove city and date
         new_film = True
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
@@ -154,6 +154,9 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
         if (elem != '\n' and elem.string != 'Нет сеансов'
                 and elem['class'][0] == 'day-title' and date in elem['data-ga-label']):  # right date found
             rows = date_headings[i + 2].find_next().find_all(class_='film_list seances-table__data-row')  # save seances
+            if not rows:  # crutch for special cases
+                rows = date_headings[i + 2].find_next().find_all(
+                    class_='film_list seances-table__data-row without-border')  # save seances
             break
         i += 1
     for row in rows:
@@ -166,20 +169,25 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
 
 
 # list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
-def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int]]:
+def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int, bool]]:
     result = []
     name_id: str = elem.find('a')['href'].split('/')[-2]
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
         cost = parse_cost(elem.find_next()["href"], _theatre, date, time, city)
-        result.append((name_id, _theatre, cost))
+        result.append((name_id, _theatre, cost, False))
+    i = 0
+    for elem_3d in elem.parent.find(class_='table-responsive__hall-name').find_all('label'):
+        if '3D' in elem_3d.get_text().strip():
+            result[i] = (result[i][0], result[i][1], result[i][2], True)
+        i += 1
     return result
 
 
 # write the seance to the dict
-def write_seance(curr_date: str, curr_time: str, is_3d: bool, triples: list) -> None:
-    seances.append({})
-    for [nameId, theatre, cost] in triples:
+def write_seance(curr_date: str, curr_time: str, quadruples: list) -> None:
+    for [nameId, theatre, cost, is_3d] in quadruples:
+        seances.append({})  # create new seance for *every* triplet
         if theatre == 'Шахтер':  # cosmetics
             theatre = 'Шахтёр'
         elems = [("date", strict_date_format(curr_date)), ("time", curr_time), ("filmId", nameId),
@@ -212,13 +220,12 @@ def parse_data(city: str, html_seances: str) -> None:
             curr_time, _ = get_clear_text(for_time.get_text())
             # seances[curr_date][curr_time] = []
             for_name = trs[i].find(class_='table-responsive__film-name')
-            is_3d = '3D' in trs[i].find(class_='table-responsive__hall-name').text
-            write_seance(curr_date, curr_time, is_3d, name_to_theatre(for_name, curr_date, curr_time, city))
+            write_seance(curr_date, curr_time, name_to_theatre(for_name, curr_date, curr_time, city))
             if 'rowspan' in for_time.attrs:
                 for j in range(int(for_time['rowspan']) - 1):  # the next `rowspan` elems contain films for `curr_time`
                     i += 1
                     for_name = trs[i].find(class_='table-responsive__film-name')
-                    write_seance(curr_date, curr_time, is_3d, name_to_theatre(for_name, curr_date, curr_time, city))
+                    write_seance(curr_date, curr_time, name_to_theatre(for_name, curr_date, curr_time, city))
         i += 1
 
 
@@ -266,6 +273,7 @@ def save_data(city: str) -> None:
 def clear_cache(directory: str) -> None:
     for file in glob.glob(f'{directory}/*'):
         os.remove(file)
+    print(f'Cleared {directory}')
 
 
 def main(city: str) -> None:

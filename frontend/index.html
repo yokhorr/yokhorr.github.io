@@ -12,8 +12,8 @@
     <link
       rel="stylesheet"  
       href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-    />
-    <title>BKadre</title>
+      />
+      <title>BKadre</title>
     <link rel="shortcut icon" href="images/icon.png" type="image/x-icon"> <!--"изображение: Flaticon.com". Эта обложка была разработана с использованием ресурсов сайта Flaticon.com.-->
     
     
@@ -25,20 +25,25 @@
     <link rel="stylesheet" href="style/card&tags.css" />
     <link rel="stylesheet" href="style/banner.css" />
     <link rel="stylesheet" href="style/end_button.css" />
-
-
+    <link rel="stylesheet" href="style/loading.css" />
+    
+    
   </head>
-
+  
   <body>
-
+    
     <!--logo-->
     <div class="logo">
       <h1>BKadre</h1>
     </div>
 
+    <!-- loading -->
+    <span class="word-container" data-word="Loading..." data-word-repeat="4"
+      data-text-colors="#00000,#007FFF,#800080,#FFFFFF" id="loading"></span>
+    
     <!--filters-->
 
-    <div id="filters">
+    <div id="filters" class="hidden">
       <div class="dropdown" id="cityDropdown">
         <div class="select">
           <span class="selected">Владивосток</span>
@@ -147,7 +152,7 @@
 
     <!----date selector-->
 
-    <div class="date">
+    <div class="date hidden" id="calendar">
       <div class="container">
         <ul id="dateSelect"></ul>
       </div>
@@ -157,7 +162,7 @@
 
     <div class="grid" id="cards">
       <div
-        class="item"
+        class="item hidden"
         data-city="Алабуга"
         data-theatre="Фиктивный"
         data-genres="аниме,анимация,боевик"
@@ -188,7 +193,7 @@
           <div class="details">
             <div class="genres">
               <span>26 июля</span>
-              <span class="startTime">
+              <span class="startTime" style="padding-right: 0px !important;">
                 14:30
                 <div class="length" id="length">· 1:32</div>
               </span>
@@ -224,11 +229,12 @@
     </div>
 
   
-  <div class="end-message" id="endButton">
+  <!-- end button -->
+  <div class="end-message hidden" id="endButton">
     <button class="btn">THE END!</button>
   </div>
 
-
+    <script src="scripts/loading.js"></script>
     <script src="scripts/generate_cards.js"></script>
     <script src="scripts/filter.js"></script>
     <!-- <script src="scripts/random_cards.js"></script> -->

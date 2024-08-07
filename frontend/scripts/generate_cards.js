@@ -1,3 +1,12 @@
+let firstCardGenerated = false;
+
+function showPage() {
+  document.getElementById("loading").classList.add("hidden");
+  document.getElementById("filters").classList.remove("hidden");
+  document.getElementById("calendar").classList.remove("hidden");
+  document.getElementById("endButton").classList.remove("hidden");
+}
+
 const citiesTranslation = new Map();
 
 
@@ -25,7 +34,7 @@ const jsons = [
 ];
 
 const dir = "../backend/data/cities/";
-const cities = ["ussuriysk", "artem", "vladivostok", "arsenyev", "chernigovka", "dalnegorsk", "nakhodka", "partizansk", "spassk", "vrangel"];
+const cities = ["vladivostok", "nakhodka", "ussuriysk", "artem", "arsenyev", "chernigovka", "dalnegorsk", "partizansk", "spassk", "vrangel"];
 
 // console.log(jsons.length);
 for(let y = 0; y < cities.length; y++) {
@@ -159,7 +168,7 @@ for(let y = 0; y < cities.length; y++) {
 
         let startTime = document.createElement("span");
         startTime.className = "startTime";
-        startTime.innerHTML = `${jsonData2[0][key].time} `;
+        startTime.innerHTML = `${jsonData2[0][key].time}`;
         let length = document.createElement("div");
         length.className = "length";
         length.id = "length";
@@ -182,8 +191,8 @@ for(let y = 0; y < cities.length; y++) {
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
         price.className = "price";
-        price.innerHTML = `${jsonData2[0][key].cost}₽`; 
-        if (jsonData2[0][key].cost !== -1) { // price is not set
+        price.innerHTML = `${jsonData2[0][key].cost} ₽`; 
+        if (jsonData2[0][key].cost !== -1 && jsonData2[0][key].cost) { // price is not set
           genress.appendChild(price);
         }
         let detailshiddenDetailshidden = document.createElement("div");
@@ -238,6 +247,7 @@ for(let y = 0; y < cities.length; y++) {
       // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
+        showPage();
         const cardsGenerated = new CustomEvent('cardsGenerated');
         document.dispatchEvent(cardsGenerated);
         const now = new Date();
