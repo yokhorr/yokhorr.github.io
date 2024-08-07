@@ -174,6 +174,7 @@ def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) 
                 price = int(price_str[1])  # price is set
                 
             return price, is_3d, buy_link
+    raise KeyError(f'No details for {film_id} in {theatre} on {date} at {time}')
 
 
 # list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
