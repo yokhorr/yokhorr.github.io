@@ -178,8 +178,8 @@ def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> lis
 
 # write the seance to the dict
 def write_seance(curr_date: str, curr_time: str, is_3d: bool, triples: list) -> None:
-    seances.append({})
     for [nameId, theatre, cost] in triples:
+        seances.append({})  # create new seance for *every* triplet
         if theatre == 'Шахтер':  # cosmetics
             theatre = 'Шахтёр'
         elems = [("date", strict_date_format(curr_date)), ("time", curr_time), ("filmId", nameId),
