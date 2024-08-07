@@ -174,7 +174,7 @@ def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) 
                 price = int(price_str[1])  # price is set
                 
             return price, is_3d, buy_link
-    raise KeyError(f'No details for {film_id} in {theatre} on {date} at {time}')
+    print(f'No details for {film_id} in {theatre} on {date} at {time}')
 
 
 # list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
@@ -183,7 +183,10 @@ def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> lis
     name_id: str = elem.find('a')['href'].split('/')[-2]
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
-        cost, is3d, buy_link = parse_film_details(elem.find_next()["href"], _theatre, date, time, city)
+        details = parse_film_details(elem.find_next()["href"], _theatre, date, time, city)
+        if not details:  # apparently when page is parsed at the last minute
+            continue     # there are no details for this seance
+        cost, is3d, buy_link = details
         result.append((name_id, _theatre, cost, is3d, buy_link))
     return result
 
