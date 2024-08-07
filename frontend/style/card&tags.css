@@ -115,6 +115,11 @@
   padding: 15px;
   margin-left: 10px;
   background-color: rgb(255, 184, 184);
+  transition: filter 0.2s ease-in-out;
+}
+
+.subcard-image:hover {
+  filter: contrast(80%);
 }
 
 .card .poster {

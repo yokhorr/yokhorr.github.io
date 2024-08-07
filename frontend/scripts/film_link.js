@@ -25,9 +25,10 @@ document.addEventListener("cardsGenerated", () => {
                 setTimeout(() => {
                     const filmId = subcard.parentElement.dataset["filmid"];
                     const city = subcard.parentElement.dataset["city"];
+                    const buyLink = subcard.parentElement.dataset["buylink"];
                     let url;
                     if (event.target.tagName === "IMG") {
-                        url = `https://kino.vl.ru/films/${filmId}?city=${cities_translation[city]}`
+                        url = `https://kino.vl.ru/films/${filmId}?city=${cities_translation[city]}/#seanceId=${buyLink}`
                     } else {
                         url = `https://kino.vl.ru/films/${filmId}?city=${cities_translation[city]}`;
                     }

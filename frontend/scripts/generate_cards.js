@@ -218,7 +218,7 @@ for(let y = 0; y < cities.length; y++) {
         const characterCount = text.length;
         // console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
         details2.className = "details2";
-        if(characterCount > 36) {
+        if(characterCount > 35) {
           details2.style.fontSize = "18px";
         }
         else{
@@ -231,7 +231,7 @@ for(let y = 0; y < cities.length; y++) {
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
 
-        if (cities[y] === "vladivostok") {
+        if (jsonData2[0][key].buyLink) {
           // Create the image element
           let subcardImage = document.createElement("img");
           subcardImage.src = "images/ticket.png";
