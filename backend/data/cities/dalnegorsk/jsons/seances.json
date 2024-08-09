@@ -1,75 +1,12 @@
 [
     {
         "date": "09.08",
-        "time": "10:10",
-        "filmId": "53813",
-        "theatre": "Брусника",
-        "cost": 200,
-        "is3d": false,
-        "seanceId": 0
-    },
-    {
-        "date": "09.08",
-        "time": "12:15",
-        "filmId": "53668",
-        "theatre": "Брусника",
-        "cost": 170,
-        "is3d": false,
-        "seanceId": 1
-    },
-    {
-        "date": "09.08",
-        "time": "12:45",
-        "filmId": "53221",
-        "theatre": "Брусника",
-        "cost": 170,
-        "is3d": false,
-        "seanceId": 2
-    },
-    {
-        "date": "09.08",
-        "time": "14:20",
-        "filmId": "53572",
-        "theatre": "Брусника",
-        "cost": 250,
-        "is3d": false,
-        "seanceId": 3
-    },
-    {
-        "date": "09.08",
-        "time": "14:30",
-        "filmId": "53676",
-        "theatre": "Брусника",
-        "cost": 220,
-        "is3d": false,
-        "seanceId": 4
-    },
-    {
-        "date": "09.08",
-        "time": "16:15",
-        "filmId": "53573",
-        "theatre": "Брусника",
-        "cost": 220,
-        "is3d": false,
-        "seanceId": 5
-    },
-    {
-        "date": "09.08",
-        "time": "16:30",
-        "filmId": "53572",
-        "theatre": "Брусника",
-        "cost": 250,
-        "is3d": false,
-        "seanceId": 6
-    },
-    {
-        "date": "09.08",
         "time": "18:25",
         "filmId": "53812",
         "theatre": "Брусника",
         "cost": 300,
         "is3d": false,
-        "seanceId": 7
+        "seanceId": 0
     },
     {
         "date": "09.08",
@@ -78,7 +15,7 @@
         "theatre": "Брусника",
         "cost": 300,
         "is3d": false,
-        "seanceId": 8
+        "seanceId": 1
     },
     {
         "date": "09.08",
@@ -87,7 +24,7 @@
         "theatre": "Брусника",
         "cost": 170,
         "is3d": false,
-        "seanceId": 9
+        "seanceId": 2
     },
     {
         "date": "10.08",
@@ -96,7 +33,7 @@
         "theatre": "Брусника",
         "cost": 200,
         "is3d": false,
-        "seanceId": 10
+        "seanceId": 3
     },
     {
         "date": "10.08",
@@ -105,7 +42,7 @@
         "theatre": "Брусника",
         "cost": 170,
         "is3d": false,
-        "seanceId": 11
+        "seanceId": 4
     },
     {
         "date": "10.08",
@@ -114,7 +51,7 @@
         "theatre": "Брусника",
         "cost": 170,
         "is3d": false,
-        "seanceId": 12
+        "seanceId": 5
     },
     {
         "date": "10.08",
@@ -123,7 +60,7 @@
         "theatre": "Брусника",
         "cost": 300,
         "is3d": false,
-        "seanceId": 13
+        "seanceId": 6
     },
     {
         "date": "10.08",
@@ -132,7 +69,7 @@
         "theatre": "Брусника",
         "cost": 270,
         "is3d": false,
-        "seanceId": 14
+        "seanceId": 7
     },
     {
         "date": "10.08",
@@ -141,11 +78,74 @@
         "theatre": "Брусника",
         "cost": 270,
         "is3d": false,
-        "seanceId": 15
+        "seanceId": 8
     },
     {
         "date": "10.08",
         "time": "16:30",
+        "filmId": "53572",
+        "theatre": "Брусника",
+        "cost": 300,
+        "is3d": false,
+        "seanceId": 9
+    },
+    {
+        "date": "10.08",
+        "time": "18:25",
+        "filmId": "53812",
+        "theatre": "Брусника",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 10
+    },
+    {
+        "date": "10.08",
+        "time": "18:35",
+        "filmId": "53572",
+        "theatre": "Брусника",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 11
+    },
+    {
+        "date": "10.08",
+        "time": "19:50",
+        "filmId": "53677",
+        "theatre": "Брусника",
+        "cost": 170,
+        "is3d": false,
+        "seanceId": 12
+    },
+    {
+        "date": "11.08",
+        "time": "10:10",
+        "filmId": "53813",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "seanceId": 13
+    },
+    {
+        "date": "11.08",
+        "time": "12:15",
+        "filmId": "53668",
+        "theatre": "Брусника",
+        "cost": 170,
+        "is3d": false,
+        "seanceId": 14
+    },
+    {
+        "date": "11.08",
+        "time": "12:45",
+        "filmId": "53221",
+        "theatre": "Брусника",
+        "cost": 170,
+        "is3d": false,
+        "seanceId": 15
+    },
+    {
+        "date": "11.08",
+        "time": "14:20",
         "filmId": "53572",
         "theatre": "Брусника",
         "cost": 300,
@@ -153,130 +153,67 @@
         "seanceId": 16
     },
     {
-        "date": "10.08",
-        "time": "18:25",
-        "filmId": "53812",
+        "date": "11.08",
+        "time": "14:30",
+        "filmId": "53676",
         "theatre": "Брусника",
-        "cost": 350,
+        "cost": 270,
         "is3d": false,
         "seanceId": 17
     },
     {
-        "date": "10.08",
-        "time": "18:35",
-        "filmId": "53572",
+        "date": "11.08",
+        "time": "16:15",
+        "filmId": "53573",
         "theatre": "Брусника",
-        "cost": 350,
+        "cost": 270,
         "is3d": false,
         "seanceId": 18
     },
     {
-        "date": "10.08",
-        "time": "19:50",
-        "filmId": "53677",
+        "date": "11.08",
+        "time": "16:30",
+        "filmId": "53572",
         "theatre": "Брусника",
-        "cost": 170,
+        "cost": 300,
         "is3d": false,
         "seanceId": 19
     },
     {
         "date": "11.08",
-        "time": "10:10",
-        "filmId": "53813",
+        "time": "18:25",
+        "filmId": "53812",
         "theatre": "Брусника",
-        "cost": 200,
+        "cost": 350,
         "is3d": false,
         "seanceId": 20
     },
     {
         "date": "11.08",
-        "time": "12:15",
-        "filmId": "53668",
+        "time": "18:35",
+        "filmId": "53572",
         "theatre": "Брусника",
-        "cost": 170,
+        "cost": 350,
         "is3d": false,
         "seanceId": 21
     },
     {
         "date": "11.08",
-        "time": "12:45",
-        "filmId": "53221",
+        "time": "19:50",
+        "filmId": "53677",
         "theatre": "Брусника",
         "cost": 170,
         "is3d": false,
         "seanceId": 22
     },
     {
-        "date": "11.08",
-        "time": "14:20",
-        "filmId": "53572",
-        "theatre": "Брусника",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 23
-    },
-    {
-        "date": "11.08",
-        "time": "14:30",
-        "filmId": "53676",
-        "theatre": "Брусника",
-        "cost": 270,
-        "is3d": false,
-        "seanceId": 24
-    },
-    {
-        "date": "11.08",
-        "time": "16:15",
-        "filmId": "53573",
-        "theatre": "Брусника",
-        "cost": 270,
-        "is3d": false,
-        "seanceId": 25
-    },
-    {
-        "date": "11.08",
-        "time": "16:30",
-        "filmId": "53572",
-        "theatre": "Брусника",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 26
-    },
-    {
-        "date": "11.08",
-        "time": "18:25",
-        "filmId": "53812",
-        "theatre": "Брусника",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 27
-    },
-    {
-        "date": "11.08",
-        "time": "18:35",
-        "filmId": "53572",
-        "theatre": "Брусника",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 28
-    },
-    {
-        "date": "11.08",
-        "time": "19:50",
-        "filmId": "53677",
-        "theatre": "Брусника",
-        "cost": 170,
-        "is3d": false,
-        "seanceId": 29
-    },
-    {
         "date": "14.08",
         "time": "10:10",
         "filmId": "53813",
         "theatre": "Брусника",
         "cost": 150,
         "is3d": false,
-        "seanceId": 30
+        "seanceId": 23
     },
     {
         "date": "14.08",
@@ -285,7 +222,7 @@
         "theatre": "Брусника",
         "cost": 150,
         "is3d": false,
-        "seanceId": 31
+        "seanceId": 24
     },
     {
         "date": "14.08",
@@ -294,7 +231,7 @@
         "theatre": "Брусника",
         "cost": 150,
         "is3d": false,
-        "seanceId": 32
+        "seanceId": 25
     },
     {
         "date": "14.08",
@@ -303,7 +240,7 @@
         "theatre": "Брусника",
         "cost": 200,
         "is3d": false,
-        "seanceId": 33
+        "seanceId": 26
     },
     {
         "date": "14.08",
@@ -312,7 +249,7 @@
         "theatre": "Брусника",
         "cost": 170,
         "is3d": false,
-        "seanceId": 34
+        "seanceId": 27
     },
     {
         "date": "14.08",
@@ -321,7 +258,7 @@
         "theatre": "Брусника",
         "cost": 170,
         "is3d": false,
-        "seanceId": 35
+        "seanceId": 28
     },
     {
         "date": "14.08",
@@ -330,7 +267,7 @@
         "theatre": "Брусника",
         "cost": 200,
         "is3d": false,
-        "seanceId": 36
+        "seanceId": 29
     },
     {
         "date": "14.08",
@@ -339,7 +276,7 @@
         "theatre": "Брусника",
         "cost": 250,
         "is3d": false,
-        "seanceId": 37
+        "seanceId": 30
     },
     {
         "date": "14.08",
@@ -348,7 +285,7 @@
         "theatre": "Брусника",
         "cost": 250,
         "is3d": false,
-        "seanceId": 38
+        "seanceId": 31
     },
     {
         "date": "14.08",
@@ -357,6 +294,6 @@
         "theatre": "Брусника",
         "cost": 150,
         "is3d": false,
-        "seanceId": 39
+        "seanceId": 32
     }
 ]
