@@ -104,15 +104,10 @@ function validate(card) {
     };
     const cardParametersKeys = Object.keys(cardParameters);
 
-    // console.log(cardParameters);
-    // console.log(criteriaArrays);
-    // console.log(antiGenreSelectSet);
-    // console.log(ageSelectParam);
-
     for (let i = 0; i < criteriaArraysKeys.length; i++) {
         if (criteriaArrays[criteriaArraysKeys[i]].size === 0) continue;
         if (!criteriaArrays[criteriaArraysKeys[i]].intersection(cardParameters[cardParametersKeys[i]]).size) {
-                card.getElementsByClassName("hiddenDetails")[0].classList.add("hidden");
+                card.getElementsByClassName("hiddenDetails")[0].classList.add("hidden");  // disable tag animation; will be back enabled when hovered
                 card.classList.add("hidden");
                 return;
         }
