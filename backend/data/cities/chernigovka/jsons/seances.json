@@ -1,37 +1,34 @@
 [
     {
-        "date": "08.08",
+        "date": "10.08",
         "time": "10:15",
         "filmId": "53677",
         "theatre": "Импульс",
-        "cost": 300,
+        "cost": 350,
         "is3d": false,
-        "buyLink": null,
         "seanceId": 0
     },
     {
-        "date": "08.08",
+        "date": "10.08",
         "time": "12:00",
         "filmId": "53813",
         "theatre": "Импульс",
-        "cost": 350,
+        "cost": 300,
         "is3d": false,
-        "buyLink": null,
         "seanceId": 1
     },
     {
-        "date": "08.08",
+        "date": "10.08",
         "time": "13:55",
-        "filmId": "53676",
+        "filmId": "53668",
         "theatre": "Импульс",
         "cost": 300,
         "is3d": false,
-        "buyLink": null,
         "seanceId": 2
     },
     {
-        "date": "08.08",
-        "time": "15:30",
+        "date": "10.08",
+        "time": "15:40",
         "filmId": "53572",
         "theatre": "Импульс",
         "cost": 350,
@@ -40,9 +37,18 @@
         "seanceId": 3
     },
     {
-        "date": "08.08",
-        "time": "17:25",
+        "date": "10.08",
+        "time": "17:35",
         "filmId": "53812",
+        "theatre": "Импульс",
+        "cost": 350,
+        "is3d": false,
+        "seanceId": 4
+    },
+    {
+        "date": "10.08",
+        "time": "19:30",
+        "filmId": "53572",
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
@@ -50,9 +56,9 @@
         "seanceId": 4
     },
     {
-        "date": "08.08",
-        "time": "19:20",
-        "filmId": "53572",
+        "date": "10.08",
+        "time": "21:25",
+        "filmId": "53815",
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
@@ -60,49 +66,46 @@
         "seanceId": 5
     },
     {
-        "date": "08.08",
-        "time": "21:15",
-        "filmId": "53815",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 6
-    },
-    {
-        "date": "09.08",
+        "date": "11.08",
         "time": "10:15",
         "filmId": "53677",
         "theatre": "Импульс",
         "cost": 300,
         "is3d": false,
-        "buyLink": null,
         "seanceId": 7
     },
     {
-        "date": "09.08",
+        "date": "11.08",
         "time": "12:00",
         "filmId": "53813",
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
-        "buyLink": null,
         "seanceId": 8
     },
     {
-        "date": "09.08",
+        "date": "11.08",
         "time": "13:55",
-        "filmId": "53676",
+        "filmId": "53668",
         "theatre": "Импульс",
         "cost": 300,
+        "is3d": false,
+        "seanceId": 9
+    },
+    {
+        "date": "11.08",
+        "time": "15:40",
+        "filmId": "53572",
+        "theatre": "Импульс",
+        "cost": 350,
         "is3d": false,
         "buyLink": null,
         "seanceId": 9
     },
     {
-        "date": "09.08",
-        "time": "15:30",
-        "filmId": "53572",
+        "date": "11.08",
+        "time": "17:35",
+        "filmId": "53812",
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
@@ -110,9 +113,9 @@
         "seanceId": 10
     },
     {
-        "date": "09.08",
-        "time": "17:25",
-        "filmId": "53812",
+        "date": "11.08",
+        "time": "19:30",
+        "filmId": "53572",
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
@@ -120,164 +123,14 @@
         "seanceId": 11
     },
     {
-        "date": "09.08",
-        "time": "19:20",
-        "filmId": "53572",
+        "date": "11.08",
+        "time": "21:25",
+        "filmId": "53815",
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
         "buyLink": null,
         "seanceId": 12
-    },
-    {
-        "date": "09.08",
-        "time": "21:15",
-        "filmId": "53815",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 13
-    },
-    {
-        "date": "10.08",
-        "time": "10:15",
-        "filmId": "53677",
-        "theatre": "Импульс",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 14
-    },
-    {
-        "date": "10.08",
-        "time": "12:00",
-        "filmId": "53813",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 15
-    },
-    {
-        "date": "10.08",
-        "time": "13:55",
-        "filmId": "53668",
-        "theatre": "Импульс",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 16
-    },
-    {
-        "date": "10.08",
-        "time": "15:40",
-        "filmId": "53572",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 17
-    },
-    {
-        "date": "10.08",
-        "time": "17:35",
-        "filmId": "53812",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 18
-    },
-    {
-        "date": "10.08",
-        "time": "19:30",
-        "filmId": "53572",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 19
-    },
-    {
-        "date": "10.08",
-        "time": "21:25",
-        "filmId": "53815",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 20
-    },
-    {
-        "date": "11.08",
-        "time": "10:15",
-        "filmId": "53677",
-        "theatre": "Импульс",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 21
-    },
-    {
-        "date": "11.08",
-        "time": "12:00",
-        "filmId": "53813",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 22
-    },
-    {
-        "date": "11.08",
-        "time": "13:55",
-        "filmId": "53668",
-        "theatre": "Импульс",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 23
-    },
-    {
-        "date": "11.08",
-        "time": "15:40",
-        "filmId": "53572",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 24
-    },
-    {
-        "date": "11.08",
-        "time": "17:35",
-        "filmId": "53812",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 25
-    },
-    {
-        "date": "11.08",
-        "time": "19:30",
-        "filmId": "53572",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 26
-    },
-    {
-        "date": "11.08",
-        "time": "21:25",
-        "filmId": "53815",
-        "theatre": "Импульс",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null,
-        "seanceId": 27
     },
     {
         "date": "14.08",
@@ -286,8 +139,7 @@
         "theatre": "Импульс",
         "cost": 300,
         "is3d": false,
-        "buyLink": null,
-        "seanceId": 28
+        "seanceId": 14
     },
     {
         "date": "14.08",
@@ -296,8 +148,7 @@
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
-        "buyLink": null,
-        "seanceId": 29
+        "seanceId": 15
     },
     {
         "date": "14.08",
@@ -306,8 +157,7 @@
         "theatre": "Импульс",
         "cost": 300,
         "is3d": false,
-        "buyLink": null,
-        "seanceId": 30
+        "seanceId": 16
     },
     {
         "date": "14.08",
@@ -316,8 +166,7 @@
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
-        "buyLink": null,
-        "seanceId": 31
+        "seanceId": 17
     },
     {
         "date": "14.08",
@@ -326,7 +175,6 @@
         "theatre": "Импульс",
         "cost": 350,
         "is3d": false,
-        "buyLink": null,
-        "seanceId": 32
+        "seanceId": 18
     }
 ]
