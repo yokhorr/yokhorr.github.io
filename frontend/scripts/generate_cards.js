@@ -1,5 +1,3 @@
-let firstCardGenerated = false;
-
 function showPage() {
   document.getElementById("loading").classList.add("hidden");
   document.getElementById("filters").classList.remove("hidden");
@@ -8,7 +6,6 @@ function showPage() {
 }
 
 const citiesTranslation = new Map();
-
 
 
 const translationPairs = [
@@ -97,8 +94,7 @@ for(let y = 0; y < cities.length; y++) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
         } 
         else {
-            console.log("no image");
-            re.src = `../backend/data/films_images/No_Image_Available.jpg`;
+            re.src = `../fronted/images/No_Image_Available.jpg`;
         }
         // re.alt = "";
         poster.appendChild(re);
