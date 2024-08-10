@@ -101,6 +101,12 @@
   /* transition: filter 0.2s ease-in-out; */
 }
 
+.subcard span {
+    font-family: "Orelega One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
 .subcard:hover,
 .card:hover ~ .subcard,
 .card:hover ~ .subcard span:not(.subcardImage) {
@@ -256,6 +262,9 @@ padding: 0.5rem 0;
 .card .genres {
 color: black;
 padding: 0.2rem 0;
+font-family: "Orelega One", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .card .details .genres span {
@@ -364,7 +373,7 @@ margin-top: 5px;
 }
 
 .startTime {
-  padding-right: 3px !important;
+  padding-right: 2px !important;
 }
 
 .price {
