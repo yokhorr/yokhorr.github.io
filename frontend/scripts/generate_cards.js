@@ -231,7 +231,7 @@ for(let y = 0; y < cities.length; y++) {
           // Create the image element
           let subcardImage = document.createElement("img");
           subcardImage.src = "images/ticket.png";
-          subcardImage.className = "subcard-image";
+          subcardImage.className = "subcardImage";
 
           // Append the image to the subcard
           subcard.appendChild(subcardImage);
