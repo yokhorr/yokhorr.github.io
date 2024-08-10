@@ -112,6 +112,7 @@ function validate(card) {
     for (let i = 0; i < criteriaArraysKeys.length; i++) {
         if (criteriaArrays[criteriaArraysKeys[i]].size === 0) continue;
         if (!criteriaArrays[criteriaArraysKeys[i]].intersection(cardParameters[cardParametersKeys[i]]).size) {
+                card.getElementsByClassName("hiddenDetails")[0].classList.add("hidden");
                 card.classList.add("hidden");
                 return;
         }
