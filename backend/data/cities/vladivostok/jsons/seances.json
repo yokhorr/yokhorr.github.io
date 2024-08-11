@@ -1,507 +1,12 @@
 [
     {
         "date": "11.08",
-        "time": "16:30",
+        "time": "20:20",
         "filmId": "53572",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
+        "theatre": "Океан IMAX",
+        "cost": 470,
         "is3d": false,
         "seanceId": 0
-    },
-    {
-        "date": "11.08",
-        "time": "16:30",
-        "filmId": "52080",
-        "theatre": "Океан IMAX",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 1
-    },
-    {
-        "date": "11.08",
-        "time": "16:30",
-        "filmId": "52335",
-        "theatre": "Черёмушки",
-        "cost": 470,
-        "is3d": true,
-        "seanceId": 2
-    },
-    {
-        "date": "11.08",
-        "time": "16:30",
-        "filmId": "53222",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 3
-    },
-    {
-        "date": "11.08",
-        "time": "16:35",
-        "filmId": "52177",
-        "theatre": "Уссури",
-        "cost": 440,
-        "is3d": true,
-        "seanceId": 4
-    },
-    {
-        "date": "11.08",
-        "time": "16:40",
-        "filmId": "52334",
-        "theatre": "Черёмушки",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 5
-    },
-    {
-        "date": "11.08",
-        "time": "16:40",
-        "filmId": "53668",
-        "theatre": "Черёмушки",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 6
-    },
-    {
-        "date": "11.08",
-        "time": "16:45",
-        "filmId": "52334",
-        "theatre": "Иллюзион",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 7
-    },
-    {
-        "date": "11.08",
-        "time": "16:45",
-        "filmId": "52335",
-        "theatre": "Владивосток",
-        "cost": 450,
-        "is3d": false,
-        "seanceId": 8
-    },
-    {
-        "date": "11.08",
-        "time": "16:55",
-        "filmId": "52334",
-        "theatre": "Нептун",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 9
-    },
-    {
-        "date": "11.08",
-        "time": "17:00",
-        "filmId": "52334",
-        "theatre": "Уссури",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 10
-    },
-    {
-        "date": "11.08",
-        "time": "17:00",
-        "filmId": "53572",
-        "theatre": "Москва",
-        "cost": 400,
-        "is3d": false,
-        "seanceId": 11
-    },
-    {
-        "date": "11.08",
-        "time": "17:00",
-        "filmId": "52177",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 590,
-        "is3d": false,
-        "seanceId": 12
-    },
-    {
-        "date": "11.08",
-        "time": "17:00",
-        "filmId": "52335",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 920,
-        "is3d": true,
-        "seanceId": 13
-    },
-    {
-        "date": "11.08",
-        "time": "17:05",
-        "filmId": "53813",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "seanceId": 14
-    },
-    {
-        "date": "11.08",
-        "time": "17:05",
-        "filmId": "52177",
-        "theatre": "Иллюзион",
-        "cost": 440,
-        "is3d": true,
-        "seanceId": 15
-    },
-    {
-        "date": "11.08",
-        "time": "17:10",
-        "filmId": "53572",
-        "theatre": "Иллюзион",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 16
-    },
-    {
-        "date": "11.08",
-        "time": "17:10",
-        "filmId": "52335",
-        "theatre": "Океан IMAX",
-        "cost": 470,
-        "is3d": true,
-        "seanceId": 17
-    },
-    {
-        "date": "11.08",
-        "time": "17:15",
-        "filmId": "53572",
-        "theatre": "Черёмушки",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 18
-    },
-    {
-        "date": "11.08",
-        "time": "17:20",
-        "filmId": "52335",
-        "theatre": "Уссури",
-        "cost": 1400,
-        "is3d": true,
-        "seanceId": 19
-    },
-    {
-        "date": "11.08",
-        "time": "17:30",
-        "filmId": "53668",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 430,
-        "is3d": false,
-        "seanceId": 20
-    },
-    {
-        "date": "11.08",
-        "time": "17:40",
-        "filmId": "52335",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": true,
-        "seanceId": 21
-    },
-    {
-        "date": "11.08",
-        "time": "18:00",
-        "filmId": "53813",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 460,
-        "is3d": false,
-        "seanceId": 22
-    },
-    {
-        "date": "11.08",
-        "time": "18:15",
-        "filmId": "53572",
-        "theatre": "Океан IMAX",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 23
-    },
-    {
-        "date": "11.08",
-        "time": "18:15",
-        "filmId": "52335",
-        "theatre": "Океан IMAX",
-        "cost": 510,
-        "is3d": false,
-        "seanceId": 24
-    },
-    {
-        "date": "11.08",
-        "time": "18:15",
-        "filmId": "52335",
-        "theatre": "Уссури",
-        "cost": 300,
-        "is3d": true,
-        "seanceId": 25
-    },
-    {
-        "date": "11.08",
-        "time": "18:15",
-        "filmId": "52335",
-        "theatre": "Черёмушки",
-        "cost": 470,
-        "is3d": true,
-        "seanceId": 26
-    },
-    {
-        "date": "11.08",
-        "time": "18:20",
-        "filmId": "53878",
-        "theatre": "Уссури",
-        "cost": 1300,
-        "is3d": false,
-        "seanceId": 27
-    },
-    {
-        "date": "11.08",
-        "time": "18:20",
-        "filmId": "52335",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 920,
-        "is3d": false,
-        "seanceId": 28
-    },
-    {
-        "date": "11.08",
-        "time": "18:25",
-        "filmId": "52335",
-        "theatre": "Иллюзион",
-        "cost": 480,
-        "is3d": true,
-        "seanceId": 29
-    },
-    {
-        "date": "11.08",
-        "time": "18:35",
-        "filmId": "53572",
-        "theatre": "Нептун",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 30
-    },
-    {
-        "date": "11.08",
-        "time": "18:40",
-        "filmId": "53572",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "seanceId": 31
-    },
-    {
-        "date": "11.08",
-        "time": "18:40",
-        "filmId": "53534",
-        "theatre": "Черёмушки",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 32
-    },
-    {
-        "date": "11.08",
-        "time": "18:45",
-        "filmId": "53813",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "seanceId": 33
-    },
-    {
-        "date": "11.08",
-        "time": "18:50",
-        "filmId": "52334",
-        "theatre": "Черёмушки",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 34
-    },
-    {
-        "date": "11.08",
-        "time": "18:50",
-        "filmId": "53878",
-        "theatre": "Уссури",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 35
-    },
-    {
-        "date": "11.08",
-        "time": "19:00",
-        "filmId": "52334",
-        "theatre": "Иллюзион",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 36
-    },
-    {
-        "date": "11.08",
-        "time": "19:00",
-        "filmId": "52334",
-        "theatre": "Океан IMAX",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 37
-    },
-    {
-        "date": "11.08",
-        "time": "19:00",
-        "filmId": "53572",
-        "theatre": "Уссури",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 38
-    },
-    {
-        "date": "11.08",
-        "time": "19:00",
-        "filmId": "52335",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 570,
-        "is3d": false,
-        "seanceId": 39
-    },
-    {
-        "date": "11.08",
-        "time": "19:10",
-        "filmId": "53219",
-        "theatre": "Уссури",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 40
-    },
-    {
-        "date": "11.08",
-        "time": "19:10",
-        "filmId": "53572",
-        "theatre": "Владивосток",
-        "cost": 450,
-        "is3d": false,
-        "seanceId": 41
-    },
-    {
-        "date": "11.08",
-        "time": "19:10",
-        "filmId": "52335",
-        "theatre": "Москва",
-        "cost": 400,
-        "is3d": false,
-        "seanceId": 42
-    },
-    {
-        "date": "11.08",
-        "time": "19:10",
-        "filmId": "52334",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 590,
-        "is3d": false,
-        "seanceId": 43
-    },
-    {
-        "date": "11.08",
-        "time": "19:15",
-        "filmId": "53572",
-        "theatre": "Иллюзион",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 44
-    },
-    {
-        "date": "11.08",
-        "time": "19:15",
-        "filmId": "52335",
-        "theatre": "Черёмушки",
-        "cost": 470,
-        "is3d": true,
-        "seanceId": 45
-    },
-    {
-        "date": "11.08",
-        "time": "19:20",
-        "filmId": "53534",
-        "theatre": "Иллюзион",
-        "cost": 440,
-        "is3d": false,
-        "seanceId": 46
-    },
-    {
-        "date": "11.08",
-        "time": "19:20",
-        "filmId": "52080",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "seanceId": 47
-    },
-    {
-        "date": "11.08",
-        "time": "19:30",
-        "filmId": "53572",
-        "theatre": "Черёмушки",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 48
-    },
-    {
-        "date": "11.08",
-        "time": "19:30",
-        "filmId": "53534",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 430,
-        "is3d": false,
-        "seanceId": 49
-    },
-    {
-        "date": "11.08",
-        "time": "19:40",
-        "filmId": "52335",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 920,
-        "is3d": true,
-        "seanceId": 50
-    },
-    {
-        "date": "11.08",
-        "time": "19:50",
-        "filmId": "52335",
-        "theatre": "Океан IMAX",
-        "cost": 470,
-        "is3d": true,
-        "seanceId": 51
-    },
-    {
-        "date": "11.08",
-        "time": "20:10",
-        "filmId": "53573",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 460,
-        "is3d": false,
-        "seanceId": 52
-    },
-    {
-        "date": "11.08",
-        "time": "20:15",
-        "filmId": "52335",
-        "theatre": "Уссури",
-        "cost": 1400,
-        "is3d": true,
-        "seanceId": 53
-    },
-    {
-        "date": "11.08",
-        "time": "20:20",
-        "filmId": "53572",
-        "theatre": "Океан IMAX",
-        "cost": 470,
-        "is3d": false,
-        "seanceId": 54
-    },
-    {
-        "date": "11.08",
-        "time": "20:20",
-        "filmId": "52335",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": true,
-        "seanceId": 55
     },
     {
         "date": "11.08",
@@ -510,7 +15,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 56
+        "seanceId": 1
     },
     {
         "date": "11.08",
@@ -519,7 +24,7 @@
         "theatre": "Черёмушки",
         "cost": 470,
         "is3d": false,
-        "seanceId": 57
+        "seanceId": 2
     },
     {
         "date": "11.08",
@@ -528,7 +33,7 @@
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "seanceId": 58
+        "seanceId": 3
     },
     {
         "date": "11.08",
@@ -537,7 +42,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 59
+        "seanceId": 4
     },
     {
         "date": "11.08",
@@ -546,7 +51,7 @@
         "theatre": "Черёмушки",
         "cost": 440,
         "is3d": false,
-        "seanceId": 60
+        "seanceId": 5
     },
     {
         "date": "11.08",
@@ -555,7 +60,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 920,
         "is3d": false,
-        "seanceId": 61
+        "seanceId": 6
     },
     {
         "date": "11.08",
@@ -564,7 +69,7 @@
         "theatre": "Океан IMAX",
         "cost": 510,
         "is3d": false,
-        "seanceId": 62
+        "seanceId": 7
     },
     {
         "date": "11.08",
@@ -573,7 +78,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": true,
-        "seanceId": 63
+        "seanceId": 8
     },
     {
         "date": "11.08",
@@ -582,7 +87,7 @@
         "theatre": "Черёмушки",
         "cost": 470,
         "is3d": true,
-        "seanceId": 64
+        "seanceId": 9
     },
     {
         "date": "11.08",
@@ -591,7 +96,7 @@
         "theatre": "Уссури",
         "cost": 440,
         "is3d": false,
-        "seanceId": 65
+        "seanceId": 10
     },
     {
         "date": "11.08",
@@ -600,7 +105,7 @@
         "theatre": "Иллюзион",
         "cost": 440,
         "is3d": false,
-        "seanceId": 66
+        "seanceId": 11
     },
     {
         "date": "11.08",
@@ -609,7 +114,7 @@
         "theatre": "Уссури",
         "cost": 470,
         "is3d": false,
-        "seanceId": 67
+        "seanceId": 12
     },
     {
         "date": "11.08",
@@ -618,7 +123,7 @@
         "theatre": "Уссури",
         "cost": 470,
         "is3d": false,
-        "seanceId": 68
+        "seanceId": 13
     },
     {
         "date": "11.08",
@@ -627,7 +132,7 @@
         "theatre": "Иллюзион",
         "cost": 480,
         "is3d": true,
-        "seanceId": 69
+        "seanceId": 14
     },
     {
         "date": "11.08",
@@ -636,7 +141,7 @@
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "seanceId": 70
+        "seanceId": 15
     },
     {
         "date": "11.08",
@@ -645,7 +150,7 @@
         "theatre": "Иллюзион",
         "cost": 470,
         "is3d": false,
-        "seanceId": 71
+        "seanceId": 16
     },
     {
         "date": "11.08",
@@ -654,7 +159,7 @@
         "theatre": "Океан IMAX",
         "cost": 470,
         "is3d": false,
-        "seanceId": 72
+        "seanceId": 17
     },
     {
         "date": "11.08",
@@ -663,7 +168,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 590,
         "is3d": false,
-        "seanceId": 73
+        "seanceId": 18
     },
     {
         "date": "11.08",
@@ -672,7 +177,7 @@
         "theatre": "Иллюзион",
         "cost": 440,
         "is3d": false,
-        "seanceId": 74
+        "seanceId": 19
     },
     {
         "date": "11.08",
@@ -681,7 +186,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 440,
         "is3d": false,
-        "seanceId": 75
+        "seanceId": 20
     },
     {
         "date": "11.08",
@@ -690,7 +195,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 76
+        "seanceId": 21
     },
     {
         "date": "11.08",
@@ -699,7 +204,7 @@
         "theatre": "Черёмушки",
         "cost": 470,
         "is3d": false,
-        "seanceId": 77
+        "seanceId": 22
     },
     {
         "date": "11.08",
@@ -708,7 +213,7 @@
         "theatre": "Москва",
         "cost": 400,
         "is3d": false,
-        "seanceId": 78
+        "seanceId": 23
     },
     {
         "date": "11.08",
@@ -717,7 +222,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 570,
         "is3d": false,
-        "seanceId": 79
+        "seanceId": 24
     },
     {
         "date": "11.08",
@@ -726,7 +231,7 @@
         "theatre": "Уссури",
         "cost": 440,
         "is3d": false,
-        "seanceId": 80
+        "seanceId": 25
     },
     {
         "date": "11.08",
@@ -735,7 +240,7 @@
         "theatre": "Черёмушки",
         "cost": 470,
         "is3d": true,
-        "seanceId": 81
+        "seanceId": 26
     },
     {
         "date": "11.08",
@@ -744,7 +249,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 920,
         "is3d": true,
-        "seanceId": 82
+        "seanceId": 27
     },
     {
         "date": "11.08",
@@ -753,7 +258,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": false,
-        "seanceId": 83
+        "seanceId": 28
     },
     {
         "date": "11.08",
@@ -762,7 +267,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 490,
         "is3d": false,
-        "seanceId": 84
+        "seanceId": 29
     },
     {
         "date": "11.08",
@@ -771,7 +276,7 @@
         "theatre": "Океан IMAX",
         "cost": 470,
         "is3d": true,
-        "seanceId": 85
+        "seanceId": 30
     },
     {
         "date": "11.08",
@@ -780,7 +285,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 86
+        "seanceId": 31
     },
     {
         "date": "11.08",
@@ -789,7 +294,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": false,
-        "seanceId": 87
+        "seanceId": 32
     },
     {
         "date": "11.08",
@@ -798,7 +303,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 88
+        "seanceId": 33
     },
     {
         "date": "11.08",
@@ -807,7 +312,7 @@
         "theatre": "Уссури",
         "cost": 1000,
         "is3d": true,
-        "seanceId": 89
+        "seanceId": 34
     },
     {
         "date": "11.08",
@@ -816,7 +321,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": false,
-        "seanceId": 90
+        "seanceId": 35
     },
     {
         "date": "11.08",
@@ -825,7 +330,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 91
+        "seanceId": 36
     },
     {
         "date": "11.08",
@@ -834,7 +339,7 @@
         "theatre": "Уссури",
         "cost": 290,
         "is3d": false,
-        "seanceId": 92
+        "seanceId": 37
     },
     {
         "date": "11.08",
@@ -843,7 +348,7 @@
         "theatre": "Иллюзион",
         "cost": 290,
         "is3d": false,
-        "seanceId": 93
+        "seanceId": 38
     },
     {
         "date": "11.08",
@@ -852,7 +357,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": false,
-        "seanceId": 94
+        "seanceId": 39
     },
     {
         "date": "11.08",
@@ -861,7 +366,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": false,
-        "seanceId": 95
+        "seanceId": 40
     },
     {
         "date": "11.08",
@@ -870,7 +375,7 @@
         "theatre": "Океан IMAX",
         "cost": 310,
         "is3d": false,
-        "seanceId": 96
+        "seanceId": 41
     },
     {
         "date": "11.08",
@@ -879,7 +384,7 @@
         "theatre": "Иллюзион",
         "cost": 290,
         "is3d": false,
-        "seanceId": 97
+        "seanceId": 42
     },
     {
         "date": "11.08",
@@ -888,7 +393,7 @@
         "theatre": "Уссури",
         "cost": 1000,
         "is3d": false,
-        "seanceId": 98
+        "seanceId": 43
     },
     {
         "date": "11.08",
@@ -897,7 +402,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 590,
         "is3d": false,
-        "seanceId": 99
+        "seanceId": 44
     },
     {
         "date": "11.08",
@@ -906,7 +411,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 460,
         "is3d": false,
-        "seanceId": 100
+        "seanceId": 45
     },
     {
         "date": "11.08",
@@ -915,7 +420,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 920,
         "is3d": false,
-        "seanceId": 101
+        "seanceId": 46
     },
     {
         "date": "11.08",
@@ -924,7 +429,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": true,
-        "seanceId": 102
+        "seanceId": 47
     },
     {
         "date": "11.08",
@@ -933,7 +438,7 @@
         "theatre": "Уссури",
         "cost": 290,
         "is3d": false,
-        "seanceId": 103
+        "seanceId": 48
     },
     {
         "date": "11.08",
@@ -942,7 +447,7 @@
         "theatre": "Океан IMAX",
         "cost": 370,
         "is3d": false,
-        "seanceId": 104
+        "seanceId": 49
     },
     {
         "date": "11.08",
@@ -951,7 +456,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 105
+        "seanceId": 50
     },
     {
         "date": "11.08",
@@ -960,7 +465,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": false,
-        "seanceId": 106
+        "seanceId": 51
     },
     {
         "date": "11.08",
@@ -969,7 +474,7 @@
         "theatre": "Москва",
         "cost": 400,
         "is3d": false,
-        "seanceId": 107
+        "seanceId": 52
     },
     {
         "date": "11.08",
@@ -978,7 +483,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": true,
-        "seanceId": 108
+        "seanceId": 53
     },
     {
         "date": "12.08",
@@ -987,7 +492,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": true,
-        "seanceId": 109
+        "seanceId": 54
     },
     {
         "date": "12.08",
@@ -996,7 +501,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 110
+        "seanceId": 55
     },
     {
         "date": "12.08",
@@ -1005,7 +510,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": false,
-        "seanceId": 111
+        "seanceId": 56
     },
     {
         "date": "12.08",
@@ -1014,7 +519,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": false,
-        "seanceId": 112
+        "seanceId": 57
     },
     {
         "date": "12.08",
@@ -1023,7 +528,7 @@
         "theatre": "Москва",
         "cost": 170,
         "is3d": false,
-        "seanceId": 113
+        "seanceId": 58
     },
     {
         "date": "12.08",
@@ -1032,7 +537,7 @@
         "theatre": "Нептун",
         "cost": 150,
         "is3d": false,
-        "seanceId": 114
+        "seanceId": 59
     },
     {
         "date": "12.08",
@@ -1041,7 +546,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": false,
-        "seanceId": 115
+        "seanceId": 60
     },
     {
         "date": "12.08",
@@ -1050,7 +555,7 @@
         "theatre": "Океан IMAX",
         "cost": 210,
         "is3d": false,
-        "seanceId": 116
+        "seanceId": 61
     },
     {
         "date": "12.08",
@@ -1059,7 +564,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": true,
-        "seanceId": 117
+        "seanceId": 62
     },
     {
         "date": "12.08",
@@ -1068,7 +573,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 118
+        "seanceId": 63
     },
     {
         "date": "12.08",
@@ -1077,7 +582,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 119
+        "seanceId": 64
     },
     {
         "date": "12.08",
@@ -1086,7 +591,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 120
+        "seanceId": 65
     },
     {
         "date": "12.08",
@@ -1095,7 +600,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 121
+        "seanceId": 66
     },
     {
         "date": "12.08",
@@ -1104,7 +609,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": true,
-        "seanceId": 122
+        "seanceId": 67
     },
     {
         "date": "12.08",
@@ -1113,7 +618,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 123
+        "seanceId": 68
     },
     {
         "date": "12.08",
@@ -1122,7 +627,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 124
+        "seanceId": 69
     },
     {
         "date": "12.08",
@@ -1131,7 +636,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": true,
-        "seanceId": 125
+        "seanceId": 70
     },
     {
         "date": "12.08",
@@ -1140,7 +645,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
-        "seanceId": 126
+        "seanceId": 71
     },
     {
         "date": "12.08",
@@ -1149,7 +654,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 540,
         "is3d": false,
-        "seanceId": 127
+        "seanceId": 72
     },
     {
         "date": "12.08",
@@ -1158,7 +663,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": false,
-        "seanceId": 128
+        "seanceId": 73
     },
     {
         "date": "12.08",
@@ -1167,7 +672,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 129
+        "seanceId": 74
     },
     {
         "date": "12.08",
@@ -1176,7 +681,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 360,
         "is3d": false,
-        "seanceId": 130
+        "seanceId": 75
     },
     {
         "date": "12.08",
@@ -1185,7 +690,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 131
+        "seanceId": 76
     },
     {
         "date": "12.08",
@@ -1194,7 +699,7 @@
         "theatre": "Владивосток",
         "cost": 500,
         "is3d": false,
-        "seanceId": 132
+        "seanceId": 77
     },
     {
         "date": "12.08",
@@ -1203,7 +708,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
-        "seanceId": 133
+        "seanceId": 78
     },
     {
         "date": "12.08",
@@ -1212,7 +717,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 134
+        "seanceId": 79
     },
     {
         "date": "12.08",
@@ -1221,7 +726,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 260,
         "is3d": false,
-        "seanceId": 135
+        "seanceId": 80
     },
     {
         "date": "12.08",
@@ -1230,7 +735,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 136
+        "seanceId": 81
     },
     {
         "date": "12.08",
@@ -1239,7 +744,7 @@
         "theatre": "Нептун",
         "cost": 200,
         "is3d": false,
-        "seanceId": 137
+        "seanceId": 82
     },
     {
         "date": "12.08",
@@ -1248,7 +753,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 630,
         "is3d": true,
-        "seanceId": 138
+        "seanceId": 83
     },
     {
         "date": "12.08",
@@ -1257,7 +762,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 139
+        "seanceId": 84
     },
     {
         "date": "12.08",
@@ -1266,7 +771,7 @@
         "theatre": "Москва",
         "cost": 200,
         "is3d": false,
-        "seanceId": 140
+        "seanceId": 85
     },
     {
         "date": "12.08",
@@ -1275,7 +780,7 @@
         "theatre": "Уссури",
         "cost": 700,
         "is3d": false,
-        "seanceId": 141
+        "seanceId": 86
     },
     {
         "date": "12.08",
@@ -1284,7 +789,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 142
+        "seanceId": 87
     },
     {
         "date": "12.08",
@@ -1293,7 +798,7 @@
         "theatre": "Океан IMAX",
         "cost": 230,
         "is3d": false,
-        "seanceId": 143
+        "seanceId": 88
     },
     {
         "date": "12.08",
@@ -1302,7 +807,7 @@
         "theatre": "Океан IMAX",
         "cost": 230,
         "is3d": false,
-        "seanceId": 144
+        "seanceId": 89
     },
     {
         "date": "12.08",
@@ -1311,7 +816,7 @@
         "theatre": "Уссури",
         "cost": 230,
         "is3d": false,
-        "seanceId": 145
+        "seanceId": 90
     },
     {
         "date": "12.08",
@@ -1320,7 +825,7 @@
         "theatre": "Океан IMAX",
         "cost": 230,
         "is3d": false,
-        "seanceId": 146
+        "seanceId": 91
     },
     {
         "date": "12.08",
@@ -1329,7 +834,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": true,
-        "seanceId": 147
+        "seanceId": 92
     },
     {
         "date": "12.08",
@@ -1338,7 +843,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 148
+        "seanceId": 93
     },
     {
         "date": "12.08",
@@ -1347,7 +852,7 @@
         "theatre": "Уссури",
         "cost": 230,
         "is3d": true,
-        "seanceId": 149
+        "seanceId": 94
     },
     {
         "date": "12.08",
@@ -1356,7 +861,7 @@
         "theatre": "Черёмушки",
         "cost": 230,
         "is3d": false,
-        "seanceId": 150
+        "seanceId": 95
     },
     {
         "date": "12.08",
@@ -1365,7 +870,7 @@
         "theatre": "Уссури",
         "cost": 250,
         "is3d": false,
-        "seanceId": 151
+        "seanceId": 96
     },
     {
         "date": "12.08",
@@ -1374,7 +879,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 152
+        "seanceId": 97
     },
     {
         "date": "12.08",
@@ -1383,7 +888,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": true,
-        "seanceId": 153
+        "seanceId": 98
     },
     {
         "date": "12.08",
@@ -1392,7 +897,7 @@
         "theatre": "Черёмушки",
         "cost": 230,
         "is3d": false,
-        "seanceId": 154
+        "seanceId": 99
     },
     {
         "date": "12.08",
@@ -1401,7 +906,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 155
+        "seanceId": 100
     },
     {
         "date": "12.08",
@@ -1410,7 +915,7 @@
         "theatre": "Черёмушки",
         "cost": 230,
         "is3d": false,
-        "seanceId": 156
+        "seanceId": 101
     },
     {
         "date": "12.08",
@@ -1419,7 +924,7 @@
         "theatre": "Иллюзион",
         "cost": 250,
         "is3d": false,
-        "seanceId": 157
+        "seanceId": 102
     },
     {
         "date": "12.08",
@@ -1428,7 +933,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
-        "seanceId": 158
+        "seanceId": 103
     },
     {
         "date": "12.08",
@@ -1437,7 +942,7 @@
         "theatre": "Океан IMAX",
         "cost": 260,
         "is3d": false,
-        "seanceId": 159
+        "seanceId": 104
     },
     {
         "date": "12.08",
@@ -1446,7 +951,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": true,
-        "seanceId": 160
+        "seanceId": 105
     },
     {
         "date": "12.08",
@@ -1455,7 +960,7 @@
         "theatre": "Черёмушки",
         "cost": 250,
         "is3d": true,
-        "seanceId": 161
+        "seanceId": 106
     },
     {
         "date": "12.08",
@@ -1464,7 +969,7 @@
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
-        "seanceId": 162
+        "seanceId": 107
     },
     {
         "date": "12.08",
@@ -1473,7 +978,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": false,
-        "seanceId": 163
+        "seanceId": 108
     },
     {
         "date": "12.08",
@@ -1482,7 +987,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 164
+        "seanceId": 109
     },
     {
         "date": "12.08",
@@ -1491,7 +996,7 @@
         "theatre": "Нептун",
         "cost": 250,
         "is3d": false,
-        "seanceId": 165
+        "seanceId": 110
     },
     {
         "date": "12.08",
@@ -1500,7 +1005,7 @@
         "theatre": "Владивосток",
         "cost": 250,
         "is3d": false,
-        "seanceId": 166
+        "seanceId": 111
     },
     {
         "date": "12.08",
@@ -1509,7 +1014,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 167
+        "seanceId": 112
     },
     {
         "date": "12.08",
@@ -1518,7 +1023,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": true,
-        "seanceId": 168
+        "seanceId": 113
     },
     {
         "date": "12.08",
@@ -1527,7 +1032,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 320,
         "is3d": false,
-        "seanceId": 169
+        "seanceId": 114
     },
     {
         "date": "12.08",
@@ -1536,7 +1041,7 @@
         "theatre": "Владивосток",
         "cost": 250,
         "is3d": false,
-        "seanceId": 170
+        "seanceId": 115
     },
     {
         "date": "12.08",
@@ -1545,7 +1050,7 @@
         "theatre": "Океан IMAX",
         "cost": 280,
         "is3d": false,
-        "seanceId": 171
+        "seanceId": 116
     },
     {
         "date": "12.08",
@@ -1554,7 +1059,7 @@
         "theatre": "Уссури",
         "cost": 260,
         "is3d": false,
-        "seanceId": 172
+        "seanceId": 117
     },
     {
         "date": "12.08",
@@ -1563,7 +1068,7 @@
         "theatre": "Океан IMAX",
         "cost": 260,
         "is3d": false,
-        "seanceId": 173
+        "seanceId": 118
     },
     {
         "date": "12.08",
@@ -1572,7 +1077,7 @@
         "theatre": "Москва",
         "cost": 250,
         "is3d": false,
-        "seanceId": 174
+        "seanceId": 119
     },
     {
         "date": "12.08",
@@ -1581,7 +1086,7 @@
         "theatre": "Уссури",
         "cost": 900,
         "is3d": false,
-        "seanceId": 175
+        "seanceId": 120
     },
     {
         "date": "12.08",
@@ -1590,7 +1095,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": true,
-        "seanceId": 176
+        "seanceId": 121
     },
     {
         "date": "12.08",
@@ -1599,7 +1104,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 177
+        "seanceId": 122
     },
     {
         "date": "12.08",
@@ -1608,7 +1113,7 @@
         "theatre": "Черёмушки",
         "cost": 260,
         "is3d": false,
-        "seanceId": 178
+        "seanceId": 123
     },
     {
         "date": "12.08",
@@ -1617,7 +1122,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 179
+        "seanceId": 124
     },
     {
         "date": "12.08",
@@ -1626,7 +1131,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 180
+        "seanceId": 125
     },
     {
         "date": "12.08",
@@ -1635,7 +1140,7 @@
         "theatre": "Уссури",
         "cost": 260,
         "is3d": false,
-        "seanceId": 181
+        "seanceId": 126
     },
     {
         "date": "12.08",
@@ -1644,7 +1149,7 @@
         "theatre": "Океан IMAX",
         "cost": 280,
         "is3d": true,
-        "seanceId": 182
+        "seanceId": 127
     },
     {
         "date": "12.08",
@@ -1653,7 +1158,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 183
+        "seanceId": 128
     },
     {
         "date": "12.08",
@@ -1662,7 +1167,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 184
+        "seanceId": 129
     },
     {
         "date": "12.08",
@@ -1671,7 +1176,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 185
+        "seanceId": 130
     },
     {
         "date": "12.08",
@@ -1680,7 +1185,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 186
+        "seanceId": 131
     },
     {
         "date": "12.08",
@@ -1689,7 +1194,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 187
+        "seanceId": 132
     },
     {
         "date": "12.08",
@@ -1698,7 +1203,7 @@
         "theatre": "Нептун",
         "cost": 250,
         "is3d": false,
-        "seanceId": 188
+        "seanceId": 133
     },
     {
         "date": "12.08",
@@ -1707,7 +1212,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 189
+        "seanceId": 134
     },
     {
         "date": "12.08",
@@ -1716,7 +1221,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": true,
-        "seanceId": 190
+        "seanceId": 135
     },
     {
         "date": "12.08",
@@ -1725,7 +1230,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": true,
-        "seanceId": 191
+        "seanceId": 136
     },
     {
         "date": "12.08",
@@ -1734,7 +1239,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 320,
         "is3d": false,
-        "seanceId": 192
+        "seanceId": 137
     },
     {
         "date": "12.08",
@@ -1743,7 +1248,7 @@
         "theatre": "Океан IMAX",
         "cost": 320,
         "is3d": false,
-        "seanceId": 193
+        "seanceId": 138
     },
     {
         "date": "12.08",
@@ -1752,7 +1257,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": true,
-        "seanceId": 194
+        "seanceId": 139
     },
     {
         "date": "12.08",
@@ -1761,7 +1266,7 @@
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
-        "seanceId": 195
+        "seanceId": 140
     },
     {
         "date": "12.08",
@@ -1770,7 +1275,7 @@
         "theatre": "Иллюзион",
         "cost": 350,
         "is3d": true,
-        "seanceId": 196
+        "seanceId": 141
     },
     {
         "date": "12.08",
@@ -1779,7 +1284,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": false,
-        "seanceId": 197
+        "seanceId": 142
     },
     {
         "date": "12.08",
@@ -1788,7 +1293,7 @@
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
-        "seanceId": 198
+        "seanceId": 143
     },
     {
         "date": "12.08",
@@ -1797,7 +1302,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 300,
         "is3d": false,
-        "seanceId": 199
+        "seanceId": 144
     },
     {
         "date": "12.08",
@@ -1806,7 +1311,7 @@
         "theatre": "Океан IMAX",
         "cost": 310,
         "is3d": false,
-        "seanceId": 200
+        "seanceId": 145
     },
     {
         "date": "12.08",
@@ -1815,7 +1320,7 @@
         "theatre": "Москва",
         "cost": 300,
         "is3d": false,
-        "seanceId": 201
+        "seanceId": 146
     },
     {
         "date": "12.08",
@@ -1824,7 +1329,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 202
+        "seanceId": 147
     },
     {
         "date": "12.08",
@@ -1833,7 +1338,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": false,
-        "seanceId": 203
+        "seanceId": 148
     },
     {
         "date": "12.08",
@@ -1842,7 +1347,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": false,
-        "seanceId": 204
+        "seanceId": 149
     },
     {
         "date": "12.08",
@@ -1851,7 +1356,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 205
+        "seanceId": 150
     },
     {
         "date": "12.08",
@@ -1860,7 +1365,7 @@
         "theatre": "Океан IMAX",
         "cost": 310,
         "is3d": false,
-        "seanceId": 206
+        "seanceId": 151
     },
     {
         "date": "12.08",
@@ -1869,7 +1374,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": true,
-        "seanceId": 207
+        "seanceId": 152
     },
     {
         "date": "12.08",
@@ -1878,7 +1383,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": true,
-        "seanceId": 208
+        "seanceId": 153
     },
     {
         "date": "12.08",
@@ -1887,7 +1392,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": false,
-        "seanceId": 209
+        "seanceId": 154
     },
     {
         "date": "12.08",
@@ -1896,7 +1401,7 @@
         "theatre": "Иллюзион",
         "cost": 330,
         "is3d": false,
-        "seanceId": 210
+        "seanceId": 155
     },
     {
         "date": "12.08",
@@ -1905,7 +1410,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": false,
-        "seanceId": 211
+        "seanceId": 156
     },
     {
         "date": "12.08",
@@ -1914,7 +1419,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": false,
-        "seanceId": 212
+        "seanceId": 157
     },
     {
         "date": "12.08",
@@ -1923,7 +1428,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 213
+        "seanceId": 158
     },
     {
         "date": "12.08",
@@ -1932,7 +1437,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 214
+        "seanceId": 159
     },
     {
         "date": "12.08",
@@ -1941,7 +1446,7 @@
         "theatre": "Нептун",
         "cost": 300,
         "is3d": false,
-        "seanceId": 215
+        "seanceId": 160
     },
     {
         "date": "12.08",
@@ -1950,7 +1455,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 216
+        "seanceId": 161
     },
     {
         "date": "12.08",
@@ -1959,7 +1464,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": true,
-        "seanceId": 217
+        "seanceId": 162
     },
     {
         "date": "12.08",
@@ -1968,7 +1473,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": true,
-        "seanceId": 218
+        "seanceId": 163
     },
     {
         "date": "12.08",
@@ -1977,7 +1482,7 @@
         "theatre": "Океан IMAX",
         "cost": 330,
         "is3d": true,
-        "seanceId": 219
+        "seanceId": 164
     },
     {
         "date": "12.08",
@@ -1986,7 +1491,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": false,
-        "seanceId": 220
+        "seanceId": 165
     },
     {
         "date": "12.08",
@@ -1995,7 +1500,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 221
+        "seanceId": 166
     },
     {
         "date": "12.08",
@@ -2004,7 +1509,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 222
+        "seanceId": 167
     },
     {
         "date": "12.08",
@@ -2013,7 +1518,7 @@
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
-        "seanceId": 223
+        "seanceId": 168
     },
     {
         "date": "12.08",
@@ -2022,7 +1527,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 224
+        "seanceId": 169
     },
     {
         "date": "12.08",
@@ -2031,7 +1536,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": true,
-        "seanceId": 225
+        "seanceId": 170
     },
     {
         "date": "12.08",
@@ -2040,7 +1545,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 226
+        "seanceId": 171
     },
     {
         "date": "12.08",
@@ -2049,7 +1554,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": false,
-        "seanceId": 227
+        "seanceId": 172
     },
     {
         "date": "12.08",
@@ -2058,7 +1563,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 228
+        "seanceId": 173
     },
     {
         "date": "12.08",
@@ -2067,7 +1572,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 229
+        "seanceId": 174
     },
     {
         "date": "12.08",
@@ -2076,7 +1581,7 @@
         "theatre": "Иллюзион",
         "cost": 450,
         "is3d": true,
-        "seanceId": 230
+        "seanceId": 175
     },
     {
         "date": "12.08",
@@ -2085,7 +1590,7 @@
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
-        "seanceId": 231
+        "seanceId": 176
     },
     {
         "date": "12.08",
@@ -2094,7 +1599,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 232
+        "seanceId": 177
     },
     {
         "date": "12.08",
@@ -2103,7 +1608,7 @@
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "seanceId": 233
+        "seanceId": 178
     },
     {
         "date": "12.08",
@@ -2112,7 +1617,7 @@
         "theatre": "Уссури",
         "cost": 430,
         "is3d": false,
-        "seanceId": 234
+        "seanceId": 179
     },
     {
         "date": "12.08",
@@ -2121,7 +1626,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 235
+        "seanceId": 180
     },
     {
         "date": "12.08",
@@ -2130,7 +1635,7 @@
         "theatre": "Черёмушки",
         "cost": 400,
         "is3d": false,
-        "seanceId": 236
+        "seanceId": 181
     },
     {
         "date": "12.08",
@@ -2139,7 +1644,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": false,
-        "seanceId": 237
+        "seanceId": 182
     },
     {
         "date": "12.08",
@@ -2148,7 +1653,7 @@
         "theatre": "Черёмушки",
         "cost": 400,
         "is3d": false,
-        "seanceId": 238
+        "seanceId": 183
     },
     {
         "date": "12.08",
@@ -2157,7 +1662,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 239
+        "seanceId": 184
     },
     {
         "date": "12.08",
@@ -2166,7 +1671,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 240
+        "seanceId": 185
     },
     {
         "date": "12.08",
@@ -2175,7 +1680,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 241
+        "seanceId": 186
     },
     {
         "date": "12.08",
@@ -2184,7 +1689,7 @@
         "theatre": "Океан IMAX",
         "cost": 400,
         "is3d": false,
-        "seanceId": 242
+        "seanceId": 187
     },
     {
         "date": "12.08",
@@ -2193,7 +1698,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "seanceId": 243
+        "seanceId": 188
     },
     {
         "date": "12.08",
@@ -2202,7 +1707,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 244
+        "seanceId": 189
     },
     {
         "date": "12.08",
@@ -2211,7 +1716,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": false,
-        "seanceId": 245
+        "seanceId": 190
     },
     {
         "date": "12.08",
@@ -2220,7 +1725,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 246
+        "seanceId": 191
     },
     {
         "date": "12.08",
@@ -2229,7 +1734,7 @@
         "theatre": "Иллюзион",
         "cost": 430,
         "is3d": false,
-        "seanceId": 247
+        "seanceId": 192
     },
     {
         "date": "12.08",
@@ -2238,7 +1743,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 248
+        "seanceId": 193
     },
     {
         "date": "12.08",
@@ -2247,7 +1752,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 249
+        "seanceId": 194
     },
     {
         "date": "12.08",
@@ -2256,7 +1761,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 360,
         "is3d": false,
-        "seanceId": 250
+        "seanceId": 195
     },
     {
         "date": "12.08",
@@ -2265,7 +1770,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": true,
-        "seanceId": 251
+        "seanceId": 196
     },
     {
         "date": "12.08",
@@ -2274,7 +1779,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": true,
-        "seanceId": 252
+        "seanceId": 197
     },
     {
         "date": "12.08",
@@ -2283,7 +1788,7 @@
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
-        "seanceId": 253
+        "seanceId": 198
     },
     {
         "date": "12.08",
@@ -2292,7 +1797,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 254
+        "seanceId": 199
     },
     {
         "date": "12.08",
@@ -2301,7 +1806,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 255
+        "seanceId": 200
     },
     {
         "date": "12.08",
@@ -2310,7 +1815,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 256
+        "seanceId": 201
     },
     {
         "date": "12.08",
@@ -2319,7 +1824,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 257
+        "seanceId": 202
     },
     {
         "date": "12.08",
@@ -2328,7 +1833,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 258
+        "seanceId": 203
     },
     {
         "date": "12.08",
@@ -2337,7 +1842,7 @@
         "theatre": "Уссури",
         "cost": 430,
         "is3d": false,
-        "seanceId": 259
+        "seanceId": 204
     },
     {
         "date": "12.08",
@@ -2346,7 +1851,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 260
+        "seanceId": 205
     },
     {
         "date": "12.08",
@@ -2355,7 +1860,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 261
+        "seanceId": 206
     },
     {
         "date": "12.08",
@@ -2364,7 +1869,7 @@
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
-        "seanceId": 262
+        "seanceId": 207
     },
     {
         "date": "12.08",
@@ -2373,7 +1878,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 263
+        "seanceId": 208
     },
     {
         "date": "12.08",
@@ -2382,7 +1887,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": true,
-        "seanceId": 264
+        "seanceId": 209
     },
     {
         "date": "12.08",
@@ -2391,7 +1896,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": true,
-        "seanceId": 265
+        "seanceId": 210
     },
     {
         "date": "12.08",
@@ -2400,7 +1905,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 266
+        "seanceId": 211
     },
     {
         "date": "12.08",
@@ -2409,7 +1914,7 @@
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "seanceId": 267
+        "seanceId": 212
     },
     {
         "date": "12.08",
@@ -2418,7 +1923,7 @@
         "theatre": "Черёмушки",
         "cost": 400,
         "is3d": false,
-        "seanceId": 268
+        "seanceId": 213
     },
     {
         "date": "12.08",
@@ -2427,7 +1932,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 269
+        "seanceId": 214
     },
     {
         "date": "12.08",
@@ -2436,7 +1941,7 @@
         "theatre": "Иллюзион",
         "cost": 450,
         "is3d": true,
-        "seanceId": 270
+        "seanceId": 215
     },
     {
         "date": "12.08",
@@ -2445,7 +1950,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 271
+        "seanceId": 216
     },
     {
         "date": "12.08",
@@ -2454,7 +1959,7 @@
         "theatre": "Иллюзион",
         "cost": 430,
         "is3d": false,
-        "seanceId": 272
+        "seanceId": 217
     },
     {
         "date": "12.08",
@@ -2463,7 +1968,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 273
+        "seanceId": 218
     },
     {
         "date": "12.08",
@@ -2472,7 +1977,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 274
+        "seanceId": 219
     },
     {
         "date": "12.08",
@@ -2481,7 +1986,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 370,
         "is3d": false,
-        "seanceId": 275
+        "seanceId": 220
     },
     {
         "date": "12.08",
@@ -2490,7 +1995,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": false,
-        "seanceId": 276
+        "seanceId": 221
     },
     {
         "date": "12.08",
@@ -2499,7 +2004,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 277
+        "seanceId": 222
     },
     {
         "date": "12.08",
@@ -2508,7 +2013,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "seanceId": 278
+        "seanceId": 223
     },
     {
         "date": "12.08",
@@ -2517,7 +2022,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 279
+        "seanceId": 224
     },
     {
         "date": "12.08",
@@ -2526,7 +2031,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 280
+        "seanceId": 225
     },
     {
         "date": "12.08",
@@ -2535,7 +2040,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 281
+        "seanceId": 226
     },
     {
         "date": "12.08",
@@ -2544,7 +2049,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": true,
-        "seanceId": 282
+        "seanceId": 227
     },
     {
         "date": "12.08",
@@ -2553,7 +2058,7 @@
         "theatre": "Океан IMAX",
         "cost": 400,
         "is3d": false,
-        "seanceId": 283
+        "seanceId": 228
     },
     {
         "date": "12.08",
@@ -2562,7 +2067,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 420,
         "is3d": false,
-        "seanceId": 284
+        "seanceId": 229
     },
     {
         "date": "12.08",
@@ -2571,7 +2076,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": true,
-        "seanceId": 285
+        "seanceId": 230
     },
     {
         "date": "12.08",
@@ -2580,7 +2085,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 286
+        "seanceId": 231
     },
     {
         "date": "12.08",
@@ -2589,7 +2094,7 @@
         "theatre": "Уссури",
         "cost": 290,
         "is3d": false,
-        "seanceId": 287
+        "seanceId": 232
     },
     {
         "date": "12.08",
@@ -2598,7 +2103,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 288
+        "seanceId": 233
     },
     {
         "date": "12.08",
@@ -2607,7 +2112,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 289
+        "seanceId": 234
     },
     {
         "date": "12.08",
@@ -2616,7 +2121,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 290
+        "seanceId": 235
     },
     {
         "date": "12.08",
@@ -2625,7 +2130,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 291
+        "seanceId": 236
     },
     {
         "date": "12.08",
@@ -2634,7 +2139,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 292
+        "seanceId": 237
     },
     {
         "date": "12.08",
@@ -2643,7 +2148,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": false,
-        "seanceId": 293
+        "seanceId": 238
     },
     {
         "date": "12.08",
@@ -2652,7 +2157,7 @@
         "theatre": "Иллюзион",
         "cost": 290,
         "is3d": false,
-        "seanceId": 294
+        "seanceId": 239
     },
     {
         "date": "12.08",
@@ -2661,7 +2166,7 @@
         "theatre": "Океан IMAX",
         "cost": 290,
         "is3d": false,
-        "seanceId": 295
+        "seanceId": 240
     },
     {
         "date": "12.08",
@@ -2670,7 +2175,7 @@
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
-        "seanceId": 296
+        "seanceId": 241
     },
     {
         "date": "12.08",
@@ -2679,7 +2184,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 297
+        "seanceId": 242
     },
     {
         "date": "12.08",
@@ -2688,7 +2193,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 298
+        "seanceId": 243
     },
     {
         "date": "12.08",
@@ -2697,7 +2202,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 299
+        "seanceId": 244
     },
     {
         "date": "12.08",
@@ -2706,7 +2211,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": true,
-        "seanceId": 300
+        "seanceId": 245
     },
     {
         "date": "12.08",
@@ -2715,7 +2220,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": true,
-        "seanceId": 301
+        "seanceId": 246
     },
     {
         "date": "12.08",
@@ -2724,7 +2229,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 302
+        "seanceId": 247
     },
     {
         "date": "12.08",
@@ -2733,7 +2238,7 @@
         "theatre": "Океан IMAX",
         "cost": 320,
         "is3d": false,
-        "seanceId": 303
+        "seanceId": 248
     },
     {
         "date": "12.08",
@@ -2742,7 +2247,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": false,
-        "seanceId": 304
+        "seanceId": 249
     },
     {
         "date": "12.08",
@@ -2751,7 +2256,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": false,
-        "seanceId": 305
+        "seanceId": 250
     },
     {
         "date": "12.08",
@@ -2760,7 +2265,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": true,
-        "seanceId": 306
+        "seanceId": 251
     },
     {
         "date": "12.08",
@@ -2769,7 +2274,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 307
+        "seanceId": 252
     },
     {
         "date": "13.08",
@@ -2778,7 +2283,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": true,
-        "seanceId": 308
+        "seanceId": 253
     },
     {
         "date": "13.08",
@@ -2787,7 +2292,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 309
+        "seanceId": 254
     },
     {
         "date": "13.08",
@@ -2796,7 +2301,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": false,
-        "seanceId": 310
+        "seanceId": 255
     },
     {
         "date": "13.08",
@@ -2805,7 +2310,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": false,
-        "seanceId": 311
+        "seanceId": 256
     },
     {
         "date": "13.08",
@@ -2814,7 +2319,7 @@
         "theatre": "Москва",
         "cost": 170,
         "is3d": false,
-        "seanceId": 312
+        "seanceId": 257
     },
     {
         "date": "13.08",
@@ -2823,7 +2328,7 @@
         "theatre": "Нептун",
         "cost": 150,
         "is3d": false,
-        "seanceId": 313
+        "seanceId": 258
     },
     {
         "date": "13.08",
@@ -2832,7 +2337,7 @@
         "theatre": "Океан IMAX",
         "cost": 210,
         "is3d": false,
-        "seanceId": 314
+        "seanceId": 259
     },
     {
         "date": "13.08",
@@ -2841,7 +2346,7 @@
         "theatre": "Уссури",
         "cost": 150,
         "is3d": true,
-        "seanceId": 315
+        "seanceId": 260
     },
     {
         "date": "13.08",
@@ -2850,7 +2355,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": true,
-        "seanceId": 316
+        "seanceId": 261
     },
     {
         "date": "13.08",
@@ -2859,7 +2364,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 317
+        "seanceId": 262
     },
     {
         "date": "13.08",
@@ -2868,7 +2373,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 318
+        "seanceId": 263
     },
     {
         "date": "13.08",
@@ -2877,7 +2382,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 319
+        "seanceId": 264
     },
     {
         "date": "13.08",
@@ -2886,7 +2391,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 320
+        "seanceId": 265
     },
     {
         "date": "13.08",
@@ -2895,7 +2400,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": true,
-        "seanceId": 321
+        "seanceId": 266
     },
     {
         "date": "13.08",
@@ -2904,7 +2409,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 322
+        "seanceId": 267
     },
     {
         "date": "13.08",
@@ -2913,7 +2418,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 323
+        "seanceId": 268
     },
     {
         "date": "13.08",
@@ -2922,7 +2427,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": true,
-        "seanceId": 324
+        "seanceId": 269
     },
     {
         "date": "13.08",
@@ -2931,7 +2436,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 325
+        "seanceId": 270
     },
     {
         "date": "13.08",
@@ -2940,7 +2445,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 540,
         "is3d": false,
-        "seanceId": 326
+        "seanceId": 271
     },
     {
         "date": "13.08",
@@ -2949,7 +2454,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": false,
-        "seanceId": 327
+        "seanceId": 272
     },
     {
         "date": "13.08",
@@ -2958,7 +2463,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": false,
-        "seanceId": 328
+        "seanceId": 273
     },
     {
         "date": "13.08",
@@ -2967,7 +2472,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 329
+        "seanceId": 274
     },
     {
         "date": "13.08",
@@ -2976,7 +2481,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 360,
         "is3d": false,
-        "seanceId": 330
+        "seanceId": 275
     },
     {
         "date": "13.08",
@@ -2985,7 +2490,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 331
+        "seanceId": 276
     },
     {
         "date": "13.08",
@@ -2994,7 +2499,7 @@
         "theatre": "Владивосток",
         "cost": 500,
         "is3d": false,
-        "seanceId": 332
+        "seanceId": 277
     },
     {
         "date": "13.08",
@@ -3003,7 +2508,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
-        "seanceId": 333
+        "seanceId": 278
     },
     {
         "date": "13.08",
@@ -3012,7 +2517,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 334
+        "seanceId": 279
     },
     {
         "date": "13.08",
@@ -3021,7 +2526,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 335
+        "seanceId": 280
     },
     {
         "date": "13.08",
@@ -3030,7 +2535,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 336
+        "seanceId": 281
     },
     {
         "date": "13.08",
@@ -3039,7 +2544,7 @@
         "theatre": "Нептун",
         "cost": 200,
         "is3d": false,
-        "seanceId": 337
+        "seanceId": 282
     },
     {
         "date": "13.08",
@@ -3048,7 +2553,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 630,
         "is3d": true,
-        "seanceId": 338
+        "seanceId": 283
     },
     {
         "date": "13.08",
@@ -3057,7 +2562,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 339
+        "seanceId": 284
     },
     {
         "date": "13.08",
@@ -3066,7 +2571,7 @@
         "theatre": "Москва",
         "cost": 200,
         "is3d": false,
-        "seanceId": 340
+        "seanceId": 285
     },
     {
         "date": "13.08",
@@ -3075,7 +2580,7 @@
         "theatre": "Уссури",
         "cost": 700,
         "is3d": false,
-        "seanceId": 341
+        "seanceId": 286
     },
     {
         "date": "13.08",
@@ -3084,7 +2589,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 342
+        "seanceId": 287
     },
     {
         "date": "13.08",
@@ -3093,7 +2598,7 @@
         "theatre": "Океан IMAX",
         "cost": 230,
         "is3d": false,
-        "seanceId": 343
+        "seanceId": 288
     },
     {
         "date": "13.08",
@@ -3102,7 +2607,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 344
+        "seanceId": 289
     },
     {
         "date": "13.08",
@@ -3111,7 +2616,7 @@
         "theatre": "Океан IMAX",
         "cost": 230,
         "is3d": false,
-        "seanceId": 345
+        "seanceId": 290
     },
     {
         "date": "13.08",
@@ -3120,7 +2625,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": true,
-        "seanceId": 346
+        "seanceId": 291
     },
     {
         "date": "13.08",
@@ -3129,7 +2634,7 @@
         "theatre": "Иллюзион",
         "cost": 230,
         "is3d": false,
-        "seanceId": 347
+        "seanceId": 292
     },
     {
         "date": "13.08",
@@ -3138,7 +2643,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 348
+        "seanceId": 293
     },
     {
         "date": "13.08",
@@ -3147,7 +2652,7 @@
         "theatre": "Черёмушки",
         "cost": 230,
         "is3d": false,
-        "seanceId": 349
+        "seanceId": 294
     },
     {
         "date": "13.08",
@@ -3156,7 +2661,7 @@
         "theatre": "Уссури",
         "cost": 250,
         "is3d": false,
-        "seanceId": 350
+        "seanceId": 295
     },
     {
         "date": "13.08",
@@ -3165,7 +2670,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 351
+        "seanceId": 296
     },
     {
         "date": "13.08",
@@ -3174,7 +2679,7 @@
         "theatre": "Иллюзион",
         "cost": 230,
         "is3d": true,
-        "seanceId": 352
+        "seanceId": 297
     },
     {
         "date": "13.08",
@@ -3183,7 +2688,7 @@
         "theatre": "Черёмушки",
         "cost": 230,
         "is3d": false,
-        "seanceId": 353
+        "seanceId": 298
     },
     {
         "date": "13.08",
@@ -3192,7 +2697,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 354
+        "seanceId": 299
     },
     {
         "date": "13.08",
@@ -3201,7 +2706,7 @@
         "theatre": "Океан IMAX",
         "cost": 230,
         "is3d": false,
-        "seanceId": 355
+        "seanceId": 300
     },
     {
         "date": "13.08",
@@ -3210,7 +2715,7 @@
         "theatre": "Черёмушки",
         "cost": 230,
         "is3d": false,
-        "seanceId": 356
+        "seanceId": 301
     },
     {
         "date": "13.08",
@@ -3219,7 +2724,7 @@
         "theatre": "Иллюзион",
         "cost": 250,
         "is3d": false,
-        "seanceId": 357
+        "seanceId": 302
     },
     {
         "date": "13.08",
@@ -3228,7 +2733,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
-        "seanceId": 358
+        "seanceId": 303
     },
     {
         "date": "13.08",
@@ -3237,7 +2742,7 @@
         "theatre": "Уссури",
         "cost": 150,
         "is3d": true,
-        "seanceId": 359
+        "seanceId": 304
     },
     {
         "date": "13.08",
@@ -3246,7 +2751,7 @@
         "theatre": "Океан IMAX",
         "cost": 260,
         "is3d": false,
-        "seanceId": 360
+        "seanceId": 305
     },
     {
         "date": "13.08",
@@ -3255,7 +2760,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": true,
-        "seanceId": 361
+        "seanceId": 306
     },
     {
         "date": "13.08",
@@ -3264,7 +2769,7 @@
         "theatre": "Черёмушки",
         "cost": 250,
         "is3d": true,
-        "seanceId": 362
+        "seanceId": 307
     },
     {
         "date": "13.08",
@@ -3273,7 +2778,7 @@
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
-        "seanceId": 363
+        "seanceId": 308
     },
     {
         "date": "13.08",
@@ -3282,7 +2787,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": false,
-        "seanceId": 364
+        "seanceId": 309
     },
     {
         "date": "13.08",
@@ -3291,7 +2796,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 365
+        "seanceId": 310
     },
     {
         "date": "13.08",
@@ -3300,7 +2805,7 @@
         "theatre": "Нептун",
         "cost": 250,
         "is3d": false,
-        "seanceId": 366
+        "seanceId": 311
     },
     {
         "date": "13.08",
@@ -3309,7 +2814,7 @@
         "theatre": "Владивосток",
         "cost": 250,
         "is3d": false,
-        "seanceId": 367
+        "seanceId": 312
     },
     {
         "date": "13.08",
@@ -3318,7 +2823,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 368
+        "seanceId": 313
     },
     {
         "date": "13.08",
@@ -3327,7 +2832,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": true,
-        "seanceId": 369
+        "seanceId": 314
     },
     {
         "date": "13.08",
@@ -3336,7 +2841,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 320,
         "is3d": false,
-        "seanceId": 370
+        "seanceId": 315
     },
     {
         "date": "13.08",
@@ -3345,7 +2850,7 @@
         "theatre": "Владивосток",
         "cost": 250,
         "is3d": false,
-        "seanceId": 371
+        "seanceId": 316
     },
     {
         "date": "13.08",
@@ -3354,7 +2859,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 372
+        "seanceId": 317
     },
     {
         "date": "13.08",
@@ -3363,7 +2868,7 @@
         "theatre": "Океан IMAX",
         "cost": 260,
         "is3d": false,
-        "seanceId": 373
+        "seanceId": 318
     },
     {
         "date": "13.08",
@@ -3372,7 +2877,7 @@
         "theatre": "Москва",
         "cost": 250,
         "is3d": false,
-        "seanceId": 374
+        "seanceId": 319
     },
     {
         "date": "13.08",
@@ -3381,7 +2886,7 @@
         "theatre": "Уссури",
         "cost": 1000,
         "is3d": false,
-        "seanceId": 375
+        "seanceId": 320
     },
     {
         "date": "13.08",
@@ -3390,7 +2895,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": true,
-        "seanceId": 376
+        "seanceId": 321
     },
     {
         "date": "13.08",
@@ -3399,7 +2904,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": false,
-        "seanceId": 377
+        "seanceId": 322
     },
     {
         "date": "13.08",
@@ -3408,7 +2913,7 @@
         "theatre": "Черёмушки",
         "cost": 260,
         "is3d": false,
-        "seanceId": 378
+        "seanceId": 323
     },
     {
         "date": "13.08",
@@ -3417,7 +2922,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 379
+        "seanceId": 324
     },
     {
         "date": "13.08",
@@ -3426,7 +2931,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": false,
-        "seanceId": 380
+        "seanceId": 325
     },
     {
         "date": "13.08",
@@ -3435,7 +2940,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 381
+        "seanceId": 326
     },
     {
         "date": "13.08",
@@ -3444,7 +2949,7 @@
         "theatre": "Океан IMAX",
         "cost": 280,
         "is3d": true,
-        "seanceId": 382
+        "seanceId": 327
     },
     {
         "date": "13.08",
@@ -3453,7 +2958,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 383
+        "seanceId": 328
     },
     {
         "date": "13.08",
@@ -3462,7 +2967,7 @@
         "theatre": "Океан IMAX",
         "cost": 280,
         "is3d": false,
-        "seanceId": 384
+        "seanceId": 329
     },
     {
         "date": "13.08",
@@ -3471,7 +2976,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": false,
-        "seanceId": 385
+        "seanceId": 330
     },
     {
         "date": "13.08",
@@ -3480,7 +2985,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 386
+        "seanceId": 331
     },
     {
         "date": "13.08",
@@ -3489,7 +2994,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 387
+        "seanceId": 332
     },
     {
         "date": "13.08",
@@ -3498,7 +3003,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 388
+        "seanceId": 333
     },
     {
         "date": "13.08",
@@ -3507,7 +3012,7 @@
         "theatre": "Нептун",
         "cost": 250,
         "is3d": false,
-        "seanceId": 389
+        "seanceId": 334
     },
     {
         "date": "13.08",
@@ -3516,7 +3021,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 390
+        "seanceId": 335
     },
     {
         "date": "13.08",
@@ -3525,7 +3030,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": true,
-        "seanceId": 391
+        "seanceId": 336
     },
     {
         "date": "13.08",
@@ -3534,7 +3039,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": true,
-        "seanceId": 392
+        "seanceId": 337
     },
     {
         "date": "13.08",
@@ -3543,7 +3048,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 320,
         "is3d": false,
-        "seanceId": 393
+        "seanceId": 338
     },
     {
         "date": "13.08",
@@ -3552,7 +3057,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 394
+        "seanceId": 339
     },
     {
         "date": "13.08",
@@ -3561,7 +3066,7 @@
         "theatre": "Океан IMAX",
         "cost": 320,
         "is3d": false,
-        "seanceId": 395
+        "seanceId": 340
     },
     {
         "date": "13.08",
@@ -3570,7 +3075,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": true,
-        "seanceId": 396
+        "seanceId": 341
     },
     {
         "date": "13.08",
@@ -3579,7 +3084,7 @@
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
-        "seanceId": 397
+        "seanceId": 342
     },
     {
         "date": "13.08",
@@ -3588,7 +3093,7 @@
         "theatre": "Иллюзион",
         "cost": 350,
         "is3d": true,
-        "seanceId": 398
+        "seanceId": 343
     },
     {
         "date": "13.08",
@@ -3597,7 +3102,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": false,
-        "seanceId": 399
+        "seanceId": 344
     },
     {
         "date": "13.08",
@@ -3606,7 +3111,7 @@
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
-        "seanceId": 400
+        "seanceId": 345
     },
     {
         "date": "13.08",
@@ -3615,7 +3120,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 401
+        "seanceId": 346
     },
     {
         "date": "13.08",
@@ -3624,7 +3129,7 @@
         "theatre": "Москва",
         "cost": 300,
         "is3d": false,
-        "seanceId": 402
+        "seanceId": 347
     },
     {
         "date": "13.08",
@@ -3633,7 +3138,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 403
+        "seanceId": 348
     },
     {
         "date": "13.08",
@@ -3642,7 +3147,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 404
+        "seanceId": 349
     },
     {
         "date": "13.08",
@@ -3651,7 +3156,7 @@
         "theatre": "Океан IMAX",
         "cost": 310,
         "is3d": false,
-        "seanceId": 405
+        "seanceId": 350
     },
     {
         "date": "13.08",
@@ -3660,7 +3165,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 406
+        "seanceId": 351
     },
     {
         "date": "13.08",
@@ -3669,7 +3174,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": true,
-        "seanceId": 407
+        "seanceId": 352
     },
     {
         "date": "13.08",
@@ -3678,7 +3183,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 408
+        "seanceId": 353
     },
     {
         "date": "13.08",
@@ -3687,7 +3192,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": false,
-        "seanceId": 409
+        "seanceId": 354
     },
     {
         "date": "13.08",
@@ -3696,7 +3201,7 @@
         "theatre": "Иллюзион",
         "cost": 330,
         "is3d": false,
-        "seanceId": 410
+        "seanceId": 355
     },
     {
         "date": "13.08",
@@ -3705,7 +3210,7 @@
         "theatre": "Уссури",
         "cost": 1000,
         "is3d": false,
-        "seanceId": 411
+        "seanceId": 356
     },
     {
         "date": "13.08",
@@ -3714,7 +3219,7 @@
         "theatre": "Черёмушки",
         "cost": 310,
         "is3d": false,
-        "seanceId": 412
+        "seanceId": 357
     },
     {
         "date": "13.08",
@@ -3723,7 +3228,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 413
+        "seanceId": 358
     },
     {
         "date": "13.08",
@@ -3732,7 +3237,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": false,
-        "seanceId": 414
+        "seanceId": 359
     },
     {
         "date": "13.08",
@@ -3741,7 +3246,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 415
+        "seanceId": 360
     },
     {
         "date": "13.08",
@@ -3750,7 +3255,7 @@
         "theatre": "Океан IMAX",
         "cost": 310,
         "is3d": false,
-        "seanceId": 416
+        "seanceId": 361
     },
     {
         "date": "13.08",
@@ -3759,7 +3264,7 @@
         "theatre": "Нептун",
         "cost": 300,
         "is3d": false,
-        "seanceId": 417
+        "seanceId": 362
     },
     {
         "date": "13.08",
@@ -3768,7 +3273,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 418
+        "seanceId": 363
     },
     {
         "date": "13.08",
@@ -3777,7 +3282,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": true,
-        "seanceId": 419
+        "seanceId": 364
     },
     {
         "date": "13.08",
@@ -3786,7 +3291,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": true,
-        "seanceId": 420
+        "seanceId": 365
     },
     {
         "date": "13.08",
@@ -3795,7 +3300,7 @@
         "theatre": "Океан IMAX",
         "cost": 330,
         "is3d": true,
-        "seanceId": 421
+        "seanceId": 366
     },
     {
         "date": "13.08",
@@ -3804,7 +3309,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": false,
-        "seanceId": 422
+        "seanceId": 367
     },
     {
         "date": "13.08",
@@ -3813,7 +3318,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 423
+        "seanceId": 368
     },
     {
         "date": "13.08",
@@ -3822,7 +3327,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 424
+        "seanceId": 369
     },
     {
         "date": "13.08",
@@ -3831,7 +3336,7 @@
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
-        "seanceId": 425
+        "seanceId": 370
     },
     {
         "date": "13.08",
@@ -3840,7 +3345,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 426
+        "seanceId": 371
     },
     {
         "date": "13.08",
@@ -3849,7 +3354,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": true,
-        "seanceId": 427
+        "seanceId": 372
     },
     {
         "date": "13.08",
@@ -3858,7 +3363,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": true,
-        "seanceId": 428
+        "seanceId": 373
     },
     {
         "date": "13.08",
@@ -3867,7 +3372,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": false,
-        "seanceId": 429
+        "seanceId": 374
     },
     {
         "date": "13.08",
@@ -3876,7 +3381,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 430
+        "seanceId": 375
     },
     {
         "date": "13.08",
@@ -3885,7 +3390,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 431
+        "seanceId": 376
     },
     {
         "date": "13.08",
@@ -3894,7 +3399,7 @@
         "theatre": "Иллюзион",
         "cost": 450,
         "is3d": true,
-        "seanceId": 432
+        "seanceId": 377
     },
     {
         "date": "13.08",
@@ -3903,7 +3408,7 @@
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
-        "seanceId": 433
+        "seanceId": 378
     },
     {
         "date": "13.08",
@@ -3912,7 +3417,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 434
+        "seanceId": 379
     },
     {
         "date": "13.08",
@@ -3921,7 +3426,7 @@
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "seanceId": 435
+        "seanceId": 380
     },
     {
         "date": "13.08",
@@ -3930,7 +3435,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 436
+        "seanceId": 381
     },
     {
         "date": "13.08",
@@ -3939,7 +3444,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 437
+        "seanceId": 382
     },
     {
         "date": "13.08",
@@ -3948,7 +3453,7 @@
         "theatre": "Черёмушки",
         "cost": 400,
         "is3d": false,
-        "seanceId": 438
+        "seanceId": 383
     },
     {
         "date": "13.08",
@@ -3957,7 +3462,7 @@
         "theatre": "Черёмушки",
         "cost": 400,
         "is3d": false,
-        "seanceId": 439
+        "seanceId": 384
     },
     {
         "date": "13.08",
@@ -3966,7 +3471,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 440
+        "seanceId": 385
     },
     {
         "date": "13.08",
@@ -3975,7 +3480,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 441
+        "seanceId": 386
     },
     {
         "date": "13.08",
@@ -3984,7 +3489,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 442
+        "seanceId": 387
     },
     {
         "date": "13.08",
@@ -3993,7 +3498,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 443
+        "seanceId": 388
     },
     {
         "date": "13.08",
@@ -4002,7 +3507,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "seanceId": 444
+        "seanceId": 389
     },
     {
         "date": "13.08",
@@ -4011,7 +3516,7 @@
         "theatre": "Океан IMAX",
         "cost": 600,
         "is3d": false,
-        "seanceId": 445
+        "seanceId": 390
     },
     {
         "date": "13.08",
@@ -4020,7 +3525,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 446
+        "seanceId": 391
     },
     {
         "date": "13.08",
@@ -4029,7 +3534,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 447
+        "seanceId": 392
     },
     {
         "date": "13.08",
@@ -4038,7 +3543,7 @@
         "theatre": "Уссури",
         "cost": 430,
         "is3d": false,
-        "seanceId": 448
+        "seanceId": 393
     },
     {
         "date": "13.08",
@@ -4047,7 +3552,7 @@
         "theatre": "Иллюзион",
         "cost": 430,
         "is3d": false,
-        "seanceId": 449
+        "seanceId": 394
     },
     {
         "date": "13.08",
@@ -4056,7 +3561,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 450
+        "seanceId": 395
     },
     {
         "date": "13.08",
@@ -4065,7 +3570,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 451
+        "seanceId": 396
     },
     {
         "date": "13.08",
@@ -4074,7 +3579,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 452
+        "seanceId": 397
     },
     {
         "date": "13.08",
@@ -4083,7 +3588,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": true,
-        "seanceId": 453
+        "seanceId": 398
     },
     {
         "date": "13.08",
@@ -4092,7 +3597,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": true,
-        "seanceId": 454
+        "seanceId": 399
     },
     {
         "date": "13.08",
@@ -4101,7 +3606,7 @@
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
-        "seanceId": 455
+        "seanceId": 400
     },
     {
         "date": "13.08",
@@ -4110,7 +3615,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 456
+        "seanceId": 401
     },
     {
         "date": "13.08",
@@ -4119,7 +3624,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 457
+        "seanceId": 402
     },
     {
         "date": "13.08",
@@ -4128,7 +3633,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 458
+        "seanceId": 403
     },
     {
         "date": "13.08",
@@ -4137,7 +3642,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 459
+        "seanceId": 404
     },
     {
         "date": "13.08",
@@ -4146,7 +3651,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 460
+        "seanceId": 405
     },
     {
         "date": "13.08",
@@ -4155,7 +3660,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 461
+        "seanceId": 406
     },
     {
         "date": "13.08",
@@ -4164,7 +3669,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 462
+        "seanceId": 407
     },
     {
         "date": "13.08",
@@ -4173,7 +3678,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": true,
-        "seanceId": 463
+        "seanceId": 408
     },
     {
         "date": "13.08",
@@ -4182,7 +3687,7 @@
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
-        "seanceId": 464
+        "seanceId": 409
     },
     {
         "date": "13.08",
@@ -4191,7 +3696,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 465
+        "seanceId": 410
     },
     {
         "date": "13.08",
@@ -4200,7 +3705,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": true,
-        "seanceId": 466
+        "seanceId": 411
     },
     {
         "date": "13.08",
@@ -4209,7 +3714,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": true,
-        "seanceId": 467
+        "seanceId": 412
     },
     {
         "date": "13.08",
@@ -4218,7 +3723,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 468
+        "seanceId": 413
     },
     {
         "date": "13.08",
@@ -4227,7 +3732,7 @@
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "seanceId": 469
+        "seanceId": 414
     },
     {
         "date": "13.08",
@@ -4236,7 +3741,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 470
+        "seanceId": 415
     },
     {
         "date": "13.08",
@@ -4245,7 +3750,7 @@
         "theatre": "Черёмушки",
         "cost": 400,
         "is3d": false,
-        "seanceId": 471
+        "seanceId": 416
     },
     {
         "date": "13.08",
@@ -4254,7 +3759,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 472
+        "seanceId": 417
     },
     {
         "date": "13.08",
@@ -4263,7 +3768,7 @@
         "theatre": "Иллюзион",
         "cost": 450,
         "is3d": true,
-        "seanceId": 473
+        "seanceId": 418
     },
     {
         "date": "13.08",
@@ -4272,7 +3777,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 474
+        "seanceId": 419
     },
     {
         "date": "13.08",
@@ -4281,7 +3786,7 @@
         "theatre": "Иллюзион",
         "cost": 430,
         "is3d": false,
-        "seanceId": 475
+        "seanceId": 420
     },
     {
         "date": "13.08",
@@ -4290,7 +3795,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 476
+        "seanceId": 421
     },
     {
         "date": "13.08",
@@ -4299,7 +3804,7 @@
         "theatre": "Уссури",
         "cost": 430,
         "is3d": false,
-        "seanceId": 477
+        "seanceId": 422
     },
     {
         "date": "13.08",
@@ -4308,7 +3813,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 210,
         "is3d": false,
-        "seanceId": 478
+        "seanceId": 423
     },
     {
         "date": "13.08",
@@ -4317,7 +3822,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 479
+        "seanceId": 424
     },
     {
         "date": "13.08",
@@ -4326,7 +3831,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "seanceId": 480
+        "seanceId": 425
     },
     {
         "date": "13.08",
@@ -4335,7 +3840,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 481
+        "seanceId": 426
     },
     {
         "date": "13.08",
@@ -4344,7 +3849,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 482
+        "seanceId": 427
     },
     {
         "date": "13.08",
@@ -4353,7 +3858,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 483
+        "seanceId": 428
     },
     {
         "date": "13.08",
@@ -4362,7 +3867,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": true,
-        "seanceId": 484
+        "seanceId": 429
     },
     {
         "date": "13.08",
@@ -4371,7 +3876,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 420,
         "is3d": false,
-        "seanceId": 485
+        "seanceId": 430
     },
     {
         "date": "13.08",
@@ -4380,7 +3885,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": true,
-        "seanceId": 486
+        "seanceId": 431
     },
     {
         "date": "13.08",
@@ -4389,7 +3894,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 487
+        "seanceId": 432
     },
     {
         "date": "13.08",
@@ -4398,7 +3903,7 @@
         "theatre": "Океан IMAX",
         "cost": 290,
         "is3d": false,
-        "seanceId": 488
+        "seanceId": 433
     },
     {
         "date": "13.08",
@@ -4407,7 +3912,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 489
+        "seanceId": 434
     },
     {
         "date": "13.08",
@@ -4416,7 +3921,7 @@
         "theatre": "Иллюзион",
         "cost": 280,
         "is3d": false,
-        "seanceId": 490
+        "seanceId": 435
     },
     {
         "date": "13.08",
@@ -4425,7 +3930,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 491
+        "seanceId": 436
     },
     {
         "date": "13.08",
@@ -4434,7 +3939,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 492
+        "seanceId": 437
     },
     {
         "date": "13.08",
@@ -4443,7 +3948,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 493
+        "seanceId": 438
     },
     {
         "date": "13.08",
@@ -4452,7 +3957,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 494
+        "seanceId": 439
     },
     {
         "date": "13.08",
@@ -4461,7 +3966,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": false,
-        "seanceId": 495
+        "seanceId": 440
     },
     {
         "date": "13.08",
@@ -4470,7 +3975,7 @@
         "theatre": "Иллюзион",
         "cost": 280,
         "is3d": false,
-        "seanceId": 496
+        "seanceId": 441
     },
     {
         "date": "13.08",
@@ -4479,7 +3984,7 @@
         "theatre": "Иллюзион",
         "cost": 290,
         "is3d": false,
-        "seanceId": 497
+        "seanceId": 442
     },
     {
         "date": "13.08",
@@ -4488,7 +3993,7 @@
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
-        "seanceId": 498
+        "seanceId": 443
     },
     {
         "date": "13.08",
@@ -4497,7 +4002,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 499
+        "seanceId": 444
     },
     {
         "date": "13.08",
@@ -4506,7 +4011,7 @@
         "theatre": "Уссури",
         "cost": 290,
         "is3d": false,
-        "seanceId": 500
+        "seanceId": 445
     },
     {
         "date": "13.08",
@@ -4515,7 +4020,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 501
+        "seanceId": 446
     },
     {
         "date": "13.08",
@@ -4524,7 +4029,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 502
+        "seanceId": 447
     },
     {
         "date": "13.08",
@@ -4533,7 +4038,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 503
+        "seanceId": 448
     },
     {
         "date": "13.08",
@@ -4542,7 +4047,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": true,
-        "seanceId": 504
+        "seanceId": 449
     },
     {
         "date": "13.08",
@@ -4551,7 +4056,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": true,
-        "seanceId": 505
+        "seanceId": 450
     },
     {
         "date": "13.08",
@@ -4560,7 +4065,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": false,
-        "seanceId": 506
+        "seanceId": 451
     },
     {
         "date": "13.08",
@@ -4569,7 +4074,7 @@
         "theatre": "Океан IMAX",
         "cost": 320,
         "is3d": false,
-        "seanceId": 507
+        "seanceId": 452
     },
     {
         "date": "13.08",
@@ -4578,7 +4083,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": false,
-        "seanceId": 508
+        "seanceId": 453
     },
     {
         "date": "13.08",
@@ -4587,7 +4092,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": true,
-        "seanceId": 509
+        "seanceId": 454
     },
     {
         "date": "13.08",
@@ -4596,7 +4101,7 @@
         "theatre": "Океан IMAX",
         "cost": 400,
         "is3d": false,
-        "seanceId": 510
+        "seanceId": 455
     },
     {
         "date": "14.08",
@@ -4605,7 +4110,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": true,
-        "seanceId": 511
+        "seanceId": 456
     },
     {
         "date": "14.08",
@@ -4614,7 +4119,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 512
+        "seanceId": 457
     },
     {
         "date": "14.08",
@@ -4623,7 +4128,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": false,
-        "seanceId": 513
+        "seanceId": 458
     },
     {
         "date": "14.08",
@@ -4632,7 +4137,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": false,
-        "seanceId": 514
+        "seanceId": 459
     },
     {
         "date": "14.08",
@@ -4641,7 +4146,7 @@
         "theatre": "Нептун",
         "cost": 150,
         "is3d": false,
-        "seanceId": 515
+        "seanceId": 460
     },
     {
         "date": "14.08",
@@ -4650,7 +4155,7 @@
         "theatre": "Океан IMAX",
         "cost": 190,
         "is3d": false,
-        "seanceId": 516
+        "seanceId": 461
     },
     {
         "date": "14.08",
@@ -4659,7 +4164,7 @@
         "theatre": "Океан IMAX",
         "cost": 210,
         "is3d": false,
-        "seanceId": 517
+        "seanceId": 462
     },
     {
         "date": "14.08",
@@ -4668,7 +4173,7 @@
         "theatre": "Уссури",
         "cost": 150,
         "is3d": true,
-        "seanceId": 518
+        "seanceId": 463
     },
     {
         "date": "14.08",
@@ -4677,7 +4182,7 @@
         "theatre": "Иллюзион",
         "cost": 200,
         "is3d": true,
-        "seanceId": 519
+        "seanceId": 464
     },
     {
         "date": "14.08",
@@ -4686,7 +4191,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 520
+        "seanceId": 465
     },
     {
         "date": "14.08",
@@ -4695,7 +4200,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 521
+        "seanceId": 466
     },
     {
         "date": "14.08",
@@ -4704,7 +4209,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 522
+        "seanceId": 467
     },
     {
         "date": "14.08",
@@ -4713,7 +4218,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 523
+        "seanceId": 468
     },
     {
         "date": "14.08",
@@ -4722,7 +4227,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": true,
-        "seanceId": 524
+        "seanceId": 469
     },
     {
         "date": "14.08",
@@ -4731,7 +4236,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 525
+        "seanceId": 470
     },
     {
         "date": "14.08",
@@ -4740,7 +4245,7 @@
         "theatre": "Уссури",
         "cost": 190,
         "is3d": false,
-        "seanceId": 526
+        "seanceId": 471
     },
     {
         "date": "14.08",
@@ -4749,7 +4254,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": true,
-        "seanceId": 527
+        "seanceId": 472
     },
     {
         "date": "14.08",
@@ -4758,7 +4263,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
-        "seanceId": 528
+        "seanceId": 473
     },
     {
         "date": "14.08",
@@ -4767,7 +4272,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 540,
         "is3d": false,
-        "seanceId": 529
+        "seanceId": 474
     },
     {
         "date": "14.08",
@@ -4776,7 +4281,7 @@
         "theatre": "Иллюзион",
         "cost": 190,
         "is3d": false,
-        "seanceId": 530
+        "seanceId": 475
     },
     {
         "date": "14.08",
@@ -4785,7 +4290,7 @@
         "theatre": "Черёмушки",
         "cost": 190,
         "is3d": false,
-        "seanceId": 531
+        "seanceId": 476
     },
     {
         "date": "14.08",
@@ -4794,7 +4299,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 360,
         "is3d": false,
-        "seanceId": 532
+        "seanceId": 477
     },
     {
         "date": "14.08",
@@ -4803,7 +4308,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 533
+        "seanceId": 478
     },
     {
         "date": "14.08",
@@ -4812,7 +4317,7 @@
         "theatre": "Владивосток",
         "cost": 500,
         "is3d": false,
-        "seanceId": 534
+        "seanceId": 479
     },
     {
         "date": "14.08",
@@ -4821,7 +4326,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
-        "seanceId": 535
+        "seanceId": 480
     },
     {
         "date": "14.08",
@@ -4830,7 +4335,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 536
+        "seanceId": 481
     },
     {
         "date": "14.08",
@@ -4839,7 +4344,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 260,
         "is3d": false,
-        "seanceId": 537
+        "seanceId": 482
     },
     {
         "date": "14.08",
@@ -4848,7 +4353,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 538
+        "seanceId": 483
     },
     {
         "date": "14.08",
@@ -4857,7 +4362,7 @@
         "theatre": "Нептун",
         "cost": 200,
         "is3d": false,
-        "seanceId": 539
+        "seanceId": 484
     },
     {
         "date": "14.08",
@@ -4866,7 +4371,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 630,
         "is3d": true,
-        "seanceId": 540
+        "seanceId": 485
     },
     {
         "date": "14.08",
@@ -4875,7 +4380,7 @@
         "theatre": "Владивосток",
         "cost": 150,
         "is3d": false,
-        "seanceId": 541
+        "seanceId": 486
     },
     {
         "date": "14.08",
@@ -4884,7 +4389,7 @@
         "theatre": "Уссури",
         "cost": 700,
         "is3d": false,
-        "seanceId": 542
+        "seanceId": 487
     },
     {
         "date": "14.08",
@@ -4893,7 +4398,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 543
+        "seanceId": 488
     },
     {
         "date": "14.08",
@@ -4902,7 +4407,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 544
+        "seanceId": 489
     },
     {
         "date": "14.08",
@@ -4911,7 +4416,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 545
+        "seanceId": 490
     },
     {
         "date": "14.08",
@@ -4920,7 +4425,7 @@
         "theatre": "Уссури",
         "cost": 230,
         "is3d": false,
-        "seanceId": 546
+        "seanceId": 491
     },
     {
         "date": "14.08",
@@ -4929,7 +4434,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 547
+        "seanceId": 492
     },
     {
         "date": "14.08",
@@ -4938,7 +4443,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": true,
-        "seanceId": 548
+        "seanceId": 493
     },
     {
         "date": "14.08",
@@ -4947,7 +4452,7 @@
         "theatre": "Иллюзион",
         "cost": 230,
         "is3d": false,
-        "seanceId": 549
+        "seanceId": 494
     },
     {
         "date": "14.08",
@@ -4956,7 +4461,7 @@
         "theatre": "Уссури",
         "cost": 230,
         "is3d": true,
-        "seanceId": 550
+        "seanceId": 495
     },
     {
         "date": "14.08",
@@ -4965,7 +4470,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 551
+        "seanceId": 496
     },
     {
         "date": "14.08",
@@ -4974,7 +4479,7 @@
         "theatre": "Уссури",
         "cost": 250,
         "is3d": false,
-        "seanceId": 552
+        "seanceId": 497
     },
     {
         "date": "14.08",
@@ -4983,7 +4488,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 553
+        "seanceId": 498
     },
     {
         "date": "14.08",
@@ -4992,7 +4497,7 @@
         "theatre": "Иллюзион",
         "cost": 230,
         "is3d": true,
-        "seanceId": 554
+        "seanceId": 499
     },
     {
         "date": "14.08",
@@ -5001,7 +4506,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 555
+        "seanceId": 500
     },
     {
         "date": "14.08",
@@ -5010,7 +4515,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 556
+        "seanceId": 501
     },
     {
         "date": "14.08",
@@ -5019,7 +4524,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 557
+        "seanceId": 502
     },
     {
         "date": "14.08",
@@ -5028,7 +4533,7 @@
         "theatre": "Иллюзион",
         "cost": 230,
         "is3d": false,
-        "seanceId": 558
+        "seanceId": 503
     },
     {
         "date": "14.08",
@@ -5037,7 +4542,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
-        "seanceId": 559
+        "seanceId": 504
     },
     {
         "date": "14.08",
@@ -5046,7 +4551,7 @@
         "theatre": "Уссури",
         "cost": 150,
         "is3d": true,
-        "seanceId": 560
+        "seanceId": 505
     },
     {
         "date": "14.08",
@@ -5055,7 +4560,7 @@
         "theatre": "Океан IMAX",
         "cost": 260,
         "is3d": false,
-        "seanceId": 561
+        "seanceId": 506
     },
     {
         "date": "14.08",
@@ -5064,7 +4569,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": true,
-        "seanceId": 562
+        "seanceId": 507
     },
     {
         "date": "14.08",
@@ -5073,7 +4578,7 @@
         "theatre": "Черёмушки",
         "cost": 250,
         "is3d": true,
-        "seanceId": 563
+        "seanceId": 508
     },
     {
         "date": "14.08",
@@ -5082,7 +4587,7 @@
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
-        "seanceId": 564
+        "seanceId": 509
     },
     {
         "date": "14.08",
@@ -5091,7 +4596,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": false,
-        "seanceId": 565
+        "seanceId": 510
     },
     {
         "date": "14.08",
@@ -5100,7 +4605,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 566
+        "seanceId": 511
     },
     {
         "date": "14.08",
@@ -5109,7 +4614,7 @@
         "theatre": "Нептун",
         "cost": 250,
         "is3d": false,
-        "seanceId": 567
+        "seanceId": 512
     },
     {
         "date": "14.08",
@@ -5118,7 +4623,7 @@
         "theatre": "Владивосток",
         "cost": 150,
         "is3d": false,
-        "seanceId": 568
+        "seanceId": 513
     },
     {
         "date": "14.08",
@@ -5127,7 +4632,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 569
+        "seanceId": 514
     },
     {
         "date": "14.08",
@@ -5136,7 +4641,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": true,
-        "seanceId": 570
+        "seanceId": 515
     },
     {
         "date": "14.08",
@@ -5145,7 +4650,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 320,
         "is3d": false,
-        "seanceId": 571
+        "seanceId": 516
     },
     {
         "date": "14.08",
@@ -5154,7 +4659,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 572
+        "seanceId": 517
     },
     {
         "date": "14.08",
@@ -5163,7 +4668,7 @@
         "theatre": "Океан IMAX",
         "cost": 280,
         "is3d": false,
-        "seanceId": 573
+        "seanceId": 518
     },
     {
         "date": "14.08",
@@ -5172,7 +4677,7 @@
         "theatre": "Уссури",
         "cost": 260,
         "is3d": false,
-        "seanceId": 574
+        "seanceId": 519
     },
     {
         "date": "14.08",
@@ -5181,7 +4686,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 575
+        "seanceId": 520
     },
     {
         "date": "14.08",
@@ -5190,7 +4695,7 @@
         "theatre": "Уссури",
         "cost": 900,
         "is3d": false,
-        "seanceId": 576
+        "seanceId": 521
     },
     {
         "date": "14.08",
@@ -5199,7 +4704,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": true,
-        "seanceId": 577
+        "seanceId": 522
     },
     {
         "date": "14.08",
@@ -5208,7 +4713,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": false,
-        "seanceId": 578
+        "seanceId": 523
     },
     {
         "date": "14.08",
@@ -5217,7 +4722,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 579
+        "seanceId": 524
     },
     {
         "date": "14.08",
@@ -5226,7 +4731,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 580
+        "seanceId": 525
     },
     {
         "date": "14.08",
@@ -5235,7 +4740,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": false,
-        "seanceId": 581
+        "seanceId": 526
     },
     {
         "date": "14.08",
@@ -5244,7 +4749,7 @@
         "theatre": "Уссури",
         "cost": 260,
         "is3d": false,
-        "seanceId": 582
+        "seanceId": 527
     },
     {
         "date": "14.08",
@@ -5253,7 +4758,7 @@
         "theatre": "Океан IMAX",
         "cost": 280,
         "is3d": true,
-        "seanceId": 583
+        "seanceId": 528
     },
     {
         "date": "14.08",
@@ -5262,7 +4767,7 @@
         "theatre": "Черёмушки",
         "cost": 280,
         "is3d": false,
-        "seanceId": 584
+        "seanceId": 529
     },
     {
         "date": "14.08",
@@ -5271,7 +4776,7 @@
         "theatre": "Иллюзион",
         "cost": 260,
         "is3d": false,
-        "seanceId": 585
+        "seanceId": 530
     },
     {
         "date": "14.08",
@@ -5280,7 +4785,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 586
+        "seanceId": 531
     },
     {
         "date": "14.08",
@@ -5289,7 +4794,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 587
+        "seanceId": 532
     },
     {
         "date": "14.08",
@@ -5298,7 +4803,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 588
+        "seanceId": 533
     },
     {
         "date": "14.08",
@@ -5307,7 +4812,7 @@
         "theatre": "Нептун",
         "cost": 250,
         "is3d": false,
-        "seanceId": 589
+        "seanceId": 534
     },
     {
         "date": "14.08",
@@ -5316,7 +4821,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 590
+        "seanceId": 535
     },
     {
         "date": "14.08",
@@ -5325,7 +4830,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": true,
-        "seanceId": 591
+        "seanceId": 536
     },
     {
         "date": "14.08",
@@ -5334,7 +4839,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": true,
-        "seanceId": 592
+        "seanceId": 537
     },
     {
         "date": "14.08",
@@ -5343,7 +4848,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 320,
         "is3d": false,
-        "seanceId": 593
+        "seanceId": 538
     },
     {
         "date": "14.08",
@@ -5352,7 +4857,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 594
+        "seanceId": 539
     },
     {
         "date": "14.08",
@@ -5361,7 +4866,7 @@
         "theatre": "Океан IMAX",
         "cost": 320,
         "is3d": false,
-        "seanceId": 595
+        "seanceId": 540
     },
     {
         "date": "14.08",
@@ -5370,7 +4875,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": true,
-        "seanceId": 596
+        "seanceId": 541
     },
     {
         "date": "14.08",
@@ -5379,7 +4884,7 @@
         "theatre": "Владивосток",
         "cost": 150,
         "is3d": false,
-        "seanceId": 597
+        "seanceId": 542
     },
     {
         "date": "14.08",
@@ -5388,7 +4893,7 @@
         "theatre": "Иллюзион",
         "cost": 350,
         "is3d": true,
-        "seanceId": 598
+        "seanceId": 543
     },
     {
         "date": "14.08",
@@ -5397,7 +4902,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": false,
-        "seanceId": 599
+        "seanceId": 544
     },
     {
         "date": "14.08",
@@ -5406,7 +4911,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 600
+        "seanceId": 545
     },
     {
         "date": "14.08",
@@ -5415,7 +4920,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 300,
         "is3d": false,
-        "seanceId": 601
+        "seanceId": 546
     },
     {
         "date": "14.08",
@@ -5424,7 +4929,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 602
+        "seanceId": 547
     },
     {
         "date": "14.08",
@@ -5433,7 +4938,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 603
+        "seanceId": 548
     },
     {
         "date": "14.08",
@@ -5442,7 +4947,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": false,
-        "seanceId": 604
+        "seanceId": 549
     },
     {
         "date": "14.08",
@@ -5451,7 +4956,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": false,
-        "seanceId": 605
+        "seanceId": 550
     },
     {
         "date": "14.08",
@@ -5460,7 +4965,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 606
+        "seanceId": 551
     },
     {
         "date": "14.08",
@@ -5469,7 +4974,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 607
+        "seanceId": 552
     },
     {
         "date": "14.08",
@@ -5478,7 +4983,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": true,
-        "seanceId": 608
+        "seanceId": 553
     },
     {
         "date": "14.08",
@@ -5487,7 +4992,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": true,
-        "seanceId": 609
+        "seanceId": 554
     },
     {
         "date": "14.08",
@@ -5496,7 +5001,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 610
+        "seanceId": 555
     },
     {
         "date": "14.08",
@@ -5505,7 +5010,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": false,
-        "seanceId": 611
+        "seanceId": 556
     },
     {
         "date": "14.08",
@@ -5514,7 +5019,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 612
+        "seanceId": 557
     },
     {
         "date": "14.08",
@@ -5523,7 +5028,7 @@
         "theatre": "Уссури",
         "cost": 310,
         "is3d": false,
-        "seanceId": 613
+        "seanceId": 558
     },
     {
         "date": "14.08",
@@ -5532,7 +5037,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": false,
-        "seanceId": 614
+        "seanceId": 559
     },
     {
         "date": "14.08",
@@ -5541,7 +5046,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 615
+        "seanceId": 560
     },
     {
         "date": "14.08",
@@ -5550,7 +5055,7 @@
         "theatre": "Нептун",
         "cost": 300,
         "is3d": false,
-        "seanceId": 616
+        "seanceId": 561
     },
     {
         "date": "14.08",
@@ -5559,7 +5064,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 430,
         "is3d": false,
-        "seanceId": 617
+        "seanceId": 562
     },
     {
         "date": "14.08",
@@ -5568,7 +5073,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 680,
         "is3d": true,
-        "seanceId": 618
+        "seanceId": 563
     },
     {
         "date": "14.08",
@@ -5577,7 +5082,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": true,
-        "seanceId": 619
+        "seanceId": 564
     },
     {
         "date": "14.08",
@@ -5586,7 +5091,7 @@
         "theatre": "Океан IMAX",
         "cost": 330,
         "is3d": true,
-        "seanceId": 620
+        "seanceId": 565
     },
     {
         "date": "14.08",
@@ -5595,7 +5100,7 @@
         "theatre": "Черёмушки",
         "cost": 330,
         "is3d": false,
-        "seanceId": 621
+        "seanceId": 566
     },
     {
         "date": "14.08",
@@ -5604,7 +5109,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 290,
         "is3d": false,
-        "seanceId": 622
+        "seanceId": 567
     },
     {
         "date": "14.08",
@@ -5613,7 +5118,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 623
+        "seanceId": 568
     },
     {
         "date": "14.08",
@@ -5622,7 +5127,7 @@
         "theatre": "Владивосток",
         "cost": 150,
         "is3d": false,
-        "seanceId": 624
+        "seanceId": 569
     },
     {
         "date": "14.08",
@@ -5631,7 +5136,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 625
+        "seanceId": 570
     },
     {
         "date": "14.08",
@@ -5640,7 +5145,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": true,
-        "seanceId": 626
+        "seanceId": 571
     },
     {
         "date": "14.08",
@@ -5649,7 +5154,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": true,
-        "seanceId": 627
+        "seanceId": 572
     },
     {
         "date": "14.08",
@@ -5658,7 +5163,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 628
+        "seanceId": 573
     },
     {
         "date": "14.08",
@@ -5667,7 +5172,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": false,
-        "seanceId": 629
+        "seanceId": 574
     },
     {
         "date": "14.08",
@@ -5676,7 +5181,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 630
+        "seanceId": 575
     },
     {
         "date": "14.08",
@@ -5685,7 +5190,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 631
+        "seanceId": 576
     },
     {
         "date": "14.08",
@@ -5694,7 +5199,7 @@
         "theatre": "Иллюзион",
         "cost": 450,
         "is3d": true,
-        "seanceId": 632
+        "seanceId": 577
     },
     {
         "date": "14.08",
@@ -5703,7 +5208,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 633
+        "seanceId": 578
     },
     {
         "date": "14.08",
@@ -5712,7 +5217,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 634
+        "seanceId": 579
     },
     {
         "date": "14.08",
@@ -5721,7 +5226,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 635
+        "seanceId": 580
     },
     {
         "date": "14.08",
@@ -5730,7 +5235,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 636
+        "seanceId": 581
     },
     {
         "date": "14.08",
@@ -5739,7 +5244,7 @@
         "theatre": "Уссури",
         "cost": 1100,
         "is3d": false,
-        "seanceId": 637
+        "seanceId": 582
     },
     {
         "date": "14.08",
@@ -5748,7 +5253,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 638
+        "seanceId": 583
     },
     {
         "date": "14.08",
@@ -5757,7 +5262,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 639
+        "seanceId": 584
     },
     {
         "date": "14.08",
@@ -5766,7 +5271,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 640
+        "seanceId": 585
     },
     {
         "date": "14.08",
@@ -5775,7 +5280,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 641
+        "seanceId": 586
     },
     {
         "date": "14.08",
@@ -5784,7 +5289,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 642
+        "seanceId": 587
     },
     {
         "date": "14.08",
@@ -5793,7 +5298,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 643
+        "seanceId": 588
     },
     {
         "date": "14.08",
@@ -5802,7 +5307,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "seanceId": 644
+        "seanceId": 589
     },
     {
         "date": "14.08",
@@ -5811,7 +5316,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 645
+        "seanceId": 590
     },
     {
         "date": "14.08",
@@ -5820,7 +5325,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 646
+        "seanceId": 591
     },
     {
         "date": "14.08",
@@ -5829,7 +5334,7 @@
         "theatre": "Уссури",
         "cost": 430,
         "is3d": false,
-        "seanceId": 647
+        "seanceId": 592
     },
     {
         "date": "14.08",
@@ -5838,7 +5343,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 648
+        "seanceId": 593
     },
     {
         "date": "14.08",
@@ -5847,7 +5352,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 649
+        "seanceId": 594
     },
     {
         "date": "14.08",
@@ -5856,7 +5361,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 650
+        "seanceId": 595
     },
     {
         "date": "14.08",
@@ -5865,7 +5370,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 360,
         "is3d": false,
-        "seanceId": 651
+        "seanceId": 596
     },
     {
         "date": "14.08",
@@ -5874,7 +5379,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": true,
-        "seanceId": 652
+        "seanceId": 597
     },
     {
         "date": "14.08",
@@ -5883,7 +5388,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": true,
-        "seanceId": 653
+        "seanceId": 598
     },
     {
         "date": "14.08",
@@ -5892,7 +5397,7 @@
         "theatre": "Владивосток",
         "cost": 150,
         "is3d": false,
-        "seanceId": 654
+        "seanceId": 599
     },
     {
         "date": "14.08",
@@ -5901,7 +5406,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 655
+        "seanceId": 600
     },
     {
         "date": "14.08",
@@ -5910,7 +5415,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 656
+        "seanceId": 601
     },
     {
         "date": "14.08",
@@ -5919,7 +5424,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 657
+        "seanceId": 602
     },
     {
         "date": "14.08",
@@ -5928,7 +5433,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 658
+        "seanceId": 603
     },
     {
         "date": "14.08",
@@ -5937,7 +5442,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 659
+        "seanceId": 604
     },
     {
         "date": "14.08",
@@ -5946,7 +5451,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 660
+        "seanceId": 605
     },
     {
         "date": "14.08",
@@ -5955,7 +5460,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 661
+        "seanceId": 606
     },
     {
         "date": "14.08",
@@ -5964,7 +5469,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": true,
-        "seanceId": 662
+        "seanceId": 607
     },
     {
         "date": "14.08",
@@ -5973,7 +5478,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 663
+        "seanceId": 608
     },
     {
         "date": "14.08",
@@ -5982,7 +5487,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 664
+        "seanceId": 609
     },
     {
         "date": "14.08",
@@ -5991,7 +5496,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 665
+        "seanceId": 610
     },
     {
         "date": "14.08",
@@ -6000,7 +5505,7 @@
         "theatre": "Океан IMAX",
         "cost": 440,
         "is3d": false,
-        "seanceId": 666
+        "seanceId": 611
     },
     {
         "date": "14.08",
@@ -6009,7 +5514,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": true,
-        "seanceId": 667
+        "seanceId": 612
     },
     {
         "date": "14.08",
@@ -6018,7 +5523,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 668
+        "seanceId": 613
     },
     {
         "date": "14.08",
@@ -6027,7 +5532,7 @@
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "seanceId": 669
+        "seanceId": 614
     },
     {
         "date": "14.08",
@@ -6036,7 +5541,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 670
+        "seanceId": 615
     },
     {
         "date": "14.08",
@@ -6045,7 +5550,7 @@
         "theatre": "Иллюзион",
         "cost": 450,
         "is3d": true,
-        "seanceId": 671
+        "seanceId": 616
     },
     {
         "date": "14.08",
@@ -6054,7 +5559,7 @@
         "theatre": "Владивосток",
         "cost": 700,
         "is3d": false,
-        "seanceId": 672
+        "seanceId": 617
     },
     {
         "date": "14.08",
@@ -6063,7 +5568,7 @@
         "theatre": "Иллюзион",
         "cost": 400,
         "is3d": false,
-        "seanceId": 673
+        "seanceId": 618
     },
     {
         "date": "14.08",
@@ -6072,7 +5577,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": false,
-        "seanceId": 674
+        "seanceId": 619
     },
     {
         "date": "14.08",
@@ -6081,7 +5586,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 675
+        "seanceId": 620
     },
     {
         "date": "14.08",
@@ -6090,7 +5595,7 @@
         "theatre": "Уссури",
         "cost": 430,
         "is3d": false,
-        "seanceId": 676
+        "seanceId": 621
     },
     {
         "date": "14.08",
@@ -6099,7 +5604,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 370,
         "is3d": false,
-        "seanceId": 677
+        "seanceId": 622
     },
     {
         "date": "14.08",
@@ -6108,7 +5613,7 @@
         "theatre": "Уссури",
         "cost": 1200,
         "is3d": false,
-        "seanceId": 678
+        "seanceId": 623
     },
     {
         "date": "14.08",
@@ -6117,7 +5622,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": false,
-        "seanceId": 679
+        "seanceId": 624
     },
     {
         "date": "14.08",
@@ -6126,7 +5631,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "seanceId": 680
+        "seanceId": 625
     },
     {
         "date": "14.08",
@@ -6135,7 +5640,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 681
+        "seanceId": 626
     },
     {
         "date": "14.08",
@@ -6144,7 +5649,7 @@
         "theatre": "Черёмушки",
         "cost": 430,
         "is3d": true,
-        "seanceId": 682
+        "seanceId": 627
     },
     {
         "date": "14.08",
@@ -6153,7 +5658,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": true,
-        "seanceId": 683
+        "seanceId": 628
     },
     {
         "date": "14.08",
@@ -6162,7 +5667,7 @@
         "theatre": "Океан IMAX",
         "cost": 200,
         "is3d": false,
-        "seanceId": 684
+        "seanceId": 629
     },
     {
         "date": "14.08",
@@ -6171,7 +5676,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 420,
         "is3d": false,
-        "seanceId": 685
+        "seanceId": 630
     },
     {
         "date": "14.08",
@@ -6180,7 +5685,7 @@
         "theatre": "Океан IMAX",
         "cost": 430,
         "is3d": true,
-        "seanceId": 686
+        "seanceId": 631
     },
     {
         "date": "14.08",
@@ -6189,7 +5694,7 @@
         "theatre": "Нептун",
         "cost": 350,
         "is3d": false,
-        "seanceId": 687
+        "seanceId": 632
     },
     {
         "date": "14.08",
@@ -6198,7 +5703,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 688
+        "seanceId": 633
     },
     {
         "date": "14.08",
@@ -6207,7 +5712,7 @@
         "theatre": "Иллюзион",
         "cost": 280,
         "is3d": false,
-        "seanceId": 689
+        "seanceId": 634
     },
     {
         "date": "14.08",
@@ -6216,7 +5721,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": true,
-        "seanceId": 690
+        "seanceId": 635
     },
     {
         "date": "14.08",
@@ -6225,7 +5730,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 691
+        "seanceId": 636
     },
     {
         "date": "14.08",
@@ -6234,7 +5739,7 @@
         "theatre": "Черёмушки",
         "cost": 200,
         "is3d": false,
-        "seanceId": 692
+        "seanceId": 637
     },
     {
         "date": "14.08",
@@ -6243,7 +5748,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
-        "seanceId": 693
+        "seanceId": 638
     },
     {
         "date": "14.08",
@@ -6252,7 +5757,7 @@
         "theatre": "Иллюзион",
         "cost": 280,
         "is3d": false,
-        "seanceId": 694
+        "seanceId": 639
     },
     {
         "date": "14.08",
@@ -6261,7 +5766,7 @@
         "theatre": "Иллюзион",
         "cost": 280,
         "is3d": false,
-        "seanceId": 695
+        "seanceId": 640
     },
     {
         "date": "14.08",
@@ -6270,7 +5775,7 @@
         "theatre": "Океан IMAX",
         "cost": 290,
         "is3d": false,
-        "seanceId": 696
+        "seanceId": 641
     },
     {
         "date": "14.08",
@@ -6279,7 +5784,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 510,
         "is3d": false,
-        "seanceId": 697
+        "seanceId": 642
     },
     {
         "date": "14.08",
@@ -6288,7 +5793,7 @@
         "theatre": "Уссури",
         "cost": 290,
         "is3d": false,
-        "seanceId": 698
+        "seanceId": 643
     },
     {
         "date": "14.08",
@@ -6297,7 +5802,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 390,
         "is3d": false,
-        "seanceId": 699
+        "seanceId": 644
     },
     {
         "date": "14.08",
@@ -6306,7 +5811,7 @@
         "theatre": "Уссури",
         "cost": 200,
         "is3d": true,
-        "seanceId": 700
+        "seanceId": 645
     },
     {
         "date": "14.08",
@@ -6315,7 +5820,7 @@
         "theatre": "Киномакс-Сапфир",
         "cost": 800,
         "is3d": false,
-        "seanceId": 701
+        "seanceId": 646
     },
     {
         "date": "14.08",
@@ -6324,7 +5829,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": true,
-        "seanceId": 702
+        "seanceId": 647
     },
     {
         "date": "14.08",
@@ -6333,7 +5838,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": true,
-        "seanceId": 703
+        "seanceId": 648
     },
     {
         "date": "14.08",
@@ -6342,7 +5847,7 @@
         "theatre": "Уссури",
         "cost": 280,
         "is3d": false,
-        "seanceId": 704
+        "seanceId": 649
     },
     {
         "date": "14.08",
@@ -6351,7 +5856,7 @@
         "theatre": "Океан IMAX",
         "cost": 320,
         "is3d": false,
-        "seanceId": 705
+        "seanceId": 650
     },
     {
         "date": "14.08",
@@ -6360,7 +5865,7 @@
         "theatre": "Уссури",
         "cost": 800,
         "is3d": false,
-        "seanceId": 706
+        "seanceId": 651
     },
     {
         "date": "14.08",
@@ -6369,7 +5874,7 @@
         "theatre": "Черёмушки",
         "cost": 290,
         "is3d": false,
-        "seanceId": 707
+        "seanceId": 652
     },
     {
         "date": "14.08",
@@ -6378,7 +5883,7 @@
         "theatre": "Иллюзион",
         "cost": 310,
         "is3d": true,
-        "seanceId": 708
+        "seanceId": 653
     },
     {
         "date": "19.08",
@@ -6387,7 +5892,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": false,
-        "seanceId": 709
+        "seanceId": 654
     },
     {
         "date": "20.08",
@@ -6396,7 +5901,7 @@
         "theatre": "Океан IMAX",
         "cost": 450,
         "is3d": false,
-        "seanceId": 710
+        "seanceId": 655
     },
     {
         "date": "21.08",
@@ -6405,7 +5910,7 @@
         "theatre": "Уссури",
         "cost": 400,
         "is3d": false,
-        "seanceId": 711
+        "seanceId": 656
     },
     {
         "date": "24.08",
@@ -6414,7 +5919,7 @@
         "theatre": "Океан IMAX",
         "cost": 2100,
         "is3d": false,
-        "seanceId": 712
+        "seanceId": 657
     },
     {
         "date": "26.08",
@@ -6423,7 +5928,7 @@
         "theatre": "Уссури",
         "cost": 300,
         "is3d": false,
-        "seanceId": 713
+        "seanceId": 658
     },
     {
         "date": "27.08",
@@ -6432,7 +5937,7 @@
         "theatre": "Океан IMAX",
         "cost": 600,
         "is3d": false,
-        "seanceId": 714
+        "seanceId": 659
     },
     {
         "date": "28.08",
@@ -6441,6 +5946,6 @@
         "theatre": "Океан IMAX",
         "cost": 700,
         "is3d": false,
-        "seanceId": 715
+        "seanceId": 660
     }
 ]
