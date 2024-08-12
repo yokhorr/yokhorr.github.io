@@ -1,7 +1,7 @@
 /*  ___Button___   */
 
 /* Отступ от нижней границы контента */
-@media (min-width: 8000px) {
+@media (max-width: 8000px) {
   .end-message {
     margin-top: 200px;
   }
@@ -11,7 +11,7 @@
   position: relative; /* Добавляем позиционирование для .grid */
 }
 
-@media (min-width: 1350px) {
+@media (max-width: 1350px) {
   .end-message {
     margin-top: 200px;
   }
