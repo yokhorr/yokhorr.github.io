@@ -313,6 +313,8 @@ def main(city: str) -> None:
     save_data()
     clear_variables()
     clear_cache('films')
+
+    os.chdir('../../..')  # return to backend directory
     
     print(f'\nParsing {city} finished in {int(time.time() - start_time)} seconds')
 
