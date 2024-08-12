@@ -87,6 +87,9 @@ def write_film(name: str, rating: int, genres: list[str], length: int,
         films[-1][elem[0]] = elem[1]
 
     # download and save picture if it exists and was not saved before
+    # actually, picture existence can be checked by O(1) using set
+    # built of previously saved and currently parsed films
+    # but the number of images is small, so it's not a big problem
     if picture_href and not os.path.isfile(f'../../films_images/{film_id}.jpg'):
         img_data = requests.get(f'https://kino.vl.ru/kino/images/{picture_href}').content
         print(f'https://kino.vl.ru/kino/images/{picture_href} fetched')
@@ -123,8 +126,11 @@ def parse_film(elem: BeautifulSoup, film_id: str):
     picture_href: str = ''
     genres: list[str] = []
     rating: int = 0
-    if len(picture_href_elem) > 1:  # some films don't have cover ever
+    if len(picture_href_elem) > 1:
         picture_href = picture_href_elem.contents[1]['href'].split('/')[-1]
+    else:  # some films don't have cover ever
+        with open('../../no_image.txt', 'a') as file:
+            file.write(film_id + '\n')
     if genres_elem:
         genres = genres_elem.find_next().get_text(strip=True).split(', ')
     if rating_elem:
