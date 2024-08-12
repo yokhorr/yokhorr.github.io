@@ -125,8 +125,8 @@ def parse_film(elem: BeautifulSoup, film_id: str):
     write_film(name, rating, genres, duration, description, picture_href, film_id)
 
 
-# parse seance cost
-def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
+# parse seance cost, 3d flag and buy link
+def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) -> (int, str):
     global t_date
     new_film: bool = False
     # ref constitutes '/film/50183' (films has a uniq id)
@@ -134,15 +134,15 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     films_ids.add(film_id)
 
     # first check if file exists not to request it twice
-    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):  # NOTE: can remove city and date
+    if not os.path.isfile(f'films/{film_id}.html'):  # NOTE: can remove city and date
         new_film = True
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
         if response.status_code != 200:
             raise KeyError(f'Response is {response.status_code}')
-        with open(f'films/{city}_{t_date}_{film_id}.html', 'w') as file:
+        with open(f'films/{film_id}.html', 'w') as file:
             file.write(response.text)
-    with open(f'films/{city}_{t_date}_{film_id}.html') as file:
+    with open(f'films/{film_id}.html') as file:
         soup = BeautifulSoup(file, "html.parser")
     if new_film:
         parse_film(soup, film_id)
@@ -161,37 +161,44 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
         i += 1
     for row in rows:
         if row.contents[1].get_text().strip() == time and theatre in row.contents[3].get_text().strip():
-            tmp = row.contents[7].string.strip().split()
-            if len(tmp) >= 2:
-                return int(tmp[1])
-            else:
-                return -1  # price is not set
+            is_3d = '3D' in row.contents[5].text
+            buy_field = row.contents[9].contents
+            price_str = row.contents[7].string.strip().split()
+
+            buy_link = None  # buy link is not set
+            if buy_field != ['\n']:
+                buy_link = buy_field[1]['data-session-id']  # buy link is set
+
+            price = -1  # price is not set
+            if len(price_str) >= 2:
+                price = int(price_str[1])  # price is set
+                
+            return price, is_3d, buy_link
+    print(f'No details for {film_id} in {theatre} on {date} at {time}')
 
 
 # list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
-def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int, bool]]:
+def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int, bool, str]]:
     result = []
     name_id: str = elem.find('a')['href'].split('/')[-2]
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
-        cost = parse_cost(elem.find_next()["href"], _theatre, date, time, city)
-        result.append((name_id, _theatre, cost, False))
-    i = 0
-    for elem_3d in elem.parent.find(class_='table-responsive__hall-name').find_all('label'):
-        if '3D' in elem_3d.get_text().strip():
-            result[i] = (result[i][0], result[i][1], result[i][2], True)
-        i += 1
+        details = parse_film_details(elem.find_next()["href"], _theatre, date, time, city)
+        if not details:  # apparently when page is parsed at the last minute
+            continue     # there are no details for this seance
+        cost, is3d, buy_link = details
+        result.append((name_id, _theatre, cost, is3d, buy_link))
     return result
 
 
 # write the seance to the dict
-def write_seance(curr_date: str, curr_time: str, quadruples: list) -> None:
-    for [nameId, theatre, cost, is_3d] in quadruples:
+def write_seance(curr_date: str, curr_time: str, parameters: list) -> None:
+    for [nameId, theatre, cost, is_3d, buy_link] in parameters:
         seances.append({})  # create new seance for *every* triplet
         if theatre == 'Шахтер':  # cosmetics
             theatre = 'Шахтёр'
         elems = [("date", strict_date_format(curr_date)), ("time", curr_time), ("filmId", nameId),
-                 ("theatre", theatre), ("cost", cost), ("is3d", is_3d), ("seanceId", -1)]
+                 ("theatre", theatre), ("cost", cost), ("is3d", is_3d), ("buyLink", buy_link), ("seanceId", -1)]
         for [key, value] in elems:
             seances[-1][key] = value
 
@@ -229,7 +236,7 @@ def parse_data(city: str, html_seances: str) -> None:
         i += 1
 
 
-def save_data(city: str) -> None:
+def save_data() -> None:
     # add ids to seances and theatres
     seance_id = 0
     for seance in seances:
@@ -268,6 +275,7 @@ def save_data(city: str) -> None:
     clear_cache('jsons')
     for elem in data:
         json.dump(elem[0], open(f'jsons/{elem[1]}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
+    print(f'Saved jsons')
 
 
 def clear_cache(directory: str) -> None:
@@ -288,7 +296,7 @@ def main(city: str) -> None:
 
     html_seances: str = collect_data(city)
     parse_data(city, html_seances)
-    save_data(city)
+    save_data()
     clear_variables()
     clear_cache('films')
     

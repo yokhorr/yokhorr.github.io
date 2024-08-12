@@ -1,5 +1,3 @@
-let firstCardGenerated = false;
-
 function showPage() {
   document.getElementById("loading").classList.add("hidden");
   document.getElementById("filters").classList.remove("hidden");
@@ -8,6 +6,7 @@ function showPage() {
 }
 
 const citiesTranslation = new Map();
+
 
 const translationPairs = [
     ["vladivostok", "Владивосток"],
@@ -77,6 +76,7 @@ for(let y = 0; y < cities.length; y++) {
         );
         item.setAttribute("data-cost", jsonData2[0][key].cost);
         item.setAttribute("data-seancesId", jsonData2[0][key].seanceId);
+        item.setAttribute("data-buyLink", jsonData2[0][key].buyLink);
         const [days, monthes] = `${jsonData2[0][key].date}`.split('.').map(Number);
         const [Hour, Minute] = `${jsonData2[0][key].time}`.split(':').map(Number);
         const NowTime = new Date();
@@ -94,8 +94,7 @@ for(let y = 0; y < cities.length; y++) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
         } 
         else {
-            console.log("no image");
-            re.src = `../backend/data/films_images/No_Image_Available.jpg`;
+            re.src = `../fronted/images/No_Image_Available.jpg`;
         }
         // re.alt = "";
         poster.appendChild(re);
@@ -210,12 +209,37 @@ for(let y = 0; y < cities.length; y++) {
         let subcard = document.createElement("div");
         subcard.className = "subcard";
         let details2 = document.createElement("span");
+        const element = document.querySelector('.subcard');
+        const text = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
+        const characterCount = text.length;
+        // console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
         details2.className = "details2";
+        if(characterCount > 35) {
+          details2.style.fontSize = "18px";
+        }
+        else{
+          details2.style.fontSize = "25px";
+        }
+        
+        const fontSize = window.getComputedStyle(element).getPropertyValue('font-size');
+
+        // console.log(fontSize);
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
-        item.appendChild(subcard);
 
+        if (jsonData2[0][key].buyLink) {
+          // Create the image element
+          let subcardImage = document.createElement("img");
+          subcardImage.src = "images/ticket.png";
+          subcardImage.className = "subcardImage";
+
+          // Append the image to the subcard
+          subcard.appendChild(subcardImage);
+        }
+
+        item.appendChild(subcard);
       });
+
       // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
