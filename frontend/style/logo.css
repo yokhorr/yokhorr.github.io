@@ -16,13 +16,13 @@
     display: inline-grid;
   }
   
-  .credentials {
+  .about {
     margin-left: 10px;
     position: relative;
     color: var(--github);
   }
 
-  .credentials:hover {
+  .about:hover {
     color: #2600ff;
   }
 
@@ -42,7 +42,7 @@
       text-align: center;
     }
 
-    .credentials {
+    .about {
       margin-top: -15px;
     }
     
