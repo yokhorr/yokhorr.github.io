@@ -33,6 +33,16 @@ const jsons = [
 const dir = "../backend/data/cities/";
 const cities = ["vladivostok", "nakhodka", "ussuriysk", "artem", "arsenyev", "chernigovka", "dalnegorsk", "partizansk", "spassk", "vrangel"];
 
+let noImages;
+
+fetch('../backend/data/no_image.txt')
+  .then(response => response.text())
+  .then(data => {
+    const rows = data.split('\n');
+    noImages = new Set(rows);
+  })
+  .catch(error => console.error(error));
+
 // console.log(jsons.length);
 for(let y = 0; y < cities.length; y++) {
   const promises = jsons.map((url) => {
@@ -90,13 +100,12 @@ for(let y = 0; y < cities.length; y++) {
         let poster = document.createElement("div");
         let re = document.createElement("img");
         re.id = "poster";
-        if (jsonData2[0][key].filmId !== undefined) {
+        if (!noImages.has(jsonData2[0][key].filmId)) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
         } 
         else {
-            re.src = `../fronted/images/No_Image_Available.jpg`;
+            re.src = `images/noImage.png`;
         }
-        // re.alt = "";
         poster.appendChild(re);
         poster.classList.add("before-element");
         poster.className = "poster";
