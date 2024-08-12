@@ -1,48 +1,13 @@
 [
     {
         "date": "12.08",
-        "time": "16:45",
-        "filmId": "53572",
-        "theatre": "Россия",
-        "cost": 300,
-        "is3d": false,
-        "seanceId": 0
-    },
-    {
-        "date": "12.08",
-        "time": "17:30",
-        "filmId": "52335",
-        "theatre": "Россия",
-        "cost": 400,
-        "is3d": false,
-        "seanceId": 1
-    },
-    {
-        "date": "12.08",
-        "time": "18:40",
-        "filmId": "53572",
-        "theatre": "Россия",
-        "cost": 350,
-        "is3d": false,
-        "seanceId": 2
-    },
-    {
-        "date": "12.08",
-        "time": "19:45",
-        "filmId": "52335",
-        "theatre": "Россия",
-        "cost": 400,
-        "is3d": false,
-        "seanceId": 3
-    },
-    {
-        "date": "12.08",
         "time": "20:35",
         "filmId": "53572",
         "theatre": "Россия",
         "cost": 350,
         "is3d": false,
-        "seanceId": 4
+        "buyLink": null,
+        "seanceId": 0
     },
     {
         "date": "12.08",
@@ -51,7 +16,8 @@
         "theatre": "Россия",
         "cost": 400,
         "is3d": false,
-        "seanceId": 5
+        "buyLink": null,
+        "seanceId": 1
     },
     {
         "date": "12.08",
@@ -60,6 +26,7 @@
         "theatre": "Россия",
         "cost": 300,
         "is3d": false,
-        "seanceId": 6
+        "buyLink": null,
+        "seanceId": 2
     }
 ]
