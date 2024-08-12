@@ -118,7 +118,7 @@ def parse_film(elem: BeautifulSoup, film_id: str):
     description: str = elem.find(class_='film__description').get_text().strip()
     rating_elem: BeautifulSoup = elem.find(class_='text-value age')
     genres_elem: BeautifulSoup = elem.find(class_='genre')
-    trailer_elem: BeautifulSoup = elem.find(class_='film__info-visual above-pictures-block')
+    trailer_elem: BeautifulSoup = elem.find(class_='film__trailer')
     picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')
     if not trailer_elem:  # if no trailer, cover has other class
         picture_href_elem = elem.find(class_='film__info-visual')
