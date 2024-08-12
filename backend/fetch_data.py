@@ -110,13 +110,17 @@ def parse_film(elem: BeautifulSoup, film_id: str):
                 duration = hours * 60 + minutes
             break
     description: str = elem.find(class_='film__description').get_text().strip()
-    picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')
     rating_elem: BeautifulSoup = elem.find(class_='text-value age')
     genres_elem: BeautifulSoup = elem.find(class_='genre')
+    trailer_elem: BeautifulSoup = elem.find(class_='film__info-visual above-pictures-block')
+    picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')
+    if not trailer_elem:  # if no trailer, cover has other class
+        picture_href_elem = elem.find(class_='film__info-visual')
+
     picture_href: str = ''
     genres: list[str] = []
     rating: int = 0
-    if picture_href_elem:
+    if len(picture_href_elem) > 1:  # some films don't have cover ever
         picture_href = picture_href_elem.contents[1]['href'].split('/')[-1]
     if genres_elem:
         genres = genres_elem.find_next().get_text(strip=True).split(', ')
