@@ -1,5 +1,8 @@
 body {
     margin-top: 20px;
+    color: rgb(209, 205, 199);
+    color-scheme: dark !important;
+    background-color: rgb(24, 26, 27);
 }
 
 .team-list img {
@@ -62,8 +65,8 @@ body {
 .team:hover {
     -webkit-transform: translateY(-7px);
     transform: translateY(-7px);
-    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    -webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.15);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.15);
 }
 
 .team:hover .overlay {
@@ -88,8 +91,8 @@ body {
 }
 
 .social-icon.social li a {
-    color: #adb5bd;
-    border-color: #adb5bd;
+    color: rgb(185, 179, 170);
+    border-color: rgb(69, 75, 78);
 }
 
 .social-icon li a {
@@ -116,7 +119,7 @@ body {
 }
 
 .text-muted {
-    color: #8492a6 !important;
+    color: rgb(165, 157, 146) !important;
 }
 
 .section-title .title {
