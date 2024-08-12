@@ -2,6 +2,7 @@ import os
 import requests
 import json
 import time
+import random
 import glob
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -35,6 +36,7 @@ def collect_data(city: str) -> str:
     # if not os.path.isfile(f'data_{city}_{t_date}.html'):
     response = requests.get(url=f'https://kino.vl.ru/films/seances/?city={city}')
     print(f'https://kino.vl.ru/films/seances/?city={city} fetched')
+    time.sleep(random.randint(1, 5))  # prevent DDOS
     if response.status_code != 200:
         raise KeyError(f'Response is {response.status_code}')
     return response.text
@@ -88,6 +90,7 @@ def write_film(name: str, rating: int, genres: list[str], length: int,
     if picture_href and not os.path.isfile(f'../../films_images/{film_id}.jpg'):
         img_data = requests.get(f'https://kino.vl.ru/kino/images/{picture_href}').content
         print(f'https://kino.vl.ru/kino/images/{picture_href} fetched')
+        time.sleep(random.randint(1, 5))  # prevent DDOS
         with open(f'../../films_images/{film_id}.jpg', 'wb') as handler:
             handler.write(img_data)
 
@@ -130,7 +133,7 @@ def parse_film(elem: BeautifulSoup, film_id: str):
 
 
 # parse seance cost, 3d flag and buy link
-def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) -> (int, str):
+def parse_film_details(ref: str, theatre: str, date: str, film_time: str, city: str) -> (int, str):
     global t_date
     new_film: bool = False
     # ref constitutes '/film/50183' (films has a uniq id)
@@ -142,6 +145,7 @@ def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) 
         new_film = True
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
+        time.sleep(random.randint(1, 5))  # prevent DDOS
         if response.status_code != 200:
             raise KeyError(f'Response is {response.status_code}')
         with open(f'films/{film_id}.html', 'w') as file:
@@ -164,7 +168,7 @@ def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) 
             break
         i += 1
     for row in rows:
-        if row.contents[1].get_text().strip() == time and theatre in row.contents[3].get_text().strip():
+        if row.contents[1].get_text().strip() == film_time and theatre in row.contents[3].get_text().strip():
             is_3d = '3D' in row.contents[5].text
             buy_field = row.contents[9].contents
             price_str = row.contents[7].string.strip().split()
@@ -178,7 +182,7 @@ def parse_film_details(ref: str, theatre: str, date: str, time: str, city: str) 
                 price = int(price_str[1])  # price is set
                 
             return price, is_3d, buy_link
-    print(f'No details for {film_id} in {theatre} on {date} at {time}')
+    print(f'No details for {film_id} in {theatre} on {date} at {film_time}')
 
 
 # list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
