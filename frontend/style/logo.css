@@ -1,25 +1,49 @@
 /*------logo------*/
-
+  :root {
+    --github: rgb(64, 9, 107);
+    --bs-link-color-rgb: var(--github);
+  }
 
 
   .logo {
     position: absolute;
     top: 0px;
     left: 60px;
-    
+    z-index: 10;
   }
   
   .logo .container {
     display: inline-grid;
   }
+  
+  .credentials {
+    margin-left: 10px;
+    position: relative;
+    color: var(--github);
+  }
 
+  .credentials:hover {
+    color: #2600ff;
+  }
+
+  .githubLink {
+    position: relative; /* or absolute, depending on your layout */  
+    margin-left: 5px;
+  }
+
+  h1 {
+    margin-bottom: -5px;
+  }
 
   @media (max-width: 8000px) {
     h1 {
       font-weight: 50px;
       font-size: 78px;
       text-align: center;
-    
+    }
+
+    .credentials {
+      margin-top: -15px;
     }
     
   }
@@ -131,4 +155,3 @@ width: var(--size);
 &.kr { --color: #B7E7F7; filter: saturate(200%); }
 &.xe { --color: #C4C4C6; filter: brightness(105%); }
 }
-
