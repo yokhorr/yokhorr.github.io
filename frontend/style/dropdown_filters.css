@@ -6,7 +6,18 @@
     min-width: 10em;
     position: relative;
     min-height: 6vh;
-    left: 250%;
+    left: 100%;
+    top: 40px;
+  }
+}
+
+
+@media (max-width: 2873px) {
+  .dropdown {
+    min-width: 10em;
+    position: relative;
+    min-height: 6vh;
+    left: 30%;
     top: 40px;
   }
 }
@@ -16,7 +27,7 @@
     min-width: 10em;
     position: relative;
     min-height: 6vh;
-    left: 20%;
+    left: 25%;
     top: 40px;
   }
 }
