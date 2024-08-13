@@ -25,7 +25,7 @@ function easternEgg() {
 
 // Function to switch between light and dark themes
 function switchTheme() {
-    if (++clicks === 3) {
+    if (++clicks === 20) {
         easternEgg();
     }
     if (currentTheme === 'dark') {
