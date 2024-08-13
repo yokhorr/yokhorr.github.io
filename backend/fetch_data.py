@@ -167,10 +167,10 @@ def parse_film_details(ref: str, theatre: str, date: str, film_time: str, city: 
         elem = date_headings[i]
         if (elem != '\n' and elem.string != 'Нет сеансов'
                 and elem['class'][0] == 'day-title' and date in elem['data-ga-label']):  # right date found
-            rows = date_headings[i + 2].find_next().find_all(class_='film_list seances-table__data-row')  # save seances
-            if not rows:  # crutch for special cases
-                rows = date_headings[i + 2].find_next().find_all(
-                    class_='film_list seances-table__data-row without-border')  # save seances
+            # save seances and exit
+            rows = (date_headings[i + 2].find_next().find_all(class_='film_list seances-table__data-row') +
+                    date_headings[i + 2].find_next()
+                    .find_all(class_='film_list seances-table__data-row without-border'))  # messy source structure
             break
         i += 1
     for row in rows:
