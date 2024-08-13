@@ -1,8 +1,19 @@
-body {
-    margin-top: 20px;
-    color: rgb(209, 205, 199);
-    color-scheme: dark !important;
-    background-color: rgb(24, 26, 27);
+.switch {
+    margin-bottom: 10px;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card-container .team {
+    flex: 1 0 33.33%; /* Adjust the width of each card as needed */
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%; /* Make the team element take up the full height */
 }
 
 .team-list img {
@@ -65,8 +76,8 @@ body {
 .team:hover {
     -webkit-transform: translateY(-7px);
     transform: translateY(-7px);
-    -webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.15);
-    box-shadow: 0 0 5px rgba(255, 255, 255, 0.15);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
 }
 
 .team:hover .overlay {
@@ -90,9 +101,21 @@ body {
     }
 }
 
+.card-container .team .content {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-container .team .content .social-icon.social {
+    /* Push the social icons to the bottom */
+    /* margin-top: calc(auto + 20px) !important; */
+    margin-top: auto !important;
+}
+
 .social-icon.social li a {
-    color: rgb(185, 179, 170);
-    border-color: rgb(69, 75, 78);
+    color: #adb5bd;
+    border-color: #adb5bd;
 }
 
 .social-icon li a {
@@ -118,11 +141,26 @@ body {
     max-width: 600px;
 }
 
-.text-muted {
-    color: rgb(165, 157, 146) !important;
-}
-
 .section-title .title {
     letter-spacing: 0.5px;
     font-size: 30px;
+}
+
+.about {
+    margin-left: 10px;
+    position: relative;
+    color: black;
+}
+
+.about:hover {
+    color: #2600ff;
+}
+
+.githubLink {
+    position: relative; /* or absolute, depending on your layout */
+    margin-left: 5px;
+}
+
+.imgRussia {
+    width: 100px;
 }

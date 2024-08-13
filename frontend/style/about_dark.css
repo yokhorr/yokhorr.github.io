@@ -1,0 +1,30 @@
+body {
+    margin-top: 20px;
+    color: rgb(209, 205, 199);
+    color-scheme: dark !important;
+    background-color: rgb(24, 26, 27);
+}
+
+.team:hover {
+    -webkit-transform: translateY(-7px);
+    transform: translateY(-7px);
+    -webkit-box-shadow: 0 0 5px rgba(255, 255, 255, 0.15);
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.15);
+}
+
+.social-icon.social li a {
+    color: rgb(185, 179, 170);
+    border-color: rgb(69, 75, 78);
+}
+
+.text-muted {
+    color: rgb(165, 157, 146) !important;
+}
+
+.githubLogo {
+    color: white;
+}
+
+.imgRussia {
+    filter: invert(100%);
+}
