@@ -17,18 +17,24 @@ if (currentTheme === 'light') {
     document.getElementById('flexSwitchCheckChecked').checked = true;
 }
 
-let clicks = 0;
+let switchClicks = 0;
+let egorClicks = 0;
 
 function easternEgg() {
-    $("#myModal").modal("show");
+    $('#easternEggModal').modal({
+        backdrop: "static",
+        keyboard: false
+    })
+    $("#easternEggModal").modal("show");
 }
 
 // Function to switch between light and dark themes
 function switchTheme() {
-    if (++clicks === 20) {
+    if (++switchClicks === 10) {
+        link.href = lightThemeUrl;
+        currentTheme = 'light';
         easternEgg();
-    }
-    if (currentTheme === 'dark') {
+    } else if (currentTheme === 'dark') {
         link.href = lightThemeUrl;
         currentTheme = 'light';
     } else {
@@ -37,4 +43,10 @@ function switchTheme() {
     }
     // Save the theme to local storage
     localStorage.setItem('theme', currentTheme);
+}
+
+function ctEgg() {
+    if (++egorClicks === 10) {
+        document.getElementById('egor').src = "images/ct.gif";
+    }
 }
