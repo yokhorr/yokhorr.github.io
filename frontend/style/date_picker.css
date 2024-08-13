@@ -6,7 +6,40 @@
     position: relative;
     align-items: center;
     min-width: 250px;
+    width: 1000px;
+    height: 50px;
+  }
+}
+
+
+@media (max-width: 2874px) {
+  .date .container {
+    position: relative;
+    align-items: center;
+    min-width: 250px;
     width: 3000px;
+    height: 50px;
+  }
+}
+
+@media (max-width: 2523px) {
+  .date .container {
+    position: relative;
+    align-items: center;
+    min-width: 250px;
+    width: 2500px;
+    height: 50px;
+    /* margin-left: -550px; */
+  }
+}
+
+
+@media (max-width: 1903px) {
+  .date .container {
+    position: relative;
+    align-items: center;
+    min-width: 250px;
+    width: 2000px;
     height: 50px;
   }
 }
@@ -17,7 +50,7 @@
       position: relative;
       align-items: center;
       min-width: 250px;
-      width: 2000px;
+      width: 1000px;
       height: 50px
       
     }

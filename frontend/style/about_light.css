@@ -1,0 +1,23 @@
+body {
+    margin-top: 20px;
+}
+
+.team:hover {
+    -webkit-transform: translateY(-7px);
+    transform: translateY(-7px);
+    -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+
+.social-icon.social li a {
+    color: #adb5bd;
+    border-color: #adb5bd;
+}
+
+.text-muted {
+    color: #8492a6 !important;
+}
+
+.githubLogo {
+    color: black;
+}

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>О проекте ВKadre</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://forms.yandex.ru/_static/embed.js"></script>
+    <link rel="stylesheet" href="style/about_main.css">
+    <link id="theme" rel="stylesheet" href="style/about_dark.css">
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+</head>
+<body>
+    <div class="container bootdey">
+
+        <div class="form-check form-switch switch">
+            <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" onclick="switchTheme()" checked>
+            <label class="form-check-label" for="flexSwitchCheckChecked">Тёмная тема</label>
+        </div>
+
+        <div class="row mb-0">
+            <div class="col-lg-10">
+              <h1 class="display-4 font-weight-light">Разработчики ВKadre</h1>
+            </div>
+        </div>
+
+        <div class="card-container id="grid">
+            <div class="col-lg-3 col-md-6 col-12 mt-0 mb-5">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="images/egor.jpg" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Соляник Егор</h4>
+                        <small class="text-muted">115 коммитов из 265</small>
+                        <div class="mt-3 mb-0">Backend, DevOps, фильтрация карт, дизайн карт, генерация карт, страница "О проекте", лицензия, автор идеи</div>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="https://github.com/yokhorr" target="_blank" class="rounded"><i class="bi bi-github"></i></a></li>
+                            <li class="list-inline-item"><a href="https://t.me/yokhor" target="_blank" class="rounded"><i class="bi bi-telegram"></i></a></li>
+                            <li class="list-inline-item"><a href="mailto:yokhor06@mail.ru" target="_blank" class="rounded"><i class="bi bi-at"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+
+            <div class="col-lg-3 col-md-6 col-12 mt-0 mb-5">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="images/nikita.jpg" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Малышев Никита</h4>
+                        <small class="text-muted">Придумал название</small>
+                        <div class="mt-3">Вёрстка, баннеры, дизайн, меню фильтров, календарь, документация фронтенда</div>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="https://github.com/Tartaletka03" target="_blank" class="rounded"><i class="bi bi-github"></i></a></li>
+                            <li class="list-inline-item"><a href="https://t.me/NoT_TFound" target="_blank" class="rounded"><i class="bi bi-telegram"></i></a></li>
+                            <li class="list-inline-item"><a href="mailto:nikita.malyshev0007@gmail.com" target="_blank" class="rounded"><i class="bi bi-at"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+
+            <div class="col-lg-3 col-md-6 col-12 mt-0 mb-5">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="images/misha.jpg" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Бусыгин Михаил</h4>
+                        <small class="text-muted">Основатель фронтенда</small>
+                        <div class="mt-3">Первичная вёрстка основных элементов сайта, ставшая основой фронтенда</div>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="https://github.com/passsssword" target="_blank" class="rounded"><i class="bi bi-github"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+            
+            <div class="col-lg-3 col-md-6 col-12 mt-0 mb-5">
+                <div class="team text-center rounded p-3 py-4">
+                    <img src="images/artem.jpg" class="img-fluid avatar avatar-medium shadow rounded-pill" alt="">
+                    <div class="content mt-3">
+                        <h4 class="title mb-0">Потапов Артём</h4>
+                        <small class="text-muted">Филин</small>
+                        <div class="mt-3">Интеграция фронтенда и бэкенда, основа генерации карт</div>
+                        <ul class="list-unstyled mt-3 social-icon social mb-0">
+                            <li class="list-inline-item"><a href="https://github.com/Artyom743" target="_blank" class="rounded"><i class="bi bi-github"></i></a></li>
+                            <li class="list-inline-item"><a href="https://t.me/Art43456" target="_blank" class="rounded"><i class="bi bi-telegram"></i></a></li>
+                        </ul><!--end icon-->
+                    </div>
+                </div>
+            </div><!--end col-->
+        </div><!--end row-->
+
+        
+        <!-- Modal -->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <span>К вашему сведению, вы являетесь преступником на нашей планете. Вы будете немедленно арестованы и осуждены. 
+                        Приговор будет приведён в исполнение незамедлительно и обсуждению не подлежит.</span>
+                </div>
+                <div class="modal-footer">
+                <button type="button" class="btn btn-primary" onclick="window.open('https://spacerangers.gitlab.io/#/quests/Prison/play', '_self');">Это ошибка, меня подставили, я законопослушный гражданин!</button>
+                </div>
+            </div>
+            </div>
+        </div>
+
+        <div class="container border-top mt-5">
+            <p class="mt-3">Все данные о фильмах берутся с сайта <a href="https://kino.vl.ru" target="_blank">kino.vl.ru</a>. Последнее обновление: <span id="last-time-parsed" class="font-monospace ms-1"></span></p>
+
+            <a href="https://github.com/yokhorr/yokhorr.github.io" target="_blank">
+                <svg class="githubLogo" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 19">
+                  <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
+                </svg><span class="githubLink">Исходный код</span>
+            </a>
+
+            <p>Это проект с открытым исходным кодом, распространяемым по лицензии <span class="font-monospace">AGPL-3.0</span>. Вы можете использовать его в любых целях, 
+                но при распространении изменений вы должны следовать условиям этой же лицензии: любой проект, использующий наш код,
+                также должен быть открытым, сохранять указание на наше авторство и прозрачно отображать все внесённые изменения в исходный код.
+                Советуем подробнее ознакомиться с деталями
+                <a href="https://github.com/yokhorr/yokhorr.github.io/blob/main/LICENSE.md" target="_blank">лицензии нашего проекта</a>
+                и <a href="https://www.gnu.org/licenses/agpl-3.0.ru.html" target="_blank">лицензии AGPL-3.0</a>.
+            </p>
+
+            <p>Если вам есть, что сказать по проекту, вы можете заполнить <a href="https://forms.yandex.ru/cloud/66bacb3784227c2f94bd3916/" target="_blank">форму обратной связи</a>.</p>
+
+            <p>Отдельная благодарность за тестирование и помощь в разработке сайта выражается Божкову Никите, Ермоленко Евгении и Necr Den.</p>
+
+            <img src="images/made-in-russia-sign-ru.png" class="imgRussia" alt="Made in Russia">
+            <p>&copy; 2024. Все права защищены.</p>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- <script src="scripts/shuffle_authors.js"></script> -->
+    <script src="scripts/switch_theme.js"></script>
+    <script src="scripts/last_time_parsed.js"></script>
+</body>
+</html>

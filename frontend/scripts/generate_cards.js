@@ -98,17 +98,18 @@ for(let y = 0; y < cities.length; y++) {
         let card = document.createElement("div");
         card.className = "card";
         let poster = document.createElement("div");
+        poster.className = "poster";
         let re = document.createElement("img");
         re.id = "poster";
         if (!noImages.has(jsonData2[0][key].filmId)) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
+            poster.classList.add('animated');
         } 
         else {
             re.src = `images/noImage.png`;
         }
         poster.appendChild(re);
         poster.classList.add("before-element");
-        poster.className = "poster";
         card.appendChild(poster);
         let detailsTop = document.createElement("div");
         detailsTop.className = "detailsTop";
