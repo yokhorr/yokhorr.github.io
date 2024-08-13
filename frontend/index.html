@@ -23,6 +23,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+      />
+      <title>BKadre</title>
+    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
     
     
     <!--styles-->
@@ -36,9 +47,14 @@
     <link rel="stylesheet" href="style/loading.css" />
     
     
+    <link rel="stylesheet" href="style/loading.css" />
+    
+    
   </head>
   
+  
   <body>
+    
     
     <!--logo-->
     <div class="logo">
@@ -54,8 +70,14 @@
     <span class="word-container" data-word="Loading..." data-word-repeat="4"
       data-text-colors="#00000,#007FFF,#800080,#FFFFFF" id="loading"></span>
     
+
+    <!-- loading -->
+    <span class="word-container" data-word="Loading..." data-word-repeat="4"
+      data-text-colors="#00000,#007FFF,#800080,#FFFFFF" id="loading"></span>
+    
     <!--filters-->
 
+    <div id="filters" class="hidden">
     <div id="filters" class="hidden">
       <div class="dropdown" id="cityDropdown">
         <div class="select">
@@ -78,6 +100,7 @@
 
       <div class="dropdown" id="genreDropdown">
         <div class="select">
+          <span class="selected">Выбрать жанры</span>
           <span class="selected">Выбрать жанры</span>
           <div class="caret"></div>
         </div>
@@ -110,6 +133,7 @@
       <div class="dropdown" id="antiGenreDropdown">
         <div class="select">
           <span class="selected">Убрать жанры</span>
+          <span class="selected">Убрать жанры</span>
           <div class="caret"></div>
         </div>
         <ul class="menu" id="antiGenreSelect">
@@ -141,6 +165,7 @@
       <div class="dropdown" id="theatreDropdown">
         <div class="select">
           <span class="selected">Кинотеатры</span>
+          <span class="selected">Кинотеатры</span>
           <div class="caret"></div>
         </div>
         <ul class="menu" id="theatreSelect">
@@ -166,6 +191,7 @@
     <!----date selector-->
 
     <div class="date hidden" id="calendar">
+    <div class="date hidden" id="calendar">
       <div class="container">
         <ul id="dateSelect"></ul>
       </div>
@@ -190,9 +216,11 @@
       >
         <div class="card">
 
+
           <div class="poster">
             <img id="poster" src="images/defaultImage.jpg" alt="" />
           </div>
+
 
           <div class="detailsTop">
             <div class="genres">
@@ -200,12 +228,17 @@
               <span class="price">3D</span>
               <!-- alternative 3d tag -->
               <!-- <img class="threeD" src="images/3d-1.jpg" alt="" /> -->
+              <span class="price">3D</span>
+              <!-- alternative 3d tag -->
+              <!-- <img class="threeD" src="images/3d-1.jpg" alt="" /> -->
             </div>
           </div>
+
 
           <div class="details">
             <div class="genres">
               <span>26 июля</span>
+              <span class="startTime" style="padding-right: 0px !important;">
               <span class="startTime" style="padding-right: 0px !important;">
                 14:30
                 <div class="length" id="length">· 1:32</div>
@@ -222,12 +255,16 @@
             </div>    
           </div>
 
+
         </div>
 
         <div class="subcard">
           <span class="details2">Lorem ipsum dolor sit amet</span>
           <img src="images/ticket.png" class="subcardImage">
+          <span class="details2">Lorem ipsum dolor sit amet</span>
+          <img src="images/ticket.png" class="subcardImage">
         </div>
+
 
       </div>
     </div>
@@ -244,12 +281,16 @@
   
   <!-- end button -->
   <div class="end-message hidden" id="endButton">
+  <!-- end button -->
+  <div class="end-message hidden" id="endButton">
     <button class="btn">THE END!</button>
   </div>
 
     <script src="scripts/loading.js"></script>
+    <script src="scripts/loading.js"></script>
     <script src="scripts/generate_cards.js"></script>
     <script src="scripts/filter.js"></script>
+    <!-- <script src="scripts/random_cards.js"></script> -->
     <!-- <script src="scripts/random_cards.js"></script> -->
     <script src="scripts/logo.js"></script>
     <script src="scripts/dropdown_filters.js"></script>
