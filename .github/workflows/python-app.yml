@@ -5,19 +5,23 @@ name: Parser
 
 on:
   schedule:
-    - cron: '0 6,18 * * *'
+    - cron: '0 6,10,18 * * *'
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
+
   build:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.BOT_ACCESS_TOKEN || github.token }}
+
     - uses: actions/setup-python@v5
       with:
         python-version: '3.9'
@@ -46,10 +50,10 @@ jobs:
       run: python backend/parse_all_cities.py
     - name: Commit and push
       env:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.BOT_ACCESS_TOKEN }}
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
-        git commit -m "Seances data updated" -a
+        git commit -m "Update seances data" -a
         git push

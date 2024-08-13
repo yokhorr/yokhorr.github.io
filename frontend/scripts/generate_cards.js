@@ -1,4 +1,12 @@
+function showPage() {
+  document.getElementById("loading").classList.add("hidden");
+  document.getElementById("filters").classList.remove("hidden");
+  document.getElementById("calendar").classList.remove("hidden");
+  document.getElementById("endButton").classList.remove("hidden");
+}
+
 const citiesTranslation = new Map();
+
 
 const translationPairs = [
     ["vladivostok", "Владивосток"],
@@ -23,7 +31,17 @@ const jsons = [
 ];
 
 const dir = "../backend/data/cities/";
-const cities = ["ussuriysk", "artem", "vladivostok", "arsenyev", "chernigovka", "dalnegorsk", "nakhodka", "partizansk", "spassk", "vrangel"];
+const cities = ["vladivostok", "nakhodka", "ussuriysk", "artem", "arsenyev", "chernigovka", "dalnegorsk", "partizansk", "spassk", "vrangel"];
+
+let noImages;
+
+fetch('../backend/data/no_image.txt')
+  .then(response => response.text())
+  .then(data => {
+    const rows = data.split('\n');
+    noImages = new Set(rows);
+  })
+  .catch(error => console.error(error));
 
 // console.log(jsons.length);
 for(let y = 0; y < cities.length; y++) {
@@ -68,6 +86,7 @@ for(let y = 0; y < cities.length; y++) {
         );
         item.setAttribute("data-cost", jsonData2[0][key].cost);
         item.setAttribute("data-seancesId", jsonData2[0][key].seanceId);
+        item.setAttribute("data-buyLink", jsonData2[0][key].buyLink);
         const [days, monthes] = `${jsonData2[0][key].date}`.split('.').map(Number);
         const [Hour, Minute] = `${jsonData2[0][key].time}`.split(':').map(Number);
         const NowTime = new Date();
@@ -81,14 +100,12 @@ for(let y = 0; y < cities.length; y++) {
         let poster = document.createElement("div");
         let re = document.createElement("img");
         re.id = "poster";
-        if (jsonData2[0][key].filmId !== undefined) {
+        if (!noImages.has(jsonData2[0][key].filmId)) {
             re.src = `../backend/data/films_images/${jsonData2[0][key].filmId}.jpg`;
         } 
         else {
-            console.log("no image");
-            re.src = `../backend/data/films_images/No_Image_Available.jpg`;
+            re.src = `images/noImage.png`;
         }
-        // re.alt = "";
         poster.appendChild(re);
         poster.classList.add("before-element");
         poster.className = "poster";
@@ -100,6 +117,12 @@ for(let y = 0; y < cities.length; y++) {
         let tre = document.createElement("span");
         tre.innerHTML = jsonData2[0][key].theatre;
         genre.appendChild(tre);
+        if(jsonData2[0][key].is3d === true) {
+          let dd = document.createElement("span");
+          dd.className = "price" 
+          dd.innerHTML = "3D";
+          genre.appendChild(dd);
+        }
         detailsTop.appendChild(genre);
         card.appendChild(detailsTop);
         let details = document.createElement("div");
@@ -150,7 +173,7 @@ for(let y = 0; y < cities.length; y++) {
 
         let startTime = document.createElement("span");
         startTime.className = "startTime";
-        startTime.innerHTML = `${jsonData2[0][key].time} `;
+        startTime.innerHTML = `${jsonData2[0][key].time}`;
         let length = document.createElement("div");
         length.className = "length";
         length.id = "length";
@@ -173,8 +196,8 @@ for(let y = 0; y < cities.length; y++) {
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
         price.className = "price";
-        price.innerHTML = `${jsonData2[0][key].cost}₽`; 
-        if (jsonData2[0][key].cost !== -1) { // price is not set
+        price.innerHTML = `${jsonData2[0][key].cost} ₽`; 
+        if (jsonData2[0][key].cost !== -1 && jsonData2[0][key].cost) { // price is not set
           genress.appendChild(price);
         }
         let detailshiddenDetailshidden = document.createElement("div");
@@ -195,15 +218,41 @@ for(let y = 0; y < cities.length; y++) {
         let subcard = document.createElement("div");
         subcard.className = "subcard";
         let details2 = document.createElement("span");
+        const element = document.querySelector('.subcard');
+        const text = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
+        const characterCount = text.length;
+        // console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
         details2.className = "details2";
+        if(characterCount > 35) {
+          details2.style.fontSize = "18px";
+        }
+        else{
+          details2.style.fontSize = "25px";
+        }
+        
+        const fontSize = window.getComputedStyle(element).getPropertyValue('font-size');
+
+        // console.log(fontSize);
         details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         subcard.appendChild(details2);
-        item.appendChild(subcard);
 
+        if (jsonData2[0][key].buyLink) {
+          // Create the image element
+          let subcardImage = document.createElement("img");
+          subcardImage.src = "images/ticket.png";
+          subcardImage.className = "subcardImage";
+
+          // Append the image to the subcard
+          subcard.appendChild(subcardImage);
+        }
+
+        item.appendChild(subcard);
       });
+
       // console.log(`city ${cities[y]} generated`);
       // report cards generation if it was the last cities
       if (y === cities.length - 1) {
+        showPage();
         const cardsGenerated = new CustomEvent('cardsGenerated');
         document.dispatchEvent(cardsGenerated);
         const now = new Date();

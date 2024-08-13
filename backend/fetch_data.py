@@ -2,6 +2,7 @@ import os
 import requests
 import json
 import time
+import random
 import glob
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -35,6 +36,7 @@ def collect_data(city: str) -> str:
     # if not os.path.isfile(f'data_{city}_{t_date}.html'):
     response = requests.get(url=f'https://kino.vl.ru/films/seances/?city={city}')
     print(f'https://kino.vl.ru/films/seances/?city={city} fetched')
+    time.sleep(random.randint(1, 5))  # prevent DDOS
     if response.status_code != 200:
         raise KeyError(f'Response is {response.status_code}')
     return response.text
@@ -85,9 +87,13 @@ def write_film(name: str, rating: int, genres: list[str], length: int,
         films[-1][elem[0]] = elem[1]
 
     # download and save picture if it exists and was not saved before
+    # actually, picture existence can be checked by O(1) using set
+    # built of previously saved and currently parsed films
+    # but the number of images is small, so it's not a big problem
     if picture_href and not os.path.isfile(f'../../films_images/{film_id}.jpg'):
         img_data = requests.get(f'https://kino.vl.ru/kino/images/{picture_href}').content
         print(f'https://kino.vl.ru/kino/images/{picture_href} fetched')
+        time.sleep(random.randint(1, 5))  # prevent DDOS
         with open(f'../../films_images/{film_id}.jpg', 'wb') as handler:
             handler.write(img_data)
 
@@ -110,14 +116,21 @@ def parse_film(elem: BeautifulSoup, film_id: str):
                 duration = hours * 60 + minutes
             break
     description: str = elem.find(class_='film__description').get_text().strip()
-    picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')
     rating_elem: BeautifulSoup = elem.find(class_='text-value age')
     genres_elem: BeautifulSoup = elem.find(class_='genre')
+    trailer_elem: BeautifulSoup = elem.find(class_='film__trailer')
+    picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')
+    if not trailer_elem:  # if no trailer, cover has other class
+        picture_href_elem = elem.find(class_='film__info-visual')
+
     picture_href: str = ''
     genres: list[str] = []
     rating: int = 0
-    if picture_href_elem:
+    if len(picture_href_elem) > 1:
         picture_href = picture_href_elem.contents[1]['href'].split('/')[-1]
+    else:  # some films don't have cover ever
+        with open('../../no_image.txt', 'a') as file:
+            file.write(film_id + '\n')
     if genres_elem:
         genres = genres_elem.find_next().get_text(strip=True).split(', ')
     if rating_elem:
@@ -125,8 +138,8 @@ def parse_film(elem: BeautifulSoup, film_id: str):
     write_film(name, rating, genres, duration, description, picture_href, film_id)
 
 
-# parse seance cost
-def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
+# parse seance cost, 3d flag and buy link
+def parse_film_details(ref: str, theatre: str, date: str, film_time: str, city: str) -> (int, str):
     global t_date
     new_film: bool = False
     # ref constitutes '/film/50183' (films has a uniq id)
@@ -134,15 +147,16 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
     films_ids.add(film_id)
 
     # first check if file exists not to request it twice
-    if not os.path.isfile(f'films/{city}_{t_date}_{film_id}.html'):
+    if not os.path.isfile(f'films/{film_id}.html'):  # NOTE: can remove city and date
         new_film = True
         response = requests.get(f'https://kino.vl.ru{ref}?city={city}')
         print(f'https://kino.vl.ru{ref}?city={city} fetched')
+        time.sleep(random.randint(1, 5))  # prevent DDOS
         if response.status_code != 200:
             raise KeyError(f'Response is {response.status_code}')
-        with open(f'films/{city}_{t_date}_{film_id}.html', 'w') as file:
+        with open(f'films/{film_id}.html', 'w') as file:
             file.write(response.text)
-    with open(f'films/{city}_{t_date}_{film_id}.html') as file:
+    with open(f'films/{film_id}.html') as file:
         soup = BeautifulSoup(file, "html.parser")
     if new_film:
         parse_film(soup, film_id)
@@ -154,36 +168,51 @@ def parse_cost(ref: str, theatre: str, date: str, time: str, city: str) -> int:
         if (elem != '\n' and elem.string != 'Нет сеансов'
                 and elem['class'][0] == 'day-title' and date in elem['data-ga-label']):  # right date found
             rows = date_headings[i + 2].find_next().find_all(class_='film_list seances-table__data-row')  # save seances
+            if not rows:  # crutch for special cases
+                rows = date_headings[i + 2].find_next().find_all(
+                    class_='film_list seances-table__data-row without-border')  # save seances
             break
         i += 1
     for row in rows:
-        if row.contents[1].get_text().strip() == time and theatre in row.contents[3].get_text().strip():
-            tmp = row.contents[7].string.strip().split()
-            if len(tmp) >= 2:
-                return int(tmp[1])
-            else:
-                return -1  # price is not set
+        if row.contents[1].get_text().strip() == film_time and theatre in row.contents[3].get_text().strip():
+            is_3d = '3D' in row.contents[5].text
+            buy_field = row.contents[9].contents
+            price_str = row.contents[7].string.strip().split()
+
+            buy_link = None  # buy link is not set
+            if buy_field != ['\n']:
+                buy_link = buy_field[1]['data-session-id']  # buy link is set
+
+            price = -1  # price is not set
+            if len(price_str) >= 2:
+                price = int(price_str[1])  # price is set
+                
+            return price, is_3d, buy_link
+    print(f'No details for {film_id} in {theatre} on {date} at {film_time}')
 
 
 # list of tuples (name_id, theatre, cost) (possibly more than one theatre for the same film)
-def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int]]:
+def name_to_theatre(elem: BeautifulSoup, date: str, time: str, city: str) -> list[tuple[str, str, int, bool, str]]:
     result = []
     name_id: str = elem.find('a')['href'].split('/')[-2]
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
-        cost = parse_cost(elem.find_next()["href"], _theatre, date, time, city)
-        result.append((name_id, _theatre, cost))
+        details = parse_film_details(elem.find_next()["href"], _theatre, date, time, city)
+        if not details:  # apparently when page is parsed at the last minute
+            continue     # there are no details for this seance
+        cost, is3d, buy_link = details
+        result.append((name_id, _theatre, cost, is3d, buy_link))
     return result
 
 
 # write the seance to the dict
-def write_seance(curr_date: str, curr_time: str, triples: list) -> None:
-    seances.append({})
-    for [nameId, theatre, cost] in triples:
+def write_seance(curr_date: str, curr_time: str, parameters: list) -> None:
+    for [nameId, theatre, cost, is_3d, buy_link] in parameters:
+        seances.append({})  # create new seance for *every* triplet
         if theatre == 'Шахтер':  # cosmetics
             theatre = 'Шахтёр'
         elems = [("date", strict_date_format(curr_date)), ("time", curr_time), ("filmId", nameId),
-                 ("theatre", theatre), ("cost", cost), ("seanceId", -1)]
+                 ("theatre", theatre), ("cost", cost), ("is3d", is_3d), ("buyLink", buy_link), ("seanceId", -1)]
         for [key, value] in elems:
             seances[-1][key] = value
 
@@ -221,7 +250,7 @@ def parse_data(city: str, html_seances: str) -> None:
         i += 1
 
 
-def save_data(city: str) -> None:
+def save_data() -> None:
     # add ids to seances and theatres
     seance_id = 0
     for seance in seances:
@@ -260,11 +289,13 @@ def save_data(city: str) -> None:
     clear_cache('jsons')
     for elem in data:
         json.dump(elem[0], open(f'jsons/{elem[1]}.json', 'a', encoding='utf-8'), indent=4, ensure_ascii=False)
+    print(f'Saved jsons')
 
 
 def clear_cache(directory: str) -> None:
     for file in glob.glob(f'{directory}/*'):
         os.remove(file)
+    print(f'Cleared {directory}')
 
 
 def main(city: str) -> None:
@@ -279,9 +310,11 @@ def main(city: str) -> None:
 
     html_seances: str = collect_data(city)
     parse_data(city, html_seances)
-    save_data(city)
+    save_data()
     clear_variables()
     clear_cache('films')
+
+    os.chdir('../../..')  # return to backend directory
     
     print(f'\nParsing {city} finished in {int(time.time() - start_time)} seconds')
 
@@ -291,4 +324,4 @@ def fetch_data(city: str) -> None:
 
 
 if __name__ == '__main__':
-    main('artem')
+    main('vladivostok')

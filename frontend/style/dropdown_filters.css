@@ -27,7 +27,7 @@
     position: relative;
     min-height: 6vh;
     left: -0%;
-    top: 60px;
+    top: 90px;
   }
 }
 
@@ -37,7 +37,7 @@
     position: relative;
     min-height: 6vh;
     left: 0%;
-    top: 70px;
+    top: 90px;
   }
 }
 
@@ -47,7 +47,7 @@
     position: relative;
     min-height: 6vh;
     left: 0%;
-    top: 70px;
+    top: 95px;
   }
 }
 
@@ -58,6 +58,7 @@
   display: flex; /* Изменяем на flexbox */
   flex-wrap: wrap; /* Добавляем возможность перехода на новую строку */
   justify-content: space-between; /* Выравниваем элементы по краям */
+  z-index: 3;
 }
 
 .dropdown {

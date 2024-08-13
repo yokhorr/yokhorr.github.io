@@ -14,17 +14,24 @@ const cities_translation = {
 
 document.addEventListener("cardsGenerated", () => {
     setTimeout(() => { // delay of 100ms to prevent running code before generation completes
-        const now = new Date();
-        const milliseconds = now.getMilliseconds();
-        console.log(`Heard cards generation in film_link at ${now.toLocaleTimeString()} (${milliseconds} milliseconds)`);
+        // const now = new Date();
+        // const milliseconds = now.getMilliseconds();
+        // console.log(`Heard cards generation in film_link at ${now.toLocaleTimeString()} (${milliseconds} milliseconds)`);
 
         const subcards = document.querySelectorAll('.subcard');
+        console.log(subcards);
         subcards.forEach((subcard) => {
-            subcard.addEventListener('click', () => {
+            subcard.addEventListener('click', (event) => {
                 setTimeout(() => {
                     const filmId = subcard.parentElement.dataset["filmid"];
                     const city = subcard.parentElement.dataset["city"];
-                    const url = `https://kino.vl.ru/films/${filmId}?city=${cities_translation[city]}`;
+                    const buyLink = subcard.parentElement.dataset["buylink"];
+                    let url;
+                    if (event.target.tagName === "IMG") {
+                        url = `https://kino.vl.ru/films/${filmId}?city=${cities_translation[city]}/#seanceId=${buyLink}`
+                    } else {
+                        url = `https://kino.vl.ru/films/${filmId}?city=${cities_translation[city]}`;
+                    }
                     window.open(url, "_blank");
                 }, 100);
             });
