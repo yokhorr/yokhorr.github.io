@@ -78,7 +78,9 @@ color: #d4d4d4;
 }
 
 .date-item:hover {
-background-color: #f0f0f060; /* Цвет при наведении курсора */
+height: 70px;
+background-color: #f0f0f060;/* Цвет при наведении курсора */
+position: relative;
 }
 
 .day-of-week {
@@ -90,7 +92,8 @@ color: #777;
 }
 
 .date-item.selected {
-background-color: #eee; /* Цвет при нажатии */
+height: 70px;
+background-color: #0c0c0c; /* Цвет при нажатии */
 }
 
 #dateSelect span.day {
@@ -102,7 +105,7 @@ font-size: 11px;
 
 #dateSelect span {
 position: relative;
-top: -60px; /* Переместили еще выше */
+top: -5px; /* Переместили еще выше */
 color: rgb(233, 220, 220);
 font-size: 11px;
 }
