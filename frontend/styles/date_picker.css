@@ -1,5 +1,6 @@
 /*----------------------------------------------------------------------------
  *  © 2024 Malyshev Nikita <nikita.malyshev0007@gmail.com>
+ *  © 2024 Solyanik Egor   <yokhor06@mail.ru>
  *
  *  This code is part of Vkadre project, a service for finding film shows.
  *  It is licensed under the AGPL-3.0,
@@ -102,7 +103,7 @@
 .date-item {
     border: 0px solid #ddd;
     padding: 6px 5px;
-    margin: 0 5px;
+    margin: 11px 5px;
     cursor: pointer;
     text-align: center; /* Выравнивание текста по центру */
     width: 34px; /* Ширина элемента */
@@ -126,6 +127,11 @@
 
 .date-item.selected {
     background-color: #eee; /* Цвет при нажатии */
+    color: black;
+}
+
+.date-item.selected .day-of-week {
+    color: black !important;
 }
 
 #dateSelect span.day {
@@ -137,7 +143,7 @@
 
 #dateSelect span {
     position: relative;
-    top: -60px; /* Переместили еще выше */
+    top: -64px; /* Переместили еще выше */
     color: rgb(233, 220, 220);
     font-size: 11px;
 }
