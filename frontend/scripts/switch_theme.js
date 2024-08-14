@@ -2,8 +2,8 @@
 const link = document.getElementById('theme');
 
 // Define the URLs of the light and dark theme CSS files
-const lightThemeUrl = 'style/about_light.css';
-const darkThemeUrl = 'style/about_dark.css';
+const lightThemeUrl = 'styles/about_light.css';
+const darkThemeUrl = 'styles/about_dark.css';
 
 // Load the theme from local storage or set a default
 let currentTheme = localStorage.getItem('theme') || 'dark';
