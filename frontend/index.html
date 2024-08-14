@@ -1,261 +1,293 @@
 <!DOCTYPE html>
 <html lang="ru">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>BKadre</title>
 
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <!-- icon -->
+        <link rel="shortcut icon" href="images/icon.png" type="image/x-icon" /> 
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
-    />
-    <link
-      rel="stylesheet"  
-      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
-      />
-      <title>BKadre</title>
-    <link rel="shortcut icon" href="images/icon.png" type="image/x-icon">
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"
+        />
 
-    <!-- fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
-    
-    
-    <!--styles-->
-    <link rel="stylesheet" href="style/body.css" />
-    <link rel="stylesheet" href="style/logo.css" />
-    <link rel="stylesheet" href="style/dropdown_filters.css" />
-    <link rel="stylesheet" href="style/date_picker.css" />
-    <link rel="stylesheet" href="style/card&tags.css" />
-    <link rel="stylesheet" href="style/banner.css" />
-    <link rel="stylesheet" href="style/end_button.css" />
-    <link rel="stylesheet" href="style/loading.css" />
-    
-    
-  </head>
-  
-  <body>
-    
-    <!--logo-->
-    <div class="logo">
-      <h1>BKadre</h1>
-      <a class="about" href="about.html" target="_blank">
-        <svg class="githubLogo" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-github" viewBox="0 0 16 19">
-          <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
-        </svg><span class="githubLink">Код и авторы</span>
-      </a>
-    </div>
+        <!-- fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&family=Kurale&family=Orelega+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap"
+            rel="stylesheet"
+        />
 
-    <!-- loading -->
-    <span class="word-container" data-word="Loading..." data-word-repeat="4"
-      data-text-colors="#00000,#007FFF,#800080,#FFFFFF" id="loading"></span>
-    
-    <!--filters-->
+        <!--styles-->
+        <link rel="stylesheet" href="style/body.css" />
+        <link rel="stylesheet" href="style/logo.css" />
+        <link rel="stylesheet" href="style/dropdown_filters.css" />
+        <link rel="stylesheet" href="style/date_picker.css" />
+        <link rel="stylesheet" href="style/card&tags.css" />
+        <link rel="stylesheet" href="style/banner.css" />
+        <link rel="stylesheet" href="style/end_button.css" />
+        <link rel="stylesheet" href="style/loading.css" />
+    </head>
 
-    <div id="filters" class="hidden">
-      <div class="dropdown" id="cityDropdown">
-        <div class="select">
-          <span class="selected">Владивосток</span>
-          <div class="caret"></div>
+    <body>
+
+        <!-- logo -->
+        <div class="logo">
+            <h1>BKadre</h1>
+            <a class="about" href="about.html" target="_blank">
+                <svg
+                    class="githubLogo"
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="16"
+                    height="16"
+                    fill="currentColor"
+                    class="bi bi-github"
+                    viewBox="0 0 16 19"
+                >
+                    <path
+                        d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"
+                    />
+                  </svg><span class="githubLink">Код и авторы</span>
+            </a>
         </div>
-        <ul class="menu" id="citySelect">
-          <li>Владивосток</li>
-          <li>Артём</li>
-          <li>Арсеньев</li>
-          <li>Уссурийск</li>
-          <li>Находка</li>
-          <li>Спасск-Дальний</li>
-          <li>Врангель</li>
-          <li>Дальнегорск</li>
-          <li>Партизанск</li>
-          <li>Черниговка</li>
-        </ul>
-      </div>
 
-      <div class="dropdown" id="genreDropdown">
-        <div class="select">
-          <span class="selected">Выбрать жанры</span>
-          <div class="caret"></div>
-        </div>
-        <ul class="menu" id="genreSelect">
-          <li>анимация</li>
-          <li>аниме</li>
-          <li>балет</li>
-          <li>биография</li>
-          <li>боевик</li>
-          <li>детектив</li>
-          <li>драма</li>
-          <li>документальный</li>
-          <li>фильм-выставка</li>
-          <li>фильм-спектакль</li>
-          <li>комедия</li>
-          <li>криминал</li>
-          <li>лекция</li>
-          <li>мелодрама</li>
-          <li>мультфильм</li>
-          <li>опера</li>
-          <li>приключения</li>
-          <li>семейный</li>
-          <li>триллер</li>
-          <li>ужасы</li>
-          <li>фантастика</li>
-          <li>фэнтези</li>
-        </ul>
-      </div>
+        <!-- banner "Loading" -->
+        <span
+            class="word-container"
+            data-word="Loading..."
+            data-word-repeat="4"
+            data-text-colors="#00000,#007FFF,#800080,#FFFFFF"
+            id="loading"
+        ></span>
 
-      <div class="dropdown" id="antiGenreDropdown">
-        <div class="select">
-          <span class="selected">Скрыть жанры</span>
-          <div class="caret"></div>
-        </div>
-        <ul class="menu" id="antiGenreSelect">
-          <li>анимация</li>
-          <li>аниме</li>
-          <li>балет</li>
-          <li>биография</li>
-          <li>боевик</li>
-          <li>детектив</li>
-          <li>драма</li>
-          <li>документальный</li>
-          <li>фильм-выставка</li>
-          <li>фильм-спектакль</li>
-          <li>комедия</li>
-          <li>криминал</li>
-          <li>лекция</li>
-          <li>мелодрама</li>
-          <li>мультфильм</li>
-          <li>опера</li>
-          <li>приключения</li>
-          <li>семейный</li>
-          <li>триллер</li>
-          <li>ужасы</li>
-          <li>фантастика</li>
-          <li>фэнтези</li>
-        </ul>
-      </div>
-
-      <div class="dropdown" id="theatreDropdown">
-        <div class="select">
-          <span class="selected">Кинотеатры</span>
-          <div class="caret"></div>
-        </div>
-        <ul class="menu" id="theatreSelect">
-        </ul>
-      </div>
-
-      <div class="dropdown" id="ageDropdown">
-        <div class="select">
-          <span class="selected">Ваш возраст</span>
-          <div class="caret"></div>
-        </div>
-        <ul class="menu" id="ageSelect">
-          <li>до 6</li>
-          <li>до 12</li>
-          <li>до 16</li>
-          <li>до 18</li>
-          <li class="active">18+</li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-    <!----date selector-->
-
-    <div class="date hidden" id="calendar">
-      <div class="container">
-        <ul id="dateSelect"></ul>
-      </div>
-    </div>
-
-    <!---card-->
-
-    <div class="grid" id="cards">
-      <div
-        class="item hidden"
-        data-city="Алабуга"
-        data-theatre="Фиктивный"
-        data-genres="аниме,анимация,боевик"
-        data-time="10:00"
-        data-endTime="12:00"
-        data-date="26.07"
-        data-filmId="50737"
-        data-rating="18"
-        data-cost="600"
-        data-seancesId="656"
-        id="debug"
-      >
-        <div class="card">
-
-          <div class="poster">
-            <img id="poster" src="images/defaultImage.jpg" alt="" />
-          </div>
-
-          <div class="detailsTop">
-            <div class="genres">
-              <span>Фиктивный</span>
-              <span class="price">3D</span>
-              <!-- alternative 3d tag -->
-              <!-- <img class="threeD" src="images/3d-1.jpg" alt="" /> -->
+        <!--filters-->
+        <div id="filters" class="hidden">
+            <!-- city selection -->
+            <div class="dropdown" id="cityDropdown">
+                <!-- menu head with selected city -->
+                <div class="select">
+                    <span class="selected">Владивосток</span>
+                    <div class="caret"></div>
+                </div>
+                <!-- dropdown menu -->
+                <ul class="menu" id="citySelect">
+                    <li>Владивосток</li>
+                    <li>Артём</li>
+                    <li>Арсеньев</li>
+                    <li>Уссурийск</li>
+                    <li>Находка</li>
+                    <li>Спасск-Дальний</li>
+                    <li>Врангель</li>
+                    <li>Дальнегорск</li>
+                    <li>Партизанск</li>
+                    <li>Черниговка</li>
+                </ul>
             </div>
-          </div>
 
-          <div class="details">
-            <div class="genres">
-              <span>26 июля</span>
-              <span class="startTime" style="padding-right: 0px !important;">
-                14:30
-                <div class="length" id="length">· 1:32</div>
-              </span>
-              <span class="price">1000₽</span>
-            </div>    
-          </div>
+            <!-- genre selection -->
+            <div class="dropdown" id="genreDropdown">
+                <!-- menu head -->
+                <div class="select">
+                    <span class="selected">Выбрать жанры</span>
+                    <div class="caret"></div>
+                </div>
+                <!-- dropdown menu -->
+                <ul class="menu" id="genreSelect">
+                    <li>анимация</li>
+                    <li>аниме</li>
+                    <li>балет</li>
+                    <li>биография</li>
+                    <li>боевик</li>
+                    <li>детектив</li>
+                    <li>драма</li>
+                    <li>документальный</li>
+                    <li>фильм-выставка</li>
+                    <li>фильм-спектакль</li>
+                    <li>комедия</li>
+                    <li>криминал</li>
+                    <li>лекция</li>
+                    <li>мелодрама</li>
+                    <li>мультфильм</li>
+                    <li>опера</li>
+                    <li>приключения</li>
+                    <li>семейный</li>
+                    <li>триллер</li>
+                    <li>ужасы</li>
+                    <li>фантастика</li>
+                    <li>фэнтези</li>
+                </ul>
+            </div>
 
-          <div class="details hiddenDetails">
-            <div class="genres">
-              <span>аниме</span>
-              <span>анимация</span>
-              <span>боевик</span>
-            </div>    
-          </div>
+            <!-- anti-genre selection -->
+            <div class="dropdown" id="antiGenreDropdown">
+                <!-- menu head -->
+                <div class="select">
+                    <span class="selected">Скрыть жанры</span>
+                    <div class="caret"></div>
+                </div>
+                <!-- dropdown menu -->
+                <ul class="menu" id="antiGenreSelect">
+                    <li>анимация</li>
+                    <li>аниме</li>
+                    <li>балет</li>
+                    <li>биография</li>
+                    <li>боевик</li>
+                    <li>детектив</li>
+                    <li>драма</li>
+                    <li>документальный</li>
+                    <li>фильм-выставка</li>
+                    <li>фильм-спектакль</li>
+                    <li>комедия</li>
+                    <li>криминал</li>
+                    <li>лекция</li>
+                    <li>мелодрама</li>
+                    <li>мультфильм</li>
+                    <li>опера</li>
+                    <li>приключения</li>
+                    <li>семейный</li>
+                    <li>триллер</li>
+                    <li>ужасы</li>
+                    <li>фантастика</li>
+                    <li>фэнтези</li>
+                </ul>
+            </div>
 
+            <!-- theatre selection -->
+            <div class="dropdown" id="theatreDropdown">
+                <!-- menu head -->
+                <div class="select">
+                    <span class="selected">Кинотеатры</span>
+                    <div class="caret"></div>
+                </div>
+                <!-- dropdown menu, generated dinamically with dropdown_filters.js -->
+                <ul class="menu" id="theatreSelect"></ul>
+            </div>
+
+            <!-- age selection -->
+            <div class="dropdown" id="ageDropdown">
+                <!-- menu head -->
+                <div class="select">
+                    <span class="selected">Ваш возраст</span>
+                    <div class="caret"></div>
+                </div>
+                <!-- dropdown menu -->
+                <ul class="menu" id="ageSelect">
+                    <li>до 6</li>
+                    <li>до 12</li>
+                    <li>до 16</li>
+                    <li>до 18</li>
+                    <li class="active">18+</li>
+                </ul>
+            </div>
         </div>
 
-        <div class="subcard">
-          <span class="details2">Lorem ipsum dolor sit amet</span>
-          <img src="images/ticket.png" class="subcardImage">
+        <!-- date selector -->
+        <div class="date hidden" id="calendar">
+            <div class="container">
+                <ul id="dateSelect"></ul>
+            </div>
         </div>
 
-      </div>
-    </div>
+        <!-- cards grid -->
+        <div class="grid" id="cards">
+            <!-- fictive card as a template -->
+            <!-- data for filtration -->
+            <div
+                class="item hidden"
+                data-city="Алабуга"
+                data-theatre="Фиктивный"
+                data-genres="аниме,анимация,боевик"
+                data-time="10:00"
+                data-endTime="12:00"
+                data-date="26.07"
+                data-filmId="50737"
+                data-rating="18"
+                data-cost="600"
+                data-seancesId="656"
+                id="debug"
+            >
+                <div class="card">
+                    <!-- poster is for image -->
+                    <div class="poster">
+                        <img id="poster" src="images/noImage.png" />
+                    </div>
 
+                    <!-- detailsTop is for theatre and 3d tag -->
+                    <div class="detailsTop">
+                        <div class="genres">
+                            <span>Фиктивный</span>
+                            <!-- 3d tag added if films is shown in 3d -->
+                            <span class="price">3D</span>
+                        </div>
+                    </div>
 
-    <div class="banner hidden" id="banner">
-      <p class="glitch">
-        <span aria-hidden="true">Not Found</span>
-        Not Found
-        <span aria-hidden="true">Not Found</span>
-      </p>
-    </div>
+                    <!-- details is for date, time, length and price -->
+                    <div class="details">
+                        <div class="genres">
+                            <span>26 июля</span>
+                            <span class="startTime">
+                                14:30
+                                <!-- length is shown when hovered -->
+                                <div class="length" id="length">· 1:32</div>
+                            </span>
+                            <!-- price is not added if not set -->
+                            <span class="price">1000₽</span>
+                        </div>
+                    </div>
 
-  
-  <!-- end button -->
-  <div class="end-message hidden" id="endButton">
-    <button class="btn">THE END!</button>
-  </div>
+                    <!-- hiddenDetails are for genres when hovered -->
+                    <div class="details hiddenDetails">
+                        <div class="genres">
+                            <span>аниме</span>
+                            <span>анимация</span>
+                            <span>боевик</span>
+                        </div>
+                    </div>
+                </div>
 
-    <script src="scripts/loading.js"></script>
-    <script src="scripts/generate_cards.js"></script>
-    <script src="scripts/filter.js"></script>
-    <!-- <script src="scripts/random_cards.js"></script> -->
-    <script src="scripts/logo.js"></script>
-    <script src="scripts/dropdown_filters.js"></script>
-    <script src="scripts/date_picker.js"></script>
-    <script src="scripts/end_button.js"></script>
-    <script src="scripts/film_link.js"></script>
+                <!-- subcard: fimd name and ticket button -->
+                <div class="subcard">
+                    <span class="details2">Film name</span>
+                    <img src="images/ticket.png" class="subcardImage" />
+                </div> 
+            </div>
+        </div>
 
-  </body>
+        <!-- banner "Not Found" -->
+        <div class="banner hidden" id="banner">
+            <p class="glitch">
+                <span aria-hidden="true">Not Found</span>
+                Not Found
+                <span aria-hidden="true">Not Found</span>
+            </p>
+        </div>
+
+        <!-- end button -->
+        <div class="end-message hidden" id="endButton">
+            <button class="btn">THE END!</button>
+        </div>
+
+        <!-- scripts  -->
+        <script src="scripts/loading.js"></script>
+        <script src="scripts/generate_cards.js"></script>
+        <script src="scripts/filter.js"></script>
+        <script src="scripts/logo.js"></script>
+        <script src="scripts/dropdown_filters.js"></script>
+        <script src="scripts/date_picker.js"></script>
+        <script src="scripts/end_button.js"></script>
+        <script src="scripts/film_link.js"></script>
+    </body>
 </html>
