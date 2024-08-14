@@ -1,0 +1,127 @@
+/*----------------------------------------------------------------------------
+ *  © 2024 Malyshev Nikita <nikita.malyshev0007@gmail.com>
+ *
+ *  This code is part of Vkadre project, a service for finding film shows.
+ *  It is licensed under the AGPL-3.0,
+ *  you may not use this file except in compliance with the license.
+ *  
+ *  License text: https://www.gnu.org/licenses/agpl-3.0.en.html
+ *  About project: https://github.com/yokhorr/yokhorr.github.io
+----------------------------------------------------------------------------*/
+
+
+/* Отступ от нижней границы контента */
+@media (max-width: 8000px) {
+    .end-message {
+        margin-top: 200px;
+    }
+}
+
+.grid {
+    position: relative; /* Добавляем позиционирование для .grid */
+}
+
+@media (max-width: 1350px) {
+    .end-message {
+        margin-top: 200px;
+    }
+}
+
+@media (max-width: 1030px) {
+    .end-message {
+        margin-top: 300px;
+    }
+}
+
+@media (max-width: 670px) {
+    .end-message {
+        margin-top: 200px;
+    }
+}
+
+.end-message {
+    background-color: #f0f0f000;
+    text-align: center;
+}
+
+/* button effects */
+.btn {
+    margin: 100px;
+    padding: 15px 40px;
+    border: none;
+    outline: none;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    z-index: 0;
+    border-radius: 12px;
+}
+.btn::after {
+    content: "";
+    z-index: -1;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    left: 0;
+    top: 0;
+    border-radius: 10px;
+}
+/* glow */
+.btn::before {
+    content: "";
+    background: linear-gradient(
+        45deg,
+        #ff0000,
+        #ff7300,
+        #fffb00,
+        #48ff00,
+        #00ffd5,
+        #002bff,
+        #ff00c8,
+        #ff0000
+    );
+    position: absolute;
+    top: -2px;
+    left: -2px;
+    background-size: 600%;
+    z-index: -1;
+    width: calc(100% + 4px);
+    height: calc(100% + 4px);
+    filter: blur(8px);
+    animation: glowing 20s linear infinite;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+@keyframes glowing {
+    0% {
+        background-position: 0 0;
+    }
+    50% {
+        background-position: 400% 0;
+    }
+    100% {
+        background-position: 0 0;
+    }
+}
+
+/* hover */
+.btn:hover::before {
+    opacity: 1;
+}
+
+.btn:active:after {
+    background: transparent;
+}
+
+.btn:active {
+    color: #000;
+    font-weight: bold;
+}
+
+.wrapDetails {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
