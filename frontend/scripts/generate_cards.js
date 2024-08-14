@@ -114,13 +114,13 @@ for(let y = 0; y < cities.length; y++) {
         let detailsTop = document.createElement("div");
         detailsTop.className = "detailsTop";
         let genre = document.createElement("div");
-        genre.className = "genres";
+        genre.className = "tags";
         let tre = document.createElement("span");
         tre.innerHTML = jsonData2[0][key].theatre;
         genre.appendChild(tre);
         if(jsonData2[0][key].is3d === true) {
           let dd = document.createElement("span");
-          dd.className = "price" 
+          dd.className = "toRight" 
           dd.innerHTML = "3D";
           genre.appendChild(dd);
         }
@@ -129,7 +129,7 @@ for(let y = 0; y < cities.length; y++) {
         let details = document.createElement("div");
         details.className = "details";
         let genress = document.createElement("div");
-        genress.className = "genres";
+        genress.className = "tags";
         let date = document.createElement("span");
         const [day, month] = `${jsonData2[0][key].date}`.split('.').map(Number);
         let month2; 
@@ -196,7 +196,7 @@ for(let y = 0; y < cities.length; y++) {
 
         genress.appendChild(startTime);
         let price = document.createElement("span"); 
-        price.className = "price";
+        price.className = "toRight";
         price.innerHTML = `${jsonData2[0][key].cost} ₽`; 
         if (jsonData2[0][key].cost !== -1 && jsonData2[0][key].cost) { // price is not set
           genress.appendChild(price);
@@ -204,7 +204,7 @@ for(let y = 0; y < cities.length; y++) {
         let detailshiddenDetailshidden = document.createElement("div");
         detailshiddenDetailshidden.className = "details hiddenDetails hidden";
         let genres2 = document.createElement("div");
-        genres2.className = "genres";
+        genres2.className = "tags";
         for(let i = 0; i < filmsDictionary[jsonData2[0][key].filmId].genres.length; i++) {
           let genrem = document.createElement("span");
           genrem.innerHTML = filmsDictionary[jsonData2[0][key].filmId].genres[i];
@@ -218,24 +218,24 @@ for(let y = 0; y < cities.length; y++) {
         item.appendChild(card);
         let subcard = document.createElement("div");
         subcard.className = "subcard";
-        let details2 = document.createElement("span");
+        let filmName = document.createElement("span");
         const element = document.querySelector('.subcard');
         const text = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
         const characterCount = text.length;
         // console.log(characterCount, `${filmsDictionary[jsonData2[0][key].filmId].name}`);
-        details2.className = "details2";
+        filmName.className = "filmName";
         if(characterCount > 35) {
-          details2.style.fontSize = "18px";
+          filmName.style.fontSize = "18px";
         }
         else{
-          details2.style.fontSize = "25px";
+          filmName.style.fontSize = "25px";
         }
         
         const fontSize = window.getComputedStyle(element).getPropertyValue('font-size');
 
         // console.log(fontSize);
-        details2.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
-        subcard.appendChild(details2);
+        filmName.innerHTML = `${filmsDictionary[jsonData2[0][key].filmId].name}`;
+        subcard.appendChild(filmName);
 
         if (jsonData2[0][key].buyLink) {
           // Create the image element

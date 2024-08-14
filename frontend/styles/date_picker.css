@@ -1,151 +1,152 @@
-/*=====date picker====*/
+/*----------------------------------------------------------------------------
+ *  © 2024 Malyshev Nikita <nikita.malyshev0007@gmail.com>
+ *
+ *  This code is part of Vkadre project, a service for finding film shows.
+ *  It is licensed under the AGPL-3.0,
+ *  you may not use this file except in compliance with the license.
+ *  
+ *  License text: https://www.gnu.org/licenses/agpl-3.0.en.html
+ *  About project: https://github.com/yokhorr/yokhorr.github.io
+----------------------------------------------------------------------------*/
 
 
 @media (max-width: 8000px) {
-  .date .container {
-    position: relative;
-    align-items: center;
-    min-width: 250px;
-    width: 1000px;
-    height: 50px;
-  }
+    .date .container {
+        position: relative;
+        align-items: center;
+        min-width: 250px;
+        width: 1000px;
+        height: 50px;
+    }
 }
 
-
 @media (max-width: 2874px) {
-  .date .container {
-    position: relative;
-    align-items: center;
-    min-width: 250px;
-    width: 3000px;
-    height: 50px;
-  }
+    .date .container {
+        position: relative;
+        align-items: center;
+        min-width: 250px;
+        width: 3000px;
+        height: 50px;
+    }
 }
 
 @media (max-width: 2523px) {
-  .date .container {
-    position: relative;
-    align-items: center;
-    min-width: 250px;
-    width: 2500px;
-    height: 50px;
-    /* margin-left: -550px; */
-  }
+    .date .container {
+        position: relative;
+        align-items: center;
+        min-width: 250px;
+        width: 2500px;
+        height: 50px;
+    }
 }
-
 
 @media (max-width: 1903px) {
-  .date .container {
-    position: relative;
-    align-items: center;
-    min-width: 250px;
-    width: 2000px;
-    height: 50px;
-  }
+    .date .container {
+        position: relative;
+        align-items: center;
+        min-width: 250px;
+        width: 2000px;
+        height: 50px;
+    }
 }
 
-
-  @media (max-width: 1140px) {
+@media (max-width: 1140px) {
     .date .container {
-      position: relative;
-      align-items: center;
-      min-width: 250px;
-      width: 1000px;
-      height: 50px
-      
+        position: relative;
+        align-items: center;
+        min-width: 250px;
+        width: 1000px;
+        height: 50px;
     }
-  }
+}
 
-    @media (max-width: 880px) {
-      .date .container {
+@media (max-width: 880px) {
+    .date .container {
         position: relative;
         align-items: center;
         min-width: 250px;
         width: 450px;
         height: 50px;
-      }
     }
-    @media (max-width: 580px) {
-      .date .container {
+}
+@media (max-width: 580px) {
+    .date .container {
         position: relative;
         align-items: center;
         min-width: 250px;
         width: 300px;
         height: 50px;
-      }
     }
-
-
+}
 
 .date {
-  position: relative;
-  top: 100px;
-  z-index: 2;
+    position: relative;
+    top: 100px;
+    z-index: 2;
 }
 
 .date .container .ul {
-  align-items: center;
+    align-items: center;
 }
 
 #dateSelect {
-display: flex;
-flex-wrap: wrap; /* Если дат больше, чем помещается в строку, перенос на новую строку */
-list-style: none;
-position: relative;
-left: 0px;
-padding: 0;
-margin: 0;
+    display: flex;
+    flex-wrap: wrap; /* Если дат больше, чем помещается в строку, перенос на новую строку */
+    list-style: none;
+    position: relative;
+    left: 0px;
+    padding: 0;
+    margin: 0;
 }
 
 .date-item {
-border: 0px solid #ddd;
-padding: 6px 5px;
-margin: 0 5px;
-cursor: pointer;
-text-align: center; /* Выравнивание текста по центру */
-width: 34px; /* Ширина элемента */
-height: 50px;
-transition: background-color 0.3s ease; /* Плавный переход */
-border-radius: 3em 3em 3em 3em;
-color: #d4d4d4;
+    border: 0px solid #ddd;
+    padding: 6px 5px;
+    margin: 0 5px;
+    cursor: pointer;
+    text-align: center; /* Выравнивание текста по центру */
+    width: 34px; /* Ширина элемента */
+    height: 50px;
+    transition: background-color 0.3s ease; /* Плавный переход */
+    border-radius: 3em 3em 3em 3em;
+    color: #d4d4d4;
 }
 
 .date-item:hover {
-background-color: #f0f0f060; /* Цвет при наведении курсора */
+    background-color: #f0f0f060; /* Цвет при наведении курсора */
 }
 
 .day-of-week {
-position: relative;
-left: 0;
-display: block;
-font-size: 10px;
-color: #777;
+    position: relative;
+    left: 0;
+    display: block;
+    font-size: 10px;
+    color: #777;
 }
 
 .date-item.selected {
-background-color: #eee; /* Цвет при нажатии */
+    background-color: #eee; /* Цвет при нажатии */
 }
 
 #dateSelect span.day {
-position: relative;
-top: -80px; /* Переместили выше */
-color: rgb(144, 144, 145);
-font-size: 11px;
+    position: relative;
+    top: -80px; /* Переместили выше */
+    color: rgb(144, 144, 145);
+    font-size: 11px;
 }
 
 #dateSelect span {
-position: relative;
-top: -60px; /* Переместили еще выше */
-color: rgb(233, 220, 220);
-font-size: 11px;
+    position: relative;
+    top: -60px; /* Переместили еще выше */
+    color: rgb(233, 220, 220);
+    font-size: 11px;
 }
 
 #dateSelect span.day-of-week {
-  position: relative;
-  left: 0;
-  top: 1px;
-  display: block;
-  font-size: 10px;
-  color: rgb(233, 220, 220);
-  }
-
+    position: relative;
+    left: 0;
+    top: 1px;
+    display: block;
+    font-size: 10px;
+    color: rgb(233, 220, 220);
+}

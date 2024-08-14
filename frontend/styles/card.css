@@ -1,0 +1,274 @@
+/*----------------------------------------------------------------------------
+ *  © 2024 Busygin Mihail  <m1shabs1@yandex.ru>
+ *  © 2024 Malyshev Nikita <nikita.malyshev0007@gmail.com>
+ *  © 2024 Potapov Artyom  <potapov.artyom2007@mail.ru>
+ *  © 2024 Solyanik Egor   <yokhor06@mail.ru>
+ *
+ *  This code is part of Vkadre project, a service for finding film shows.
+ *  It is licensed under the AGPL-3.0,
+ *  you may not use this file except in compliance with the license.
+ *  
+ *  License text: https://www.gnu.org/licenses/agpl-3.0.en.html
+ *  About project: https://github.com/yokhorr/yokhorr.github.io
+----------------------------------------------------------------------------*/
+
+
+.card {
+    position: relative;
+    width: 310px;
+    height: 350px;
+    border-radius: 10px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+    display: grid;
+    z-index: 2;
+}
+
+.subcard {
+    height: 80px;
+    width: 310px;
+    padding: 0px;
+    border-top-left-radius: 0px !important;
+    border-top-right-radius: 0px !important;
+    background: rgba(250, 250, 238, 0.8);
+    border-radius: 5px;
+    margin-top: 0px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    cursor: pointer;
+}
+
+/* font for film name */
+.subcard span {
+    font-family: "Orelega One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* subcard text shadow when card hovered */
+.subcard:hover,
+.card:hover ~ .subcard,
+.card:hover ~ .subcard span:not(.subcardImage) {
+    --shadow-light: rgba(255, 184, 184, 0.663);
+    background-color: lightgray;
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    text-shadow: 0 0 5px var(--shadow-light), 0 0 10px var(--shadow-light),
+        0 0 15px var(--shadow-light), 0 0 20px var(--shadow-light),
+        0 0 25px var(--shadow-light), 0 0 30px var(--shadow-light),
+        0 0 35px var(--shadow-light), 0 0 40px var(--shadow-light),
+        0 0 45px var(--shadow-light), 0 0 50px var(--shadow-light);
+}
+
+/* subcard text shadow when subcard hovered */
+:not(.subcardImage:hover).subcard:hover span:not(.subcardImage) {
+    background-color: lightgray;
+    color: rgb(0, 0, 0);
+    --shadow-strong: rgba(255, 99, 99, 0.677);
+    text-decoration: underline;
+    text-shadow: 0 0 5px var(--shadow-strong), 0 0 10px var(--shadow-strong),
+        0 0 15px var(--shadow-strong), 0 0 20px var(--shadow-strong),
+        0 0 25px var(--shadow-strong), 0 0 30px var(--shadow-strong),
+        0 0 35px var(--shadow-strong), 0 0 40px var(--shadow-strong),
+        0 0 45px var(--shadow-strong), 0 0 50px var(--shadow-strong);
+}
+
+/* subcard background color when card hovered */
+.card:hover
+    ~ .subcard:not(.subcardImage)
+    .card:hover
+    ~ .subcard:not(.subcardImage)
+    span {
+        background-color: rgba(255, 154, 115, 0.8);
+}
+
+.filmName {
+    font-size: 25px;
+    font-weight: 400;
+    color: black;
+    margin-left: 10px;
+    flex-grow: 1;
+    text-align: center;
+}
+
+.subcardImage {
+    height: 80px;
+    padding: 15px 11px;
+    margin-left: 10px;
+    background-color: rgb(255, 184, 184);
+}
+
+.subcardImage:hover {
+    background-color: rgb(255, 122, 122);
+}
+
+.card .poster {
+    position: relative;
+    overflow: hidden;
+}
+
+.card .poster::before {
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(transparent);
+    bottom: -180px;
+    transition: 0.5s;
+    z-index: 1;
+}
+
+.card:hover .poster::before {
+    bottom: 0px;
+}
+
+.card .poster img {
+    width: 100%;
+    transition: 0.5s;
+}
+
+/* move image when hovered */
+/* but only `animated`, */
+/* which is not set for `noImage.png` */
+.card:hover .poster.animated img {
+    transform: translateY(-90px);
+}
+
+.card .detailsTop,
+.card .details {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    width: 100%;
+    z-index: 2;
+    transition: 0.5s;
+}
+
+.card .detailsTop {
+    height: 100%;
+}
+
+/* move genres up when hovered */
+.card:hover .details {
+    bottom: 70px;
+}
+
+.length {
+    max-width: 0;
+    -webkit-transition: max-width 0.3s;
+    transition: max-width 0.3s;
+    display: inline-block;
+    vertical-align: top;
+    white-space: nowrap;
+    overflow: hidden;
+    padding-left: 3pt;
+}
+
+/* show up film length when card hovered */
+.card:hover .length {
+    max-width: 7rem;
+    padding-right: 5px;
+}
+
+/* genres tag animation show up when hovered */
+.card:hover .hiddenDetails {
+    bottom: 0px;
+    animation-name: fadeIn;
+    animation-duration: 0.3s;
+    animation-fill-mode: both;
+}
+
+/* genres tag animation hide when hovered */
+.card:not(:hover) .hiddenDetails {
+    animation-name: fadeOut;
+    animation-duration: 0.3s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        visibility: visible;
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        visibility: none;
+        opacity: 0;
+    }
+}
+
+.card .tags {
+    color: black;
+    padding: 0.2rem 0;
+    font-family: "Balsamiq Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* general rules for both top and bottom tags */
+.card .details .tags span,
+.card .detailsTop .tags span {
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 5px;
+    display: block;
+    width: fit-content;
+    margin-bottom: 2px;
+    margin-right: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.9);
+    z-index: -1;
+    height: 24px;
+}
+
+.card .details .tags span {
+    margin-top: auto;
+}
+
+.card .detailsTop .tags span {
+    margin-top: 0px;
+}
+
+/* class to hide anything */
+.hidden {
+    display: none !important;
+}
+
+.hiddenDetails {
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    width: 100%;
+    z-index: 2;
+    transition: 0.5s;
+}
+
+.card .detailsTop .tags,
+.card .details .tags {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping to new line */
+    gap: 2px; /* Add small margin between span */
+}
+
+/* some cosmetic crutch */
+.startTime {
+    padding-right: 2px !important;
+}
+
+.toRight {
+    margin-left: auto;
+}
