@@ -91,7 +91,7 @@ document.addEventListener("cardsGenerated", () => {
 const criteriaArrays = {
     // set previously chosen city or vladivostok if none was chosen
     citySelectSet: new Set(
-        [localStorage.getItem("selectedCity")] || ["Владивосток"]
+        [localStorage.getItem("selectedCity") || "Владивосток"]
     ),
     genreSelectSet: new Set(),
     theatreSelectSet: new Set(),
