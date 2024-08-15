@@ -1,4 +1,4 @@
-/*----------------------------------------------------------------------------
+w/*----------------------------------------------------------------------------
  *  © 2024 Potapov Artyom  <potapov.artyom2007@mail.ru>
  *  © 2024 Solyanik Egor   <yokhor06@mail.ru>
  *
@@ -8,6 +8,7 @@
  *  
  *  License text: https://www.gnu.org/licenses/agpl-3.0.en.html
  *  About project: https://github.com/yokhorr/yokhorr.github.io
+ *  SPDX-License-Identifier: AGPL-3.0
 ----------------------------------------------------------------------------*/
 
 
