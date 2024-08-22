@@ -105,7 +105,7 @@ def parse_film(elem: BeautifulSoup, film_id: str):
     rating: int = 0
 
     #  obtain picture_href to download image then
-    if len(picture_href_elem) > 1:
+    if picture_href_elem and len(picture_href_elem) > 1:  # NOTE: find what's wrong
         picture_href = picture_href_elem.contents[1]['href'].split('/')[-1]
     else:  # some films don't have cover ever
         with open('../../no_image.txt', 'a') as file:
