@@ -275,7 +275,7 @@ for (let y = 0; y < cities.length; y++) {
             
             // change font size depending on the number of characters
             // to make sure the film name fits subcard
-            if (text.length > 33) {
+            if (text.length > 24) {
                 filmName.style.fontSize = "18px";
             } else {
                 filmName.style.fontSize = "25px";
