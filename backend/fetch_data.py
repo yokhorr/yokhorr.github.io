@@ -35,7 +35,8 @@ def clear_variables():
 # add a small delay not to hurt the server
 # the delay is random to pretend a user, but kino.vl.ru doesn't ban anyway
 def prevent_ddos():
-    time.sleep(random.randint(1, 5))
+    # time.sleep(random.randint(1, 5))
+    pass
 
 
 # get the HTML document from kino.vl.ru
@@ -123,7 +124,7 @@ def parse_film(elem: BeautifulSoup, film_id: str):
 
 
 # parse seance cost, 3d flag and buy link
-def parse_seance_details(ref: str, theatre: str, date: str, film_time: str, city: str) -> (int, str):
+def parse_seance_details(ref: str, theatre: str, date: str, film_time: str, city: str) -> (int, str, str):
     new_film: bool = False
     # ref constitutes '/film/50183' (films has a uniq id)
     film_id = ref.split('/')[-2]  # separate id
@@ -144,6 +145,10 @@ def parse_seance_details(ref: str, theatre: str, date: str, film_time: str, city
     with open(f'films/{film_id}.html') as file:
         soup = BeautifulSoup(file, "html.parser")
 
+    # crutch for kino.vl.ru bug
+    if not soup.find_all(id="film__seances"):
+        return
+
     # parse film and write it, if it has not been done yet
     if new_film:
         parse_film(soup, film_id)
@@ -155,7 +160,7 @@ def parse_seance_details(ref: str, theatre: str, date: str, film_time: str, city
     # because the last one contains all needed info about date, time and theatre
     # Unfortunately, that changes core parsing logic
     # I leave this as is, because we don't need that level of optimization.
-
+    
     date_headings = soup.find_all(id="film__seances")[0].contents  # headers with dates of tables with times
     i = 0
     rows = ''
@@ -203,7 +208,7 @@ def several_theatres(elem: BeautifulSoup, date: str, time: str, city: str) -> li
     for theatre in elem.parent.find(class_='table-responsive__theatre-name').find_all('a'):
         _theatre = theatre.get_text().strip()
         details = parse_seance_details(elem.find_next()["href"], _theatre, date, time, city)
-        if not details:  # page parsed after seance has expired
+        if not details:  # page parsed after seance has expired # or empty page
             continue
         cost, is3d, buy_link = details
         result.append((name_id, _theatre, cost, is3d, buy_link))
@@ -303,4 +308,4 @@ def fetch_data(city: str) -> None:
 
 # running as main, vladivostok is default
 if __name__ == '__main__':
-    main('vladivostok')
+    main('arsenyev')
