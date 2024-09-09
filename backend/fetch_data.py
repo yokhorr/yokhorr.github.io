@@ -35,8 +35,7 @@ def clear_variables():
 # add a small delay not to hurt the server
 # the delay is random to pretend a user, but kino.vl.ru doesn't ban anyway
 def prevent_ddos():
-    # time.sleep(random.randint(1, 5))
-    pass
+    time.sleep(random.randint(1, 5))
 
 
 # get the HTML document from kino.vl.ru
