@@ -35,8 +35,7 @@ def clear_variables():
 # add a small delay not to hurt the server
 # the delay is random to pretend a user, but kino.vl.ru doesn't ban anyway
 def prevent_ddos():
-    pass
-    # time.sleep(random.randint(1, 5))
+    time.sleep(random.randint(1, 5))
 
 
 # get the HTML document from kino.vl.ru
@@ -89,7 +88,7 @@ def parse_film(elem: BeautifulSoup, film_id: str):
                 parts = text.split(' ')
                 hours = int(parts[0])
                 # kino.vl.ru, I'm tired to make crutches for your bugs
-                if parts[-2] == '4o':
+                if parts[-2] == '4о':
                     minutes = 40
                 else:
                     minutes = int(parts[-2])
