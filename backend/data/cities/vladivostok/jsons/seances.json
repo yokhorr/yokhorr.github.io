@@ -1,509 +1,5 @@
 [
     {
-        "date": "01.02",
-        "time": "20:30",
-        "filmId": "avengers_infinity_war",
-        "theatre": "Океан IMAX",
-        "cost": 510,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTAyLTAxIDIwOjMwOjAwOzI2NjY5"
-    },
-    {
-        "date": "01.02",
-        "time": "20:30",
-        "filmId": "57582",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wMi0wMSAyMDozMDowMDs1NzU4Mg=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:35",
-        "filmId": "57908",
-        "theatre": "Иллюзион",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTAyLTAxIDIwOjM1OjAwOzU3OTA4"
-    },
-    {
-        "date": "01.02",
-        "time": "20:35",
-        "filmId": "57256",
-        "theatre": "Черёмушки",
-        "cost": 460,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0wMi0wMSAyMDozNTowMDs1NzI1Ng=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:40",
-        "filmId": "57638",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wMi0wMSAyMDo0MDowMDs1NzYzOA=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:40",
-        "filmId": "57612",
-        "theatre": "Уссури",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0wMi0wMSAyMDo0MDowMDs1NzYxMg=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:45",
-        "filmId": "57639",
-        "theatre": "Иллюзион",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTAyLTAxIDIwOjQ1OjAwOzU3NjM5"
-    },
-    {
-        "date": "01.02",
-        "time": "20:45",
-        "filmId": "57639",
-        "theatre": "Черёмушки",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wMi0wMSAyMDo0NTowMDs1NzYzOQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:45",
-        "filmId": "58130",
-        "theatre": "Океан IMAX",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTAyLTAxIDIwOjQ1OjAwOzU4MTMw"
-    },
-    {
-        "date": "01.02",
-        "time": "20:45",
-        "filmId": "57612",
-        "theatre": "Уссури",
-        "cost": 1400,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0wMi0wMSAyMDo0NTowMDs1NzYxMg=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:50",
-        "filmId": "57613",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 530,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wMi0wMSAyMDo1MDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "20:50",
-        "filmId": "57613",
-        "theatre": "Владивосток",
-        "cost": 450,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wMi0wMSAyMDo1MDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:00",
-        "filmId": "57613",
-        "theatre": "Иллюзион",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTAyLTAxIDIxOjAwOjAwOzU3NjEz"
-    },
-    {
-        "date": "01.02",
-        "time": "21:05",
-        "filmId": "57886",
-        "theatre": "Уссури",
-        "cost": 1400,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0wMi0wMSAyMTowNTowMDs1Nzg4Ng=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:10",
-        "filmId": "57639",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wMi0wMSAyMToxMDowMDs1NzYzOQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:10",
-        "filmId": "57612",
-        "theatre": "Черёмушки",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wMi0wMSAyMToxMDowMDs1NzYxMg=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:20",
-        "filmId": "57886",
-        "theatre": "Нептун",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTA7NTE3NTsyMDI1LTAyLTAxIDIxOjIwOjAwOzU3ODg2"
-    },
-    {
-        "date": "01.02",
-        "time": "21:20",
-        "filmId": "58105",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1120,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wMi0wMSAyMToyMDowMDs1ODEwNQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:25",
-        "filmId": "58105",
-        "theatre": "Иллюзион",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTAyLTAxIDIxOjI1OjAwOzU4MTA1"
-    },
-    {
-        "date": "01.02",
-        "time": "21:35",
-        "filmId": "57886",
-        "theatre": "Океан IMAX",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTAyLTAxIDIxOjM1OjAwOzU3ODg2"
-    },
-    {
-        "date": "01.02",
-        "time": "21:35",
-        "filmId": "57908",
-        "theatre": "Океан IMAX",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTAyLTAxIDIxOjM1OjAwOzU3OTA4"
-    },
-    {
-        "date": "01.02",
-        "time": "21:35",
-        "filmId": "57613",
-        "theatre": "Черёмушки",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wMi0wMSAyMTozNTowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:35",
-        "filmId": "58115",
-        "theatre": "Владивосток",
-        "cost": 900,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wMi0wMSAyMTozNTowMDs1ODExNQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:40",
-        "filmId": "57886",
-        "theatre": "Уссури",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0wMi0wMSAyMTo0MDowMDs1Nzg4Ng=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:40",
-        "filmId": "57908",
-        "theatre": "Черёмушки",
-        "cost": 460,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wMi0wMSAyMTo0MDowMDs1NzkwOA=="
-    },
-    {
-        "date": "01.02",
-        "time": "21:40",
-        "filmId": "57613",
-        "theatre": "Уссури",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0wMi0wMSAyMTo0MDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "22:00",
-        "filmId": "57613",
-        "theatre": "Владивосток",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wMi0wMSAyMjowMDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "22:00",
-        "filmId": "57256",
-        "theatre": "Москва",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDItMDEgMjI6MDA6MDA7NTcyNTY="
-    },
-    {
-        "date": "01.02",
-        "time": "22:00",
-        "filmId": "57582",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1100,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wMi0wMSAyMjowMDowMDs1NzU4Mg=="
-    },
-    {
-        "date": "01.02",
-        "time": "22:10",
-        "filmId": "57613",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 530,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wMi0wMSAyMjoxMDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "22:45",
-        "filmId": "57612",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wMi0wMSAyMjo0NTowMDs1NzYxMg=="
-    },
-    {
-        "date": "01.02",
-        "time": "22:50",
-        "filmId": "58105",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wMi0wMSAyMjo1MDowMDs1ODEwNQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:00",
-        "filmId": "57908",
-        "theatre": "Иллюзион",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTAyLTAxIDIzOjAwOjAwOzU3OTA4"
-    },
-    {
-        "date": "01.02",
-        "time": "23:00",
-        "filmId": "57613",
-        "theatre": "Черёмушки",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wMi0wMSAyMzowMDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:00",
-        "filmId": "57640",
-        "theatre": "Иллюзион",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTAyLTAxIDIzOjAwOjAwOzU3NjQw"
-    },
-    {
-        "date": "01.02",
-        "time": "23:00",
-        "filmId": "58172",
-        "theatre": "Уссури",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0wMi0wMSAyMzowMDowMDs1ODE3Mg=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:05",
-        "filmId": "57640",
-        "theatre": "Черёмушки",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0wMi0wMSAyMzowNTowMDs1NzY0MA=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:05",
-        "filmId": "58130",
-        "theatre": "Океан IMAX",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTAyLTAxIDIzOjA1OjAwOzU4MTMw"
-    },
-    {
-        "date": "01.02",
-        "time": "23:10",
-        "filmId": "57639",
-        "theatre": "Нептун",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTA7NTE3NTsyMDI1LTAyLTAxIDIzOjEwOjAwOzU3NjM5"
-    },
-    {
-        "date": "01.02",
-        "time": "23:10",
-        "filmId": "57858",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wMi0wMSAyMzoxMDowMDs1Nzg1OA=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:25",
-        "filmId": "57613",
-        "theatre": "Уссури",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0wMi0wMSAyMzoyNTowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:25",
-        "filmId": "57612",
-        "theatre": "Уссури",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0wMi0wMSAyMzoyNTowMDs1NzYxMg=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:30",
-        "filmId": "57639",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wMi0wMSAyMzozMDowMDs1NzYzOQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:30",
-        "filmId": "57613",
-        "theatre": "Иллюзион",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTAyLTAxIDIzOjMwOjAwOzU3NjEz"
-    },
-    {
-        "date": "01.02",
-        "time": "23:30",
-        "filmId": "57612",
-        "theatre": "Уссури",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0wMi0wMSAyMzozMDowMDs1NzYxMg=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:35",
-        "filmId": "57612",
-        "theatre": "Океан IMAX",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTAyLTAxIDIzOjM1OjAwOzU3NjEy"
-    },
-    {
-        "date": "01.02",
-        "time": "23:40",
-        "filmId": "57886",
-        "theatre": "Иллюзион",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTAyLTAxIDIzOjQwOjAwOzU3ODg2"
-    },
-    {
-        "date": "01.02",
-        "time": "23:40",
-        "filmId": "57613",
-        "theatre": "Океан IMAX",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTAyLTAxIDIzOjQwOjAwOzU3NjEz"
-    },
-    {
-        "date": "01.02",
-        "time": "23:40",
-        "filmId": "57613",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1150,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wMi0wMSAyMzo0MDowMDs1NzYxMw=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:45",
-        "filmId": "57908",
-        "theatre": "Черёмушки",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wMi0wMSAyMzo0NTowMDs1NzkwOA=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:45",
-        "filmId": "57640",
-        "theatre": "Океан IMAX",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTAyLTAxIDIzOjQ1OjAwOzU3NjQw"
-    },
-    {
-        "date": "01.02",
-        "time": "23:50",
-        "filmId": "57582",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wMi0wMSAyMzo1MDowMDs1NzU4Mg=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:55",
-        "filmId": "57886",
-        "theatre": "Черёмушки",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wMi0wMSAyMzo1NTowMDs1Nzg4Ng=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:55",
-        "filmId": "57640",
-        "theatre": "Уссури",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0wMi0wMSAyMzo1NTowMDs1NzY0MA=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:55",
-        "filmId": "58105",
-        "theatre": "Черёмушки",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wMi0wMSAyMzo1NTowMDs1ODEwNQ=="
-    },
-    {
-        "date": "01.02",
-        "time": "23:59",
-        "filmId": "58131",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0wMi0wMSAyMzo1OTowMDs1ODEzMQ=="
-    },
-    {
         "date": "02.02",
         "time": "09:50",
         "filmId": "57886",
@@ -8020,12 +7516,57 @@
     },
     {
         "date": "12.02",
+        "time": "10:20",
+        "filmId": "57887",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wMi0xMiAxMDoyMDowMDs1Nzg4Nw=="
+    },
+    {
+        "date": "12.02",
+        "time": "13:00",
+        "filmId": "57887",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wMi0xMiAxMzowMDowMDs1Nzg4Nw=="
+    },
+    {
+        "date": "12.02",
+        "time": "15:40",
+        "filmId": "57887",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wMi0xMiAxNTo0MDowMDs1Nzg4Nw=="
+    },
+    {
+        "date": "12.02",
+        "time": "18:00",
+        "filmId": "57976",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wMi0xMiAxODowMDowMDs1Nzk3Ng=="
+    },
+    {
+        "date": "12.02",
         "time": "19:00",
         "filmId": "29991",
         "theatre": "Киномакс-Сапфир",
         "cost": 640,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wMi0xMiAxOTowMDowMDsyOTk5MQ=="
+    },
+    {
+        "date": "12.02",
+        "time": "19:20",
+        "filmId": "58157",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 440,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wMi0xMiAxOToyMDowMDs1ODE1Nw=="
     },
     {
         "date": "12.02",
