@@ -1,7 +1,43 @@
 [
     {
-        "date": "12.02",
-        "time": "16:35",
+        "date": "13.02",
+        "time": "10:35",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.02",
+        "time": "10:45",
+        "filmId": "58306",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.02",
+        "time": "12:20",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.02",
+        "time": "12:45",
+        "filmId": "44879",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.02",
+        "time": "14:05",
         "filmId": "57613",
         "theatre": "Брусника",
         "cost": 200,
@@ -9,27 +45,405 @@
         "buyLink": null
     },
     {
-        "date": "12.02",
-        "time": "17:10",
+        "date": "13.02",
+        "time": "15:00",
         "filmId": "57887",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.02",
+        "time": "16:25",
+        "filmId": "58024",
         "theatre": "Брусника",
         "cost": 230,
         "is3d": false,
         "buyLink": null
     },
     {
-        "date": "12.02",
-        "time": "18:55",
-        "filmId": "44879",
+        "date": "13.02",
+        "time": "17:30",
+        "filmId": "58306",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.02",
+        "time": "18:15",
+        "filmId": "57783",
         "theatre": "Брусника",
         "cost": 280,
         "is3d": false,
         "buyLink": null
     },
     {
-        "date": "12.02",
-        "time": "19:40",
-        "filmId": "58157",
+        "date": "13.02",
+        "time": "19:25",
+        "filmId": "58529",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "10:00",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "10:30",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "11:50",
+        "filmId": "57613",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "13:20",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "14:05",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "15:55",
+        "filmId": "44879",
+        "theatre": "Брусника",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "16:05",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "18:10",
+        "filmId": "58306",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "18:55",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.02",
+        "time": "20:05",
+        "filmId": "58529",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "10:00",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "10:30",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "11:45",
+        "filmId": "57887",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "13:20",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "14:15",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "16:05",
+        "filmId": "44879",
+        "theatre": "Брусника",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "16:05",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "18:20",
+        "filmId": "58306",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "18:55",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "15.02",
+        "time": "20:15",
+        "filmId": "58529",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "10:00",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "10:30",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "11:50",
+        "filmId": "57613",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "13:20",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "14:15",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "15:55",
+        "filmId": "44879",
+        "theatre": "Брусника",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "16:05",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "18:10",
+        "filmId": "58306",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "18:55",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "16.02",
+        "time": "20:05",
+        "filmId": "58529",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "10:00",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "10:30",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "11:45",
+        "filmId": "57887",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "13:20",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "14:15",
+        "filmId": "58024",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "16:05",
+        "filmId": "44879",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "16:05",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "18:20",
+        "filmId": "58306",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "18:55",
+        "filmId": "57783",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "19.02",
+        "time": "20:15",
+        "filmId": "58529",
         "theatre": "Брусника",
         "cost": 280,
         "is3d": false,
