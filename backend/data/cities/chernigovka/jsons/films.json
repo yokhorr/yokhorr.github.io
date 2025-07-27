@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "geroi_anekdotov",
-        "name": "Герои анекдотов",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "64292",
-        "name": "Шаман",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "64290",
         "name": "Заклятие монахини",
         "rating": 18,
@@ -57,5 +39,23 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "geroi_anekdotov",
+        "name": "Герои анекдотов",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "64292",
+        "name": "Шаман",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]
