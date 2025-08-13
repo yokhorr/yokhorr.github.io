@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "moi_papa_medved",
+        "name": "Мой папа — медведь",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "grand_prix_of_europe",
+        "name": "Пушистый форсаж: Гран-при",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "ivansemenovpervyypotseluy",
+        "name": "Иван Семенов. Первый поцелуй",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "atel_matel",
         "name": "Атель-матель",
         "rating": 16,
@@ -25,5 +56,23 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "hu_die_da_shia",
+        "name": "Пункт назначения: Высотка 613",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_killgrin",
+        "name": "Улыбка. Новый кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     }
 ]
