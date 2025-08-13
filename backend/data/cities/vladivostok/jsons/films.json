@@ -1,160 +1,5 @@
 [
     {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "atel_matel",
-        "name": "Атель-матель",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "never_let_go_2025",
-        "name": "Затерянное место",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "together_2025",
-        "name": "Одно целое",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 102
-    },
-    {
-        "filmId": "superman",
-        "name": "Супермен",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "artificial_intelligence_2001",
-        "name": "Искусственный разум (2001)",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма",
-            "приключения"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "pengantin_setan",
-        "name": "Женщина в чёрном. Невеста дьявола",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_naked_gun",
-        "name": "Голый пистолет",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_bad_guys_2",
-        "name": "Плохие парни 2",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "криминал",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "62858",
-        "name": "Как приручить дракона",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "red_sonja",
-        "name": "Рыжая Соня",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "sovereign",
-        "name": "Свободные люди",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ivansemenovpervyypotseluy",
         "name": "Иван Семенов. Первый поцелуй",
         "rating": 6,
@@ -188,6 +33,30 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "atel_matel",
+        "name": "Атель-матель",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "the_bad_guys_2",
+        "name": "Плохие парни 2",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "комедия",
+            "криминал",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "63371",
@@ -226,6 +95,28 @@
         "length": 40
     },
     {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "62410",
         "name": "На деревню дедушке",
         "rating": 6,
@@ -244,6 +135,27 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "62858",
+        "name": "Как приручить дракона",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "superman",
+        "name": "Супермен",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 125
     },
     {
         "filmId": "moi_papa_medved",
@@ -274,6 +186,16 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_naked_gun",
+        "name": "Голый пистолет",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик"
+        ],
+        "length": 85
     },
     {
         "filmId": "mononoke_hime",
@@ -342,6 +264,34 @@
         "length": 105
     },
     {
+        "filmId": "together_2025",
+        "name": "Одно целое",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 102
+    },
+    {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "summer_wars_2009",
         "name": "Летние войны",
         "rating": 18,
@@ -353,6 +303,15 @@
             "приключения"
         ],
         "length": 115
+    },
+    {
+        "filmId": "never_let_go_2025",
+        "name": "Затерянное место",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_killgrin",
