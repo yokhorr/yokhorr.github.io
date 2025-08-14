@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "grand_prix_of_europe",
-        "name": "Пушистый форсаж: Гран-при",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "moi_papa_medved",
-        "name": "Мой папа — медведь",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ivansemenovpervyypotseluy",
         "name": "Иван Семенов. Первый поцелуй",
         "rating": 6,
@@ -47,5 +25,27 @@
             "ужасы"
         ],
         "length": 85
+    },
+    {
+        "filmId": "grand_prix_of_europe",
+        "name": "Пушистый форсаж: Гран-при",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "moi_papa_medved",
+        "name": "Мой папа — медведь",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     }
 ]
