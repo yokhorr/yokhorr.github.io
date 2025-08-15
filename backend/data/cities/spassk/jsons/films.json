@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "the_killgrin",
+        "name": "Улыбка. Новый кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "grand_prix_of_europe",
         "name": "Пушистый форсаж: Гран-при",
         "rating": 6,
@@ -12,24 +21,6 @@
         "length": 110
     },
     {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_killgrin",
-        "name": "Улыбка. Новый кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "ivansemenovpervyypotseluy",
         "name": "Иван Семенов. Первый поцелуй",
         "rating": 6,
@@ -37,5 +28,14 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     }
 ]
