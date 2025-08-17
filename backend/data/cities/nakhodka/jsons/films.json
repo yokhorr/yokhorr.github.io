@@ -1,175 +1,5 @@
 [
     {
-        "filmId": "grand_prix_of_europe",
-        "name": "Пушистый форсаж: Гран-при",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "moi_papa_medved",
-        "name": "Мой папа — медведь",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_bad_guys_2",
-        "name": "Плохие парни 2",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "криминал",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "red_sonja",
-        "name": "Рыжая Соня",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "63936",
-        "name": "М3ГАН 2.0",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "atel_matel",
-        "name": "Атель-матель",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "freakier_friday",
-        "name": "Чумовая пятница 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_killgrin",
-        "name": "Улыбка. Новый кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_pickup",
-        "name": "Ограбление",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "terminator_2_judgment_day",
-        "name": "Терминатор 2: Судный день",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 137
-    },
-    {
-        "filmId": "hu_die_da_shia",
-        "name": "Пункт назначения: Высотка 613",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "63371",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "ukradi_moyu_mechtu",
-        "name": "Укради мою мечту",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "the_fantastic_four_first_steps",
         "name": "Фантастическая четверка: Первые шаги",
         "rating": 16,
@@ -190,6 +20,17 @@
         "length": 100
     },
     {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "pengantin_setan",
         "name": "Женщина в чёрном. Невеста дьявола",
         "rating": 18,
@@ -199,6 +40,24 @@
         "length": 90
     },
     {
+        "filmId": "atel_matel",
+        "name": "Атель-матель",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "the_killgrin",
+        "name": "Улыбка. Новый кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "blood_of_the_exorcist",
         "name": "Заклятье. Кровь экзорциста",
         "rating": 18,
@@ -206,6 +65,16 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
     },
     {
         "filmId": "superman",
@@ -227,6 +96,15 @@
         "length": 85
     },
     {
+        "filmId": "ukradi_moyu_mechtu",
+        "name": "Укради мою мечту",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "63149",
         "name": "Не одна дома 2",
         "rating": 6,
@@ -234,6 +112,18 @@
             "комедия",
             "приключения",
             "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "grand_prix_of_europe",
+        "name": "Пушистый форсаж: Гран-при",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
         "length": 110
     },
@@ -250,6 +140,16 @@
         "length": 40
     },
     {
+        "filmId": "moi_papa_medved",
+        "name": "Мой папа — медведь",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "smurfs",
         "name": "Смурфики в кино",
         "rating": 6,
@@ -262,6 +162,21 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "the_bad_guys_2",
+        "name": "Плохие парни 2",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "комедия",
+            "криминал",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "63963",
@@ -310,6 +225,18 @@
         "length": 122
     },
     {
+        "filmId": "63371",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "61947",
         "name": "Лило и Стич",
         "rating": 6,
@@ -320,5 +247,66 @@
             "фэнтези"
         ],
         "length": 110
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "red_sonja",
+        "name": "Рыжая Соня",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "freakier_friday",
+        "name": "Чумовая пятница 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_pickup",
+        "name": "Ограбление",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "terminator_2_judgment_day",
+        "name": "Терминатор 2: Судный день",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер"
+        ],
+        "length": 137
+    },
+    {
+        "filmId": "hu_die_da_shia",
+        "name": "Пункт назначения: Высотка 613",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]
