@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "atel_matel",
-        "name": "Атель-матель",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_fantastic_four_first_steps",
         "name": "Фантастическая четверка: Первые шаги",
         "rating": 16,
@@ -38,137 +20,6 @@
             "спорт"
         ],
         "length": 155
-    },
-    {
-        "filmId": "summer_wars_2009",
-        "name": "Летние войны",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "superman",
-        "name": "Супермен",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "never_let_go_2025",
-        "name": "Затерянное место",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "together_2025",
-        "name": "Одно целое",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 102
-    },
-    {
-        "filmId": "freakier_friday",
-        "name": "Чумовая пятница 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ukradi_moyu_mechtu",
-        "name": "Укради мою мечту",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_naked_gun",
-        "name": "Голый пистолет",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_killgrin",
-        "name": "Улыбка. Новый кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "terminator_2_judgment_day",
-        "name": "Терминатор 2: Судный день",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 137
-    },
-    {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "hu_die_da_shia",
-        "name": "Пункт назначения: Высотка 613",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
     },
     {
         "filmId": "ivansemenovpervyypotseluy",
@@ -192,6 +43,15 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "atel_matel",
+        "name": "Атель-матель",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     },
     {
         "filmId": "the_bad_guys_2",
@@ -298,6 +158,26 @@
         "length": 100
     },
     {
+        "filmId": "superman",
+        "name": "Супермен",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "devkababakuklacharodejka",
         "name": "Девка-баба: Кукла-чародейка",
         "rating": 6,
@@ -307,6 +187,36 @@
             "семейный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "ukradi_moyu_mechtu",
+        "name": "Укради мою мечту",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_naked_gun",
+        "name": "Голый пистолет",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "freakier_friday",
+        "name": "Чумовая пятница 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "mononoke_hime",
@@ -320,6 +230,15 @@
             "приключения"
         ],
         "length": 134
+    },
+    {
+        "filmId": "together_2025",
+        "name": "Одно целое",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 102
     },
     {
         "filmId": "juliet_romeo_2025",
@@ -354,6 +273,16 @@
         "length": 105
     },
     {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "teodor_currentzis_idomeneo",
         "name": "Курентзис: Идоменей",
         "rating": 16,
@@ -362,6 +291,77 @@
             "опера"
         ],
         "length": 185
+    },
+    {
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "summer_wars_2009",
+        "name": "Летние войны",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "never_let_go_2025",
+        "name": "Затерянное место",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_killgrin",
+        "name": "Улыбка. Новый кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "terminator_2_judgment_day",
+        "name": "Терминатор 2: Судный день",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер"
+        ],
+        "length": 137
+    },
+    {
+        "filmId": "hu_die_da_shia",
+        "name": "Пункт назначения: Высотка 613",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "dark_knight_rises",
@@ -374,6 +374,26 @@
             "криминал"
         ],
         "length": 165
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "ritmy_mechty",
+        "name": "Ритмы мечты",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 110
     },
     {
         "filmId": "65444",
@@ -397,6 +417,17 @@
         "length": 100
     },
     {
+        "filmId": "rusalochka_i_morskoj_monstr",
+        "name": "Русалочка и морской монстр",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "akiko_der_fliegende_affe",
         "name": "Побег из зоопарка",
         "rating": 6,
@@ -407,12 +438,45 @@
         "length": 70
     },
     {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
+        "filmId": "65440",
+        "name": "Миссия: Взломать экзамен",
+        "rating": 6,
         "genres": [
             "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "toemarok",
+        "name": "Экзорцизм: Хроники",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
             "криминал"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "sem_dnej_petra_semenycha",
+        "name": "Семь дней Петра Семёныча",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
         ],
         "length": 90
     },
@@ -446,6 +510,34 @@
             "мелодрама"
         ],
         "length": 95
+    },
+    {
+        "filmId": "relay",
+        "name": "Диспетчер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "millers_girl",
+        "name": "Девушка Миллера",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "tomb_watcher",
+        "name": "Заклятие: Последний ритуал",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "apollo_13",
@@ -536,5 +628,14 @@
             "история"
         ],
         "length": 180
+    },
+    {
+        "filmId": "32470",
+        "name": "Лекция Я.Михеева «‎Jean Paul Gaultier — Анфан террибль мира высокой моды»",
+        "rating": 16,
+        "genres": [
+            "документальный"
+        ],
+        "length": 120
     }
 ]
