@@ -1,411 +1,6 @@
 [
     {
         "date": "18.08",
-        "time": "16:30",
-        "filmId": "juliet_romeo_2025",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0xOCAxNjozMDowMDs2NDU4MQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "16:30",
-        "filmId": "62410",
-        "theatre": "Океан IMAX",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTA4LTE4IDE2OjMwOjAwOzYyNDEw"
-    },
-    {
-        "date": "18.08",
-        "time": "16:40",
-        "filmId": "superman",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTA4LTE4IDE2OjQwOjAwOzYzMzcz"
-    },
-    {
-        "date": "18.08",
-        "time": "16:40",
-        "filmId": "weapons",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTA4LTE4IDE2OjQwOjAwOzY1Mzk1"
-    },
-    {
-        "date": "18.08",
-        "time": "16:45",
-        "filmId": "61947",
-        "theatre": "Океан IMAX",
-        "cost": 350,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NzsyMDI1LTA4LTE4IDE2OjQ1OjAwOzYxOTQ3"
-    },
-    {
-        "date": "18.08",
-        "time": "16:45",
-        "filmId": "plein_soleil",
-        "theatre": "Уссури",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0wOC0xOCAxNjo0NTowMDsxMzA5NQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "16:55",
-        "filmId": "63371",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wOC0xOCAxNjo1NTowMDs2MzM3MQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:00",
-        "filmId": "ukradi_moyu_mechtu",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTA4LTE4IDE3OjAwOjAwOzY0NTgz"
-    },
-    {
-        "date": "18.08",
-        "time": "17:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0xOCAxNzowMDowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:10",
-        "filmId": "the_truman_show",
-        "theatre": "Владивосток",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0xOCAxNzoxMDowMDs2NTA0OA=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:30",
-        "filmId": "weapons",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wOC0xOCAxNzozMDowMDs2NTM5NQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:35",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Уссури",
-        "cost": 1100,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0wOC0xOCAxNzozNTowMDs2NDUxNg=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:35",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTA4LTE4IDE3OjM1OjAwOzY0NjE5"
-    },
-    {
-        "date": "18.08",
-        "time": "17:40",
-        "filmId": "together_2025",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 940,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0xOCAxNzo0MDowMDs2NDUyNA=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:45",
-        "filmId": "63162",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0wOC0xOCAxNzo0NTowMDs2MzE2Mg=="
-    },
-    {
-        "date": "18.08",
-        "time": "17:50",
-        "filmId": "mononoke_hime",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0xOCAxNzo1MDowMDszMDYwMw=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:00",
-        "filmId": "the_naked_gun",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0xOCAxODowMDowMDs2NDYxOA=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:10",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0xOCAxODoxMDowMDs2NDUxNg=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:15",
-        "filmId": "ukradi_moyu_mechtu",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wOC0xOCAxODoxNTowMDs2NDU4Mw=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:15",
-        "filmId": "63162",
-        "theatre": "Океан IMAX",
-        "cost": 440,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTA4LTE4IDE4OjE1OjAwOzYzMTYy"
-    },
-    {
-        "date": "18.08",
-        "time": "18:20",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Москва",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMTggMTg6MjA6MDA7NjQ2MTk="
-    },
-    {
-        "date": "18.08",
-        "time": "18:20",
-        "filmId": "62410",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 940,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0xOCAxODoyMDowMDs2MjQxMA=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:25",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Уссури",
-        "cost": 250,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0wOC0xOCAxODoyNTowMDs2NDUxNg=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:30",
-        "filmId": "the_naked_gun",
-        "theatre": "Океан IMAX",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTA4LTE4IDE4OjMwOjAwOzY0NjE4"
-    },
-    {
-        "date": "18.08",
-        "time": "18:30",
-        "filmId": "63162",
-        "theatre": "Уссури",
-        "cost": 1200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0wOC0xOCAxODozMDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:30",
-        "filmId": "the_english_patient",
-        "theatre": "Уссури",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0wOC0xOCAxODozMDowMDs2NDMyMw=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:35",
-        "filmId": "superman",
-        "theatre": "Владивосток",
-        "cost": 450,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0xOCAxODozNTowMDs2MzM3Mw=="
-    },
-    {
-        "date": "18.08",
-        "time": "18:50",
-        "filmId": "mononoke_hime",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0xOCAxODo1MDowMDszMDYwMw=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:00",
-        "filmId": "63161",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wOC0xOCAxOTowMDowMDs2MzE2MQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:00",
-        "filmId": "the_naked_gun",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0wOC0xOCAxOTowMDowMDs2NDYxOA=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:00",
-        "filmId": "63371",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTA4LTE4IDE5OjAwOjAwOzYzMzcx"
-    },
-    {
-        "date": "18.08",
-        "time": "19:00",
-        "filmId": "freakier_friday",
-        "theatre": "Океан IMAX",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTA4LTE4IDE5OjAwOjAwOzY1Mzk0"
-    },
-    {
-        "date": "18.08",
-        "time": "19:00",
-        "filmId": "freakier_friday",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0xOCAxOTowMDowMDs2NTM5NA=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:00",
-        "filmId": "the_english_patient",
-        "theatre": "Уссури",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0wOC0xOCAxOTowMDowMDs2NDMyMw=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:10",
-        "filmId": "ukradi_moyu_mechtu",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 440,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0xOCAxOToxMDowMDs2NDU4Mw=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:10",
-        "filmId": "63371",
-        "theatre": "Владивосток",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0xOCAxOToxMDowMDs2MzM3MQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:20",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "NjsxNDI5MDsyMDI1LTA4LTE4IDE5OjIwOjAwOzY0NTE2"
-    },
-    {
-        "date": "18.08",
-        "time": "19:30",
-        "filmId": "weapons",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTA4LTE4IDE5OjMwOjAwOzY1Mzk1"
-    },
-    {
-        "date": "18.08",
-        "time": "19:40",
-        "filmId": "freakier_friday",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wOC0xOCAxOTo0MDowMDs2NTM5NA=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:40",
-        "filmId": "63162",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0xOCAxOTo0MDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:50",
-        "filmId": "together_2025",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 940,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0xOCAxOTo1MDowMDs2NDUyNA=="
-    },
-    {
-        "date": "18.08",
-        "time": "19:50",
-        "filmId": "63162",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTA4LTE4IDE5OjUwOjAwOzYzMTYy"
-    },
-    {
-        "date": "18.08",
-        "time": "20:00",
-        "filmId": "weapons",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0xOCAyMDowMDowMDs2NTM5NQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "20:10",
-        "filmId": "weapons",
-        "theatre": "Уссури",
-        "cost": 1200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0wOC0xOCAyMDoxMDowMDs2NTM5NQ=="
-    },
-    {
-        "date": "18.08",
-        "time": "20:15",
-        "filmId": "weapons",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wOC0xOCAyMDoxNTowMDs2NTM5NQ=="
-    },
-    {
-        "date": "18.08",
         "time": "20:20",
         "filmId": "atel_matel",
         "theatre": "Киномакс-Сапфир",
@@ -4222,6 +3817,33 @@
     },
     {
         "date": "21.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 260,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMSAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "21.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMSAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "21.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMSAxMDozMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "21.08",
         "time": "11:00",
         "filmId": "61947",
         "theatre": "Владивосток",
@@ -4232,11 +3854,29 @@
     {
         "date": "21.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMSAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "21.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yMSAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "21.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMSAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "21.08",
@@ -4258,6 +3898,33 @@
     },
     {
         "date": "21.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMSAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "21.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMSAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "21.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMSAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "21.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4267,12 +3934,39 @@
     },
     {
         "date": "21.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMSAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "21.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMSAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "21.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMSAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "21.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMSAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "21.08",
@@ -4294,6 +3988,24 @@
     },
     {
         "date": "21.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMSAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "21.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMSAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "21.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4303,12 +4015,39 @@
     },
     {
         "date": "21.08",
+        "time": "16:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yMSAxNjowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "21.08",
         "time": "16:15",
         "filmId": "63371",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yMSAxNjoxNTowMDs2MzM3MQ=="
+    },
+    {
+        "date": "21.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMSAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "21.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMSAxNjo1MDowMDs2MzE2Mg=="
     },
     {
         "date": "21.08",
@@ -4327,6 +4066,33 @@
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMSAxNzozNTowMDs2NDU4Nw=="
+    },
+    {
+        "date": "21.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMSAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "21.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMSAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "21.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMSAxODoyNTowMDs2NDUxNg=="
     },
     {
         "date": "21.08",
@@ -4366,12 +4132,39 @@
     },
     {
         "date": "21.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 940,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMSAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "21.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMSAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "21.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMSAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "21.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMSAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "21.08",
@@ -4393,12 +4186,102 @@
     },
     {
         "date": "21.08",
+        "time": "21:40",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMSAyMTo0MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "21.08",
         "time": "21:50",
         "filmId": "apollo_13",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yMSAyMTo1MDowMDs2NTQ4Ng=="
+    },
+    {
+        "date": "21.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 960,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMSAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "21.08",
+        "time": "22:40",
+        "filmId": "mononoke_hime",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yMSAyMjo0MDowMDszMDYwMw=="
+    },
+    {
+        "date": "21.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMSAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "21.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMSAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "21.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMSAyMzo1MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "21.08",
+        "time": "23:50",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMSAyMzo1MDowMDs2NDU4MA=="
+    },
+    {
+        "date": "22.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 260,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMiAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "22.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMiAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "22.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMiAxMDozMDowMDs2MzE2Mg=="
     },
     {
         "date": "22.08",
@@ -4412,11 +4295,29 @@
     {
         "date": "22.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMiAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "22.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yMiAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "22.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMiAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "22.08",
@@ -4438,6 +4339,33 @@
     },
     {
         "date": "22.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMiAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "22.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMiAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "22.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMiAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "22.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4447,12 +4375,39 @@
     },
     {
         "date": "22.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMiAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "22.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMiAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "22.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMiAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "22.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMiAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "22.08",
@@ -4474,6 +4429,24 @@
     },
     {
         "date": "22.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMiAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "22.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMiAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "22.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4483,12 +4456,39 @@
     },
     {
         "date": "22.08",
+        "time": "16:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yMiAxNjowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "22.08",
         "time": "16:15",
         "filmId": "63371",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yMiAxNjoxNTowMDs2MzM3MQ=="
+    },
+    {
+        "date": "22.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMiAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "22.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMiAxNjo1MDowMDs2MzE2Mg=="
     },
     {
         "date": "22.08",
@@ -4510,6 +4510,33 @@
     },
     {
         "date": "22.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMiAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "22.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMiAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "22.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMiAxODoyNTowMDs2NDUxNg=="
+    },
+    {
+        "date": "22.08",
         "time": "18:50",
         "filmId": "jurassic_park",
         "theatre": "Владивосток",
@@ -4528,12 +4555,48 @@
     },
     {
         "date": "22.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMiAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "22.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMiAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "22.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMiAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "22.08",
+        "time": "20:40",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMiAyMDo0MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "22.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMiAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "22.08",
@@ -4563,6 +4626,87 @@
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yMiAyMTo1MDowMDs2NTQ4Ng=="
     },
     {
+        "date": "22.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1120,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMiAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "22.08",
+        "time": "22:40",
+        "filmId": "mononoke_hime",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yMiAyMjo0MDowMDszMDYwMw=="
+    },
+    {
+        "date": "22.08",
+        "time": "23:00",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMiAyMzowMDowMDs2NDU4MA=="
+    },
+    {
+        "date": "22.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMiAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "22.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMiAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "22.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMiAyMzo1MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "23.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMyAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "23.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMyAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "23.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMyAxMDozMDowMDs2MzE2Mg=="
+    },
+    {
         "date": "23.08",
         "time": "11:00",
         "filmId": "61947",
@@ -4574,11 +4718,29 @@
     {
         "date": "23.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1040,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMyAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "23.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yMyAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "23.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMyAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "23.08",
@@ -4600,6 +4762,33 @@
     },
     {
         "date": "23.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1040,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMyAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "23.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMyAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "23.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 570,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMyAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "23.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4609,12 +4798,39 @@
     },
     {
         "date": "23.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1040,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMyAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "23.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 570,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMyAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "23.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMyAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "23.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMyAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "23.08",
@@ -4636,6 +4852,24 @@
     },
     {
         "date": "23.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMyAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "23.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMyAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "23.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4645,12 +4879,39 @@
     },
     {
         "date": "23.08",
+        "time": "16:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yMyAxNjowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "23.08",
         "time": "16:15",
         "filmId": "63371",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yMyAxNjoxNTowMDs2MzM3MQ=="
+    },
+    {
+        "date": "23.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMyAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "23.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMyAxNjo1MDowMDs2MzE2Mg=="
     },
     {
         "date": "23.08",
@@ -4672,6 +4933,33 @@
     },
     {
         "date": "23.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMyAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "23.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMyAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "23.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yMyAxODoyNTowMDs2NDUxNg=="
+    },
+    {
+        "date": "23.08",
         "time": "18:50",
         "filmId": "jurassic_park",
         "theatre": "Владивосток",
@@ -4690,12 +4978,48 @@
     },
     {
         "date": "23.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMyAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "23.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yMyAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "23.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMyAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "23.08",
+        "time": "20:40",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMyAyMDo0MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "23.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMyAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "23.08",
@@ -4725,6 +5049,87 @@
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yMyAyMTo1MDowMDs2NTQ4Ng=="
     },
     {
+        "date": "23.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1120,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMyAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "23.08",
+        "time": "22:40",
+        "filmId": "mononoke_hime",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yMyAyMjo0MDowMDszMDYwMw=="
+    },
+    {
+        "date": "23.08",
+        "time": "23:00",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yMyAyMzowMDowMDs2NDU4MA=="
+    },
+    {
+        "date": "23.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yMyAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "23.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yMyAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "23.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yMyAyMzo1MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "24.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNCAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "24.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNCAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "24.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNCAxMDozMDowMDs2MzE2Mg=="
+    },
+    {
         "date": "24.08",
         "time": "11:00",
         "filmId": "61947",
@@ -4736,11 +5141,29 @@
     {
         "date": "24.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1040,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNCAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "24.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNCAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "24.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNCAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "24.08",
@@ -4762,6 +5185,33 @@
     },
     {
         "date": "24.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1040,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNCAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "24.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNCAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "24.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 570,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNCAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "24.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4771,12 +5221,39 @@
     },
     {
         "date": "24.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1040,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNCAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "24.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 570,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNCAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "24.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNCAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "24.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNCAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "24.08",
@@ -4798,6 +5275,24 @@
     },
     {
         "date": "24.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNCAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "24.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNCAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "24.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4807,12 +5302,39 @@
     },
     {
         "date": "24.08",
+        "time": "16:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yNCAxNjowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "24.08",
         "time": "16:15",
         "filmId": "63371",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNCAxNjoxNTowMDs2MzM3MQ=="
+    },
+    {
+        "date": "24.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNCAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "24.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNCAxNjo1MDowMDs2MzE2Mg=="
     },
     {
         "date": "24.08",
@@ -4834,6 +5356,33 @@
     },
     {
         "date": "24.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNCAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "24.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNCAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "24.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNCAxODoyNTowMDs2NDUxNg=="
+    },
+    {
+        "date": "24.08",
         "time": "18:50",
         "filmId": "jurassic_park",
         "theatre": "Владивосток",
@@ -4852,12 +5401,48 @@
     },
     {
         "date": "24.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNCAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "24.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNCAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "24.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNCAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "24.08",
+        "time": "20:40",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNCAyMDo0MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "24.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNCAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "24.08",
@@ -4887,6 +5472,87 @@
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yNCAyMTo1MDowMDs2NTQ4Ng=="
     },
     {
+        "date": "24.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1120,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNCAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "24.08",
+        "time": "22:40",
+        "filmId": "mononoke_hime",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yNCAyMjo0MDowMDszMDYwMw=="
+    },
+    {
+        "date": "24.08",
+        "time": "23:00",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNCAyMzowMDowMDs2NDU4MA=="
+    },
+    {
+        "date": "24.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNCAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "24.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNCAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "24.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNCAyMzo1MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "25.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 260,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNSAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "25.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNSAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "25.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNSAxMDozMDowMDs2MzE2Mg=="
+    },
+    {
         "date": "25.08",
         "time": "11:00",
         "filmId": "61947",
@@ -4898,11 +5564,29 @@
     {
         "date": "25.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNSAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "25.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNSAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "25.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNSAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "25.08",
@@ -4924,6 +5608,33 @@
     },
     {
         "date": "25.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNSAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "25.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNSAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "25.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNSAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "25.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4933,12 +5644,39 @@
     },
     {
         "date": "25.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNSAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "25.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNSAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "25.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNSAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "25.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNSAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "25.08",
@@ -4960,6 +5698,24 @@
     },
     {
         "date": "25.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNSAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "25.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNSAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "25.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -4969,12 +5725,39 @@
     },
     {
         "date": "25.08",
+        "time": "16:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yNSAxNjowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "25.08",
         "time": "16:15",
         "filmId": "63371",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNSAxNjoxNTowMDs2MzM3MQ=="
+    },
+    {
+        "date": "25.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNSAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "25.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNSAxNjo1MDowMDs2MzE2Mg=="
     },
     {
         "date": "25.08",
@@ -4993,6 +5776,33 @@
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNSAxNzozNTowMDs2NDU4Nw=="
+    },
+    {
+        "date": "25.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNSAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "25.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNSAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "25.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNSAxODoyNTowMDs2NDUxNg=="
     },
     {
         "date": "25.08",
@@ -5023,12 +5833,48 @@
     },
     {
         "date": "25.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 940,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNSAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "25.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNSAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "25.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNSAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "25.08",
+        "time": "20:40",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNSAyMDo0MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "25.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNSAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "25.08",
@@ -5058,6 +5904,87 @@
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yNSAyMTo1MDowMDs2NTQ4Ng=="
     },
     {
+        "date": "25.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 960,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNSAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "25.08",
+        "time": "22:40",
+        "filmId": "mononoke_hime",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yNSAyMjo0MDowMDszMDYwMw=="
+    },
+    {
+        "date": "25.08",
+        "time": "23:00",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNSAyMzowMDowMDs2NDU4MA=="
+    },
+    {
+        "date": "25.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNSAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "25.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNSAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "25.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNSAyMzo1MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "26.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNiAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "26.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNiAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "26.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNiAxMDozMDowMDs2MzE2Mg=="
+    },
+    {
         "date": "26.08",
         "time": "11:00",
         "filmId": "61947",
@@ -5069,11 +5996,29 @@
     {
         "date": "26.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNiAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "26.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNiAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "26.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNiAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "26.08",
@@ -5095,6 +6040,33 @@
     },
     {
         "date": "26.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNiAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "26.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNiAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "26.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNiAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "26.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -5104,12 +6076,39 @@
     },
     {
         "date": "26.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNiAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "26.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNiAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "26.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNiAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "26.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNiAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "26.08",
@@ -5131,6 +6130,24 @@
     },
     {
         "date": "26.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNiAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "26.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNiAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "26.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -5140,12 +6157,39 @@
     },
     {
         "date": "26.08",
+        "time": "16:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 260,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yNiAxNjowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "26.08",
         "time": "16:15",
         "filmId": "63371",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNiAxNjoxNTowMDs2MzM3MQ=="
+    },
+    {
+        "date": "26.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNiAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "26.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNiAxNjo1MDowMDs2MzE2Mg=="
     },
     {
         "date": "26.08",
@@ -5164,6 +6208,33 @@
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNiAxNzozNTowMDs2NDU4Nw=="
+    },
+    {
+        "date": "26.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNiAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "26.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNiAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "26.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNiAxODoyNTowMDs2NDUxNg=="
     },
     {
         "date": "26.08",
@@ -5194,12 +6265,48 @@
     },
     {
         "date": "26.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNiAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "26.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNiAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "26.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNiAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "26.08",
+        "time": "20:40",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNiAyMDo0MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "26.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNiAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "26.08",
@@ -5229,6 +6336,87 @@
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yNiAyMTo1MDowMDs2NTQ4Ng=="
     },
     {
+        "date": "26.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNiAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "26.08",
+        "time": "22:40",
+        "filmId": "mononoke_hime",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 260,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0yNiAyMjo0MDowMDszMDYwMw=="
+    },
+    {
+        "date": "26.08",
+        "time": "23:00",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNiAyMzowMDowMDs2NDU4MA=="
+    },
+    {
+        "date": "26.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNiAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "26.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNiAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "26.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNiAyMzo1MDowMDs2NDUyNA=="
+    },
+    {
+        "date": "27.08",
+        "time": "10:10",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 260,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNyAxMDoxMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "27.08",
+        "time": "10:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNyAxMDoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "27.08",
+        "time": "10:30",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNyAxMDozMDowMDs2MzE2Mg=="
+    },
+    {
         "date": "27.08",
         "time": "11:00",
         "filmId": "61947",
@@ -5240,11 +6428,29 @@
     {
         "date": "27.08",
         "time": "11:00",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNyAxMTowMDowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "27.08",
+        "time": "11:00",
         "filmId": "65444",
         "theatre": "Владивосток",
         "cost": 600,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0yNyAxMTowMDowMDs2NTQ0NA=="
+    },
+    {
+        "date": "27.08",
+        "time": "11:30",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNyAxMTozMDowMDs2NDUxNg=="
     },
     {
         "date": "27.08",
@@ -5266,6 +6472,33 @@
     },
     {
         "date": "27.08",
+        "time": "12:20",
+        "filmId": "ukradi_moyu_mechtu",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNyAxMjoyMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "27.08",
+        "time": "12:50",
+        "filmId": "63149",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNyAxMjo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "27.08",
+        "time": "13:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNyAxMzowMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "27.08",
         "time": "13:10",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -5275,12 +6508,39 @@
     },
     {
         "date": "27.08",
+        "time": "13:10",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNyAxMzoxMDowMDs2MjQxMA=="
+    },
+    {
+        "date": "27.08",
+        "time": "13:40",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNyAxMzo0MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "27.08",
         "time": "13:55",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNyAxMzo1NTowMDs2Mzk2Ng=="
+    },
+    {
+        "date": "27.08",
+        "time": "14:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNyAxNDowMDowMDs2NDUxNg=="
     },
     {
         "date": "27.08",
@@ -5302,6 +6562,24 @@
     },
     {
         "date": "27.08",
+        "time": "15:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNyAxNTo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "27.08",
+        "time": "15:50",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNyAxNTo1MDowMDs2MjQxMA=="
+    },
+    {
+        "date": "27.08",
         "time": "16:00",
         "filmId": "akiko_der_fliegende_affe",
         "theatre": "Владивосток",
@@ -5320,6 +6598,24 @@
     },
     {
         "date": "27.08",
+        "time": "16:30",
+        "filmId": "moi_papa_medved",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 840,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNyAxNjozMDowMDs2Mzk2Nw=="
+    },
+    {
+        "date": "27.08",
+        "time": "16:50",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNyAxNjo1MDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "27.08",
         "time": "17:10",
         "filmId": "grand_prix_of_europe",
         "theatre": "Владивосток",
@@ -5335,6 +6631,33 @@
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNyAxNzozNTowMDs2NDU4Nw=="
+    },
+    {
+        "date": "27.08",
+        "time": "17:45",
+        "filmId": "62410",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNyAxNzo0NTowMDs2MjQxMA=="
+    },
+    {
+        "date": "27.08",
+        "time": "18:20",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNyAxODoyMDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "27.08",
+        "time": "18:25",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0yNyAxODoyNTowMDs2NDUxNg=="
     },
     {
         "date": "27.08",
@@ -5374,12 +6697,39 @@
     },
     {
         "date": "27.08",
+        "time": "19:20",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 940,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yNyAxOToyMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "27.08",
         "time": "19:30",
         "filmId": "ukradi_moyu_mechtu",
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0yNyAxOTozMDowMDs2NDU4Mw=="
+    },
+    {
+        "date": "27.08",
+        "time": "20:00",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNyAyMDowMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "27.08",
+        "time": "21:00",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNyAyMTowMDowMDs2NTM5NQ=="
     },
     {
         "date": "27.08",
@@ -5407,6 +6757,51 @@
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0yNyAyMTo1MDowMDs2NTQ4Ng=="
+    },
+    {
+        "date": "27.08",
+        "time": "22:30",
+        "filmId": "siccin_7",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 960,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yNyAyMjozMDowMDs2NDIzOA=="
+    },
+    {
+        "date": "27.08",
+        "time": "23:00",
+        "filmId": "atel_matel",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yNyAyMzowMDowMDs2NDU4MA=="
+    },
+    {
+        "date": "27.08",
+        "time": "23:10",
+        "filmId": "63162",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0yNyAyMzoxMDowMDs2MzE2Mg=="
+    },
+    {
+        "date": "27.08",
+        "time": "23:40",
+        "filmId": "weapons",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0yNyAyMzo0MDowMDs2NTM5NQ=="
+    },
+    {
+        "date": "27.08",
+        "time": "23:50",
+        "filmId": "together_2025",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yNyAyMzo1MDowMDs2NDUyNA=="
     },
     {
         "date": "28.08",
