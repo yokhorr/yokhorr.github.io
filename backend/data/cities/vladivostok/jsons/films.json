@@ -1,59 +1,5 @@
 [
     {
-        "filmId": "atel_matel",
-        "name": "Атель-матель",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "63371",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "summer_wars_2009",
-        "name": "Летние войны",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "the_fantastic_four_first_steps",
         "name": "Фантастическая четверка: Первые шаги",
         "rating": 16,
@@ -63,84 +9,6 @@
             "приключения"
         ],
         "length": 115
-    },
-    {
-        "filmId": "superman",
-        "name": "Супермен",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "never_let_go_2025",
-        "name": "Затерянное место",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "together_2025",
-        "name": "Одно целое",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 102
-    },
-    {
-        "filmId": "freakier_friday",
-        "name": "Чумовая пятница 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ukradi_moyu_mechtu",
-        "name": "Укради мою мечту",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_naked_gun",
-        "name": "Голый пистолет",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_killgrin",
-        "name": "Улыбка. Новый кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
     },
     {
         "filmId": "weapons",
@@ -153,34 +21,15 @@
         "length": 130
     },
     {
-        "filmId": "terminator_2_judgment_day",
-        "name": "Терминатор 2: Судный день",
-        "rating": 18,
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
         "genres": [
-            "фантастика",
             "боевик",
-            "триллер"
+            "драма",
+            "спорт"
         ],
-        "length": 137
-    },
-    {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "hu_die_da_shia",
-        "name": "Пункт назначения: Высотка 613",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
+        "length": 155
     },
     {
         "filmId": "ivansemenovpervyypotseluy",
@@ -206,6 +55,15 @@
         "length": 90
     },
     {
+        "filmId": "atel_matel",
+        "name": "Атель-матель",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "the_bad_guys_2",
         "name": "Плохие парни 2",
         "rating": 12,
@@ -219,6 +77,18 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "63371",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
     },
     {
         "filmId": "grand_prix_of_europe",
@@ -298,6 +168,27 @@
         "length": 100
     },
     {
+        "filmId": "superman",
+        "name": "Супермен",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "freakier_friday",
+        "name": "Чумовая пятница 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "devkababakuklacharodejka",
         "name": "Девка-баба: Кукла-чародейка",
         "rating": 6,
@@ -307,6 +198,25 @@
             "семейный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "ukradi_moyu_mechtu",
+        "name": "Укради мою мечту",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_naked_gun",
+        "name": "Голый пистолет",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик"
+        ],
+        "length": 85
     },
     {
         "filmId": "mononoke_hime",
@@ -354,6 +264,25 @@
         "length": 105
     },
     {
+        "filmId": "together_2025",
+        "name": "Одно целое",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 102
+    },
+    {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "dark_knight_rises",
         "name": "Темный рыцарь: Возрождение легенды",
         "rating": 18,
@@ -364,6 +293,77 @@
             "криминал"
         ],
         "length": 165
+    },
+    {
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "terminator_2_judgment_day",
+        "name": "Терминатор 2: Судный день",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер"
+        ],
+        "length": 137
+    },
+    {
+        "filmId": "never_let_go_2025",
+        "name": "Затерянное место",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_killgrin",
+        "name": "Улыбка. Новый кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "summer_wars_2009",
+        "name": "Летние войны",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "hu_die_da_shia",
+        "name": "Пункт назначения: Высотка 613",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "gelja",
@@ -640,5 +640,18 @@
             "документальный"
         ],
         "length": 120
+    },
+    {
+        "filmId": "inception",
+        "name": "Начало",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 148
     }
 ]
