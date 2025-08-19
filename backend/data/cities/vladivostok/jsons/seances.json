@@ -1,852 +1,6 @@
 [
     {
         "date": "19.08",
-        "time": "09:45",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0wOC0xOSAwOTo0NTowMDs2NDUxNg=="
-    },
-    {
-        "date": "19.08",
-        "time": "09:50",
-        "filmId": "63162",
-        "theatre": "Уссури",
-        "cost": 100,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0wOC0xOSAwOTo1MDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "19.08",
-        "time": "09:50",
-        "filmId": "ivansemenovpervyypotseluy",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wOC0xOSAwOTo1MDowMDs2NDU3Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "smurfs",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wOC0xOSAxMDowMDowMDs2NDI4Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "atel_matel",
-        "theatre": "Уссури",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0wOC0xOSAxMDowMDowMDs2NDU4MA=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Уссури",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0wOC0xOSAxMDowMDowMDs2NDYxOQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTA4LTE5IDEwOjAwOjAwOzY0NjE5"
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "63371",
-        "theatre": "Океан IMAX",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTA4LTE5IDEwOjAwOjAwOzYzMzcx"
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Москва",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMTkgMTA6MDA6MDA7NjM5NjY="
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTA4LTE5IDEwOjAwOjAwOzYzOTY2"
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "ivansemenovpervyypotseluy",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTA4LTE5IDEwOjAwOjAwOzY0NTc3"
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "ivansemenovpervyypotseluy",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTA4LTE5IDEwOjAwOjAwOzY0NTc3"
-    },
-    {
-        "date": "19.08",
-        "time": "10:00",
-        "filmId": "65209",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wOC0xOSAxMDowMDowMDs2NTIwOQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:10",
-        "filmId": "61947",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NzsyMDI1LTA4LTE5IDEwOjEwOjAwOzYxOTQ3"
-    },
-    {
-        "date": "19.08",
-        "time": "10:10",
-        "filmId": "63162",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0xOSAxMDoxMDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:15",
-        "filmId": "smurfs",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTA4LTE5IDEwOjE1OjAwOzY0Mjg2"
-    },
-    {
-        "date": "19.08",
-        "time": "10:15",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTA4LTE5IDEwOjE1OjAwOzY0NjE5"
-    },
-    {
-        "date": "19.08",
-        "time": "10:15",
-        "filmId": "62410",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0xOSAxMDoxNTowMDs2MjQxMA=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:20",
-        "filmId": "63371",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0xOSAxMDoyMDowMDs2MzM3MQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:30",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wOC0xOSAxMDozMDowMDs2NDYxOQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:30",
-        "filmId": "63371",
-        "theatre": "Уссури",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0wOC0xOSAxMDozMDowMDs2MzM3MQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:30",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 260,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0xOSAxMDozMDowMDs2NDUxNg=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:40",
-        "filmId": "63149",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0xOSAxMDo0MDowMDs2MzE0OQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "10:50",
-        "filmId": "62858",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0xOSAxMDo1MDowMDs2Mjg1OA=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:00",
-        "filmId": "61947",
-        "theatre": "Владивосток",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0xOSAxMTowMDowMDs2MTk0Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0xOSAxMTowMDowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wOC0xOSAxMTowMDowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:20",
-        "filmId": "moi_papa_medved",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0xOSAxMToyMDowMDs2Mzk2Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:30",
-        "filmId": "superman",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wOC0xOSAxMTozMDowMDs2MzM3Mw=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:30",
-        "filmId": "62858",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0xOSAxMTozMDowMDs2Mjg1OA=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:40",
-        "filmId": "62858",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTA4LTE5IDExOjQwOjAwOzYyODU4"
-    },
-    {
-        "date": "19.08",
-        "time": "11:40",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTA4LTE5IDExOjQwOjAwOzYzOTY2"
-    },
-    {
-        "date": "19.08",
-        "time": "11:50",
-        "filmId": "63149",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0xOSAxMTo1MDowMDs2MzE0OQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "11:50",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Москва",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMTkgMTE6NTA6MDA7NjM5NjY="
-    },
-    {
-        "date": "19.08",
-        "time": "12:00",
-        "filmId": "smurfs",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0wOC0xOSAxMjowMDowMDs2NDI4Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:00",
-        "filmId": "63371",
-        "theatre": "Уссури",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0wOC0xOSAxMjowMDowMDs2MzM3MQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:05",
-        "filmId": "63371",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wOC0xOSAxMjowNTowMDs2MzM3MQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:10",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0wOC0xOSAxMjoxMDowMDs2NDYxOQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:10",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTA4LTE5IDEyOjEwOjAwOzY0NjE5"
-    },
-    {
-        "date": "19.08",
-        "time": "12:10",
-        "filmId": "63371",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTA4LTE5IDEyOjEwOjAwOzYzMzcx"
-    },
-    {
-        "date": "19.08",
-        "time": "12:10",
-        "filmId": "63162",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0wOC0xOSAxMjoxMDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:10",
-        "filmId": "ivansemenovpervyypotseluy",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0xOSAxMjoxMDowMDs2NDU3Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:20",
-        "filmId": "62410",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTA4LTE5IDEyOjIwOjAwOzYyNDEw"
-    },
-    {
-        "date": "19.08",
-        "time": "12:25",
-        "filmId": "smurfs",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTA4LTE5IDEyOjI1OjAwOzY0Mjg2"
-    },
-    {
-        "date": "19.08",
-        "time": "12:25",
-        "filmId": "weapons",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTA4LTE5IDEyOjI1OjAwOzY1Mzk1"
-    },
-    {
-        "date": "19.08",
-        "time": "12:30",
-        "filmId": "63162",
-        "theatre": "Уссури",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0wOC0xOSAxMjozMDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:40",
-        "filmId": "63162",
-        "theatre": "Океан IMAX",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTA4LTE5IDEyOjQwOjAwOzYzMTYy"
-    },
-    {
-        "date": "19.08",
-        "time": "12:45",
-        "filmId": "61947",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wOC0xOSAxMjo0NTowMDs2MTk0Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:50",
-        "filmId": "atel_matel",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0xOSAxMjo1MDowMDs2NDU4MA=="
-    },
-    {
-        "date": "19.08",
-        "time": "12:55",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Уссури",
-        "cost": 100,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0wOC0xOSAxMjo1NTowMDs2NDUxNg=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:00",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0xOSAxMzowMDowMDs2NDUxNg=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:05",
-        "filmId": "devkababakuklacharodejka",
-        "theatre": "Владивосток",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0xOSAxMzowNTowMDs2NDYyOQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:10",
-        "filmId": "ukradi_moyu_mechtu",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0xOSAxMzoxMDowMDs2NDU4Mw=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:10",
-        "filmId": "the_naked_gun",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0xOSAxMzoxMDowMDs2NDYxOA=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:15",
-        "filmId": "62858",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wOC0xOSAxMzoxNTowMDs2Mjg1OA=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:15",
-        "filmId": "freakier_friday",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0wOC0xOSAxMzoxNTowMDs2NTM5NA=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:20",
-        "filmId": "63162",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0xOSAxMzoyMDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:25",
-        "filmId": "62410",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0xOSAxMzoyNTowMDs2MjQxMA=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:30",
-        "filmId": "62858",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0xOSAxMzozMDowMDs2Mjg1OA=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:40",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMTkgMTM6NDA6MDA7NjQ1MTY="
-    },
-    {
-        "date": "19.08",
-        "time": "13:50",
-        "filmId": "moi_papa_medved",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0xOSAxMzo1MDowMDs2Mzk2Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "13:50",
-        "filmId": "62858",
-        "theatre": "Океан IMAX",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTA4LTE5IDEzOjUwOjAwOzYyODU4"
-    },
-    {
-        "date": "19.08",
-        "time": "13:55",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Владивосток",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0xOSAxMzo1NTowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0xOSAxNDowMDowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:05",
-        "filmId": "mononoke_hime",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0wOC0xOSAxNDowNTowMDszMDYwMw=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:15",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": true,
-        "buyLink": "NjsxNDI5MDsyMDI1LTA4LTE5IDE0OjE1OjAwOzY0NTE2"
-    },
-    {
-        "date": "19.08",
-        "time": "14:15",
-        "filmId": "atel_matel",
-        "theatre": "Черёмушки",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wOC0xOSAxNDoxNTowMDs2NDU4MA=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:20",
-        "filmId": "61947",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": true,
-        "buyLink": "NjsxMTsyMDI1LTA4LTE5IDE0OjIwOjAwOzYxOTQ3"
-    },
-    {
-        "date": "19.08",
-        "time": "14:20",
-        "filmId": "weapons",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0wOC0xOSAxNDoyMDowMDs2NTM5NQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:25",
-        "filmId": "63162",
-        "theatre": "Иллюзион",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTA4LTE5IDE0OjI1OjAwOzYzMTYy"
-    },
-    {
-        "date": "19.08",
-        "time": "14:30",
-        "filmId": "together_2025",
-        "theatre": "Океан IMAX",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTA4LTE5IDE0OjMwOjAwOzY0NTI0"
-    },
-    {
-        "date": "19.08",
-        "time": "14:45",
-        "filmId": "weapons",
-        "theatre": "Уссури",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0wOC0xOSAxNDo0NTowMDs2NTM5NQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:50",
-        "filmId": "smurfs",
-        "theatre": "Черёмушки",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0wOC0xOSAxNDo1MDowMDs2NDI4Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:50",
-        "filmId": "63149",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0xOSAxNDo1MDowMDs2MzE0OQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "14:50",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTA4LTE5IDE0OjUwOjAwOzYzOTY2"
-    },
-    {
-        "date": "19.08",
-        "time": "14:55",
-        "filmId": "ivansemenovpervyypotseluy",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0wOC0xOSAxNDo1NTowMDs2NDU3Nw=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:05",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Океан IMAX",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTA4LTE5IDE1OjA1OjAwOzY0NjE5"
-    },
-    {
-        "date": "19.08",
-        "time": "15:05",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0wOC0xOSAxNTowNTowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:10",
-        "filmId": "the_bad_guys_2",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0wOC0xOSAxNToxMDowMDs2NDYxOQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:10",
-        "filmId": "weapons",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0wOC0xOSAxNToxMDowMDs2NTM5NQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:20",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0wOC0xOSAxNToyMDowMDs2NDUxNg=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:20",
-        "filmId": "63162",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0wOC0xOSAxNToyMDowMDs2MzE2Mg=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:20",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0xOSAxNToyMDowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:30",
-        "filmId": "62858",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0wOC0xOSAxNTozMDowMDs2Mjg1OA=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:30",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0wOC0xOSAxNTozMDowMDs2NDUxNg=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:40",
-        "filmId": "superman",
-        "theatre": "Уссури",
-        "cost": 1100,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0wOC0xOSAxNTo0MDowMDs2MzM3Mw=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:45",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Океан IMAX",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTA4LTE5IDE1OjQ1OjAwOzY0NTE2"
-    },
-    {
-        "date": "19.08",
-        "time": "15:50",
-        "filmId": "62410",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0xOSAxNTo1MDowMDs2MjQxMA=="
-    },
-    {
-        "date": "19.08",
-        "time": "15:50",
-        "filmId": "the_fantastic_four_first_steps",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMTkgMTU6NTA6MDA7NjQ1MTY="
-    },
-    {
-        "date": "19.08",
-        "time": "16:00",
-        "filmId": "grand_prix_of_europe",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0wOC0xOSAxNjowMDowMDs2Mzk2Ng=="
-    },
-    {
-        "date": "19.08",
-        "time": "16:00",
-        "filmId": "63371",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0wOC0xOSAxNjowMDowMDs2MzM3MQ=="
-    },
-    {
-        "date": "19.08",
-        "time": "16:10",
-        "filmId": "62858",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0wOC0xOSAxNjoxMDowMDs2Mjg1OA=="
-    },
-    {
-        "date": "19.08",
-        "time": "16:15",
-        "filmId": "superman",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0wOC0xOSAxNjoxNTowMDs2MzM3Mw=="
-    },
-    {
-        "date": "19.08",
-        "time": "16:20",
-        "filmId": "moi_papa_medved",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0xOSAxNjoyMDowMDs2Mzk2Nw=="
-    },
-    {
-        "date": "19.08",
         "time": "16:30",
         "filmId": "juliet_romeo_2025",
         "theatre": "Владивосток",
@@ -868,7 +22,7 @@
         "time": "16:30",
         "filmId": "63162",
         "theatre": "Киномакс-Сапфир",
-        "cost": 470,
+        "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0wOC0xOSAxNjozMDowMDs2MzE2Mg=="
     },
@@ -1812,6 +966,15 @@
         "date": "20.08",
         "time": "10:00",
         "filmId": "grand_prix_of_europe",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMTA6MDA6MDA7NjM5NjY="
+    },
+    {
+        "date": "20.08",
+        "time": "10:00",
+        "filmId": "grand_prix_of_europe",
         "theatre": "Иллюзион",
         "cost": 210,
         "is3d": false,
@@ -1996,6 +1159,15 @@
         "cost": 700,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0wOC0yMCAxMTo1MDowMDs2MzE0OQ=="
+    },
+    {
+        "date": "20.08",
+        "time": "11:50",
+        "filmId": "grand_prix_of_europe",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMTE6NTA6MDA7NjM5NjY="
     },
     {
         "date": "20.08",
@@ -2212,6 +1384,15 @@
         "cost": 840,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMCAxMzoyNTowMDs2MjQxMA=="
+    },
+    {
+        "date": "20.08",
+        "time": "13:40",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMTM6NDA6MDA7NjQ1MTY="
     },
     {
         "date": "20.08",
@@ -2476,6 +1657,15 @@
     },
     {
         "date": "20.08",
+        "time": "15:50",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMTU6NTA6MDA7NjQ1MTY="
+    },
+    {
+        "date": "20.08",
         "time": "16:00",
         "filmId": "grand_prix_of_europe",
         "theatre": "Черёмушки",
@@ -2693,6 +1883,15 @@
     {
         "date": "20.08",
         "time": "18:00",
+        "filmId": "the_bad_guys_2",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMTg6MDA6MDA7NjQ2MTk="
+    },
+    {
+        "date": "20.08",
+        "time": "18:00",
         "filmId": "the_naked_gun",
         "theatre": "Киномакс-Сапфир",
         "cost": 520,
@@ -2905,6 +2104,15 @@
         "cost": 430,
         "is3d": false,
         "buyLink": "NjsxNDE2OTsyMDI1LTA4LTIwIDE5OjUwOjAwOzYzMTYy"
+    },
+    {
+        "date": "20.08",
+        "time": "20:00",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMjA6MDA6MDA7NjQ1MTY="
     },
     {
         "date": "20.08",
@@ -3139,6 +2347,15 @@
         "cost": 940,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0wOC0yMCAyMjoxMDowMDs2NDUyNA=="
+    },
+    {
+        "date": "20.08",
+        "time": "22:10",
+        "filmId": "the_fantastic_four_first_steps",
+        "theatre": "Москва",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjUtMDgtMjAgMjI6MTA6MDA7NjQ1MTY="
     },
     {
         "date": "20.08",
@@ -7927,6 +7144,15 @@
         "cost": 520,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0wOC0yOSAxODoxMDowMDs2NDYyMA=="
+    },
+    {
+        "date": "29.08",
+        "time": "19:00",
+        "filmId": "ghost_in_the_shell",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 520,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0wOC0yOSAxOTowMDowMDsxNDU2Nw=="
     },
     {
         "date": "03.09",
