@@ -12,15 +12,6 @@
         "length": 110
     },
     {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_killgrin",
         "name": "Улыбка. Новый кошмар",
         "rating": 18,
@@ -30,12 +21,55 @@
         "length": 85
     },
     {
-        "filmId": "ivansemenovpervyypotseluy",
-        "name": "Иван Семенов. Первый поцелуй",
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "rusalochka_i_morskoj_monstr",
+        "name": "Русалочка и морской монстр",
         "rating": 6,
         "genres": [
-            "комедия"
+            "мультфильм",
+            "фэнтези",
+            "приключения"
         ],
-        "length": 85
+        "length": 80
+    },
+    {
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     }
 ]
