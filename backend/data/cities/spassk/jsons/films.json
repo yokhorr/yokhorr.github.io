@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "the_killgrin",
         "name": "Улыбка. Новый кошмар",
         "rating": 18,
@@ -30,15 +9,15 @@
         "length": 85
     },
     {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
-        "rating": 6,
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "фэнтези",
+            "комедия",
+            "семейный",
             "приключения"
         ],
-        "length": 80
+        "length": 100
     },
     {
         "filmId": "grand_prix_of_europe",
@@ -53,14 +32,24 @@
         "length": 110
     },
     {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "семейный",
+            "фантастика",
+            "боевик",
             "приключения"
         ],
-        "length": 100
+        "length": 115
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     }
 ]

@@ -1,41 +1,21 @@
 [
     {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
+        "filmId": "gelja",
+        "name": "Геля",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер",
             "комедия",
             "криминал"
         ],
         "length": 90
     },
     {
-        "filmId": "relay",
-        "name": "Диспетчер",
+        "filmId": "nobody_2",
+        "name": "Никто 2",
         "rating": 18,
         "genres": [
             "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
+            "триллер",
             "комедия",
             "криминал"
         ],
@@ -51,5 +31,15 @@
             "спорт"
         ],
         "length": 155
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
     }
 ]
