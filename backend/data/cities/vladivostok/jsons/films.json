@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "relay",
-        "name": "Диспетчер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "millers_girl",
-        "name": "Девушка Миллера",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "63162",
         "name": "Формула 1",
         "rating": 16,
@@ -38,48 +9,6 @@
             "спорт"
         ],
         "length": 155
-    },
-    {
-        "filmId": "together_2025",
-        "name": "Одно целое",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 102
-    },
-    {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
     },
     {
         "filmId": "gelja",
@@ -92,111 +21,6 @@
         "length": 90
     },
     {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_naked_gun",
-        "name": "Голый пистолет",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "tomb_watcher",
-        "name": "Заклятие: Последний ритуал",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "apollo_13",
-        "name": "Аполлон 13 (1995)",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "siccin_7",
-        "name": "Астрал. Заклятие мёртвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "mononoke_hime",
-        "name": "Принцесса Мононоке",
-        "rating": 12,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "драма",
-            "приключения"
-        ],
-        "length": 134
-    },
-    {
-        "filmId": "atel_matel",
-        "name": "Атель-матель",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "superman",
-        "name": "Супермен",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "63371",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "freakier_friday",
-        "name": "Чумовая пятница 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "deti_shpiony",
         "name": "Дети-шпионы",
         "rating": 12,
@@ -206,6 +30,16 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "relay",
+        "name": "Диспетчер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
     },
     {
         "filmId": "ritmy_mechty",
@@ -276,6 +110,26 @@
         "length": 110
     },
     {
+        "filmId": "superman",
+        "name": "Супермен",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "smurfs",
         "name": "Смурфики в кино",
         "rating": 6,
@@ -311,6 +165,18 @@
         "length": 110
     },
     {
+        "filmId": "63371",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "61947",
         "name": "Лило и Стич",
         "rating": 6,
@@ -321,6 +187,17 @@
             "фэнтези"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
     },
     {
         "filmId": "62858",
@@ -385,6 +262,27 @@
         "length": 85
     },
     {
+        "filmId": "millers_girl",
+        "name": "Девушка Миллера",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "moi_papa_medved",
         "name": "Мой папа — медведь",
         "rating": 6,
@@ -393,6 +291,27 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "freakier_friday",
+        "name": "Чумовая пятница 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_naked_gun",
+        "name": "Голый пистолет",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик"
+        ],
+        "length": 85
     },
     {
         "filmId": "my_mothers_wedding",
@@ -413,6 +332,87 @@
             "боевик"
         ],
         "length": 125
+    },
+    {
+        "filmId": "together_2025",
+        "name": "Одно целое",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 102
+    },
+    {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "tomb_watcher",
+        "name": "Заклятие: Последний ритуал",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "apollo_13",
+        "name": "Аполлон 13 (1995)",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "siccin_7",
+        "name": "Астрал. Заклятие мёртвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "mononoke_hime",
+        "name": "Принцесса Мононоке",
+        "rating": 12,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "драма",
+            "приключения"
+        ],
+        "length": 134
+    },
+    {
+        "filmId": "atel_matel",
+        "name": "Атель-матель",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     },
     {
         "filmId": "zhil_pevchij_drozd",
