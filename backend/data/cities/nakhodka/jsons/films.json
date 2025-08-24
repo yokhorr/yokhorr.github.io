@@ -1,63 +1,5 @@
 [
     {
-        "filmId": "siccin_7",
-        "name": "Астрал. Заклятие мёртвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "superman",
-        "name": "Супермен",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "blood_of_the_exorcist",
-        "name": "Заклятье. Кровь экзорциста",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "my_mothers_wedding",
-        "name": "Она сказала «Да!»",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_pickup",
-        "name": "Ограбление",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "freakier_friday",
         "name": "Чумовая пятница 2",
         "rating": 16,
@@ -199,6 +141,16 @@
         "length": 115
     },
     {
+        "filmId": "the_pickup",
+        "name": "Ограбление",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "weapons",
         "name": "Орудия",
         "rating": 18,
@@ -207,6 +159,16 @@
             "детектив"
         ],
         "length": 130
+    },
+    {
+        "filmId": "my_mothers_wedding",
+        "name": "Она сказала «Да!»",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 95
     },
     {
         "filmId": "toemarok",
@@ -229,5 +191,43 @@
             "спорт"
         ],
         "length": 155
+    },
+    {
+        "filmId": "siccin_7",
+        "name": "Астрал. Заклятие мёртвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "superman",
+        "name": "Супермен",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "blood_of_the_exorcist",
+        "name": "Заклятье. Кровь экзорциста",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
