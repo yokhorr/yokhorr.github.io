@@ -1,26 +1,13 @@
 [
     {
-        "filmId": "grand_prix_of_europe",
-        "name": "Пушистый форсаж: Гран-при",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
         "genres": [
             "комедия",
-            "семейный",
-            "приключения"
+            "криминал"
         ],
-        "length": 100
+        "length": 90
     },
     {
         "filmId": "the_fantastic_four_first_steps",
@@ -34,16 +21,6 @@
         "length": 115
     },
     {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "the_killgrin",
         "name": "Улыбка. Новый кошмар",
         "rating": 18,
@@ -51,5 +28,28 @@
             "ужасы"
         ],
         "length": 85
+    },
+    {
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "grand_prix_of_europe",
+        "name": "Пушистый форсаж: Гран-при",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 110
     }
 ]
