@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_killgrin",
-        "name": "Улыбка. Новый кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "grand_prix_of_europe",
         "name": "Пушистый форсаж: Гран-при",
         "rating": 6,
@@ -148,6 +117,18 @@
         "length": 90
     },
     {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "gelja",
         "name": "Геля",
         "rating": 18,
@@ -178,5 +159,24 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_killgrin",
+        "name": "Улыбка. Новый кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     }
 ]
