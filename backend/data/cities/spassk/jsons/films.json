@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "grand_prix_of_europe",
         "name": "Пушистый форсаж: Гран-при",
         "rating": 6,
@@ -42,6 +32,16 @@
             "приключения"
         ],
         "length": 115
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_killgrin",
