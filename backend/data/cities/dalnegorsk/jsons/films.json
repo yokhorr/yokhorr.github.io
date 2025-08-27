@@ -1,1 +1,41 @@
-[]
+[
+    {
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "tomb_watcher",
+        "name": "Заклятие: Последний ритуал",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "hu_die_da_shia",
+        "name": "Пункт назначения: Высотка 613",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    }
+]
