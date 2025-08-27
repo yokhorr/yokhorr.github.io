@@ -1,44 +1,5 @@
 [
     {
-        "filmId": "63161",
-        "name": "28 лет спустя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "superman",
-        "name": "Супермен",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "blood_of_the_exorcist",
-        "name": "Заклятье. Кровь экзорциста",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_pickup",
-        "name": "Ограбление",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "65209",
         "name": "МУЛЬТ в кино. Выпуск №185. Друзья и чудеса",
         "rating": 0,
@@ -310,6 +271,16 @@
         "length": 102
     },
     {
+        "filmId": "superman",
+        "name": "Супермен",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "the_fantastic_four_first_steps",
         "name": "Фантастическая четверка: Первые шаги",
         "rating": 16,
@@ -319,6 +290,16 @@
             "приключения"
         ],
         "length": 115
+    },
+    {
+        "filmId": "the_pickup",
+        "name": "Ограбление",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "61948",
@@ -341,5 +322,15 @@
             "ужасы"
         ],
         "length": 102
+    },
+    {
+        "filmId": "63161",
+        "name": "28 лет спустя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 115
     }
 ]
