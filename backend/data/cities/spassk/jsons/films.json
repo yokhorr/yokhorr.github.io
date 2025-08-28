@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "witchboard",
         "name": "Ведьмина доска",
         "rating": 16,
@@ -49,6 +27,17 @@
         "length": -1
     },
     {
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "doktor_dinozavrov",
         "name": "Доктор Динозавров",
         "rating": 6,
@@ -69,5 +58,16 @@
             "фантастика"
         ],
         "length": -1
+    },
+    {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
     }
 ]
