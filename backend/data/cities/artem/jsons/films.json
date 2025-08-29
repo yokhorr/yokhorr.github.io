@@ -1,58 +1,5 @@
 [
     {
-        "filmId": "62410",
-        "name": "На деревню дедушке",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "ritmy_mechty",
-        "name": "Ритмы мечты",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "gelja",
         "name": "Геля",
         "rating": 18,
@@ -94,6 +41,18 @@
         "length": 130
     },
     {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "the_bad_guys_2",
         "name": "Плохие парни 2",
         "rating": 12,
@@ -107,6 +66,16 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": -1
     },
     {
         "filmId": "62858",
@@ -153,6 +122,37 @@
             "приключения"
         ],
         "length": 135
+    },
+    {
+        "filmId": "62410",
+        "name": "На деревню дедушке",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "ritmy_mechty",
+        "name": "Ритмы мечты",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     },
     {
         "filmId": "65643",
