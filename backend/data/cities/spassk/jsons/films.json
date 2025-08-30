@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "65628",
         "name": "Тимур и его команда",
         "rating": 12,
@@ -69,5 +49,25 @@
             "приключения"
         ],
         "length": 115
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     }
 ]
