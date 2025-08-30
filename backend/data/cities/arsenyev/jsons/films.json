@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "65643",
         "name": "Эники-Беники",
         "rating": 18,
@@ -20,28 +10,6 @@
             "драма"
         ],
         "length": -1
-    },
-    {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
     },
     {
         "filmId": "gelja",
@@ -81,6 +49,16 @@
         "length": 85
     },
     {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "deti_shpiony",
         "name": "Дети-шпионы",
         "rating": 12,
@@ -102,5 +80,27 @@
             "триллер"
         ],
         "length": 84
+    },
+    {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
     }
 ]
