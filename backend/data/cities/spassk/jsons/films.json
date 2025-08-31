@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "65628",
-        "name": "Тимур и его команда",
-        "rating": 12,
-        "genres": [],
-        "length": -1
-    },
-    {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "doktor_dinozavrov",
         "name": "Доктор Динозавров",
         "rating": 6,
@@ -28,16 +10,6 @@
             "фантастика"
         ],
         "length": 80
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": -1
     },
     {
         "filmId": "the_fantastic_four_first_steps",
@@ -69,5 +41,33 @@
             "криминал"
         ],
         "length": 90
+    },
+    {
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "65628",
+        "name": "Тимур и его команда",
+        "rating": 12,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": -1
     }
 ]
