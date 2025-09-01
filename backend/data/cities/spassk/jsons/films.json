@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "65628",
         "name": "Тимур и его команда",
         "rating": 12,
@@ -50,6 +30,16 @@
         "length": 80
     },
     {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "the_fantastic_four_first_steps",
         "name": "Фантастическая четверка: Первые шаги",
         "rating": 16,
@@ -69,5 +59,15 @@
             "фантастика"
         ],
         "length": -1
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
     }
 ]
