@@ -1,21 +1,14 @@
 [
     {
-        "filmId": "65628",
-        "name": "Тимур и его команда",
-        "rating": 12,
-        "genres": [],
-        "length": -1
-    },
-    {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "семейный",
+            "фантастика",
+            "боевик",
             "приключения"
         ],
-        "length": 100
+        "length": 115
     },
     {
         "filmId": "doktor_dinozavrov",
@@ -28,27 +21,6 @@
             "фантастика"
         ],
         "length": 80
-    },
-    {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
     },
     {
         "filmId": "semejnyj_prizrak",
@@ -69,5 +41,33 @@
             "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "65628",
+        "name": "Тимур и его команда",
+        "rating": 12,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "gelja",
+        "name": "Геля",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     }
 ]
