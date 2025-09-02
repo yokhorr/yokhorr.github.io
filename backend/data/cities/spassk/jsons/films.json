@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "65628",
         "name": "Тимур и его команда",
         "rating": 12,
@@ -39,6 +19,16 @@
         "length": 80
     },
     {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "deti_shpiony",
         "name": "Дети-шпионы",
         "rating": 12,
@@ -48,6 +38,16 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
     },
     {
         "filmId": "gelja",
