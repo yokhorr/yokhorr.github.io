@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "gelja",
-        "name": "Геля",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -77,5 +57,15 @@
             "драма"
         ],
         "length": 100
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
     }
 ]
