@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "witchboard",
         "name": "Ведьмина доска",
         "rating": 16,
@@ -58,6 +35,18 @@
         "rating": 12,
         "genres": [],
         "length": -1
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
     },
     {
         "filmId": "65950",
