@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "deti_shpiony",
-        "name": "Дети-шпионы",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -33,14 +10,15 @@
         "length": -1
     },
     {
-        "filmId": "superman",
-        "name": "Супермен",
+        "filmId": "deti_shpiony",
+        "name": "Дети-шпионы",
         "rating": 12,
         "genres": [
-            "фантастика",
-            "боевик"
+            "комедия",
+            "семейный",
+            "приключения"
         ],
-        "length": 125
+        "length": 100
     },
     {
         "filmId": "weapons",
