@@ -1,5 +1,40 @@
 [
     {
+        "filmId": "65628",
+        "name": "Тимур и его команда",
+        "rating": 12,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "65950",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "65539",
+        "name": "Астрал. Поместье ужаса",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "65959",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "deti_shpiony",
         "name": "Дети-шпионы",
         "rating": 12,
@@ -44,16 +79,6 @@
         "length": 92
     },
     {
-        "filmId": "65959",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -62,30 +87,5 @@
             "фантастика"
         ],
         "length": -1
-    },
-    {
-        "filmId": "65628",
-        "name": "Тимур и его команда",
-        "rating": 12,
-        "genres": [],
-        "length": -1
-    },
-    {
-        "filmId": "65950",
-        "name": "Колбаса",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "65539",
-        "name": "Астрал. Поместье ужаса",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]
