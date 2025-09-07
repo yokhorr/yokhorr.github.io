@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "doktor_dinozavrov",
         "name": "Доктор Динозавров",
         "rating": 6,
@@ -10,43 +20,6 @@
             "фантастика"
         ],
         "length": 80
-    },
-    {
-        "filmId": "65950",
-        "name": "Колбаса",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "65628",
-        "name": "Тимур и его команда",
-        "rating": 12,
-        "genres": [],
-        "length": -1
-    },
-    {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": -1
     },
     {
         "filmId": "65959",
@@ -67,5 +40,32 @@
             "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "65628",
+        "name": "Тимур и его команда",
+        "rating": 12,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "65950",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
     }
 ]
