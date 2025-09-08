@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "65959",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -67,5 +46,15 @@
             "комедия"
         ],
         "length": -1
+    },
+    {
+        "filmId": "65959",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
     }
 ]
