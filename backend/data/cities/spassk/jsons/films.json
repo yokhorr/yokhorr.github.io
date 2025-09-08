@@ -1,5 +1,12 @@
 [
     {
+        "filmId": "65628",
+        "name": "Тимур и его команда",
+        "rating": 12,
+        "genres": [],
+        "length": -1
+    },
+    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -8,23 +15,6 @@
             "фантастика"
         ],
         "length": 90
-    },
-    {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "65628",
-        "name": "Тимур и его команда",
-        "rating": 12,
-        "genres": [],
-        "length": -1
     },
     {
         "filmId": "doktor_dinozavrov",
@@ -56,5 +46,15 @@
             "драма"
         ],
         "length": 100
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
     }
 ]
