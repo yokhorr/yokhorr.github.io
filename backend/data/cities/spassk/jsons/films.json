@@ -1,5 +1,46 @@
 [
     {
+        "filmId": "kolbasa",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "witchboard",
+        "name": "Ведьмина доска",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "65628",
         "name": "Тимур и его команда",
         "rating": 12,
@@ -15,46 +56,5 @@
             "фантастика"
         ],
         "length": 90
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "65950",
-        "name": "Колбаса",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "65959",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
     }
 ]
