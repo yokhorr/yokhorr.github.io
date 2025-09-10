@@ -1,45 +1,5 @@
 [
     {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kolbasa",
-        "name": "Колбаса",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_toxic_avenger",
-        "name": "Токсичный мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "witchboard",
         "name": "Ведьмина доска",
         "rating": 16,
@@ -115,6 +75,36 @@
         "length": 85
     },
     {
+        "filmId": "the_toxic_avenger",
+        "name": "Токсичный мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "kolbasa",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "nan_jing_zhao_xiang_guan",
         "name": "Нанкинский фотограф",
         "rating": 18,
@@ -143,5 +133,15 @@
             "ужасы"
         ],
         "length": 135
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
     }
 ]

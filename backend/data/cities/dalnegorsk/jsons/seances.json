@@ -1,35 +1,449 @@
 [
     {
-        "date": "10.09",
-        "time": "16:35",
-        "filmId": "65628",
+        "date": "11.09",
+        "time": "10:20",
+        "filmId": "kolbasa",
         "theatre": "Брусника",
-        "cost": 200,
+        "cost": 180,
         "is3d": false,
         "buyLink": null
     },
     {
-        "date": "10.09",
-        "time": "16:40",
-        "filmId": "kolbasa",
+        "date": "11.09",
+        "time": "10:45",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "11.09",
+        "time": "12:25",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "11.09",
+        "time": "12:35",
+        "filmId": "doktor_dinozavrov",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "11.09",
+        "time": "14:15",
+        "filmId": "dracula_a_love_tale",
         "theatre": "Брусника",
         "cost": 230,
         "is3d": false,
         "buyLink": null
     },
     {
-        "date": "10.09",
+        "date": "11.09",
+        "time": "14:35",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "11.09",
+        "time": "16:30",
+        "filmId": "vniz",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "11.09",
+        "time": "16:50",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "11.09",
         "time": "18:30",
-        "filmId": "jugaremos_en_el_bosque",
+        "filmId": "dracula_a_love_tale",
         "theatre": "Брусника",
         "cost": 280,
         "is3d": false,
         "buyLink": null
     },
     {
-        "date": "10.09",
+        "date": "11.09",
         "time": "18:45",
+        "filmId": "somnium",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "10:20",
+        "filmId": "kolbasa",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "10:45",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "12:25",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "12:35",
+        "filmId": "doktor_dinozavrov",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "14:15",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "14:35",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "16:30",
         "filmId": "vniz",
+        "theatre": "Брусника",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "16:50",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "18:30",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "12.09",
+        "time": "18:45",
+        "filmId": "somnium",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "10:20",
+        "filmId": "kolbasa",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "10:45",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "12:25",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "12:35",
+        "filmId": "doktor_dinozavrov",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "14:15",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "14:35",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "16:30",
+        "filmId": "vniz",
+        "theatre": "Брусника",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "16:50",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "18:30",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "13.09",
+        "time": "18:45",
+        "filmId": "somnium",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "10:20",
+        "filmId": "kolbasa",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "10:45",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "12:25",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "12:35",
+        "filmId": "doktor_dinozavrov",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "14:15",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "14:35",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "16:30",
+        "filmId": "vniz",
+        "theatre": "Брусника",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "16:50",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "18:30",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "14.09",
+        "time": "18:45",
+        "filmId": "somnium",
+        "theatre": "Брусника",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "10:20",
+        "filmId": "kolbasa",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "10:45",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "12:25",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "12:35",
+        "filmId": "doktor_dinozavrov",
+        "theatre": "Брусника",
+        "cost": 180,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "14:15",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "14:35",
+        "filmId": "falcon_express",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "16:30",
+        "filmId": "vniz",
+        "theatre": "Брусника",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "16:50",
+        "filmId": "begi",
+        "theatre": "Брусника",
+        "cost": 230,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "18:30",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Брусника",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "17.09",
+        "time": "18:45",
+        "filmId": "somnium",
         "theatre": "Брусника",
         "cost": 280,
         "is3d": false,
