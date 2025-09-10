@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "65643",
-        "name": "Эники-Беники",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал",
-            "драма"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "the_toxic_avenger",
-        "name": "Токсичный мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -114,6 +81,16 @@
         "length": 100
     },
     {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "nan_jing_zhao_xiang_guan",
         "name": "Нанкинский фотограф",
         "rating": 18,
@@ -142,5 +119,16 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "the_toxic_avenger",
+        "name": "Токсичный мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "ужасы"
+        ],
+        "length": 90
     }
 ]

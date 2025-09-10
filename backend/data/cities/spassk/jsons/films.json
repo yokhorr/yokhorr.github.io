@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "witchboard",
-        "name": "Ведьмина доска",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kolbasa",
-        "name": "Колбаса",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "falcon_express",
         "name": "Зверопоезд",
         "rating": 6,
@@ -72,5 +53,14 @@
             "история"
         ],
         "length": 135
+    },
+    {
+        "filmId": "kolbasa",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
