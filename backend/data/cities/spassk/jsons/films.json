@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "nan_jing_zhao_xiang_guan",
+        "name": "Нанкинский фотограф",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "doktor_dinozavrov",
         "name": "Доктор Динозавров",
         "rating": 6,
@@ -31,36 +62,5 @@
             "комедия"
         ],
         "length": 85
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "nan_jing_zhao_xiang_guan",
-        "name": "Нанкинский фотограф",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 135
     }
 ]

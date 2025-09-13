@@ -1,35 +1,22 @@
 [
     {
-        "filmId": "begi",
-        "name": "Беги",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
         "rating": 18,
         "genres": [
-            "триллер",
-            "драма"
+            "ужасы"
         ],
-        "length": 90
+        "length": 135
     },
     {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 80
+        "length": 130
     },
     {
         "filmId": "falcon_express",
@@ -44,44 +31,35 @@
         "length": 85
     },
     {
-        "filmId": "65961",
-        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 45
-    },
-    {
-        "filmId": "how_to_train_your_dragon_",
-        "name": "Как приручить дракона",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "kolbasa",
-        "name": "Колбаса",
+        "filmId": "begi",
+        "name": "Беги",
         "rating": 16,
         "genres": [
-            "комедия"
+            "комедия",
+            "криминал"
         ],
-        "length": 100
+        "length": 85
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     },
     {
         "filmId": "the_naked_gun",
@@ -94,101 +72,14 @@
         "length": 85
     },
     {
-        "filmId": "skazki_temnogo_lesa_vorozheya",
-        "name": "Сказки темного леса. Ворожея",
-        "rating": 6,
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "сказка",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "61947",
-        "name": "Лило и Стич",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "jurassic_world_rebirth",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
             "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "the_toxic_avenger",
-        "name": "Токсичный мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "65643",
-        "name": "Эники-Беники",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал",
             "драма"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "jeokjijeok_dokja_sijeom",
-        "name": "Всеведущий читатель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
         "length": 90
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
     },
     {
         "filmId": "superman",
@@ -252,11 +143,120 @@
         "length": 105
     },
     {
+        "filmId": "65643",
+        "name": "Эники-Беники",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "jugaremos_en_el_bosque",
         "name": "Астрал. Поместье ужаса",
         "rating": 18,
         "genres": [
             "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "65961",
+        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 45
+    },
+    {
+        "filmId": "how_to_train_your_dragon_",
+        "name": "Как приручить дракона",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "kolbasa",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "skazki_temnogo_lesa_vorozheya",
+        "name": "Сказки темного леса. Ворожея",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "сказка",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "61947",
+        "name": "Лило и Стич",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "jurassic_world_rebirth",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "the_toxic_avenger",
+        "name": "Токсичный мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "jeokjijeok_dokja_sijeom",
+        "name": "Всеведущий читатель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
         ],
         "length": 90
     }
