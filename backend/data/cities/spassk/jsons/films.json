@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "nan_jing_zhao_xiang_guan",
-        "name": "Нанкинский фотограф",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -62,5 +41,26 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "nan_jing_zhao_xiang_guan",
+        "name": "Нанкинский фотограф",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
     }
 ]
