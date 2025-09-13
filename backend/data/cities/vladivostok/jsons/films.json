@@ -1,35 +1,5 @@
 [
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "jeokjijeok_dokja_sijeom",
-        "name": "Всеведущий читатель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "begi",
         "name": "Беги",
         "rating": 16,
@@ -40,6 +10,16 @@
         "length": 85
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "vniz",
         "name": "Вниз",
         "rating": 18,
@@ -48,121 +28,6 @@
             "драма"
         ],
         "length": 90
-    },
-    {
-        "filmId": "caught_stealing",
-        "name": "Пойман с поличным",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "inception",
-        "name": "Начало",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_toxic_avenger",
-        "name": "Токсичный мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "goegiyeolcha",
-        "name": "Поезд-призрак",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "jugaremos_en_el_bosque",
-        "name": "Астрал. Поместье ужаса",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "somnium",
-        "name": "Сомния: Обитель кошмаров",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
     },
     {
         "filmId": "falcon_express",
@@ -214,6 +79,17 @@
         "length": 85
     },
     {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -234,6 +110,15 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
     },
     {
         "filmId": "heidi_rescue_of_the_lynx",
@@ -320,6 +205,17 @@
         "length": 95
     },
     {
+        "filmId": "the_toxic_avenger",
+        "name": "Токсичный мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "jurassic_world_rebirth",
         "name": "Мир Юрского периода: Возрождение",
         "rating": 12,
@@ -343,6 +239,17 @@
             "приключения"
         ],
         "length": 121
+    },
+    {
+        "filmId": "jeokjijeok_dokja_sijeom",
+        "name": "Всеведущий читатель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "the_hunger_games_the_ballad",
@@ -377,6 +284,15 @@
         "length": 135
     },
     {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "tri_svadby_i_odin_pobeg",
         "name": "Три свадьбы и один побег",
         "rating": 16,
@@ -395,6 +311,17 @@
         "length": 105
     },
     {
+        "filmId": "caught_stealing",
+        "name": "Пойман с поличным",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "comme_des_riches",
         "name": "Сорвать куш в Сен-Тропе",
         "rating": 18,
@@ -402,6 +329,79 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "inception",
+        "name": "Начало",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "goegiyeolcha",
+        "name": "Поезд-призрак",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "jugaremos_en_el_bosque",
+        "name": "Астрал. Поместье ужаса",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "somnium",
+        "name": "Сомния: Обитель кошмаров",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "arena_di_verona_la_boheme",
