@@ -1,54 +1,13 @@
 [
     {
-        "filmId": "the_naked_gun",
-        "name": "Голый пистолет",
+        "filmId": "begi",
+        "name": "Беги",
         "rating": 16,
         "genres": [
             "комедия",
-            "боевик"
+            "криминал"
         ],
         "length": 85
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "nan_jing_zhao_xiang_guan",
-        "name": "Нанкинский фотограф",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
     },
     {
         "filmId": "vniz",
@@ -59,57 +18,6 @@
             "драма"
         ],
         "length": 90
-    },
-    {
-        "filmId": "64331",
-        "name": "Я знаю, что вы сделали прошлым летом",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "caught_stealing",
-        "name": "Пойман с поличным",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "65643",
-        "name": "Эники-Беники",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал",
-            "драма"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "jugaremos_en_el_bosque",
-        "name": "Астрал. Поместье ужаса",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "begi",
-        "name": "Беги",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 85
     },
     {
         "filmId": "doktor_dinozavrov",
@@ -155,6 +63,26 @@
         "length": 100
     },
     {
+        "filmId": "the_naked_gun",
+        "name": "Голый пистолет",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "skazki_temnogo_lesa_vorozheya",
         "name": "Сказки темного леса. Ворожея",
         "rating": 6,
@@ -198,6 +126,24 @@
         "length": 90
     },
     {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "64331",
+        "name": "Я знаю, что вы сделали прошлым летом",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "8ban_deguchi",
         "name": "Выход 8",
         "rating": 16,
@@ -214,5 +160,48 @@
             "ужасы"
         ],
         "length": 85
+    },
+    {
+        "filmId": "nan_jing_zhao_xiang_guan",
+        "name": "Нанкинский фотограф",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "caught_stealing",
+        "name": "Пойман с поличным",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "65643",
+        "name": "Эники-Беники",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "jugaremos_en_el_bosque",
+        "name": "Астрал. Поместье ужаса",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
