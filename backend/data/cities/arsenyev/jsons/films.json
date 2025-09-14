@@ -1,32 +1,10 @@
 [
     {
-        "filmId": "vniz",
-        "name": "Вниз",
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
         "rating": 18,
         "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "nan_jing_zhao_xiang_guan",
-        "name": "Нанкинский фотограф",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
+            "ужасы"
         ],
         "length": 135
     },
@@ -39,15 +17,6 @@
             "мелодрама"
         ],
         "length": 130
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
     },
     {
         "filmId": "the_bad_guys_2",
@@ -121,5 +90,26 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "nan_jing_zhao_xiang_guan",
+        "name": "Нанкинский фотограф",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 135
     }
 ]
