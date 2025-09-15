@@ -1,166 +1,11 @@
 [
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "jeokjijeok_dokja_sijeom",
-        "name": "Всеведущий читатель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "begi",
         "name": "Беги",
         "rating": 16,
         "genres": [
             "комедия",
             "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "caught_stealing",
-        "name": "Пойман с поличным",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "inception",
-        "name": "Начало",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_toxic_avenger",
-        "name": "Токсичный мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "nobody_2",
-        "name": "Никто 2",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "goegiyeolcha",
-        "name": "Поезд-призрак",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "weapons",
-        "name": "Орудия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "jugaremos_en_el_bosque",
-        "name": "Астрал. Поместье ужаса",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "somnium",
-        "name": "Сомния: Обитель кошмаров",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 85
     },
@@ -177,6 +22,16 @@
         "length": 85
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "doktor_dinozavrov",
         "name": "Доктор Динозавров",
         "rating": 6,
@@ -187,6 +42,16 @@
             "фантастика"
         ],
         "length": 80
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_bad_guys_2",
@@ -214,6 +79,17 @@
         "length": 45
     },
     {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -234,6 +110,15 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
     },
     {
         "filmId": "skazki_temnogo_lesa_vorozheya",
@@ -322,6 +207,28 @@
         "length": 90
     },
     {
+        "filmId": "the_toxic_avenger",
+        "name": "Токсичный мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "caught_stealing",
+        "name": "Пойман с поличным",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "heidi_rescue_of_the_lynx",
         "name": "Хайди. Моя хитрая рысь",
         "rating": 6,
@@ -343,6 +250,17 @@
             "приключения"
         ],
         "length": 121
+    },
+    {
+        "filmId": "jeokjijeok_dokja_sijeom",
+        "name": "Всеведущий читатель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "the_hunger_games_the_ballad",
@@ -386,6 +304,15 @@
         "length": 135
     },
     {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "tri_svadby_i_odin_pobeg",
         "name": "Три свадьбы и один побег",
         "rating": 16,
@@ -415,6 +342,67 @@
         "length": 122
     },
     {
+        "filmId": "inception",
+        "name": "Начало",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "goegiyeolcha",
+        "name": "Поезд-призрак",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "weapons",
+        "name": "Орудия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "jugaremos_en_el_bosque",
+        "name": "Астрал. Поместье ужаса",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "somnium",
+        "name": "Сомния: Обитель кошмаров",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "giotto_e_il_sogno_del_rinascim",
         "name": "Арт-лекторий в кино: Джотто. Предчувствие Ренессанса",
         "rating": 16,
@@ -433,6 +421,18 @@
             "триллер"
         ],
         "length": 180
+    },
+    {
+        "filmId": "nobody_2",
+        "name": "Никто 2",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия",
+            "криминал"
+        ],
+        "length": 90
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",

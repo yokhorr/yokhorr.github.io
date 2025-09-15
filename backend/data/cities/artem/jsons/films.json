@@ -1,45 +1,5 @@
 [
     {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kolbasa",
-        "name": "Колбаса",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "the_toxic_avenger",
-        "name": "Токсичный мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -112,6 +72,16 @@
         "length": 135
     },
     {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "nan_jing_zhao_xiang_guan",
         "name": "Нанкинский фотограф",
         "rating": 18,
@@ -123,6 +93,16 @@
         "length": 135
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "8ban_deguchi",
         "name": "Выход 8",
         "rating": 16,
@@ -130,6 +110,26 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "kolbasa",
+        "name": "Колбаса",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_toxic_avenger",
+        "name": "Токсичный мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
