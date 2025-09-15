@@ -1,31 +1,5 @@
 [
     {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "the_hunger_games_the_ballad",
-        "name": "Голодные игры: Баллада о певчих птицах и змеях",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения",
-            "военный"
-        ],
-        "length": 157
-    },
-    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -34,97 +8,6 @@
             "мелодрама"
         ],
         "length": 130
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "jurassic_world_rebirth",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "semeinoe_schaste",
-        "name": "Семейное счастье",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 81
-    },
-    {
-        "filmId": "begi",
-        "name": "Беги",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "kpop_demon_hunters",
-        "name": "Кей-поп. Охотницы на демонов",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "боевик"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "one_flew_over_the_cuckoos_nest",
-        "name": "Пролетая над гнездом кукушки",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "63162",
@@ -138,24 +21,6 @@
         "length": 155
     },
     {
-        "filmId": "tri_svadby_i_odin_pobeg",
-        "name": "Три свадьбы и один побег",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_roses",
-        "name": "Супруги Роуз",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "jeokjijeok_dokja_sijeom",
         "name": "Всеведущий читатель",
         "rating": 18,
@@ -165,6 +30,35 @@
             "приключения"
         ],
         "length": 122
+    },
+    {
+        "filmId": "begi",
+        "name": "Беги",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
     },
     {
         "filmId": "caught_stealing",
@@ -178,13 +72,13 @@
         "length": 105
     },
     {
-        "filmId": "comme_des_riches",
-        "name": "Сорвать куш в Сен-Тропе",
-        "rating": 18,
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
         "genres": [
-            "комедия"
+            "триллер"
         ],
-        "length": 90
+        "length": 95
     },
     {
         "filmId": "inception",
@@ -271,6 +165,30 @@
         "length": 85
     },
     {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "the_bad_guys_2",
         "name": "Плохие парни 2",
         "rating": 12,
@@ -341,6 +259,18 @@
         "length": 110
     },
     {
+        "filmId": "jurassic_world_rebirth",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "nan_jing_zhao_xiang_guan",
         "name": "Нанкинский фотограф",
         "rating": 18,
@@ -370,6 +300,17 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "kpop_demon_hunters",
+        "name": "Кей-поп. Охотницы на демонов",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "боевик"
+        ],
+        "length": 95
     },
     {
         "filmId": "na_derevnyu_dedushke",
@@ -404,6 +345,65 @@
         "length": 121
     },
     {
+        "filmId": "the_hunger_games_the_ballad",
+        "name": "Голодные игры: Баллада о певчих птицах и змеях",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения",
+            "военный"
+        ],
+        "length": 157
+    },
+    {
+        "filmId": "semeinoe_schaste",
+        "name": "Семейное счастье",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 81
+    },
+    {
+        "filmId": "comme_des_riches",
+        "name": "Сорвать куш в Сен-Тропе",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "one_flew_over_the_cuckoos_nest",
+        "name": "Пролетая над гнездом кукушки",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "tri_svadby_i_odin_pobeg",
+        "name": "Три свадьбы и один побег",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_roses",
+        "name": "Супруги Роуз",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "arena_di_verona_la_boheme",
         "name": "Арена ди Верона: Богема",
         "rating": 16,
@@ -435,6 +435,18 @@
         "length": 180
     },
     {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "klevyj_ulove",
         "name": "Клёвый Уlove",
         "rating": 16,
@@ -443,6 +455,16 @@
             "мелодрама"
         ],
         "length": -1
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "altered",
@@ -456,16 +478,6 @@
         "length": 85
     },
     {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "django_unchained",
         "name": "Джанго освобожденный",
         "rating": 18,
@@ -476,6 +488,15 @@
             "комедия"
         ],
         "length": 165
+    },
+    {
+        "filmId": "red_book_ritual_gates_of_hell",
+        "name": "Пункт назначения: Смертельная игра",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": -1
     },
     {
         "filmId": "52335",
