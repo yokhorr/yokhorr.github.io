@@ -1,1 +1,51 @@
-[]
+[
+    {
+        "filmId": "caught_stealing",
+        "name": "Пойман с поличным",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "jugaremos_en_el_bosque",
+        "name": "Астрал. Поместье ужаса",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    }
+]
