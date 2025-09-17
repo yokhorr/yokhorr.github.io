@@ -1,25 +1,13 @@
 [
     {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "фантастика"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
+        "length": 130
     },
     {
         "filmId": "doktor_dinozavrov",
@@ -34,42 +22,23 @@
         "length": 80
     },
     {
-        "filmId": "how_to_train_your_dragon_",
-        "name": "Как приручить дракона",
-        "rating": 12,
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_bad_guys_2",
-        "name": "Плохие парни 2",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "боевик",
             "комедия",
-            "криминал",
-            "детектив",
-            "приключения",
-            "семейный"
+            "фантастика"
         ],
-        "length": 85
+        "length": 90
     },
     {
-        "filmId": "jurassic_world_rebirth",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
+            "триллер"
         ],
-        "length": 135
+        "length": 95
     },
     {
         "filmId": "vniz",
@@ -80,36 +49,6 @@
             "драма"
         ],
         "length": 90
-    },
-    {
-        "filmId": "nan_jing_zhao_xiang_guan",
-        "name": "Нанкинский фотограф",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "kolbasa",
@@ -130,6 +69,33 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "the_bad_guys_2",
+        "name": "Плохие парни 2",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "комедия",
+            "криминал",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
