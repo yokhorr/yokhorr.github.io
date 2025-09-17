@@ -1,46 +1,5 @@
 [
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "vniz",
         "name": "Вниз",
         "rating": 18,
@@ -60,6 +19,16 @@
         "length": 100
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "the_toxic_avenger",
         "name": "Токсичный мститель",
         "rating": 18,
@@ -69,6 +38,18 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
     },
     {
         "filmId": "the_bad_guys_2",
@@ -118,6 +99,16 @@
             "мелодрама"
         ],
         "length": -1
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
     },
     {
         "filmId": "altered",
