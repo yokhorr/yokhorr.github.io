@@ -1,23 +1,63 @@
 [
     {
-        "filmId": "klevyj_ulove",
-        "name": "Клёвый Уlove",
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
         "rating": 16,
         "genres": [
-            "комедия",
-            "мелодрама"
+            "триллер"
         ],
-        "length": -1
+        "length": 95
     },
     {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "фантастика"
+            "триллер",
+            "драма"
         ],
-        "length": 90
+        "length": 110
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "altered",
+        "name": "Альтер",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 85
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -32,27 +72,6 @@
         "length": 150
     },
     {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "london_calling",
         "name": "Лондон на проводе",
         "rating": 18,
@@ -61,98 +80,6 @@
             "комедия"
         ],
         "length": 110
-    },
-    {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "here",
-        "name": "Тогда. Сейчас. Потом",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "begi",
-        "name": "Беги",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "interstellar",
@@ -198,6 +125,16 @@
         "length": -1
     },
     {
+        "filmId": "begi",
+        "name": "Беги",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "caught_stealing",
         "name": "Пойман с поличным",
         "rating": 18,
@@ -209,6 +146,28 @@
         "length": 105
     },
     {
+        "filmId": "klevyj_ulove",
+        "name": "Клёвый Уlove",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "65961",
         "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
         "rating": 0,
@@ -217,6 +176,28 @@
             "детский"
         ],
         "length": 45
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
     },
     {
         "filmId": "the_bad_guys_2",
@@ -267,6 +248,16 @@
         "length": 90
     },
     {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "how_to_train_your_dragon_",
         "name": "Как приручить дракона",
         "rating": 12,
@@ -283,6 +274,15 @@
         "rating": 18,
         "genres": [
             "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "here",
+        "name": "Тогда. Сейчас. Потом",
+        "rating": 18,
+        "genres": [
+            "драма"
         ],
         "length": 105
     },
