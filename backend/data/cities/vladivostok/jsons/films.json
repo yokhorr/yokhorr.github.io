@@ -1,130 +1,5 @@
 [
     {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "london_calling",
-        "name": "Лондон на проводе",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "django_unchained",
-        "name": "Джанго освобожденный",
-        "rating": 18,
-        "genres": [
-            "вестерн",
-            "боевик",
-            "драма",
-            "комедия"
-        ],
-        "length": 165
-    },
-    {
-        "filmId": "jeokjijeok_dokja_sijeom",
-        "name": "Всеведущий читатель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "red_book_ritual_gates_of_hell",
-        "name": "Пункт назначения: Смертельная игра",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "begi",
         "name": "Беги",
         "rating": 16,
@@ -133,17 +8,6 @@
             "криминал"
         ],
         "length": 85
-    },
-    {
-        "filmId": "caught_stealing",
-        "name": "Пойман с поличным",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал",
-            "триллер"
-        ],
-        "length": 105
     },
     {
         "filmId": "klevyj_ulove",
@@ -168,6 +32,38 @@
         "length": 85
     },
     {
+        "filmId": "altered",
+        "name": "Альтер",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "65961",
         "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
         "rating": 0,
@@ -176,6 +72,27 @@
             "детский"
         ],
         "length": 45
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
     },
     {
         "filmId": "semejnyj_prizrak",
@@ -215,6 +132,16 @@
         "length": 85
     },
     {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "61947",
         "name": "Лило и Стич",
         "rating": 6,
@@ -248,6 +175,16 @@
         "length": 90
     },
     {
+        "filmId": "london_calling",
+        "name": "Лондон на проводе",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "vniz",
         "name": "Вниз",
         "rating": 18,
@@ -264,6 +201,17 @@
         "genres": [
             "фантастика",
             "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "jeokjijeok_dokja_sijeom",
+        "name": "Всеведущий читатель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "фэнтези",
             "приключения"
         ],
         "length": 122
@@ -287,6 +235,15 @@
         "length": 105
     },
     {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "inception",
         "name": "Начало",
         "rating": 12,
@@ -298,6 +255,49 @@
             "детектив"
         ],
         "length": 150
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "django_unchained",
+        "name": "Джанго освобожденный",
+        "rating": 18,
+        "genres": [
+            "вестерн",
+            "боевик",
+            "драма",
+            "комедия"
+        ],
+        "length": 165
+    },
+    {
+        "filmId": "red_book_ritual_gates_of_hell",
+        "name": "Пункт назначения: Смертельная игра",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "caught_stealing",
+        "name": "Пойман с поличным",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "length": 105
     },
     {
         "filmId": "52335",
@@ -383,6 +383,20 @@
         "length": 80
     },
     {
+        "filmId": "42713",
+        "name": "Киномакс тест 4",
+        "rating": 0,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "53216",
+        "name": "Киномакс тест 1",
+        "rating": 0,
+        "genres": [],
+        "length": -1
+    },
+    {
         "filmId": "ashik_kerib",
         "name": "Ашик-Кериб",
         "rating": 6,
@@ -390,5 +404,12 @@
             "драма"
         ],
         "length": 75
+    },
+    {
+        "filmId": "53218",
+        "name": "Киномакс тест 3",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     }
 ]
