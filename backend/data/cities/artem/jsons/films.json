@@ -1,87 +1,5 @@
 [
     {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "the_bad_guys_2",
-        "name": "Плохие парни 2",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "криминал",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "klevyj_ulove",
-        "name": "Клёвый Уlove",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -101,6 +19,43 @@
         "length": 135
     },
     {
+        "filmId": "the_bad_guys_2",
+        "name": "Плохие парни 2",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "комедия",
+            "криминал",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "klevyj_ulove",
+        "name": "Клёвый Уlove",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "the_long_walk",
         "name": "Долгая прогулка",
         "rating": 18,
@@ -109,6 +64,51 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "altered",
+        "name": "Альтер",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 85
     },
     {
         "filmId": "vniz",

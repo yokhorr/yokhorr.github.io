@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "klevyj_ulove",
-        "name": "Клёвый Уlove",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "nan_jing_zhao_xiang_guan",
-        "name": "Нанкинский фотограф",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "falcon_express",
         "name": "Зверопоезд",
         "rating": 6,
@@ -62,5 +31,36 @@
             "драма"
         ],
         "length": 85
+    },
+    {
+        "filmId": "nan_jing_zhao_xiang_guan",
+        "name": "Нанкинский фотограф",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "klevyj_ulove",
+        "name": "Клёвый Уlove",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
     }
 ]
