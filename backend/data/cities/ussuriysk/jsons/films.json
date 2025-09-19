@@ -1,37 +1,5 @@
 [
     {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "london_calling",
-        "name": "Лондон на проводе",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "klevyj_ulove",
         "name": "Клёвый Уlove",
         "rating": 16,
@@ -88,6 +56,18 @@
         "length": 85
     },
     {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "the_roses",
         "name": "Супруги Роуз",
         "rating": 18,
@@ -95,5 +75,25 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "london_calling",
+        "name": "Лондон на проводе",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 110
     }
 ]
