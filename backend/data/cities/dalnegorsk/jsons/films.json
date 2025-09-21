@@ -1,27 +1,12 @@
 [
     {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
+        "filmId": "red_book_ritual_gates_of_hell",
+        "name": "Пункт назначения: Смертельная игра",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
+            "ужасы"
         ],
-        "length": 80
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
+        "length": -1
     },
     {
         "filmId": "klevyj_ulove",
@@ -34,14 +19,14 @@
         "length": -1
     },
     {
-        "filmId": "begi",
-        "name": "Беги",
-        "rating": 16,
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "криминал"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 85
+        "length": 130
     },
     {
         "filmId": "the_long_walk",
@@ -54,33 +39,15 @@
         "length": 110
     },
     {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "red_book_ritual_gates_of_hell",
-        "name": "Пункт назначения: Смертельная игра",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
+        "length": 80
     }
 ]
