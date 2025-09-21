@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -53,6 +32,17 @@
         "length": -1
     },
     {
+        "filmId": "altered",
+        "name": "Альтер",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "nan_jing_zhao_xiang_guan",
         "name": "Нанкинский фотограф",
         "rating": 18,
@@ -62,5 +52,15 @@
             "история"
         ],
         "length": 135
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     }
 ]

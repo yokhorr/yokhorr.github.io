@@ -1,12 +1,15 @@
 [
     {
-        "filmId": "red_book_ritual_gates_of_hell",
-        "name": "Пункт назначения: Смертельная игра",
-        "rating": 18,
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
         ],
-        "length": -1
+        "length": 80
     },
     {
         "filmId": "klevyj_ulove",
@@ -19,16 +22,6 @@
         "length": -1
     },
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "the_long_walk",
         "name": "Долгая прогулка",
         "rating": 18,
@@ -37,17 +30,5 @@
             "драма"
         ],
         "length": 110
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
     }
 ]
