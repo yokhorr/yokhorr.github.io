@@ -1,77 +1,23 @@
 [
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
+        "filmId": "semejnyj_prizrak",
+        "name": "Семейный призрак",
         "rating": 6,
         "genres": [
-            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "london_calling",
+        "name": "Лондон на проводе",
+        "rating": 18,
+        "genres": [
             "боевик",
-            "триллер",
             "комедия"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "klevyj_ulove",
-        "name": "Клёвый Уlove",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "65961",
-        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 45
-    },
-    {
-        "filmId": "begi",
-        "name": "Беги",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 85
+        "length": 110
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -86,58 +32,33 @@
         "length": 150
     },
     {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 135
+        "length": 130
     },
     {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
+        "filmId": "klevyj_ulove",
+        "name": "Клёвый Уlove",
+        "rating": 16,
         "genres": [
             "комедия",
-            "фантастика"
+            "мелодрама"
         ],
-        "length": 90
+        "length": -1
     },
     {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "london_calling",
-        "name": "Лондон на проводе",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_bad_guys_2",
-        "name": "Плохие парни 2",
+        "filmId": "altered",
+        "name": "Альтер",
         "rating": 12,
         "genres": [
-            "мультфильм",
+            "фантастика",
             "боевик",
-            "комедия",
-            "криминал",
-            "детектив",
-            "приключения",
-            "семейный"
+            "драма"
         ],
         "length": 85
     },
@@ -152,43 +73,47 @@
         "length": 110
     },
     {
-        "filmId": "jurassic_world_rebirth",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
+        "filmId": "doktor_dinozavrov",
+        "name": "Доктор Динозавров",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "begi",
+        "name": "Беги",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 135
     },
     {
-        "filmId": "the_roses",
-        "name": "Супруги Роуз",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "here",
-        "name": "Тогда. Сейчас. Потом",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "na_derevnyu_dedushke",
-        "name": "На деревню дедушке",
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
         "rating": 6,
         "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
             "комедия"
         ],
-        "length": 90
+        "length": 85
     },
     {
         "filmId": "vniz",
@@ -199,37 +124,6 @@
             "драма"
         ],
         "length": 90
-    },
-    {
-        "filmId": "how_to_train_your_dragon_",
-        "name": "Как приручить дракона",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "jeokjijeok_dokja_sijeom",
-        "name": "Всеведущий читатель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "munch_i_helvete",
@@ -243,6 +137,17 @@
         "length": 75
     },
     {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "avatar_the_way_of_water",
         "name": "Аватар: Путь воды",
         "rating": 12,
@@ -253,6 +158,15 @@
             "приключения"
         ],
         "length": 192
+    },
+    {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "32470",
@@ -296,6 +210,17 @@
         "length": 165
     },
     {
+        "filmId": "jeokjijeok_dokja_sijeom",
+        "name": "Всеведущий читатель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 0,
@@ -316,6 +241,15 @@
         "length": 100
     },
     {
+        "filmId": "na_derevnyu_dedushke",
+        "name": "На деревню дедушке",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "rusalochka_i_morskoj_monstr",
         "name": "Русалочка и морской монстр",
         "rating": 6,
@@ -325,6 +259,48 @@
             "приключения"
         ],
         "length": 80
+    },
+    {
+        "filmId": "65961",
+        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 45
+    },
+    {
+        "filmId": "here",
+        "name": "Тогда. Сейчас. Потом",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "jurassic_world_rebirth",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "how_to_train_your_dragon_",
+        "name": "Как приручить дракона",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "imaginary",
@@ -484,6 +460,18 @@
         "length": 75
     },
     {
+        "filmId": "58781",
+        "name": "Дзеффирелли: Травиата",
+        "rating": 12,
+        "genres": [
+            "мюзикл",
+            "драма",
+            "музыка",
+            "мелодрама"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "new_moon",
         "name": "Сумерки. Сага. Новолуние",
         "rating": 18,
@@ -497,6 +485,15 @@
         "length": 130
     },
     {
+        "filmId": "55387",
+        "name": "Арт-лекторий в кино: Леонардо. Пять веков спустя",
+        "rating": 12,
+        "genres": [
+            "документальный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "offret",
         "name": "Жертвоприношение",
         "rating": 12,
@@ -506,13 +503,22 @@
         "length": 150
     },
     {
+        "filmId": "30033",
+        "name": "Вишневый сад",
+        "rating": 16,
+        "genres": [
+            "спектакль"
+        ],
+        "length": 180
+    },
+    {
         "filmId": "62351",
         "name": "Йоджи Ямамомото — философ, которого любит мода — Лекция Я. Михеева",
         "rating": 16,
         "genres": [
             "лекция"
         ],
-        "length": 120
+        "length": 122
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -525,5 +531,14 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "van_eyck",
+        "name": "Ван Эйк: Искусство реальности",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 70
     }
 ]
