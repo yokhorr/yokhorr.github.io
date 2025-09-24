@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "the_long_walk",
         "name": "Долгая прогулка",
         "rating": 18,
@@ -42,9 +31,20 @@
         "length": 80
     },
     {
+        "filmId": "altered",
+        "name": "Альтер",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
-        "rating": 0,
+        "rating": 16,
         "genres": [
             "триллер",
             "военный",
@@ -60,6 +60,6 @@
             "комедия",
             "мелодрама"
         ],
-        "length": -1
+        "length": 90
     }
 ]
