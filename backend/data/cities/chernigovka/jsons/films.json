@@ -1,5 +1,35 @@
 [
     {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "popeye_the_slayer_man",
+        "name": "Мокрячок Попай",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "falcon_express",
         "name": "Зверопоезд",
         "rating": 6,
@@ -30,35 +60,5 @@
             "ужасы"
         ],
         "length": -1
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "popeye_the_slayer_man",
-        "name": "Мокрячок Попай",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]

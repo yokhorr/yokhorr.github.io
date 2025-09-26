@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -9,6 +19,15 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "popeye_the_slayer_man",
+        "name": "Мокрячок Попай",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "rusalochka_i_morskoj_monstr",
@@ -40,24 +59,5 @@
             "мелодрама"
         ],
         "length": 130
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "popeye_the_slayer_man",
-        "name": "Мокрячок Попай",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]
