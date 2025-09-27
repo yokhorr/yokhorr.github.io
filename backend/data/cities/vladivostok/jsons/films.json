@@ -11,27 +11,13 @@
         "length": 140
     },
     {
-        "filmId": "alita_battle_angel",
-        "name": "Алита: Боевой ангел",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "мелодрама",
-            "приключения"
-        ],
-        "length": 121
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
+        "filmId": "imaginary",
+        "name": "Воображаемый друг",
         "rating": 18,
         "genres": [
-            "триллер",
-            "драма"
+            "ужасы"
         ],
-        "length": 110
+        "length": 105
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -46,25 +32,14 @@
         "length": 150
     },
     {
-        "filmId": "diabolik_ginko_all_attacco",
-        "name": "Фантом. Ограбление по-итальянски",
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
         "rating": 18,
         "genres": [
-            "боевик",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "altered",
-        "name": "Альтер",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
+            "триллер",
             "драма"
         ],
-        "length": 85
+        "length": 110
     },
     {
         "filmId": "dracula_a_love_tale",
@@ -75,65 +50,6 @@
             "мелодрама"
         ],
         "length": 130
-    },
-    {
-        "filmId": "la_venue_de_lavenir",
-        "name": "Цвета времени",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "filatelija",
-        "name": "Филателия",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shaun_of_the_dead",
-        "name": "Зомби по имени Шон",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "a_big_bold_beautiful_journey",
-        "name": "Большое смелое красивое путешествие",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "imaginary",
-        "name": "Воображаемый друг",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
     },
     {
         "filmId": "interstellar",
@@ -177,6 +93,17 @@
         "length": 90
     },
     {
+        "filmId": "altered",
+        "name": "Альтер",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "red_book_ritual_gates_of_hell",
         "name": "Пункт назначения: Смертельная игра",
         "rating": 18,
@@ -184,6 +111,16 @@
             "ужасы"
         ],
         "length": -1
+    },
+    {
+        "filmId": "a_big_bold_beautiful_journey",
+        "name": "Большое смелое красивое путешествие",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 110
     },
     {
         "filmId": "9_windows",
@@ -205,6 +142,15 @@
             "мелодрама"
         ],
         "length": 90
+    },
+    {
+        "filmId": "filatelija",
+        "name": "Филателия",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "falcon_express",
@@ -271,6 +217,27 @@
         "length": 90
     },
     {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "diabolik_ginko_all_attacco",
+        "name": "Фантом. Ограбление по-итальянски",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "here",
         "name": "Тогда. Сейчас. Потом",
         "rating": 18,
@@ -322,6 +289,19 @@
         "length": 165
     },
     {
+        "filmId": "alita_battle_angel",
+        "name": "Алита: Боевой ангел",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "мелодрама",
+            "приключения"
+        ],
+        "length": 121
+    },
+    {
         "filmId": "le_mepris",
         "name": "Презрение",
         "rating": 18,
@@ -329,6 +309,26 @@
             "драма"
         ],
         "length": 103
+    },
+    {
+        "filmId": "la_venue_de_lavenir",
+        "name": "Цвета времени",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "shaun_of_the_dead",
+        "name": "Зомби по имени Шон",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "jurassic_world_rebirth",
