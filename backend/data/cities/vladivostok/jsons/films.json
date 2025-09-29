@@ -11,13 +11,24 @@
         "length": 140
     },
     {
-        "filmId": "imaginary",
-        "name": "Воображаемый друг",
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 105
+        "length": 130
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -32,24 +43,13 @@
         "length": 150
     },
     {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
         "rating": 18,
         "genres": [
-            "триллер",
-            "драма"
+            "ужасы"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
+        "length": 135
     },
     {
         "filmId": "interstellar",
@@ -63,34 +63,25 @@
         "length": 170
     },
     {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
+        "filmId": "imaginary",
+        "name": "Воображаемый друг",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 135
+        "length": 105
     },
     {
-        "filmId": "wolf_of_wall_street",
-        "name": "Волк с Уолл-стрит",
+        "filmId": "django_unchained",
+        "name": "Джанго освобожденный",
         "rating": 18,
         "genres": [
+            "вестерн",
+            "боевик",
             "драма",
-            "криминал",
-            "биография",
             "комедия"
         ],
-        "length": 183
-    },
-    {
-        "filmId": "popeye_the_slayer_man",
-        "name": "Мокрячок Попай",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
+        "length": 165
     },
     {
         "filmId": "altered",
@@ -102,6 +93,15 @@
             "драма"
         ],
         "length": 85
+    },
+    {
+        "filmId": "popeye_the_slayer_man",
+        "name": "Мокрячок Попай",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "red_book_ritual_gates_of_hell",
@@ -132,6 +132,21 @@
             "криминал"
         ],
         "length": 80
+    },
+    {
+        "filmId": "the_bad_guys_2",
+        "name": "Плохие парни 2",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "комедия",
+            "криминал",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "klevyj_ulove",
@@ -165,15 +180,6 @@
         "length": 85
     },
     {
-        "filmId": "na_derevnyu_dedushke",
-        "name": "На деревню дедушке",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "rusalochka_i_morskoj_monstr",
         "name": "Русалочка и морской монстр",
         "rating": 6,
@@ -183,16 +189,6 @@
             "приключения"
         ],
         "length": 80
-    },
-    {
-        "filmId": "65961",
-        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 45
     },
     {
         "filmId": "doktor_dinozavrov",
@@ -207,6 +203,16 @@
         "length": 80
     },
     {
+        "filmId": "65961",
+        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 45
+    },
+    {
         "filmId": "semejnyj_prizrak",
         "name": "Семейный призрак",
         "rating": 6,
@@ -217,15 +223,44 @@
         "length": 90
     },
     {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
+        "filmId": "na_derevnyu_dedushke",
+        "name": "На деревню дедушке",
+        "rating": 6,
         "genres": [
-            "боевик",
-            "драма",
-            "спорт"
+            "комедия"
         ],
-        "length": 155
+        "length": 90
+    },
+    {
+        "filmId": "here",
+        "name": "Тогда. Сейчас. Потом",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "jurassic_world_rebirth",
+        "name": "Мир Юрского периода: Возрождение",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "vniz",
+        "name": "Вниз",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 90
     },
     {
         "filmId": "diabolik_ginko_all_attacco",
@@ -238,13 +273,13 @@
         "length": 115
     },
     {
-        "filmId": "here",
-        "name": "Тогда. Сейчас. Потом",
-        "rating": 18,
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
         "genres": [
-            "драма"
+            "триллер"
         ],
-        "length": 105
+        "length": 95
     },
     {
         "filmId": "how_to_train_your_dragon_",
@@ -258,35 +293,15 @@
         "length": 122
     },
     {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
+        "filmId": "63162",
+        "name": "Формула 1",
         "rating": 16,
         "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "django_unchained",
-        "name": "Джанго освобожденный",
-        "rating": 18,
-        "genres": [
-            "вестерн",
             "боевик",
             "драма",
-            "комедия"
+            "спорт"
         ],
-        "length": 165
+        "length": 155
     },
     {
         "filmId": "alita_battle_angel",
@@ -300,15 +315,6 @@
             "приключения"
         ],
         "length": 121
-    },
-    {
-        "filmId": "le_mepris",
-        "name": "Презрение",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 103
     },
     {
         "filmId": "la_venue_de_lavenir",
@@ -329,33 +335,6 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "jurassic_world_rebirth",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "the_bad_guys_2",
-        "name": "Плохие парни 2",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "криминал",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
     },
     {
         "filmId": "afterburn",
@@ -399,6 +378,62 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "66478",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "tafiti_ab_durch_die_wuste",
+        "name": "Тафити. Приключения на краю света",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "wolf_of_wall_street",
+        "name": "Волк с Уолл-стрит",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал",
+            "биография",
+            "комедия"
+        ],
+        "length": 183
     },
     {
         "filmId": "se7en",
@@ -456,6 +491,17 @@
         "length": 90
     },
     {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 6,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "offret",
         "name": "Жертвоприношение",
         "rating": 12,
@@ -502,5 +548,23 @@
             "документальный"
         ],
         "length": 70
+    },
+    {
+        "filmId": "currentzis_the_classical_reb",
+        "name": "Теодор Курентзис. Бунтарь от классики",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 55
+    },
+    {
+        "filmId": "belle_de_jour",
+        "name": "Дневная красавица",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 101
     }
 ]
