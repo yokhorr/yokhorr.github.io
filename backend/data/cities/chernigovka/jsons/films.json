@@ -1,26 +1,12 @@
 [
     {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
+        "filmId": "popeye_the_slayer_man",
+        "name": "Мокрячок Попай",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
+            "ужасы"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 80
+        "length": 90
     },
     {
         "filmId": "avgust",
@@ -32,14 +18,5 @@
             "история"
         ],
         "length": 140
-    },
-    {
-        "filmId": "popeye_the_slayer_man",
-        "name": "Мокрячок Попай",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]

@@ -1,14 +1,48 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
+        "filmId": "alita_battle_angel",
+        "name": "Алита: Боевой ангел",
         "rating": 16,
         "genres": [
+            "фантастика",
+            "боевик",
             "триллер",
-            "военный",
-            "история"
+            "мелодрама",
+            "приключения"
         ],
-        "length": 140
+        "length": 121
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "diabolik_ginko_all_attacco",
+        "name": "Фантом. Ограбление по-итальянски",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "криминал"
+        ],
+        "length": 115
     },
     {
         "filmId": "altered",
@@ -22,23 +56,25 @@
         "length": 85
     },
     {
-        "filmId": "klevyj_ulove",
-        "name": "Клёвый Уlove",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "here",
-        "name": "Тогда. Сейчас. Потом",
+        "filmId": "la_venue_de_lavenir",
+        "name": "Цвета времени",
         "rating": 18,
         "genres": [
-            "драма"
+            "драма",
+            "комедия"
         ],
-        "length": 105
+        "length": 125
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "dracula_a_love_tale",
@@ -60,144 +96,6 @@
         "length": 100
     },
     {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "65961",
-        "name": "МУЛЬТ в кино. Выпуск №186. Большая ми-ми-миссия",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 45
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "semejnyj_prizrak",
-        "name": "Семейный призрак",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "doktor_dinozavrov",
-        "name": "Доктор Динозавров",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "jurassic_world_rebirth",
-        "name": "Мир Юрского периода: Возрождение",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "vniz",
-        "name": "Вниз",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "imaginary",
-        "name": "Воображаемый друг",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "diabolik_ginko_all_attacco",
-        "name": "Фантом. Ограбление по-итальянски",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "how_to_train_your_dragon_",
-        "name": "Как приручить дракона",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "63162",
         "name": "Формула 1",
         "rating": 16,
@@ -207,29 +105,6 @@
             "спорт"
         ],
         "length": 155
-    },
-    {
-        "filmId": "alita_battle_angel",
-        "name": "Алита: Боевой ангел",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "мелодрама",
-            "приключения"
-        ],
-        "length": 121
-    },
-    {
-        "filmId": "la_venue_de_lavenir",
-        "name": "Цвета времени",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 125
     },
     {
         "filmId": "shaun_of_the_dead",
@@ -260,6 +135,15 @@
             "мистика"
         ],
         "length": 120
+    },
+    {
+        "filmId": "imaginary",
+        "name": "Воображаемый друг",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "9_windows",
@@ -321,6 +205,29 @@
             "ужасы"
         ],
         "length": -1
+    },
+    {
+        "filmId": "rusalochka_i_morskoj_monstr",
+        "name": "Русалочка и морской монстр",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
     },
     {
         "filmId": "66478",
@@ -413,6 +320,15 @@
         "length": 115
     },
     {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "highlander",
         "name": "Горец",
         "rating": 18,
@@ -467,7 +383,7 @@
     },
     {
         "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
         "rating": 0,
         "genres": [
             "мультфильм",
@@ -589,15 +505,6 @@
         "length": 70
     },
     {
-        "filmId": "currentzis_the_classical_reb",
-        "name": "Теодор Курентзис. Бунтарь от классики",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 55
-    },
-    {
         "filmId": "belle_de_jour",
         "name": "Дневная красавица",
         "rating": 16,
@@ -605,6 +512,15 @@
             "драма"
         ],
         "length": 101
+    },
+    {
+        "filmId": "currentzis_the_classical_reb",
+        "name": "Теодор Курентзис. Бунтарь от классики",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 55
     },
     {
         "filmId": "egon_schiele_self_portrait",
