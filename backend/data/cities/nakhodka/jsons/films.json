@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "popeye_the_slayer_man",
-        "name": "Мокрячок Попай",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -18,44 +9,6 @@
             "история"
         ],
         "length": 140
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "diabolik_ginko_all_attacco",
-        "name": "Фантом. Ограбление по-итальянски",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "red_book_ritual_gates_of_hell",
-        "name": "Пункт назначения: Смертельная игра",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
     },
     {
         "filmId": "66478",
@@ -229,6 +182,34 @@
         "length": 160
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "popeye_the_slayer_man",
+        "name": "Мокрячок Попай",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "66600",
         "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
         "rating": 0,
@@ -251,6 +232,16 @@
             "приключения"
         ],
         "length": 135
+    },
+    {
+        "filmId": "diabolik_ginko_all_attacco",
+        "name": "Фантом. Ограбление по-итальянски",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "криминал"
+        ],
+        "length": 115
     },
     {
         "filmId": "nobody_2",
