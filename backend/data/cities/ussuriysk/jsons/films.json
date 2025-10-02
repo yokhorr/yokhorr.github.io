@@ -1,14 +1,15 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
         "genres": [
+            "боевик",
             "триллер",
-            "военный",
-            "история"
+            "драма",
+            "криминал"
         ],
-        "length": 140
+        "length": 160
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -21,18 +22,6 @@
             "боевик"
         ],
         "length": 150
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
     },
     {
         "filmId": "dracula_a_love_tale",

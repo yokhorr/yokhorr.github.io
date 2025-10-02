@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "perewangan",
-        "name": "Астрал. Зеркала",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "moj_drug_kot_i_pushkin",
         "name": "Мой друг, кот и Пушкин",
         "rating": 6,
@@ -75,6 +44,18 @@
         "length": 85
     },
     {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "nahimovcy_jantarnyj_bereg",
         "name": "Нахимовцы. Янтарный берег",
         "rating": 12,
@@ -84,5 +65,24 @@
             "приключения"
         ],
         "length": 90
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "perewangan",
+        "name": "Астрал. Зеркала",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     }
 ]

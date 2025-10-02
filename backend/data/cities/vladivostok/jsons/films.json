@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "ne_iskusstvennyj_intellekt",
         "name": "(Не) искусственный интеллект",
         "rating": 6,
@@ -12,46 +23,15 @@
         "length": 100
     },
     {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
+        "filmId": "avgust",
+        "name": "Август",
         "rating": 16,
         "genres": [
-            "триллер"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 95
+        "length": 140
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -66,38 +46,6 @@
         "length": 150
     },
     {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "a_big_bold_beautiful_journey",
-        "name": "Большое смелое красивое путешествие",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -108,6 +56,15 @@
         "length": 130
     },
     {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "the_long_walk",
         "name": "Долгая прогулка",
         "rating": 18,
@@ -116,37 +73,6 @@
             "драма"
         ],
         "length": 110
-    },
-    {
-        "filmId": "highlander",
-        "name": "Горец",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
     },
     {
         "filmId": "perewangan",
@@ -181,6 +107,18 @@
         "length": 183
     },
     {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "hell_house_llc_lineage",
         "name": "Дом ада. Спуск к дьяволу",
         "rating": 18,
@@ -213,6 +151,27 @@
         "length": 85
     },
     {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "tafiti_ab_durch_die_wuste",
         "name": "Тафити. Приключения на краю света",
         "rating": 6,
@@ -241,6 +200,47 @@
         "rating": 16,
         "genres": [
             "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "a_big_bold_beautiful_journey",
+        "name": "Большое смелое красивое путешествие",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "highlander",
+        "name": "Горец",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
             "боевик",
             "приключения"
         ],
