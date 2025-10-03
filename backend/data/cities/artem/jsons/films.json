@@ -1,60 +1,13 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
+        "filmId": "a_big_bold_beautiful_journey",
+        "name": "Большое смелое красивое путешествие",
         "rating": 16,
         "genres": [
-            "триллер",
-            "военный",
-            "история"
+            "драма",
+            "мелодрама"
         ],
-        "length": 140
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "muzhskie_pravila_moego_deda",
@@ -67,26 +20,15 @@
         "length": 85
     },
     {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
         "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
+            "семейный",
+            "комедия",
+            "приключения"
         ],
-        "length": 150
-    },
-    {
-        "filmId": "a_big_bold_beautiful_journey",
-        "name": "Большое смелое красивое путешествие",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 110
+        "length": 90
     },
     {
         "filmId": "dracula_a_love_tale",
@@ -109,6 +51,17 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "afterburn",
@@ -138,5 +91,52 @@
             "ужасы"
         ],
         "length": 110
+    },
+    {
+        "filmId": "rusalochka_i_morskoj_monstr",
+        "name": "Русалочка и морской монстр",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
     }
 ]
