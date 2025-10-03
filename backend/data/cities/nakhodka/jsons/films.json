@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -21,35 +9,6 @@
             "история"
         ],
         "length": 140
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "popeye_the_slayer_man",
-        "name": "Мокрячок Попай",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "nahimovcy_jantarnyj_bereg",
@@ -140,6 +99,17 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "65961",
@@ -246,6 +216,18 @@
         "length": 155
     },
     {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "how_to_train_your_dragon_",
         "name": "Как приручить дракона",
         "rating": 12,
@@ -265,5 +247,23 @@
             "мелодрама"
         ],
         "length": 130
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "popeye_the_slayer_man",
+        "name": "Мокрячок Попай",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
