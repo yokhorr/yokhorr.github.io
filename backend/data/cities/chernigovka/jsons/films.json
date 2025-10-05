@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "tafiti_ab_durch_die_wuste",
-        "name": "Тафити. Приключения на краю света",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "moj_drug_kot_i_pushkin",
-        "name": "Мой друг, кот и Пушкин",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "детский"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "ne_iskusstvennyj_intellekt",
         "name": "(Не) искусственный интеллект",
         "rating": 6,
@@ -74,5 +30,37 @@
             "ужасы"
         ],
         "length": 110
+    },
+    {
+        "filmId": "moj_drug_kot_i_pushkin",
+        "name": "Мой друг, кот и Пушкин",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "детский"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
     }
 ]
