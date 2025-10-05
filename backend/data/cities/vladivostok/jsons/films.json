@@ -1,143 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "perewangan",
-        "name": "Астрал. Зеркала",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "django_unchained",
-        "name": "Джанго освобожденный",
-        "rating": 18,
-        "genres": [
-            "вестерн",
-            "боевик",
-            "драма",
-            "комедия"
-        ],
-        "length": 165
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "hell_house_llc_lineage",
-        "name": "Дом ада. Спуск к дьяволу",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "falcon_express",
         "name": "Зверопоезд",
         "rating": 6,
@@ -161,6 +23,29 @@
         "length": 90
     },
     {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "rusalochka_i_morskoj_monstr",
         "name": "Русалочка и морской монстр",
         "rating": 6,
@@ -170,6 +55,18 @@
             "приключения"
         ],
         "length": 80
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "tafiti_ab_durch_die_wuste",
@@ -196,6 +93,38 @@
         "length": 50
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "moj_drug_kot_i_pushkin",
         "name": "Мой друг, кот и Пушкин",
         "rating": 6,
@@ -216,6 +145,27 @@
             "приключения"
         ],
         "length": 115
+    },
+    {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "63162",
@@ -257,6 +207,35 @@
         "length": 75
     },
     {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "perewangan",
+        "name": "Астрал. Зеркала",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "wolf_of_wall_street",
         "name": "Волк с Уолл-стрит",
         "rating": 18,
@@ -267,6 +246,15 @@
             "комедия"
         ],
         "length": 183
+    },
+    {
+        "filmId": "hell_house_llc_lineage",
+        "name": "Дом ада. Спуск к дьяволу",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     },
     {
         "filmId": "highlander",
@@ -290,6 +278,18 @@
             "мелодрама"
         ],
         "length": 110
+    },
+    {
+        "filmId": "django_unchained",
+        "name": "Джанго освобожденный",
+        "rating": 18,
+        "genres": [
+            "вестерн",
+            "боевик",
+            "драма",
+            "комедия"
+        ],
+        "length": 165
     },
     {
         "filmId": "new_moon",
@@ -549,5 +549,15 @@
             "военный"
         ],
         "length": 150
+    },
+    {
+        "filmId": "matrica",
+        "name": "Матрица",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
     }
 ]
