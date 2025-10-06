@@ -1,15 +1,25 @@
 [
     {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
         "genres": [
-            "мультфильм",
             "боевик",
             "триллер",
-            "комедия"
+            "драма",
+            "криминал"
         ],
-        "length": 85
+        "length": 160
+    },
+    {
+        "filmId": "a_big_bold_beautiful_journey",
+        "name": "Большое смелое красивое путешествие",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 110
     },
     {
         "filmId": "nahimovcy_jantarnyj_bereg",
@@ -23,38 +33,14 @@
         "length": 90
     },
     {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
+            "комедия",
+            "семейный"
         ],
-        "length": 80
+        "length": 85
     },
     {
         "filmId": "ne_iskusstvennyj_intellekt",
@@ -69,40 +55,6 @@
         "length": 100
     },
     {
-        "filmId": "tafiti_ab_durch_die_wuste",
-        "name": "Тафити. Приключения на краю света",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "kimetsu_no_yaiba_movie",
         "name": "Истребитель демонов: Бесконечная крепость",
         "rating": 16,
@@ -113,38 +65,6 @@
             "боевик"
         ],
         "length": 150
-    },
-    {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "moj_drug_kot_i_pushkin",
-        "name": "Мой друг, кот и Пушкин",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "детский"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "the_fantastic_four_first_steps",
-        "name": "Фантастическая четверка: Первые шаги",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 115
     },
     {
         "filmId": "afterburn",
@@ -158,14 +78,15 @@
         "length": 105
     },
     {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
         "genres": [
             "триллер",
-            "драма"
+            "военный",
+            "история"
         ],
-        "length": 110
+        "length": 140
     },
     {
         "filmId": "63162",
@@ -179,23 +100,24 @@
         "length": 155
     },
     {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
         "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "a_big_bold_beautiful_journey",
-        "name": "Большое смелое красивое путешествие",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "мелодрама"
+            "триллер",
+            "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
     },
     {
         "filmId": "ashik_kerib",
@@ -266,6 +188,84 @@
             "приключения"
         ],
         "length": 115
+    },
+    {
+        "filmId": "rusalochka_i_morskoj_monstr",
+        "name": "Русалочка и морской монстр",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "tafiti_ab_durch_die_wuste",
+        "name": "Тафити. Приключения на краю света",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "66600",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "moj_drug_kot_i_pushkin",
+        "name": "Мой друг, кот и Пушкин",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "детский"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "the_fantastic_four_first_steps",
+        "name": "Фантастическая четверка: Первые шаги",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "58781",
