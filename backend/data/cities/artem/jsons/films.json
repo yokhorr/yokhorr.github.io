@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "hell_house_llc_lineage",
-        "name": "Дом ада. Спуск к дьяволу",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -120,6 +91,26 @@
         "length": 160
     },
     {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -128,5 +119,14 @@
             "мелодрама"
         ],
         "length": 130
+    },
+    {
+        "filmId": "hell_house_llc_lineage",
+        "name": "Дом ада. Спуск к дьяволу",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     }
 ]

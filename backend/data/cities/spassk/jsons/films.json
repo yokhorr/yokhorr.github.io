@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "nahimovcy_jantarnyj_bereg",
         "name": "Нахимовцы. Янтарный берег",
         "rating": 12,
@@ -53,6 +42,17 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "afterburn",
