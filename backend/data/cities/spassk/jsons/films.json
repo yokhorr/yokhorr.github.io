@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -45,6 +22,18 @@
         "length": 90
     },
     {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "rusalochka_i_morskoj_monstr",
         "name": "Русалочка и морской монстр",
         "rating": 6,
@@ -58,11 +47,22 @@
     {
         "filmId": "muzhskie_pravila_moego_deda",
         "name": "Мужские правила моего деда",
-        "rating": 6,
+        "rating": 16,
         "genres": [
             "комедия",
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
     }
 ]
