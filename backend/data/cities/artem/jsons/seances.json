@@ -1,96 +1,6 @@
 [
     {
         "date": "07.10",
-        "time": "10:10",
-        "filmId": "avgust",
-        "theatre": "Шахтёр",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "10:10",
-        "filmId": "falcon_express",
-        "theatre": "Шахтёр",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "10:30",
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "theatre": "Шахтёр",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "12:00",
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "theatre": "Шахтёр",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "12:05",
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "theatre": "Шахтёр",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "12:50",
-        "filmId": "muzhskie_pravila_moego_deda",
-        "theatre": "Шахтёр",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "13:50",
-        "filmId": "falcon_express",
-        "theatre": "Шахтёр",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "14:05",
-        "filmId": "kimetsu_no_yaiba_movie",
-        "theatre": "Шахтёр",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "14:35",
-        "filmId": "avgust",
-        "theatre": "Шахтёр",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
-        "time": "15:35",
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "theatre": "Шахтёр",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "07.10",
         "time": "17:05",
         "filmId": "muzhskie_pravila_moego_deda",
         "theatre": "Шахтёр",
@@ -320,6 +230,366 @@
         "filmId": "the_conjuring_last_rites",
         "theatre": "Шахтёр",
         "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "09:50",
+        "filmId": "smart_rabbit_momo",
+        "theatre": "Шахтёр",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "10:00",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Шахтёр",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "10:10",
+        "filmId": "miss_moxy",
+        "theatre": "Шахтёр",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "11:30",
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "theatre": "Шахтёр",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "11:55",
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "12:05",
+        "filmId": "avgust",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "13:15",
+        "filmId": "avgust",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "14:00",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "14:45",
+        "filmId": "falcon_express",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "15:55",
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "16:10",
+        "filmId": "muzhskie_pravila_moego_deda",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "16:30",
+        "filmId": "one_battle_after_another",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "17:45",
+        "filmId": "afterburn",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "18:00",
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "19:30",
+        "filmId": "avgust",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "19:50",
+        "filmId": "67036",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "20:00",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "22:05",
+        "filmId": "hell_house_llc_lineage",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "22:15",
+        "filmId": "the_conjuring_last_rites",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "09.10",
+        "time": "22:20",
+        "filmId": "67036",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "09:50",
+        "filmId": "smart_rabbit_momo",
+        "theatre": "Шахтёр",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "10:00",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Шахтёр",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "10:10",
+        "filmId": "miss_moxy",
+        "theatre": "Шахтёр",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "11:30",
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "theatre": "Шахтёр",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "11:55",
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "12:05",
+        "filmId": "avgust",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "13:15",
+        "filmId": "avgust",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "14:00",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "14:45",
+        "filmId": "falcon_express",
+        "theatre": "Шахтёр",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "15:55",
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "16:10",
+        "filmId": "muzhskie_pravila_moego_deda",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "16:30",
+        "filmId": "one_battle_after_another",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "17:45",
+        "filmId": "afterburn",
+        "theatre": "Шахтёр",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "18:00",
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "19:30",
+        "filmId": "avgust",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "19:50",
+        "filmId": "67036",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "20:00",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "22:05",
+        "filmId": "hell_house_llc_lineage",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "22:15",
+        "filmId": "the_conjuring_last_rites",
+        "theatre": "Шахтёр",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "10.10",
+        "time": "22:20",
+        "filmId": "67036",
+        "theatre": "Шахтёр",
+        "cost": 430,
         "is3d": false,
         "buyLink": null
     }

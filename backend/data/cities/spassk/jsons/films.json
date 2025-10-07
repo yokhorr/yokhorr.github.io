@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -64,5 +20,49 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "rusalochka_i_morskoj_monstr",
+        "name": "Русалочка и морской монстр",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
     }
 ]
