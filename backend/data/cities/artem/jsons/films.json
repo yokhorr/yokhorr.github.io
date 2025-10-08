@@ -1,48 +1,13 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
         "rating": 16,
         "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
+            "комедия",
+            "семейный"
         ],
         "length": 85
-    },
-    {
-        "filmId": "rusalochka_i_morskoj_monstr",
-        "name": "Русалочка и морской монстр",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
     },
     {
         "filmId": "ne_iskusstvennyj_intellekt",
@@ -57,26 +22,26 @@
         "length": 100
     },
     {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 16,
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
         "genres": [
+            "семейный",
             "комедия",
-            "семейный"
+            "приключения"
         ],
-        "length": 85
+        "length": 90
     },
     {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
+        "filmId": "avgust",
+        "name": "Август",
         "rating": 16,
         "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 150
+        "length": 140
     },
     {
         "filmId": "one_battle_after_another",
@@ -164,7 +129,19 @@
         "length": 85
     },
     {
-        "filmId": "67036",
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "play_dirty",
         "name": "Грязная игра",
         "rating": 18,
         "genres": [
