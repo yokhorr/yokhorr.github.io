@@ -1,48 +1,14 @@
 [
     {
-        "filmId": "smart_rabbit_momo",
-        "name": "Кролик Момо: Большая погоня",
-        "rating": 6,
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "фантастика",
+            "боевик",
+            "комедия"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
+        "length": 105
     },
     {
         "filmId": "ne_iskusstvennyj_intellekt",
@@ -66,6 +32,80 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "hell_house_llc_lineage",
+        "name": "Дом ада. Спуск к дьяволу",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "smart_rabbit_momo",
+        "name": "Кролик Момо: Большая погоня",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
     },
     {
         "filmId": "falcon_express",
@@ -102,43 +142,23 @@
         "length": 160
     },
     {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 105
+        "length": 130
     },
     {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
+        "filmId": "twilight",
+        "name": "Сумерки",
         "rating": 18,
         "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
+            "мелодрама",
+            "мистика"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "hell_house_llc_lineage",
-        "name": "Дом ада. Спуск к дьяволу",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
+        "length": 120
     }
 ]

@@ -1,15 +1,26 @@
 [
     {
-        "filmId": "smart_rabbit_momo",
-        "name": "Кролик Момо: Большая погоня",
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "фантастика",
             "комедия",
-            "фэнтези"
+            "приключения",
+            "семейный"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "pervyj_na_olimpe",
@@ -21,6 +32,27 @@
             "биография"
         ],
         "length": 110
+    },
+    {
+        "filmId": "perewangan",
+        "name": "Астрал. Зеркала",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "smart_rabbit_momo",
+        "name": "Кролик Момо: Большая погоня",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "muzhskie_pravila_moego_deda",
@@ -42,37 +74,5 @@
             "приключения"
         ],
         "length": 90
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "perewangan",
-        "name": "Астрал. Зеркала",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
     }
 ]
