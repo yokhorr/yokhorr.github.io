@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "hell_house_llc_lineage",
-        "name": "Дом ада. Спуск к дьяволу",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "smart_rabbit_momo",
         "name": "Кролик Момо: Большая погоня",
         "rating": 6,
@@ -142,6 +113,17 @@
         "length": 105
     },
     {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -152,6 +134,15 @@
         "length": 130
     },
     {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "twilight",
         "name": "Сумерки",
         "rating": 18,
@@ -160,5 +151,14 @@
             "мистика"
         ],
         "length": 120
+    },
+    {
+        "filmId": "hell_house_llc_lineage",
+        "name": "Дом ада. Спуск к дьяволу",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     }
 ]
