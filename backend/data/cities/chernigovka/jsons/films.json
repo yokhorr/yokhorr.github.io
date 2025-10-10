@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "perewangan",
+        "name": "Астрал. Зеркала",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "smart_rabbit_momo",
         "name": "Кролик Момо: Большая погоня",
         "rating": 6,
@@ -12,14 +43,15 @@
         "length": 90
     },
     {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 16,
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
         "genres": [
+            "семейный",
             "комедия",
-            "семейный"
+            "приключения"
         ],
-        "length": 85
+        "length": 90
     },
     {
         "filmId": "ne_iskusstvennyj_intellekt",
@@ -34,45 +66,13 @@
         "length": 100
     },
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
         "rating": 16,
         "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "perewangan",
-        "name": "Астрал. Зеркала",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
             "комедия",
-            "приключения"
+            "семейный"
         ],
-        "length": 90
+        "length": 85
     }
 ]
