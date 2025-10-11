@@ -1,14 +1,25 @@
 [
     {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
         "rating": 12,
         "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
+            "драма",
+            "спорт",
+            "биография"
         ],
-        "length": 90
+        "length": 110
+    },
+    {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "miss_moxy",
@@ -34,6 +45,17 @@
         "length": 100
     },
     {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -43,27 +65,5 @@
             "история"
         ],
         "length": 140
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
     }
 ]
