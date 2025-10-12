@@ -1,47 +1,14 @@
 [
     {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
+        "filmId": "avgust",
+        "name": "Август",
         "rating": 16,
         "genres": [
-            "драма",
-            "криминал",
-            "комедия"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "sketch",
-        "name": "Ужастики. Ожившие рисунки",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
+        "length": 140
     },
     {
         "filmId": "one_battle_after_another",
@@ -54,39 +21,6 @@
             "криминал"
         ],
         "length": 160
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
     },
     {
         "filmId": "63162",
@@ -109,6 +43,28 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "roofman",
+        "name": "Грабитель с крыши",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "криминал",
+            "комедия"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "svodish_s_uma",
@@ -179,6 +135,28 @@
         "length": 80
     },
     {
+        "filmId": "sketch",
+        "name": "Ужастики. Ожившие рисунки",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "muzhskie_pravila_moego_deda",
         "name": "Мужские правила моего деда",
         "rating": 16,
@@ -212,6 +190,18 @@
         "length": 130
     },
     {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "eden_2025",
         "name": "Эдем",
         "rating": 18,
@@ -219,5 +209,15 @@
             "триллер"
         ],
         "length": 122
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
     }
 ]
