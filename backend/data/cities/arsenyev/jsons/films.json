@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "kimetsu_no_yaiba_movie",
         "name": "Истребитель демонов: Бесконечная крепость",
         "rating": 16,
@@ -112,6 +90,17 @@
         "length": 105
     },
     {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "one_battle_after_another",
         "name": "Битва за битвой",
         "rating": 18,
@@ -122,5 +111,16 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     }
 ]
