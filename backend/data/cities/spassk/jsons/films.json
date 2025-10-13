@@ -1,5 +1,38 @@
 [
     {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "nahimovcy_jantarnyj_bereg",
         "name": "Нахимовцы. Янтарный берег",
         "rating": 12,
@@ -23,17 +56,6 @@
         "length": 100
     },
     {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "afterburn",
         "name": "Мир в огне",
         "rating": 18,
@@ -43,27 +65,5 @@
             "комедия"
         ],
         "length": 105
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
     }
 ]
