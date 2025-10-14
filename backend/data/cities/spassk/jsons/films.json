@@ -1,50 +1,5 @@
 [
     {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "pervyj_na_olimpe",
         "name": "Первый на Олимпе",
         "rating": 12,
@@ -65,5 +20,50 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     }
 ]

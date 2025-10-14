@@ -1,5 +1,116 @@
 [
     {
+        "filmId": "roofman",
+        "name": "Грабитель с крыши",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "криминал",
+            "комедия"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "sketch",
+        "name": "Ужастики. Ожившие рисунки",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "svodish_s_uma",
+        "name": "Сводишь с ума",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "serafima",
         "name": "Серафима",
         "rating": 6,
@@ -33,17 +144,6 @@
         "length": 90
     },
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "66600",
         "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
         "rating": 0,
@@ -66,50 +166,6 @@
             "фэнтези"
         ],
         "length": 80
-    },
-    {
-        "filmId": "sketch",
-        "name": "Ужастики. Ожившие рисунки",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "svodish_s_uma",
-        "name": "Сводишь с ума",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама",
-            "фэнтези"
-        ],
-        "length": 100
     },
     {
         "filmId": "muzhskie_pravila_moego_deda",
@@ -152,61 +208,5 @@
             "триллер"
         ],
         "length": 122
-    },
-    {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "криминал",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
     }
 ]

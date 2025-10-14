@@ -1,13 +1,12 @@
 [
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
+        "filmId": "eden_2025",
+        "name": "Эдем",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "мелодрама"
+            "триллер"
         ],
-        "length": 130
+        "length": 122
     },
     {
         "filmId": "avgust",
@@ -21,13 +20,12 @@
         "length": 140
     },
     {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
+        "filmId": "muzhskie_pravila_moego_deda",
+        "name": "Мужские правила моего деда",
+        "rating": 16,
         "genres": [
-            "мультфильм",
             "комедия",
-            "приключения"
+            "семейный"
         ],
         "length": 85
     },
@@ -43,65 +41,6 @@
         "length": 110
     },
     {
-        "filmId": "nahimovcy_jantarnyj_bereg",
-        "name": "Нахимовцы. Янтарный берег",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "smart_rabbit_momo",
-        "name": "Кролик Момо: Большая погоня",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "serafima",
         "name": "Серафима",
         "rating": 6,
@@ -110,123 +49,6 @@
             "приключения"
         ],
         "length": 80
-    },
-    {
-        "filmId": "tafiti_ab_durch_die_wuste",
-        "name": "Тафити. Приключения на краю света",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "falcon_express",
-        "name": "Зверопоезд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "svodish_s_uma",
-        "name": "Сводишь с ума",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "muzhskie_pravila_moego_deda",
-        "name": "Мужские правила моего деда",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "sketch",
-        "name": "Ужастики. Ожившие рисунки",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "криминал",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "afterburn",
-        "name": "Мир в огне",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "serdceed",
-        "name": "Сердцеед",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "eden_2025",
-        "name": "Эдем",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 122
     },
     {
         "filmId": "the_bad_guys_2",
@@ -242,6 +64,94 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "afterburn",
+        "name": "Мир в огне",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "serdceed",
+        "name": "Сердцеед",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "sketch",
+        "name": "Ужастики. Ожившие рисунки",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "roofman",
+        "name": "Грабитель с крыши",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "криминал",
+            "комедия"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
     },
     {
         "filmId": "the_cherry_orchard",
@@ -266,12 +176,23 @@
     },
     {
         "filmId": "62351",
-        "name": "Йоджи Ямамомото — философ, которого любит мода — Лекция Я. Михеева",
+        "name": "Йоджи Ямамомото — философ, которого любит мода. Лекция Я. Михеева",
         "rating": 16,
         "genres": [
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "svodish_s_uma",
+        "name": "Сводишь с ума",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_long_walk",
@@ -293,9 +214,18 @@
         "length": 110
     },
     {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "interstellar",
         "name": "Интерстеллар",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "фантастика",
             "детектив",
@@ -322,6 +252,76 @@
             "ужасы"
         ],
         "length": 135
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "nahimovcy_jantarnyj_bereg",
+        "name": "Нахимовцы. Янтарный берег",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "66600",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "smart_rabbit_momo",
+        "name": "Кролик Момо: Большая погоня",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "tafiti_ab_durch_die_wuste",
+        "name": "Тафити. Приключения на краю света",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "falcon_express",
+        "name": "Зверопоезд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 85
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -387,6 +387,16 @@
         "length": 165
     },
     {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
         "filmId": "good_boy",
         "name": "Глазами пса",
         "rating": 16,
@@ -434,6 +444,15 @@
             "ужасы"
         ],
         "length": 80
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "giulietta_degli_spiriti",
@@ -515,13 +534,6 @@
             "документальный"
         ],
         "length": 118
-    },
-    {
-        "filmId": "53216",
-        "name": "Киномакс тест 1",
-        "rating": 0,
-        "genres": [],
-        "length": -1
     },
     {
         "filmId": "alisa_v_strane_chudes",
