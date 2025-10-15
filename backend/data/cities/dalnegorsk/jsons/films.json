@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "ne_iskusstvennyj_intellekt",
         "name": "(Не) искусственный интеллект",
         "rating": 6,
@@ -21,6 +10,18 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "smart_rabbit_momo",
+        "name": "Кролик Момо: Большая погоня",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "pervyj_na_olimpe",
@@ -34,12 +35,53 @@
         "length": 110
     },
     {
-        "filmId": "perewangan",
-        "name": "Астрал. Зеркала",
+        "filmId": "serdceed",
+        "name": "Сердцеед",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
         "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
         "genres": [
             "ужасы"
         ],
-        "length": 110
+        "length": 75
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
     }
 ]
