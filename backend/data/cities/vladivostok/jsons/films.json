@@ -1,24 +1,25 @@
 [
     {
-        "filmId": "lermontov",
-        "name": "Лермонтов",
+        "filmId": "avgust",
+        "name": "Август",
         "rating": 16,
         "genres": [
-            "драма"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 105
+        "length": 140
     },
     {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
+        "filmId": "roofman",
+        "name": "Грабитель с крыши",
+        "rating": 16,
         "genres": [
-            "боевик",
-            "триллер",
             "драма",
-            "криминал"
+            "криминал",
+            "комедия"
         ],
-        "length": 160
+        "length": 125
     },
     {
         "filmId": "dracula_a_love_tale",
@@ -42,159 +43,6 @@
         "length": 122
     },
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "bone_lake",
-        "name": "Опасные связи",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "eddington",
-        "name": "Эддингтон",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия",
-            "триллер",
-            "криминал"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "bambi_the_reckoning",
-        "name": "Бэмби. Лесной кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "криминал",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "eden_2025",
-        "name": "Эдем",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "miss_moxy",
         "name": "Изумительная Мокси",
         "rating": 6,
@@ -204,6 +52,17 @@
             "приключения"
         ],
         "length": 85
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "66600",
@@ -216,6 +75,15 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "lermontov",
+        "name": "Лермонтов",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "serafima",
@@ -261,6 +129,39 @@
         "length": 90
     },
     {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "eden_2025",
+        "name": "Эдем",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "muzhskie_pravila_moego_deda",
         "name": "Мужские правила моего деда",
         "rating": 16,
@@ -269,6 +170,16 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "svodish_s_uma",
@@ -309,6 +220,18 @@
         "length": 85
     },
     {
+        "filmId": "eddington",
+        "name": "Эддингтон",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия",
+            "триллер",
+            "криминал"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "serdceed",
         "name": "Сердцеед",
         "rating": 16,
@@ -340,6 +263,16 @@
         "length": 120
     },
     {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "play_dirty",
         "name": "Грязная игра",
         "rating": 18,
@@ -351,6 +284,26 @@
         "length": 125
     },
     {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "giulietta_degli_spiriti",
         "name": "Джульетта и духи",
         "rating": 16,
@@ -360,6 +313,53 @@
             "комедия"
         ],
         "length": 150
+    },
+    {
+        "filmId": "bone_lake",
+        "name": "Опасные связи",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "bambi_the_reckoning",
+        "name": "Бэмби. Лесной кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
     },
     {
         "filmId": "finnik_2",

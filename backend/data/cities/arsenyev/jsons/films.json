@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
         "name": "Русалочка. Начало приключений",
         "rating": 6,
@@ -97,6 +77,17 @@
         "length": 120
     },
     {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "play_dirty",
         "name": "Грязная игра",
         "rating": 18,
@@ -106,6 +97,15 @@
             "криминал"
         ],
         "length": 125
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "finnik_2",

@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "smart_rabbit_momo",
         "name": "Кролик Момо: Большая погоня",
         "rating": 6,
@@ -97,6 +68,17 @@
         "length": 110
     },
     {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "twilight",
         "name": "Сумерки",
         "rating": 18,
@@ -115,6 +97,24 @@
             "мелодрама"
         ],
         "length": 130
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
     },
     {
         "filmId": "finnik_2",
