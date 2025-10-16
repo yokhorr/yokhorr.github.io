@@ -1,81 +1,5 @@
 [
     {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "криминал",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ne_iskusstvennyj_intellekt",
-        "name": "(Не) искусственный интеллект",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "lermontov",
-        "name": "Лермонтов",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -96,48 +20,6 @@
             "биография"
         ],
         "length": 110
-    },
-    {
-        "filmId": "the_lost_bus",
-        "name": "Школьный автобус",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
     },
     {
         "filmId": "one_battle_after_another",
@@ -172,6 +54,37 @@
         "length": 80
     },
     {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "svodish_s_uma",
         "name": "Сводишь с ума",
         "rating": 16,
@@ -191,6 +104,15 @@
             "приключения"
         ],
         "length": 80
+    },
+    {
+        "filmId": "lermontov",
+        "name": "Лермонтов",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "66600",
@@ -216,6 +138,52 @@
         "length": 90
     },
     {
+        "filmId": "roofman",
+        "name": "Грабитель с крыши",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "криминал",
+            "комедия"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "ne_iskusstvennyj_intellekt",
+        "name": "(Не) искусственный интеллект",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "nahimovcy_jantarnyj_bereg",
         "name": "Нахимовцы. Янтарный берег",
         "rating": 12,
@@ -237,6 +205,38 @@
             "приключения"
         ],
         "length": 135
+    },
+    {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "the_lost_bus",
+        "name": "Школьный автобус",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "finnik_2",

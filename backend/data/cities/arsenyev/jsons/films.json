@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
         "filmId": "tron_ares",
         "name": "Трон: Арес",
         "rating": 12,
@@ -19,17 +9,6 @@
             "приключения"
         ],
         "length": 122
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
     },
     {
         "filmId": "are_you_there",
@@ -106,6 +85,27 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
     },
     {
         "filmId": "finnik_2",
