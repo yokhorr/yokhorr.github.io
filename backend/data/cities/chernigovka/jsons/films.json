@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "smart_rabbit_momo",
         "name": "Кролик Момо: Большая погоня",
         "rating": 6,
@@ -71,5 +61,15 @@
             "ужасы"
         ],
         "length": 75
+    },
+    {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
     }
 ]
