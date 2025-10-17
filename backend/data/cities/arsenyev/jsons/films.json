@@ -1,72 +1,5 @@
 [
     {
-        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
-        "name": "Русалочка. Начало приключений",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "smart_rabbit_momo",
-        "name": "Кролик Момо: Большая погоня",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "twilight",
         "name": "Сумерки",
         "rating": 18,
@@ -108,6 +41,50 @@
         "length": 90
     },
     {
+        "filmId": "smart_rabbit_momo",
+        "name": "Кролик Момо: Большая погоня",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
+        "name": "Русалочка. Начало приключений",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -117,5 +94,16 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     }
 ]

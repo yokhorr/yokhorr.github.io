@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "smart_rabbit_momo",
-        "name": "Кролик Момо: Большая погоня",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "pervyj_na_olimpe",
         "name": "Первый на Олимпе",
         "rating": 12,
@@ -21,26 +9,6 @@
             "биография"
         ],
         "length": 110
-    },
-    {
-        "filmId": "serdceed",
-        "name": "Сердцеед",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
     },
     {
         "filmId": "good_boy",
@@ -62,6 +30,18 @@
         "length": 95
     },
     {
+        "filmId": "smart_rabbit_momo",
+        "name": "Кролик Момо: Большая погоня",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -71,5 +51,25 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "serdceed",
+        "name": "Сердцеед",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     }
 ]
