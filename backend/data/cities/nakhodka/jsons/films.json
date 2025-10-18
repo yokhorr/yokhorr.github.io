@@ -1,111 +1,5 @@
 [
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "bambi_the_reckoning",
-        "name": "Бэмби. Лесной кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "криминал",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "caught_stealing",
-        "name": "Пойман с поличным",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "svodish_s_uma",
-        "name": "Сводишь с ума",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -127,6 +21,17 @@
         "length": 80
     },
     {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "66600",
         "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
         "rating": 0,
@@ -137,6 +42,17 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "sketch",
@@ -157,6 +73,17 @@
             "триллер"
         ],
         "length": 122
+    },
+    {
+        "filmId": "roofman",
+        "name": "Грабитель с крыши",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "криминал",
+            "комедия"
+        ],
+        "length": 125
     },
     {
         "filmId": "miss_moxy",
@@ -181,6 +108,15 @@
         "length": 140
     },
     {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "nahimovcy_jantarnyj_bereg",
         "name": "Нахимовцы. Янтарный берег",
         "rating": 12,
@@ -190,6 +126,39 @@
             "приключения"
         ],
         "length": 90
+    },
+    {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
     },
     {
         "filmId": "the_conjuring_last_rites",
@@ -244,5 +213,36 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "bambi_the_reckoning",
+        "name": "Бэмби. Лесной кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "caught_stealing",
+        "name": "Пойман с поличным",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "svodish_s_uma",
+        "name": "Сводишь с ума",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама",
+            "фэнтези"
+        ],
+        "length": 100
     }
 ]
