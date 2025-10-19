@@ -1,58 +1,5 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "good_boy",
         "name": "Глазами пса",
         "rating": 16,
@@ -82,6 +29,28 @@
         "length": 125
     },
     {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "miss_moxy",
         "name": "Изумительная Мокси",
         "rating": 6,
@@ -91,6 +60,17 @@
             "приключения"
         ],
         "length": 85
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "smart_rabbit_momo",
@@ -126,5 +106,25 @@
             "биография"
         ],
         "length": 110
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
     }
 ]
