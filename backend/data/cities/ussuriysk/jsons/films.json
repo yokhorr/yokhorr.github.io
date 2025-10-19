@@ -1,45 +1,5 @@
 [
     {
-        "filmId": "the_conjuring_last_rites",
-        "name": "Заклятие 4: Последний обряд",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "pervyj_na_olimpe",
         "name": "Первый на Олимпе",
         "rating": 12,
@@ -83,6 +43,17 @@
         "length": 95
     },
     {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "kimetsu_no_yaiba_movie",
         "name": "Истребитель демонов: Бесконечная крепость",
         "rating": 16,
@@ -93,5 +64,34 @@
             "боевик"
         ],
         "length": 150
+    },
+    {
+        "filmId": "the_conjuring_last_rites",
+        "name": "Заклятие 4: Последний обряд",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
