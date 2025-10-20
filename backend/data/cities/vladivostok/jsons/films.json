@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "miss_moxy",
-        "name": "Изумительная Мокси",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -20,15 +9,6 @@
             "комедия"
         ],
         "length": 85
-    },
-    {
-        "filmId": "eden_2025",
-        "name": "Эдем",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 122
     },
     {
         "filmId": "avgust",
@@ -42,15 +22,13 @@
         "length": 140
     },
     {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
+        "filmId": "lermontov",
+        "name": "Лермонтов",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
+            "драма"
         ],
-        "length": 122
+        "length": 105
     },
     {
         "filmId": "pervyj_na_olimpe",
@@ -64,6 +42,148 @@
         "length": 110
     },
     {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "serdceed",
+        "name": "Сердцеед",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "belle_de_jour",
+        "name": "Дневная красавица",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 101
+    },
+    {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "currentzis_the_classical_reb",
+        "name": "Теодор Курентзис. Бунтарь от классики",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 55
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "svodish_s_uma",
+        "name": "Сводишь с ума",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мелодрама",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "bone_lake",
+        "name": "Опасные связи",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "roofman",
         "name": "Грабитель с крыши",
         "rating": 16,
@@ -73,6 +193,97 @@
             "комедия"
         ],
         "length": 125
+    },
+    {
+        "filmId": "eddington",
+        "name": "Эддингтон",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия",
+            "триллер",
+            "криминал"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "67161",
+        "name": "Айхал",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "bambi_the_reckoning",
+        "name": "Бэмби. Лесной кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "eden_2025",
+        "name": "Эдем",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "8ban_deguchi",
+        "name": "Выход 8",
+        "rating": 16,
+        "genres": [
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "miss_moxy",
+        "name": "Изумительная Мокси",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 85
     },
     {
         "filmId": "serafima",
@@ -152,69 +363,6 @@
         "length": 85
     },
     {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "lermontov",
-        "name": "Лермонтов",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_bad_guys_2",
         "name": "Плохие парни 2",
         "rating": 12,
@@ -230,15 +378,6 @@
         "length": 85
     },
     {
-        "filmId": "serdceed",
-        "name": "Сердцеед",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "django_unchained",
         "name": "Джанго освобожденный",
         "rating": 18,
@@ -249,145 +388,6 @@
             "комедия"
         ],
         "length": 165
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "belle_de_jour",
-        "name": "Дневная красавица",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 101
-    },
-    {
-        "filmId": "currentzis_the_classical_reb",
-        "name": "Теодор Курентзис. Бунтарь от классики",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 55
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
-        "filmId": "svodish_s_uma",
-        "name": "Сводишь с ума",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bone_lake",
-        "name": "Опасные связи",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "eddington",
-        "name": "Эддингтон",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия",
-            "триллер",
-            "криминал"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "67161",
-        "name": "Айхал",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "bambi_the_reckoning",
-        "name": "Бэмби. Лесной кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "8ban_deguchi",
-        "name": "Выход 8",
-        "rating": 16,
-        "genres": [
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "egon_schiele_self_portrait",
@@ -432,7 +432,7 @@
     },
     {
         "filmId": "32247",
-        "name": "Клуб «‎Кино и смыслы»: Особенные",
+        "name": "Клуб «Кино и смыслы»: Особенные",
         "rating": 18,
         "genres": [
             "драма",
@@ -536,13 +536,6 @@
             "документальный"
         ],
         "length": 86
-    },
-    {
-        "filmId": "53217",
-        "name": "Киномакс тест 2",
-        "rating": 0,
-        "genres": [],
-        "length": -1
     },
     {
         "filmId": "papiny_dochki_mama_vernulas",

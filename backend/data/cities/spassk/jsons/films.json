@@ -11,6 +11,15 @@
         "length": 85
     },
     {
+        "filmId": "bambi_the_reckoning",
+        "name": "Бэмби. Лесной кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "pervyj_na_olimpe",
         "name": "Первый на Олимпе",
         "rating": 12,
@@ -20,16 +29,6 @@
             "биография"
         ],
         "length": 110
-    },
-    {
-        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
-        "name": "Русалочка. Начало приключений",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
     },
     {
         "filmId": "miss_moxy",
@@ -43,12 +42,13 @@
         "length": 85
     },
     {
-        "filmId": "bambi_the_reckoning",
-        "name": "Бэмби. Лесной кошмар",
-        "rating": 18,
+        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
+        "name": "Русалочка. Начало приключений",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "приключения"
         ],
-        "length": 80
+        "length": 85
     }
 ]
