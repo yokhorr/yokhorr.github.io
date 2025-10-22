@@ -1,100 +1,5 @@
 [
     {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "bambi_the_reckoning",
-        "name": "Бэмби. Лесной кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "roofman",
-        "name": "Грабитель с крыши",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "криминал",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "caught_stealing",
-        "name": "Пойман с поличным",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "alisa_v_strane_chudes",
         "name": "Алиса в Стране Чудес",
         "rating": 6,
@@ -117,6 +22,15 @@
         "length": 50
     },
     {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -136,6 +50,16 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -171,6 +95,17 @@
         "length": 122
     },
     {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -180,6 +115,40 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "play_dirty",
+        "name": "Грязная игра",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
     },
     {
         "filmId": "the_lost_bus",
@@ -208,6 +177,15 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "bambi_the_reckoning",
+        "name": "Бэмби. Лесной кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
     },
     {
         "filmId": "miss_moxy",

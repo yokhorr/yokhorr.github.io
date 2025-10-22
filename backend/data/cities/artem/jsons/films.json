@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -73,6 +42,15 @@
         "length": 110
     },
     {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "black_phone_2",
         "name": "Чёрный телефон 2",
         "rating": 18,
@@ -89,5 +67,16 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     }
 ]

@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "play_dirty",
-        "name": "Грязная игра",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -90,5 +70,14 @@
             "мистика"
         ],
         "length": 120
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
