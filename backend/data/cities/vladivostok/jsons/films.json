@@ -1,14 +1,24 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
         ],
-        "length": 85
+        "length": 160
+    },
+    {
+        "filmId": "lermontov",
+        "name": "Лермонтов",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "tron_ares",
@@ -22,118 +32,6 @@
         "length": 122
     },
     {
-        "filmId": "lermontov",
-        "name": "Лермонтов",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "serdceed",
-        "name": "Сердцеед",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "67161",
-        "name": "Айхал",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_long_walk",
-        "name": "Долгая прогулка",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
         "filmId": "twilight_saga_breaking_dawn",
         "name": "Сумерки. Сага. Рассвет: часть 1",
         "rating": 18,
@@ -144,68 +42,6 @@
             "мелодрама"
         ],
         "length": 122
-    },
-    {
-        "filmId": "30931",
-        "name": "Арт-лекторий в кино: Палладио. Власть архитектуры",
-        "rating": 12,
-        "genres": [
-            "документальный"
-        ],
-        "length": 118
-    },
-    {
-        "filmId": "32247",
-        "name": "Клуб «Кино и смыслы»: Особенные",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 114
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "svodish_s_uma",
-        "name": "Сводишь с ума",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мелодрама",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
     },
     {
         "filmId": "roofman",
@@ -240,6 +76,16 @@
         "length": 95
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "play_dirty",
         "name": "Грязная игра",
         "rating": 18,
@@ -249,6 +95,17 @@
             "криминал"
         ],
         "length": 125
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
     },
     {
         "filmId": "interstellar",
@@ -280,6 +137,15 @@
         "length": 90
     },
     {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "eden_2025",
         "name": "Эдем",
         "rating": 18,
@@ -289,6 +155,37 @@
         "length": 122
     },
     {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "the_long_walk",
+        "name": "Долгая прогулка",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "8ban_deguchi",
         "name": "Выход 8",
         "rating": 16,
@@ -296,6 +193,38 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -348,6 +277,18 @@
         "length": 142
     },
     {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "noijeu",
         "name": "Паранормальное явление. Шум",
         "rating": 18,
@@ -355,6 +296,16 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
     },
     {
         "filmId": "silent_hill",
