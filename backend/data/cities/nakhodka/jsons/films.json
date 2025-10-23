@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -41,46 +10,14 @@
         "length": 97
     },
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ice_fall",
-        "name": "Ледяной предел",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
             "фэнтези",
-            "мелодрама"
+            "приключения"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "lermontov",
-        "name": "Лермонтов",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
+        "length": 110
     },
     {
         "filmId": "twilight_saga_breaking_dawn",
@@ -95,6 +32,17 @@
         "length": 122
     },
     {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "tron_ares",
         "name": "Трон: Арес",
         "rating": 12,
@@ -104,6 +52,15 @@
             "приключения"
         ],
         "length": 122
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
     },
     {
         "filmId": "avgust",
@@ -188,6 +145,18 @@
         "length": 80
     },
     {
+        "filmId": "66600",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "miss_moxy",
         "name": "Изумительная Мокси",
         "rating": 6,
@@ -197,6 +166,37 @@
             "приключения"
         ],
         "length": 85
+    },
+    {
+        "filmId": "ice_fall",
+        "name": "Ледяной предел",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "lermontov",
+        "name": "Лермонтов",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "the_conjuring_last_rites",
