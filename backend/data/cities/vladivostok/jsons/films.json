@@ -1,14 +1,23 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
+        "filmId": "gorynych",
+        "name": "Горыныч",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
+            "фэнтези",
+            "приключения"
         ],
-        "length": 85
+        "length": 97
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -21,26 +30,13 @@
         "length": 110
     },
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
+            "ужасы"
         ],
-        "length": 160
+        "length": 115
     },
     {
         "filmId": "tron_ares",
@@ -54,43 +50,15 @@
         "length": 122
     },
     {
-        "filmId": "noijeu",
-        "name": "Паранормальное явление. Шум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
         "rating": 16,
         "genres": [
-            "триллер",
-            "военный",
-            "история"
+            "фантастика",
+            "детектив",
+            "приключения"
         ],
-        "length": 140
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
+        "length": 170
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -103,57 +71,6 @@
             "боевик"
         ],
         "length": 150
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "pianist",
-        "name": "Пианист",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "silent_hill",
-        "name": "Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "Триллер / Ужасы"
-        ],
-        "length": 127
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
     },
     {
         "filmId": "dieced_reloaded",
@@ -194,6 +111,18 @@
         "length": 95
     },
     {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "pervyj_na_olimpe",
         "name": "Первый на Олимпе",
         "rating": 12,
@@ -205,6 +134,15 @@
         "length": 110
     },
     {
+        "filmId": "noijeu",
+        "name": "Паранормальное явление. Шум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "good_boy",
         "name": "Глазами пса",
         "rating": 16,
@@ -212,6 +150,28 @@
             "ужасы"
         ],
         "length": 75
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "66600",
@@ -243,6 +203,36 @@
             "фэнтези"
         ],
         "length": 142
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
+        "filmId": "silent_hill",
+        "name": "Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "Триллер / Ужасы"
+        ],
+        "length": 127
     },
     {
         "filmId": "67303",
