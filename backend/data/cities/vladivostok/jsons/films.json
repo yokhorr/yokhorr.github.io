@@ -1,5 +1,27 @@
 [
     {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -20,34 +42,27 @@
         "length": 110
     },
     {
-        "filmId": "noijeu",
-        "name": "Паранормальное явление. Шум",
-        "rating": 18,
+        "filmId": "66600",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
+        "rating": 0,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 95
+        "length": 50
     },
     {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
         "rating": 12,
         "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
+            "драма",
+            "спорт",
+            "биография"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
+        "length": 110
     },
     {
         "filmId": "black_phone_2",
@@ -59,26 +74,23 @@
         "length": 115
     },
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
+        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
+        "name": "Русалочка. Начало приключений",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "детектив",
+            "мультфильм",
             "приключения"
         ],
-        "length": 170
+        "length": 85
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези"
+        ],
+        "length": 142
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -93,6 +105,57 @@
         "length": 150
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
+        "filmId": "silent_hill",
+        "name": "Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "Триллер / Ужасы"
+        ],
+        "length": 127
+    },
+    {
         "filmId": "one_battle_after_another",
         "name": "Битва за битвой",
         "rating": 18,
@@ -103,6 +166,26 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "noijeu",
+        "name": "Паранормальное явление. Шум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "dieced_reloaded",
@@ -150,98 +233,6 @@
             "ужасы"
         ],
         "length": 75
-    },
-    {
-        "filmId": "67303",
-        "name": "АК Барс — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
-        "rating": 6,
-        "genres": [
-            "прямая трансляция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
-        "name": "Русалочка. Начало приключений",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези"
-        ],
-        "length": 142
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
-        "filmId": "silent_hill",
-        "name": "Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "Триллер / Ужасы"
-        ],
-        "length": 127
     },
     {
         "filmId": "matrica",
@@ -385,5 +376,14 @@
             "документальный"
         ],
         "length": 70
+    },
+    {
+        "filmId": "67312",
+        "name": "Beat Weekend 2025: Трезвое село",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 80
     }
 ]
