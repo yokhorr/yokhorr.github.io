@@ -10,6 +10,24 @@
         "length": 110
     },
     {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -19,26 +37,6 @@
             "комедия"
         ],
         "length": 85
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
     },
     {
         "filmId": "gorynych",
@@ -51,15 +49,6 @@
         "length": 97
     },
     {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "tron_ares",
         "name": "Трон: Арес",
         "rating": 12,
@@ -69,5 +58,16 @@
             "приключения"
         ],
         "length": 122
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     }
 ]
