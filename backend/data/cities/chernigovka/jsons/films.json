@@ -10,16 +10,6 @@
         "length": 110
     },
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -29,5 +19,15 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     }
 ]

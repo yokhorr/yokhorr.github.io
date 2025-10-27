@@ -1,5 +1,23 @@
 [
     {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "good_boy",
+        "name": "Глазами пса",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "alisa_v_strane_chudes",
         "name": "Алиса в Стране Чудес",
         "rating": 6,
@@ -21,17 +39,6 @@
         "length": 85
     },
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -40,24 +47,6 @@
             "приключения"
         ],
         "length": 97
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "good_boy",
-        "name": "Глазами пса",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
     },
     {
         "filmId": "tron_ares",
@@ -69,6 +58,17 @@
             "приключения"
         ],
         "length": 122
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "papiny_dochki_mama_vernulas",

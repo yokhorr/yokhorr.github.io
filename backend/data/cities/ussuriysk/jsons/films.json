@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "are_you_there",
+        "name": "Астрал. Свеча ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -9,6 +29,27 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -28,25 +69,5 @@
             "ужасы"
         ],
         "length": 115
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "are_you_there",
-        "name": "Астрал. Свеча ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]
