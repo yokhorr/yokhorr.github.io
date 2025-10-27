@@ -1,23 +1,25 @@
 [
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "приключения"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 97
+        "length": 140
     },
     {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "мелодрама"
+            "мультфильм",
+            "приключения",
+            "комедия"
         ],
-        "length": 130
+        "length": 85
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -30,55 +32,58 @@
         "length": 110
     },
     {
-        "filmId": "noijeu",
-        "name": "Паранормальное явление. Шум",
-        "rating": 18,
+        "filmId": "66600",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
+        "rating": 0,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 95
+        "length": 50
     },
     {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
         "rating": 12,
         "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
+            "драма",
+            "спорт",
+            "биография"
         ],
-        "length": 122
+        "length": 110
     },
     {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 16,
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "детектив",
+            "фэнтези",
             "приключения"
         ],
-        "length": 170
+        "length": 97
+    },
+    {
+        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
+        "name": "Русалочка. Начало приключений",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
@@ -93,6 +98,57 @@
         "length": 150
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
+    },
+    {
+        "filmId": "63162",
+        "name": "Формула 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "57973",
+        "name": "Театр им. Евг. Вахтангова: Павел I",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "silent_hill",
+        "name": "Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "one_battle_after_another",
         "name": "Битва за битвой",
         "rating": 18,
@@ -103,6 +159,55 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "50005",
+        "name": "Vivienne Westwood: Лекция Ярослава Михеева",
+        "rating": 16,
+        "genres": [
+            "лекция"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "noijeu",
+        "name": "Паранормальное явление. Шум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "dieced_reloaded",
@@ -150,111 +255,6 @@
             "ужасы"
         ],
         "length": 75
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
-        "name": "Русалочка. Начало приключений",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "57973",
-        "name": "Театр им. Евг. Вахтангова: Павел I",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "silent_hill",
-        "name": "Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "50005",
-        "name": "Vivienne Westwood: Лекция Ярослава Михеева",
-        "rating": 16,
-        "genres": [
-            "лекция"
-        ],
-        "length": 122
     },
     {
         "filmId": "twilight_saga_breaking_da",
@@ -421,5 +421,14 @@
             "мелодрама"
         ],
         "length": 80
+    },
+    {
+        "filmId": "67310",
+        "name": "Beat Weekend 2025: Ансельм. Шум времени",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 95
     }
 ]
