@@ -1,46 +1,5 @@
 [
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "twilight",
         "name": "Сумерки",
         "rating": 18,
@@ -91,6 +50,16 @@
         "length": 105
     },
     {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
         "filmId": "mazhor_v_dubae",
         "name": "Мажор в Дубае",
         "rating": 16,
@@ -99,6 +68,17 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "avgust",
@@ -121,5 +101,14 @@
             "криминал"
         ],
         "length": 125
+    },
+    {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
     }
 ]

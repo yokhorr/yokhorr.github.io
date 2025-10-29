@@ -1,59 +1,5 @@
 [
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "twilight_saga_breaking_dawn",
-        "name": "Сумерки. Сага. Рассвет: часть 1",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "триллер",
-            "драма",
-            "мелодрама"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "good_boy",
         "name": "Глазами пса",
         "rating": 16,
@@ -63,24 +9,12 @@
         "length": 75
     },
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
+            "фэнтези",
+            "приключения"
         ],
         "length": 110
     },
@@ -94,6 +28,17 @@
             "криминал"
         ],
         "length": 125
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "one_battle_after_another",
@@ -157,6 +102,16 @@
         "length": 50
     },
     {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -177,6 +132,40 @@
         "length": 90
     },
     {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "twilight_saga_breaking_dawn",
+        "name": "Сумерки. Сага. Рассвет: часть 1",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "триллер",
+            "драма",
+            "мелодрама"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "brat_navsegda",
         "name": "Брат навсегда",
         "rating": 16,
@@ -184,6 +173,17 @@
             "документальный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "twilight_saga_breaking_da",
