@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -42,16 +31,25 @@
         "length": 110
     },
     {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 50
+        "length": 140
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 120
     },
     {
         "filmId": "pervyj_na_olimpe",
@@ -65,39 +63,6 @@
         "length": 110
     },
     {
-        "filmId": "xiao_mei_ren_yu_de_qi_huan_mao",
-        "name": "Русалочка. Начало приключений",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "kimetsu_no_yaiba_movie",
-        "name": "Истребитель демонов: Бесконечная крепость",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "dracula_a_love_tale",
         "name": "Дракула",
         "rating": 18,
@@ -106,16 +71,6 @@
             "мелодрама"
         ],
         "length": 130
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 120
     },
     {
         "filmId": "63162",
@@ -212,6 +167,18 @@
         "length": 170
     },
     {
+        "filmId": "kimetsu_no_yaiba_movie",
+        "name": "Истребитель демонов: Бесконечная крепость",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "dieced_reloaded",
         "name": "Хэллоуин '86",
         "rating": 18,
@@ -291,6 +258,18 @@
         "length": 75
     },
     {
+        "filmId": "66600",
+        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "garri_potter_i_tajnaja_komnata",
         "name": "Гарри Поттер и тайная комната",
         "rating": 12,
@@ -300,6 +279,17 @@
             "семейный"
         ],
         "length": 160
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "shell",
@@ -315,7 +305,7 @@
     {
         "filmId": "brat_navsegda",
         "name": "Брат навсегда",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "документальный"
         ],
@@ -442,6 +432,27 @@
         "length": 140
     },
     {
+        "filmId": "zhanpjer_ponnel_rigoletto",
+        "name": "Жан-Пьер Поннель: Риголетто",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "музыка"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "nouvelle_vague",
+        "name": "Новая волна",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия",
+            "биография"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "annie_hall",
         "name": "Энни Холл",
         "rating": 12,
@@ -450,6 +461,27 @@
             "комедия"
         ],
         "length": 93
+    },
+    {
+        "filmId": "cyrano_de_bergerac_2022",
+        "name": "МХТ им. А. П. Чехова: Сирано де Бержерак",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "67588",
+        "name": "Анатолий Белкин. Высокая вода",
+        "rating": 18,
+        "genres": [
+            "документальный",
+            "биография"
+        ],
+        "length": 96
     },
     {
         "filmId": "67309",
@@ -507,6 +539,16 @@
         "length": 80
     },
     {
+        "filmId": "teatr_v_kino_voskresenie",
+        "name": "Александринский театр: Воскресение",
+        "rating": 18,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "67310",
         "name": "Beat Weekend 2025: Ансельм. Шум времени",
         "rating": 18,
@@ -514,6 +556,17 @@
             "документальный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "munch_i_helvete",
+        "name": "Арт-Лекторий в кино: Мунк в аду",
+        "rating": 18,
+        "genres": [
+            "документальный",
+            "биография",
+            "искусство"
+        ],
+        "length": 75
     },
     {
         "filmId": "67487",
