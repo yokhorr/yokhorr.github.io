@@ -1,5 +1,33 @@
 [
     {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "night_of_the_reaper",
+        "name": "Хэллоуин. Ночной Кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -65,16 +93,6 @@
         "length": 130
     },
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -84,23 +102,5 @@
             "история"
         ],
         "length": 140
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "night_of_the_reaper",
-        "name": "Хэллоуин. Ночной Кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     }
 ]
