@@ -1,13 +1,14 @@
 [
     {
-        "filmId": "she_rides_shotgun",
-        "name": "Детка на драйве",
-        "rating": 18,
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "драма"
+            "мультфильм",
+            "приключения",
+            "комедия"
         ],
-        "length": 122
+        "length": 85
     },
     {
         "filmId": "gorynych",
@@ -40,28 +41,6 @@
         "length": 110
     },
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "shell",
-        "name": "Оболочка",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -70,149 +49,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "the_revenant",
-        "name": "Выживший",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "приключения",
-            "вестерн"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "night_of_the_reaper",
-        "name": "Хэллоуин. Ночной Кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "shelby_oaks",
-        "name": "Шелби Оукс. Город-призрак",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "silent_hill",
-        "name": "Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "детектив",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "sirat",
-        "name": "Сират",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "osiris",
-        "name": "Хищник: Миссия «Осирис»",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "67304",
-        "name": "Салават Юлаев — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
-        "rating": 6,
-        "genres": [
-            "прямая трансляция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
     },
     {
         "filmId": "67596",
@@ -240,6 +76,28 @@
         "length": 75
     },
     {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "garri_potter_i_tajnaja_komnata",
         "name": "Гарри Поттер и тайная комната",
         "rating": 12,
@@ -262,6 +120,16 @@
         "length": 140
     },
     {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "twilight",
         "name": "Сумерки",
         "rating": 18,
@@ -272,6 +140,29 @@
         "length": 120
     },
     {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "shell",
+        "name": "Оболочка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "brat_navsegda",
         "name": "Брат навсегда",
         "rating": 16,
@@ -279,6 +170,17 @@
             "документальный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "63162",
@@ -305,6 +207,64 @@
         "length": 130
     },
     {
+        "filmId": "she_rides_shotgun",
+        "name": "Детка на драйве",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "the_revenant",
+        "name": "Выживший",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "приключения",
+            "вестерн"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "night_of_the_reaper",
+        "name": "Хэллоуин. Ночной Кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "shelby_oaks",
+        "name": "Шелби Оукс. Город-призрак",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "silent_hill",
+        "name": "Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "kimetsu_no_yaiba_movie",
         "name": "Истребитель демонов: Бесконечная крепость",
         "rating": 16,
@@ -317,6 +277,26 @@
         "length": 150
     },
     {
+        "filmId": "osiris",
+        "name": "Хищник: Миссия «Осирис»",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "sirat",
+        "name": "Сират",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "67305",
         "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
         "rating": 6,
@@ -324,6 +304,17 @@
             "прямая трансляция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "ado_special_live",
@@ -489,5 +480,14 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "45281",
+        "name": "Металлург — Амур. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
+        "rating": 6,
+        "genres": [
+            "прямая трансляция"
+        ],
+        "length": 180
     }
 ]
