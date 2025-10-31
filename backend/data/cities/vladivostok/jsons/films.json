@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
         "genres": [
-            "мультфильм",
             "приключения",
             "комедия"
         ],
-        "length": 85
+        "length": 90
     },
     {
         "filmId": "gorynych",
@@ -21,14 +20,25 @@
         "length": 97
     },
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
         "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
             "приключения",
             "комедия"
         ],
-        "length": 90
+        "length": 85
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -41,49 +51,14 @@
         "length": 110
     },
     {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "семейный"
+            "ужасы",
+            "мелодрама"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "jurassic_cops_the_movie",
-        "name": "Патруль Дино: В поисках древнего динозавра",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
+        "length": 130
     },
     {
         "filmId": "avgust",
@@ -95,38 +70,6 @@
             "история"
         ],
         "length": 140
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
     },
     {
         "filmId": "twilight",
@@ -160,6 +103,17 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "brat_navsegda",
@@ -324,6 +278,40 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "jurassic_cops_the_movie",
+        "name": "Патруль Дино: В поисках древнего динозавра",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "kimetsu_no_yaiba_movie",
