@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -20,15 +10,14 @@
         "length": 97
     },
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
         "genres": [
-            "мультфильм",
             "приключения",
             "комедия"
         ],
-        "length": 85
+        "length": 90
     },
     {
         "filmId": "papiny_dochki_mama_vernulas",
@@ -41,13 +30,24 @@
         "length": 105
     },
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
         "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
             "приключения",
             "комедия"
         ],
-        "length": 90
+        "length": 85
     }
 ]
