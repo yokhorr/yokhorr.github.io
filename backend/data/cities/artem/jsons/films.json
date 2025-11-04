@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "mazhor_v_dubae",
         "name": "Мажор в Дубае",
         "rating": 16,
@@ -19,38 +8,6 @@
             "комедия"
         ],
         "length": 90
-    },
-    {
-        "filmId": "brat_navsegda",
-        "name": "Брат навсегда",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
     },
     {
         "filmId": "black_phone_2",
@@ -102,6 +59,16 @@
         "length": 105
     },
     {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "pervyj_na_olimpe",
         "name": "Первый на Олимпе",
         "rating": 12,
@@ -111,5 +78,29 @@
             "биография"
         ],
         "length": 110
+    },
+    {
+        "filmId": "new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     }
 ]
