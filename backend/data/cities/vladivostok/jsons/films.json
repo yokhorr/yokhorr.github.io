@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -19,16 +8,6 @@
             "приключения"
         ],
         "length": 97
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -41,6 +20,27 @@
         "length": 110
     },
     {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -49,31 +49,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "jurassic_cops_the_movie",
-        "name": "Патруль Дино: В поисках древнего динозавра",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
     },
     {
         "filmId": "pervyj_na_olimpe",
@@ -85,49 +60,6 @@
             "биография"
         ],
         "length": 110
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
     },
     {
         "filmId": "twilight",
@@ -150,6 +82,27 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "zhanpjer_ponnel_rigoletto",
@@ -215,6 +168,17 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "the_revenant",
@@ -307,6 +271,15 @@
         "length": 110
     },
     {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "hopper_et_le_secret_de_la_marm",
         "name": "Кролецып и Сурок Времени",
         "rating": 6,
@@ -317,6 +290,30 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "le_cercle_rouge",
+        "name": "Красный круг",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 135
     },
     {
         "filmId": "nash_papa_ded_moroz",
@@ -340,13 +337,13 @@
         "length": 95
     },
     {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
+        "filmId": "moj_syn",
+        "name": "Мой сын",
         "rating": 18,
         "genres": [
-            "триллер"
+            "драма"
         ],
-        "length": -1
+        "length": 85
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -358,6 +355,36 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ognennyj_malchik",
+        "name": "Огненный мальчик",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
     },
     {
         "filmId": "poputchiki",
@@ -380,13 +407,23 @@
         "length": 105
     },
     {
-        "filmId": "moj_syn",
-        "name": "Мой сын",
+        "filmId": "bugonia",
+        "name": "Бугония",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "frankenstein_legacy",
+        "name": "Франкенштейн: Воскрешение",
         "rating": 18,
         "genres": [
-            "драма"
+            "ужасы"
         ],
-        "length": 85
+        "length": 100
     },
     {
         "filmId": "annie_hall",
@@ -408,6 +445,16 @@
             "комедия"
         ],
         "length": -1
+    },
+    {
+        "filmId": "pursuit_of_happyness",
+        "name": "В погоне за счастьем",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 117
     },
     {
         "filmId": "67588",
@@ -589,5 +636,15 @@
             "документальный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "en_man_som_heter_ove",
+        "name": "Вторая жизнь Уве",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 116
     }
 ]

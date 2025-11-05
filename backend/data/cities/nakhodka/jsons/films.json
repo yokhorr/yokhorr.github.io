@@ -1,15 +1,34 @@
 [
     {
-        "filmId": "66600",
-        "name": "МУЛЬТ в кино. Выпуск №187. Команда чудес",
-        "rating": 0,
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
         "genres": [
-            "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 50
+        "length": 90
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "gorynych",
@@ -30,93 +49,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "twilight_saga_breaking_dawn",
-        "name": "Сумерки. Сага. Рассвет: часть 1",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "триллер",
-            "драма",
-            "мелодрама"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "brat_navsegda",
-        "name": "Брат навсегда",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
     },
     {
         "filmId": "twilight_saga_breaking_da",
@@ -204,5 +136,141 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "campamento_garra_de_oso",
+        "name": "Пушистые каникулы",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "nash_papa_ded_moroz",
+        "name": "Наш папа – Дед Мороз",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "poputchiki",
+        "name": "Попутчики",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ognennyj_malchik",
+        "name": "Огненный мальчик",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "transformers",
+        "name": "Трансформеры",
+        "rating": 12,
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "frankenstein_legacy",
+        "name": "Франкенштейн: Воскрешение",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]

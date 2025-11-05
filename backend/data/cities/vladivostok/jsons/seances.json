@@ -1,888 +1,6 @@
 [
     {
         "date": "05.11",
-        "time": "10:00",
-        "filmId": "finnik_2",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMDUgMTA6MDA6MDA7NjY0MzU="
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "finnik_2",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA1IDEwOjAwOjAwOzY2NDM1"
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "finnik_2",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNSAxMDowMDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "finnik_2",
-        "theatre": "Океан IMAX",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA1IDEwOjAwOjAwOzY2NDM1"
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "gorynych",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA1IDEwOjAwOjAwOzY2MTY4"
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "gorynych",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNSAxMDowMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "gorynych",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA1IDEwOjAwOjAwOzY2MTY4"
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "mazhor_v_dubae",
-        "theatre": "Уссури",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNSAxMDowMDowMDs2NzE5OQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Океан IMAX",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA1IDEwOjAwOjAwOzY2NDc3"
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Уссури",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNSAxMDowMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "67596",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNSAxMDowMDowMDs2NzU5Ng=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:00",
-        "filmId": "jurassic_cops_the_movie",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNSAxMDowMDowMDs2NzYwNA=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:10",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNSAxMDoxMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:10",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Уссури",
-        "cost": 100,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNSAxMDoxMDowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:15",
-        "filmId": "finnik_2",
-        "theatre": "Уссури",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNSAxMDoxNTowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:15",
-        "filmId": "finnik_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNSAxMDoxNTowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:15",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNSAxMDoxNTowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:15",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTA1IDEwOjE1OjAwOzY3MTk1"
-    },
-    {
-        "date": "05.11",
-        "time": "10:20",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0wNSAxMDoyMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:30",
-        "filmId": "finnik_2",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0wNSAxMDozMDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:30",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNSAxMDozMDowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:30",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Океан IMAX",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA1IDEwOjMwOjAwOzY3MTk1"
-    },
-    {
-        "date": "05.11",
-        "time": "10:30",
-        "filmId": "jurassic_cops_the_movie",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA1IDEwOjMwOjAwOzY3NjA0"
-    },
-    {
-        "date": "05.11",
-        "time": "10:40",
-        "filmId": "pervyj_na_olimpe",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 660,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0xMS0wNSAxMDo0MDowMDs2NjQ3Ng=="
-    },
-    {
-        "date": "05.11",
-        "time": "10:50",
-        "filmId": "gorynych",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0wNSAxMDo1MDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:00",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0xMS0wNSAxMTowMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:00",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Владивосток",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0wNSAxMTowMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:05",
-        "filmId": "avgust",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0wNSAxMTowNTowMDs2NjE2NA=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:05",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNSAxMTowNTowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:30",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 860,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNSAxMTozMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:35",
-        "filmId": "avgust",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNSAxMTozNTowMDs2NjE2NA=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:45",
-        "filmId": "gorynych",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMDUgMTE6NDU6MDA7NjYxNjg="
-    },
-    {
-        "date": "05.11",
-        "time": "11:55",
-        "filmId": "finnik_2",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNSAxMTo1NTowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "11:55",
-        "filmId": "finnik_2",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA1IDExOjU1OjAwOzY2NDM1"
-    },
-    {
-        "date": "05.11",
-        "time": "12:00",
-        "filmId": "finnik_2",
-        "theatre": "Уссури",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNSAxMjowMDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:00",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Уссури",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNSAxMjowMDowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:00",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA1IDEyOjAwOjAwOzY2NDc3"
-    },
-    {
-        "date": "05.11",
-        "time": "12:00",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNSAxMjowMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:05",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNSAxMjowNTowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:10",
-        "filmId": "finnik_2",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNSAxMjoxMDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:10",
-        "filmId": "finnik_2",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA1IDEyOjEwOjAwOzY2NDM1"
-    },
-    {
-        "date": "05.11",
-        "time": "12:10",
-        "filmId": "finnik_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNSAxMjoxMDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:10",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA1IDEyOjEwOjAwOzY3MTk1"
-    },
-    {
-        "date": "05.11",
-        "time": "12:10",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Океан IMAX",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA1IDEyOjEwOjAwOzY3MTk1"
-    },
-    {
-        "date": "05.11",
-        "time": "12:20",
-        "filmId": "gorynych",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0wNSAxMjoyMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:20",
-        "filmId": "gorynych",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTA1IDEyOjIwOjAwOzY2MTY4"
-    },
-    {
-        "date": "05.11",
-        "time": "12:20",
-        "filmId": "gorynych",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA1IDEyOjIwOjAwOzY2MTY4"
-    },
-    {
-        "date": "05.11",
-        "time": "12:20",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNSAxMjoyMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:25",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNSAxMjoyNTowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:30",
-        "filmId": "gorynych",
-        "theatre": "Уссури",
-        "cost": 150,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNSAxMjozMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:30",
-        "filmId": "mazhor_v_dubae",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA1IDEyOjMwOjAwOzY3MTk5"
-    },
-    {
-        "date": "05.11",
-        "time": "12:30",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0wNSAxMjozMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:35",
-        "filmId": "gorynych",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNSAxMjozNTowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "12:50",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0wNSAxMjo1MDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:00",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0xMS0wNSAxMzowMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:00",
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0wNSAxMzowMDowMDsxMDYwOQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:05",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNSAxMzowNTowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:05",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNSAxMzowNTowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:10",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0xMS0wNSAxMzoxMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:40",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMDUgMTM6NDA6MDA7NjcxOTU="
-    },
-    {
-        "date": "05.11",
-        "time": "13:40",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNSAxMzo0MDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:50",
-        "filmId": "avgust",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0wNSAxMzo1MDowMDs2NjE2NA=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:50",
-        "filmId": "finnik_2",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNSAxMzo1MDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "13:50",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA1IDEzOjUwOjAwOzY3MTk1"
-    },
-    {
-        "date": "05.11",
-        "time": "14:00",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Уссури",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNSAxNDowMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:00",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Уссури",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNSAxNDowMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:05",
-        "filmId": "avgust",
-        "theatre": "Уссури",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNSAxNDowNTowMDs2NjE2NA=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:10",
-        "filmId": "finnik_2",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA1IDE0OjEwOjAwOzY2NDM1"
-    },
-    {
-        "date": "05.11",
-        "time": "14:10",
-        "filmId": "pervyj_na_olimpe",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNSAxNDoxMDowMDs2NjQ3Ng=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:15",
-        "filmId": "gorynych",
-        "theatre": "Иллюзион",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA1IDE0OjE1OjAwOzY2MTY4"
-    },
-    {
-        "date": "05.11",
-        "time": "14:15",
-        "filmId": "gorynych",
-        "theatre": "Океан IMAX",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA1IDE0OjE1OjAwOzY2MTY4"
-    },
-    {
-        "date": "05.11",
-        "time": "14:20",
-        "filmId": "avgust",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA1IDE0OjIwOjAwOzY2MTY0"
-    },
-    {
-        "date": "05.11",
-        "time": "14:20",
-        "filmId": "finnik_2",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0wNSAxNDoyMDowMDs2NjQzNQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:25",
-        "filmId": "gorynych",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNSAxNDoyNTowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:25",
-        "filmId": "pervyj_na_olimpe",
-        "theatre": "Уссури",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNSAxNDoyNTowMDs2NjQ3Ng=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:25",
-        "filmId": "pervyj_na_olimpe",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNSAxNDoyNTowMDs2NjQ3Ng=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:25",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTA1IDE0OjI1OjAwOzY2NDc3"
-    },
-    {
-        "date": "05.11",
-        "time": "14:25",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA1IDE0OjI1OjAwOzY2NDc3"
-    },
-    {
-        "date": "05.11",
-        "time": "14:30",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNSAxNDozMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:35",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNSAxNDozNTowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:40",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNSAxNDo0MDowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:40",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0wNSAxNDo0MDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:45",
-        "filmId": "gorynych",
-        "theatre": "Уссури",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNSAxNDo0NTowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:45",
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0wNSAxNDo0NTowMDsxMDE4OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "14:55",
-        "filmId": "finnik_2",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA1IDE0OjU1OjAwOzY2NDM1"
-    },
-    {
-        "date": "05.11",
-        "time": "15:05",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNSAxNTowNTowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "15:10",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0xMS0wNSAxNToxMDowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "05.11",
-        "time": "15:20",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0xMS0wNSAxNToyMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "15:30",
-        "filmId": "gorynych",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMDUgMTU6MzA6MDA7NjYxNjg="
-    },
-    {
-        "date": "05.11",
-        "time": "15:40",
-        "filmId": "mazhor_v_dubae",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNSAxNTo0MDowMDs2NzE5OQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "15:45",
-        "filmId": "avgust",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA1IDE1OjQ1OjAwOzY2MTY0"
-    },
-    {
-        "date": "05.11",
-        "time": "15:45",
-        "filmId": "mazhor_v_dubae",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNSAxNTo0NTowMDs2NzE5OQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "15:50",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNSAxNTo1MDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "16:00",
-        "filmId": "gorynych",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0wNSAxNjowMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "16:00",
-        "filmId": "mazhor_v_dubae",
-        "theatre": "Уссури",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNSAxNjowMDowMDs2NzE5OQ=="
-    },
-    {
-        "date": "05.11",
-        "time": "16:10",
-        "filmId": "gorynych",
-        "theatre": "Уссури",
-        "cost": 1100,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNSAxNjoxMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "05.11",
-        "time": "16:10",
-        "filmId": "mazhor_v_dubae",
-        "theatre": "Иллюзион",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA1IDE2OjEwOjAwOzY3MTk5"
-    },
-    {
-        "date": "05.11",
-        "time": "16:10",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0wNSAxNjoxMDowMDs2NzE5NQ=="
-    },
-    {
-        "date": "05.11",
         "time": "16:30",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
@@ -1846,6 +964,78 @@
     },
     {
         "date": "06.11",
+        "time": "09:50",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDA5OjUwOjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "09:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNiAwOTo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "09:50",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Уссури",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAwOTo1MDowMDs2NzE5NQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDEwOjAwOjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAxMDowMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "finnik_2",
+        "theatre": "Океан IMAX",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDEwOjAwOjAwOzY2NDM1"
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAxMDowMDowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Океан IMAX",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDEwOjAwOjAwOzY3MjAz"
+    },
+    {
+        "date": "06.11",
         "time": "10:00",
         "filmId": "hopper_et_le_secret_de_la_marm",
         "theatre": "Москва",
@@ -1855,12 +1045,93 @@
     },
     {
         "date": "06.11",
+        "time": "10:00",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Уссури",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAxMDowMDowMDs2ODA5MA=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAxMDowMDowMDs2ODA5MA=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Океан IMAX",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDEwOjAwOjAwOzY3MTk1"
+    },
+    {
+        "date": "06.11",
+        "time": "10:00",
+        "filmId": "67596",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAxMDowMDowMDs2NzU5Ng=="
+    },
+    {
+        "date": "06.11",
         "time": "10:10",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
         "cost": 780,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNiAxMDoxMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAxMDoxMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDEwOjEwOjAwOzY2NDc3"
+    },
+    {
+        "date": "06.11",
+        "time": "10:15",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAxMDoxNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "10:15",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDEwOjE1OjAwOzY4MDkw"
+    },
+    {
+        "date": "06.11",
+        "time": "10:15",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDEwOjE1OjAwOzY3MTk1"
     },
     {
         "date": "06.11",
@@ -1918,6 +1189,15 @@
     },
     {
         "date": "06.11",
+        "time": "11:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAxMTowNTowMDs2NzE5NQ=="
+    },
+    {
+        "date": "06.11",
         "time": "11:15",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Владивосток",
@@ -1963,6 +1243,132 @@
     },
     {
         "date": "06.11",
+        "time": "11:50",
+        "filmId": "le_cercle_rouge",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAxMTo1MDowMDs2MTkzNQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "11:55",
+        "filmId": "finnik_2",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAxMTo1NTowMDs2NjQzNQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "11:55",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDExOjU1OjAwOzY4MDkw"
+    },
+    {
+        "date": "06.11",
+        "time": "11:55",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Океан IMAX",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDExOjU1OjAwOzY3MTk1"
+    },
+    {
+        "date": "06.11",
+        "time": "12:00",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDEyOjAwOjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "12:00",
+        "filmId": "finnik_2",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAxMjowMDowMDs2NjQzNQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:00",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNiAxMjowMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:05",
+        "filmId": "nash_papa_ded_moroz",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAxMjowNTowMDs2ODA4OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:10",
+        "filmId": "finnik_2",
+        "theatre": "Иллюзион",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDEyOjEwOjAwOzY2NDM1"
+    },
+    {
+        "date": "06.11",
+        "time": "12:10",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDEyOjEwOjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
+        "time": "12:10",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDEyOjEwOjAwOzY3MTk1"
+    },
+    {
+        "date": "06.11",
+        "time": "12:15",
+        "filmId": "avgust",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAxMjoxNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:15",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDEyOjE1OjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "12:15",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNiAxMjoxNTowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
         "time": "12:20",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Киномакс-Сапфир",
@@ -1973,11 +1379,47 @@
     {
         "date": "06.11",
         "time": "12:30",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNiAxMjozMDowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:30",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAxMjozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:30",
+        "filmId": "nash_papa_ded_moroz",
+        "theatre": "Иллюзион",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDEyOjMwOjAwOzY4MDg5"
+    },
+    {
+        "date": "06.11",
+        "time": "12:30",
         "filmId": "nash_papa_ded_moroz",
         "theatre": "Киномакс-Сапфир",
         "cost": 840,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNiAxMjozMDowMDs2ODA4OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "12:35",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAxMjozNTowMDs2NjE2OA=="
     },
     {
         "date": "06.11",
@@ -2014,6 +1456,15 @@
         "cost": 500,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNiAxMzowMDowMDs2NzE5NQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "13:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAxMzowNTowMDs2NzE5NQ=="
     },
     {
         "date": "06.11",
@@ -2062,12 +1513,102 @@
     },
     {
         "date": "06.11",
+        "time": "13:50",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAxMzo1MDowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
+        "time": "13:50",
+        "filmId": "avgust",
+        "theatre": "Океан IMAX",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDEzOjUwOjAwOzY2MTY0"
+    },
+    {
+        "date": "06.11",
+        "time": "14:00",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDE0OjAwOjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
         "time": "14:00",
         "filmId": "golosovoj_pomoshnik",
         "theatre": "Киномакс-Сапфир",
         "cost": 480,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNiAxNDowMDowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:00",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAxNDowMDowMDs2ODA5MA=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:05",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAxNDowNTowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:05",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Океан IMAX",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDE0OjA1OjAwOzY2NDc3"
+    },
+    {
+        "date": "06.11",
+        "time": "14:05",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDE0OjA1OjAwOzY4MDkw"
+    },
+    {
+        "date": "06.11",
+        "time": "14:15",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDE0OjE1OjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "14:20",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNiAxNDoyMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:20",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDE0OjIwOjAwOzY2NDc3"
     },
     {
         "date": "06.11",
@@ -2081,11 +1622,56 @@
     {
         "date": "06.11",
         "time": "14:30",
+        "filmId": "avgust",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDE0OjMwOjAwOzY2MTY0"
+    },
+    {
+        "date": "06.11",
+        "time": "14:30",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNiAxNDozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:30",
         "filmId": "alisa_v_strane_chudes",
         "theatre": "Киномакс-Сапфир",
         "cost": 1020,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNiAxNDozMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:30",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Уссури",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAxNDozMDowMDs2NzE5NQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:35",
+        "filmId": "moj_syn",
+        "theatre": "Океан IMAX",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDE0OjM1OjAwOzY4MDg4"
+    },
+    {
+        "date": "06.11",
+        "time": "14:35",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAxNDozNTowMDs2NjQ3Nw=="
     },
     {
         "date": "06.11",
@@ -2095,6 +1681,15 @@
         "cost": 480,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0wNiAxNDo0MDowMDs2NjQzNQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "14:40",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAxNDo0MDowMDs2NjQ3Nw=="
     },
     {
         "date": "06.11",
@@ -2122,6 +1717,24 @@
         "cost": 700,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0wNiAxNTowMDowMDsxMDEyNw=="
+    },
+    {
+        "date": "06.11",
+        "time": "15:05",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAxNTowNTowMDs2NjQ3Ng=="
+    },
+    {
+        "date": "06.11",
+        "time": "15:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAxNTowNTowMDs2NzE5NQ=="
     },
     {
         "date": "06.11",
@@ -2153,6 +1766,15 @@
     {
         "date": "06.11",
         "time": "15:30",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Уссури",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNiAxNTozMDowMDs2NjQ3Ng=="
+    },
+    {
+        "date": "06.11",
+        "time": "15:30",
         "filmId": "alisa_v_strane_chudes",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
@@ -2170,6 +1792,24 @@
     },
     {
         "date": "06.11",
+        "time": "16:00",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAxNjowMDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:05",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDE2OjA1OjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
         "time": "16:10",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
@@ -2179,12 +1819,102 @@
     },
     {
         "date": "06.11",
+        "time": "16:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAxNjoxMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Океан IMAX",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDE2OjEwOjAwOzY2NDc3"
+    },
+    {
+        "date": "06.11",
         "time": "16:20",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0wNiAxNjoyMDowMDs2NzE5NQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:25",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNiAxNjoyNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:25",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Иллюзион",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDE2OjI1OjAwOzY2NDc3"
+    },
+    {
+        "date": "06.11",
+        "time": "16:25",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDE2OjI1OjAwOzY3MTk1"
+    },
+    {
+        "date": "06.11",
+        "time": "16:30",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAxNjozMDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:30",
+        "filmId": "world_breaker",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDE2OjMwOjAwOzY4MDk3"
+    },
+    {
+        "date": "06.11",
+        "time": "16:35",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNiAxNjozNTowMDs2NjQ3Ng=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:40",
+        "filmId": "ognennyj_malchik",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAxNjo0MDowMDs2ODEwMQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:40",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDE2OjQwOjAwOzY3MjAz"
     },
     {
         "date": "06.11",
@@ -2206,12 +1936,39 @@
     },
     {
         "date": "06.11",
+        "time": "16:40",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDE2OjQwOjAwOzY3MTk1"
+    },
+    {
+        "date": "06.11",
         "time": "16:50",
         "filmId": "mazhor_v_dubae",
         "theatre": "Киномакс-Сапфир",
         "cost": 1020,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNiAxNjo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "16:55",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAxNjo1NTowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "17:00",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAxNzowMDowMDs2NjE2OA=="
     },
     {
         "date": "06.11",
@@ -2233,6 +1990,15 @@
     },
     {
         "date": "06.11",
+        "time": "17:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAxNzowNTowMDs2NzE5NQ=="
+    },
+    {
+        "date": "06.11",
         "time": "17:15",
         "filmId": "garri_potter_i_tajnaja_komnata",
         "theatre": "Владивосток",
@@ -2248,6 +2014,24 @@
         "cost": 620,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNiAxNzoyMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "17:20",
+        "filmId": "poputchiki",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAxNzoyMDowMDs2ODA5MQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "17:20",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDE3OjIwOjAwOzY3MjAz"
     },
     {
         "date": "06.11",
@@ -2270,6 +2054,15 @@
     {
         "date": "06.11",
         "time": "17:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNiAxNzo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "17:50",
         "filmId": "alisa_v_strane_chudes",
         "theatre": "Киномакс-Сапфир",
         "cost": 670,
@@ -2287,12 +2080,66 @@
     },
     {
         "date": "06.11",
+        "time": "18:25",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAxODoyNTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "18:25",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDE4OjI1OjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
+        "time": "18:30",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAxODozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
         "time": "18:30",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNiAxODozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "18:35",
+        "filmId": "avgust",
+        "theatre": "Океан IMAX",
+        "cost": 440,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDE4OjM1OjAwOzY2MTY0"
+    },
+    {
+        "date": "06.11",
+        "time": "18:35",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDE4OjM1OjAwOzY2NDc2"
+    },
+    {
+        "date": "06.11",
+        "time": "18:35",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDE4OjM1OjAwOzY2NDc3"
     },
     {
         "date": "06.11",
@@ -2314,6 +2161,60 @@
     },
     {
         "date": "06.11",
+        "time": "18:40",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDE4OjQwOjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
+        "time": "18:50",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDE4OjUwOjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "18:50",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDE4OjUwOjAwOzY2MTY4"
+    },
+    {
+        "date": "06.11",
+        "time": "18:50",
+        "filmId": "tron_ares",
+        "theatre": "Уссури",
+        "cost": 1200,
+        "is3d": true,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNiAxODo1MDowMDs2NjU5NQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "18:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAxODo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "18:55",
+        "filmId": "shell",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAxODo1NTowMDs2NzYwMw=="
+    },
+    {
+        "date": "06.11",
         "time": "19:00",
         "filmId": "nash_papa_ded_moroz",
         "theatre": "Киномакс-Сапфир",
@@ -2332,6 +2233,42 @@
     },
     {
         "date": "06.11",
+        "time": "19:05",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAxOTowNTowMDs2NTk4MQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "19:05",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAxOTowNTowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "19:05",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAxOTowNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "19:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAxOToxMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "06.11",
         "time": "19:20",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Киномакс-Сапфир",
@@ -2347,6 +2284,15 @@
         "cost": 670,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNiAxOTozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "19:30",
+        "filmId": "poputchiki",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDE5OjMwOjAwOzY4MDkx"
     },
     {
         "date": "06.11",
@@ -2404,6 +2350,15 @@
     },
     {
         "date": "06.11",
+        "time": "20:25",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 1200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNiAyMDoyNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
         "time": "20:30",
         "filmId": "poputchiki",
         "theatre": "Владивосток",
@@ -2422,12 +2377,66 @@
     },
     {
         "date": "06.11",
+        "time": "20:35",
+        "filmId": "avgust",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAyMDozNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
         "time": "20:40",
         "filmId": "mazhor_v_dubae",
         "theatre": "Киномакс-Сапфир",
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNiAyMDo0MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "20:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAyMDo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "20:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDIwOjUwOjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
+        "time": "20:50",
+        "filmId": "world_breaker",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDIwOjUwOjAwOzY4MDk3"
+    },
+    {
+        "date": "06.11",
+        "time": "20:55",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDIwOjU1OjAwOzY1OTgx"
+    },
+    {
+        "date": "06.11",
+        "time": "20:55",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDIwOjU1OjAwOzY3MjAz"
     },
     {
         "date": "06.11",
@@ -2440,12 +2449,84 @@
     },
     {
         "date": "06.11",
+        "time": "21:05",
+        "filmId": "avgust",
+        "theatre": "Иллюзион",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDIxOjA1OjAwOzY2MTY0"
+    },
+    {
+        "date": "06.11",
+        "time": "21:05",
+        "filmId": "bugonia",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAyMTowNTowMDs2ODEwNw=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:15",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAyMToxNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:15",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDIxOjE1OjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
         "time": "21:20",
         "filmId": "nouvelle_vague",
         "theatre": "Киномакс-Сапфир",
         "cost": 1100,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNiAyMToyMDowMDs2NzQzMg=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:20",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDIxOjIwOjAwOzY3MjAz"
+    },
+    {
+        "date": "06.11",
+        "time": "21:20",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAyMToyMDowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:25",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 1200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNiAyMToyNTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:25",
+        "filmId": "world_breaker",
+        "theatre": "Уссури",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAyMToyNTowMDs2ODA5Nw=="
     },
     {
         "date": "06.11",
@@ -2458,12 +2539,48 @@
     },
     {
         "date": "06.11",
+        "time": "21:30",
+        "filmId": "tron_ares",
+        "theatre": "Океан IMAX",
+        "cost": 440,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDIxOjMwOjAwOzY2NTk1"
+    },
+    {
+        "date": "06.11",
+        "time": "21:30",
+        "filmId": "tron_ares",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAyMTozMDowMDs2NjU5NQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:30",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNiAyMTozMDowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
         "time": "21:40",
         "filmId": "moj_syn",
         "theatre": "Киномакс-Сапфир",
         "cost": 650,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNiAyMTo0MDowMDs2ODA4OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "21:45",
+        "filmId": "world_breaker",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAyMTo0NTowMDs2ODA5Nw=="
     },
     {
         "date": "06.11",
@@ -2521,12 +2638,75 @@
     },
     {
         "date": "06.11",
+        "time": "23:00",
+        "filmId": "one_battle_after_another",
+        "theatre": "Океан IMAX",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA2IDIzOjAwOjAwOzY2NDg5"
+    },
+    {
+        "date": "06.11",
+        "time": "23:00",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA2IDIzOjAwOjAwOzY1OTgx"
+    },
+    {
+        "date": "06.11",
         "time": "23:10",
         "filmId": "avgust",
         "theatre": "Киномакс-Сапфир",
         "cost": 450,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNiAyMzoxMDowMDs2NjE2NA=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:15",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNiAyMzoxNTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:15",
+        "filmId": "world_breaker",
+        "theatre": "Океан IMAX",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA2IDIzOjE1OjAwOzY4MDk3"
+    },
+    {
+        "date": "06.11",
+        "time": "23:20",
+        "filmId": "shell",
+        "theatre": "Уссури",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNiAyMzoyMDowMDs2NzYwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:25",
+        "filmId": "frankenstein_legacy",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNiAyMzoyNTowMDs2ODA5OA=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:30",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNiAyMzozMDowMDs2NTk4MQ=="
     },
     {
         "date": "06.11",
@@ -2539,6 +2719,42 @@
     },
     {
         "date": "06.11",
+        "time": "23:30",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA2IDIzOjMwOjAwOzY3MjAz"
+    },
+    {
+        "date": "06.11",
+        "time": "23:35",
+        "filmId": "black_phone_2",
+        "theatre": "Океан IMAX",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA2IDIzOjM1OjAwOzY3MDM1"
+    },
+    {
+        "date": "06.11",
+        "time": "23:35",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNiAyMzozNTowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:40",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA2IDIzOjQwOjAwOzY3MTk5"
+    },
+    {
+        "date": "06.11",
         "time": "23:40",
         "filmId": "night_of_the_reaper",
         "theatre": "Киномакс-Сапфир",
@@ -2548,12 +2764,147 @@
     },
     {
         "date": "06.11",
+        "time": "23:45",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNiAyMzo0NTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:45",
+        "filmId": "world_breaker",
+        "theatre": "Уссури",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNiAyMzo0NTowMDs2ODA5Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:50",
+        "filmId": "poputchiki",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNiAyMzo1MDowMDs2ODA5MQ=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:50",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNiAyMzo1MDowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
         "time": "23:50",
         "filmId": "golosovoj_pomoshnik",
         "theatre": "Киномакс-Сапфир",
         "cost": 530,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNiAyMzo1MDowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:59",
+        "filmId": "world_breaker",
+        "theatre": "Иллюзион",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA2IDIzOjU5OjAwOzY4MDk3"
+    },
+    {
+        "date": "06.11",
+        "time": "23:59",
+        "filmId": "world_breaker",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNiAyMzo1OTowMDs2ODA5Nw=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:59",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNiAyMzo1OTowMDs2NzIwMw=="
+    },
+    {
+        "date": "06.11",
+        "time": "23:59",
+        "filmId": "night_of_the_reaper",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA2IDIzOjU5OjAwOzY3MTk3"
+    },
+    {
+        "date": "07.11",
+        "time": "09:50",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 220,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDA5OjUwOjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "09:50",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Уссури",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAwOTo1MDowMDs2NzE5NQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDEwOjAwOjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAxMDowMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "finnik_2",
+        "theatre": "Океан IMAX",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDEwOjAwOjAwOzY2NDM1"
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAxMDowMDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAxMDowMDowMDs2NzIwMw=="
     },
     {
         "date": "07.11",
@@ -2566,12 +2917,93 @@
     },
     {
         "date": "07.11",
+        "time": "10:00",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Уссури",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAxMDowMDowMDs2ODA5MA=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAxMDowMDowMDs2ODA5MA=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Океан IMAX",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDEwOjAwOjAwOzY3MTk1"
+    },
+    {
+        "date": "07.11",
+        "time": "10:00",
+        "filmId": "67596",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAxMDowMDowMDs2NzU5Ng=="
+    },
+    {
+        "date": "07.11",
         "time": "10:10",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
         "cost": 780,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNyAxMDoxMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAxMDoxMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDEwOjEwOjAwOzY2NDc3"
+    },
+    {
+        "date": "07.11",
+        "time": "10:15",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAxMDoxNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "10:15",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDEwOjE1OjAwOzY4MDkw"
+    },
+    {
+        "date": "07.11",
+        "time": "10:15",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Иллюзион",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDEwOjE1OjAwOzY3MTk1"
     },
     {
         "date": "07.11",
@@ -2638,6 +3070,15 @@
     },
     {
         "date": "07.11",
+        "time": "11:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 210,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAxMTowNTowMDs2NzE5NQ=="
+    },
+    {
+        "date": "07.11",
         "time": "11:15",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Владивосток",
@@ -2674,6 +3115,123 @@
     },
     {
         "date": "07.11",
+        "time": "11:50",
+        "filmId": "le_cercle_rouge",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAxMTo1MDowMDs2MTkzNQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "11:55",
+        "filmId": "finnik_2",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAxMTo1NTowMDs2NjQzNQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "11:55",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDExOjU1OjAwOzY4MDkw"
+    },
+    {
+        "date": "07.11",
+        "time": "11:55",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Океан IMAX",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDExOjU1OjAwOzY3MTk1"
+    },
+    {
+        "date": "07.11",
+        "time": "12:00",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDEyOjAwOjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "12:00",
+        "filmId": "finnik_2",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAxMjowMDowMDs2NjQzNQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:00",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNyAxMjowMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:05",
+        "filmId": "nash_papa_ded_moroz",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAxMjowNTowMDs2ODA4OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:10",
+        "filmId": "finnik_2",
+        "theatre": "Иллюзион",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDEyOjEwOjAwOzY2NDM1"
+    },
+    {
+        "date": "07.11",
+        "time": "12:10",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDEyOjEwOjAwOzY3MTk1"
+    },
+    {
+        "date": "07.11",
+        "time": "12:15",
+        "filmId": "avgust",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAxMjoxNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:15",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDEyOjE1OjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "12:15",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA3IDEyOjE1OjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
         "time": "12:20",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Киномакс-Сапфир",
@@ -2692,12 +3250,57 @@
     },
     {
         "date": "07.11",
+        "time": "12:25",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAxMjoyNTowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:30",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNyAxMjozMDowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:30",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAxMjozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:30",
+        "filmId": "nash_papa_ded_moroz",
+        "theatre": "Иллюзион",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDEyOjMwOjAwOzY4MDg5"
+    },
+    {
+        "date": "07.11",
         "time": "12:30",
         "filmId": "nash_papa_ded_moroz",
         "theatre": "Киномакс-Сапфир",
         "cost": 840,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNyAxMjozMDowMDs2ODA4OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "12:35",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAxMjozNTowMDs2NjE2OA=="
     },
     {
         "date": "07.11",
@@ -2737,6 +3340,15 @@
     },
     {
         "date": "07.11",
+        "time": "13:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 270,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAxMzowNTowMDs2NzE5NQ=="
+    },
+    {
+        "date": "07.11",
         "time": "13:10",
         "filmId": "alisa_v_strane_chudes",
         "theatre": "Киномакс-Сапфир",
@@ -2773,6 +3385,33 @@
     },
     {
         "date": "07.11",
+        "time": "13:50",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAxMzo1MDowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
+        "time": "13:50",
+        "filmId": "avgust",
+        "theatre": "Океан IMAX",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDEzOjUwOjAwOzY2MTY0"
+    },
+    {
+        "date": "07.11",
+        "time": "14:00",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDE0OjAwOjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
         "time": "14:00",
         "filmId": "golosovoj_pomoshnik",
         "theatre": "Киномакс-Сапфир",
@@ -2782,12 +3421,75 @@
     },
     {
         "date": "07.11",
+        "time": "14:00",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAxNDowMDowMDs2ODA5MA=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:05",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAxNDowNTowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:05",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Океан IMAX",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDE0OjA1OjAwOzY2NDc3"
+    },
+    {
+        "date": "07.11",
+        "time": "14:05",
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDE0OjA1OjAwOzY4MDkw"
+    },
+    {
+        "date": "07.11",
         "time": "14:15",
         "filmId": "gorynych",
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0wNyAxNDoxNTowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:15",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDE0OjE1OjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "14:20",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNyAxNDoyMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:20",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDE0OjIwOjAwOzY2NDc3"
     },
     {
         "date": "07.11",
@@ -2801,11 +3503,56 @@
     {
         "date": "07.11",
         "time": "14:30",
+        "filmId": "avgust",
+        "theatre": "Иллюзион",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDE0OjMwOjAwOzY2MTY0"
+    },
+    {
+        "date": "07.11",
+        "time": "14:30",
         "filmId": "alisa_v_strane_chudes",
         "theatre": "Киномакс-Сапфир",
         "cost": 1020,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNyAxNDozMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:30",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Уссури",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAxNDozMDowMDs2NzE5NQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:35",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAxNDozNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:40",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAxNDo0MDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:40",
+        "filmId": "moj_syn",
+        "theatre": "Океан IMAX",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA3IDE0OjQwOjAwOzY4MDg4"
     },
     {
         "date": "07.11",
@@ -2815,6 +3562,15 @@
         "cost": 480,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0wNyAxNDo0MDowMDs2NjQzNQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "14:40",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAxNDo0MDowMDs2NjQ3Nw=="
     },
     {
         "date": "07.11",
@@ -2845,6 +3601,24 @@
     },
     {
         "date": "07.11",
+        "time": "15:05",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAxNTowNTowMDs2NjQ3Ng=="
+    },
+    {
+        "date": "07.11",
+        "time": "15:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAxNTowNTowMDs2NzE5NQ=="
+    },
+    {
+        "date": "07.11",
         "time": "15:10",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
@@ -2860,6 +3634,15 @@
         "cost": 250,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMDcgMTU6MTU6MDA7NjcxOTU="
+    },
+    {
+        "date": "07.11",
+        "time": "15:30",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Уссури",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNyAxNTozMDowMDs2NjQ3Ng=="
     },
     {
         "date": "07.11",
@@ -2881,12 +3664,48 @@
     },
     {
         "date": "07.11",
+        "time": "16:00",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAxNjowMDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:05",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDE2OjA1OjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
         "time": "16:10",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNyAxNjoxMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAxNjoxMDowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Океан IMAX",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDE2OjEwOjAwOzY2NDc3"
     },
     {
         "date": "07.11",
@@ -2908,6 +3727,69 @@
     },
     {
         "date": "07.11",
+        "time": "16:25",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNyAxNjoyNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:25",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Иллюзион",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDE2OjI1OjAwOzY2NDc3"
+    },
+    {
+        "date": "07.11",
+        "time": "16:25",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDE2OjI1OjAwOzY3MTk1"
+    },
+    {
+        "date": "07.11",
+        "time": "16:30",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAxNjozMDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:35",
+        "filmId": "world_breaker",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA3IDE2OjM1OjAwOzY4MDk3"
+    },
+    {
+        "date": "07.11",
+        "time": "16:40",
+        "filmId": "ognennyj_malchik",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAxNjo0MDowMDs2ODEwMQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:40",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDE2OjQwOjAwOzY3MjAz"
+    },
+    {
+        "date": "07.11",
         "time": "16:40",
         "filmId": "nash_papa_ded_moroz",
         "theatre": "Владивосток",
@@ -2926,12 +3808,48 @@
     },
     {
         "date": "07.11",
+        "time": "16:40",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDE2OjQwOjAwOzY3MTk1"
+    },
+    {
+        "date": "07.11",
+        "time": "16:45",
+        "filmId": "nouvelle_vague",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAxNjo0NTowMDs2NzQzMg=="
+    },
+    {
+        "date": "07.11",
         "time": "16:50",
         "filmId": "mazhor_v_dubae",
         "theatre": "Киномакс-Сапфир",
         "cost": 1020,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNyAxNjo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "16:55",
+        "filmId": "gorynych",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAxNjo1NTowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "17:00",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAxNzowMDowMDs2NjE2OA=="
     },
     {
         "date": "07.11",
@@ -2953,12 +3871,39 @@
     },
     {
         "date": "07.11",
+        "time": "17:05",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAxNzowNTowMDs2NzE5NQ=="
+    },
+    {
+        "date": "07.11",
         "time": "17:20",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNyAxNzoyMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "17:20",
+        "filmId": "poputchiki",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAxNzoyMDowMDs2ODA5MQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "17:20",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDE3OjIwOjAwOzY3MjAz"
     },
     {
         "date": "07.11",
@@ -2981,6 +3926,15 @@
     {
         "date": "07.11",
         "time": "17:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 1100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNyAxNzo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "17:50",
         "filmId": "alisa_v_strane_chudes",
         "theatre": "Киномакс-Сапфир",
         "cost": 720,
@@ -2998,12 +3952,57 @@
     },
     {
         "date": "07.11",
+        "time": "18:25",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAxODoyNTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "18:25",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Океан IMAX",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDE4OjI1OjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
+        "time": "18:30",
+        "filmId": "gorynych",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAxODozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
         "time": "18:30",
         "filmId": "gorynych",
         "theatre": "Киномакс-Сапфир",
         "cost": 600,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNyAxODozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "18:35",
+        "filmId": "avgust",
+        "theatre": "Океан IMAX",
+        "cost": 510,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDE4OjM1OjAwOzY2MTY0"
+    },
+    {
+        "date": "07.11",
+        "time": "18:35",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDE4OjM1OjAwOzY2NDc2"
     },
     {
         "date": "07.11",
@@ -3025,12 +4024,120 @@
     },
     {
         "date": "07.11",
+        "time": "18:40",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDE4OjQwOjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
+        "time": "18:40",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Океан IMAX",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA3IDE4OjQwOjAwOzY2NDc3"
+    },
+    {
+        "date": "07.11",
+        "time": "18:50",
+        "filmId": "gorynych",
+        "theatre": "Иллюзион",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDE4OjUwOjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "18:50",
+        "filmId": "gorynych",
+        "theatre": "Океан IMAX",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDE4OjUwOjAwOzY2MTY4"
+    },
+    {
+        "date": "07.11",
+        "time": "18:50",
+        "filmId": "tron_ares",
+        "theatre": "Уссури",
+        "cost": 1400,
+        "is3d": true,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNyAxODo1MDowMDs2NjU5NQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "18:50",
+        "filmId": "pervyj_na_olimpe",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAxODo1MDowMDs2NjQ3Ng=="
+    },
+    {
+        "date": "07.11",
+        "time": "18:55",
+        "filmId": "shell",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAxODo1NTowMDs2NzYwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "19:00",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAxOTowMDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
         "time": "19:00",
         "filmId": "nash_papa_ded_moroz",
         "theatre": "Киномакс-Сапфир",
         "cost": 580,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNyAxOTowMDowMDs2ODA4OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "19:05",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAxOTowNTowMDs2NTk4MQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "19:05",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAxOTowNTowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "19:05",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Уссури",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAxOTowNTowMDs2NjQ3Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "19:10",
+        "filmId": "alisa_v_strane_chudes",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAxOToxMDowMDs2NjQ3Nw=="
     },
     {
         "date": "07.11",
@@ -3058,6 +4165,15 @@
         "cost": 720,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNyAxOTozMDowMDs2NjE2OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "19:30",
+        "filmId": "poputchiki",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDE5OjMwOjAwOzY4MDkx"
     },
     {
         "date": "07.11",
@@ -3106,6 +4222,15 @@
     },
     {
         "date": "07.11",
+        "time": "20:25",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 1400,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNyAyMDoyNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
         "time": "20:30",
         "filmId": "poputchiki",
         "theatre": "Владивосток",
@@ -3124,12 +4249,57 @@
     },
     {
         "date": "07.11",
+        "time": "20:35",
+        "filmId": "avgust",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAyMDozNTowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
         "time": "20:40",
         "filmId": "mazhor_v_dubae",
         "theatre": "Киномакс-Сапфир",
         "cost": 600,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNyAyMDo0MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "20:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAyMDo1MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "20:50",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Океан IMAX",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDIwOjUwOjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
+        "time": "20:50",
+        "filmId": "world_breaker",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDIwOjUwOjAwOzY4MDk3"
+    },
+    {
+        "date": "07.11",
+        "time": "20:55",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Океан IMAX",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDIwOjU1OjAwOzY3MjAz"
     },
     {
         "date": "07.11",
@@ -3142,12 +4312,102 @@
     },
     {
         "date": "07.11",
+        "time": "21:00",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Океан IMAX",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA3IDIxOjAwOjAwOzY1OTgx"
+    },
+    {
+        "date": "07.11",
+        "time": "21:05",
+        "filmId": "avgust",
+        "theatre": "Иллюзион",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDIxOjA1OjAwOzY2MTY0"
+    },
+    {
+        "date": "07.11",
+        "time": "21:05",
+        "filmId": "bugonia",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAyMTowNTowMDs2ODEwNw=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:10",
+        "filmId": "avgust",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAyMToxMDowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:15",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDIxOjE1OjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
         "time": "21:20",
         "filmId": "nouvelle_vague",
         "theatre": "Киномакс-Сапфир",
         "cost": 1200,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0wNyAyMToyMDowMDs2NzQzMg=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:20",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDIxOjIwOjAwOzY3MjAz"
+    },
+    {
+        "date": "07.11",
+        "time": "21:20",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAyMToyMDowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:25",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 1400,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNyAyMToyNTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:25",
+        "filmId": "world_breaker",
+        "theatre": "Уссури",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAyMToyNTowMDs2ODA5Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:25",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAyMToyNTowMDs2NzIwMw=="
     },
     {
         "date": "07.11",
@@ -3160,12 +4420,39 @@
     },
     {
         "date": "07.11",
+        "time": "21:30",
+        "filmId": "tron_ares",
+        "theatre": "Океан IMAX",
+        "cost": 510,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDIxOjMwOjAwOzY2NTk1"
+    },
+    {
+        "date": "07.11",
+        "time": "21:30",
+        "filmId": "tron_ares",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAyMTozMDowMDs2NjU5NQ=="
+    },
+    {
+        "date": "07.11",
         "time": "21:40",
         "filmId": "moj_syn",
         "theatre": "Киномакс-Сапфир",
         "cost": 700,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0wNyAyMTo0MDowMDs2ODA4OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "21:45",
+        "filmId": "world_breaker",
+        "theatre": "Черёмушки",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAyMTo0NTowMDs2ODA5Nw=="
     },
     {
         "date": "07.11",
@@ -3232,12 +4519,75 @@
     },
     {
         "date": "07.11",
+        "time": "23:00",
+        "filmId": "one_battle_after_another",
+        "theatre": "Океан IMAX",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI1LTExLTA3IDIzOjAwOjAwOzY2NDg5"
+    },
+    {
+        "date": "07.11",
+        "time": "23:00",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Иллюзион",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI1LTExLTA3IDIzOjAwOjAwOzY1OTgx"
+    },
+    {
+        "date": "07.11",
         "time": "23:10",
         "filmId": "avgust",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0wNyAyMzoxMDowMDs2NjE2NA=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:15",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Черёмушки",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0wNyAyMzoxNTowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:15",
+        "filmId": "world_breaker",
+        "theatre": "Океан IMAX",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI1LTExLTA3IDIzOjE1OjAwOzY4MDk3"
+    },
+    {
+        "date": "07.11",
+        "time": "23:20",
+        "filmId": "shell",
+        "theatre": "Уссури",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0wNyAyMzoyMDowMDs2NzYwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:25",
+        "filmId": "frankenstein_legacy",
+        "theatre": "Черёмушки",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0wNyAyMzoyNTowMDs2ODA5OA=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:30",
+        "filmId": "dracula_a_love_tale",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0wNyAyMzozMDowMDs2NTk4MQ=="
     },
     {
         "date": "07.11",
@@ -3250,6 +4600,51 @@
     },
     {
         "date": "07.11",
+        "time": "23:30",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Иллюзион",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI1LTExLTA3IDIzOjMwOjAwOzY3MjAz"
+    },
+    {
+        "date": "07.11",
+        "time": "23:35",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Черёмушки",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0wNyAyMzozNTowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:40",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Уссури",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0wNyAyMzo0MDowMDs2NzE5OQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:40",
+        "filmId": "mazhor_v_dubae",
+        "theatre": "Иллюзион",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTA3IDIzOjQwOjAwOzY3MTk5"
+    },
+    {
+        "date": "07.11",
+        "time": "23:40",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Океан IMAX",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI1LTExLTA3IDIzOjQwOjAwOzY3MjAz"
+    },
+    {
+        "date": "07.11",
         "time": "23:40",
         "filmId": "night_of_the_reaper",
         "theatre": "Киномакс-Сапфир",
@@ -3259,12 +4654,75 @@
     },
     {
         "date": "07.11",
+        "time": "23:45",
+        "filmId": "world_breaker",
+        "theatre": "Уссури",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0wNyAyMzo0NTowMDs2ODA5Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:50",
+        "filmId": "poputchiki",
+        "theatre": "Черёмушки",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0wNyAyMzo1MDowMDs2ODA5MQ=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:50",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0wNyAyMzo1MDowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
         "time": "23:50",
         "filmId": "golosovoj_pomoshnik",
         "theatre": "Киномакс-Сапфир",
         "cost": 580,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0wNyAyMzo1MDowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:59",
+        "filmId": "world_breaker",
+        "theatre": "Иллюзион",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI1LTExLTA3IDIzOjU5OjAwOzY4MDk3"
+    },
+    {
+        "date": "07.11",
+        "time": "23:59",
+        "filmId": "world_breaker",
+        "theatre": "Черёмушки",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0wNyAyMzo1OTowMDs2ODA5Nw=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:59",
+        "filmId": "golosovoj_pomoshnik",
+        "theatre": "Уссури",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0wNyAyMzo1OTowMDs2NzIwMw=="
+    },
+    {
+        "date": "07.11",
+        "time": "23:59",
+        "filmId": "night_of_the_reaper",
+        "theatre": "Океан IMAX",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI1LTExLTA3IDIzOjU5OjAwOzY3MTk3"
     },
     {
         "date": "08.11",
@@ -5140,6 +6598,15 @@
     },
     {
         "date": "10.11",
+        "time": "18:30",
+        "filmId": "annie_hall",
+        "theatre": "Уссури",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0xMCAxODozMDowMDs0ODI0Mg=="
+    },
+    {
+        "date": "10.11",
         "time": "18:35",
         "filmId": "papiny_dochki_mama_vernulas",
         "theatre": "Владивосток",
@@ -5884,6 +7351,15 @@
         "cost": 530,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0xMSAxOTowMDowMDs2ODA4OQ=="
+    },
+    {
+        "date": "11.11",
+        "time": "19:00",
+        "filmId": "pursuit_of_happyness",
+        "theatre": "Иллюзион",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTExIDE5OjAwOjAwOzE1NTU5"
     },
     {
         "date": "11.11",
@@ -6982,5 +8458,14 @@
         "cost": 420,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNiAxOTowMDowMDs2NzY1NQ=="
+    },
+    {
+        "date": "26.11",
+        "time": "19:00",
+        "filmId": "en_man_som_heter_ove",
+        "theatre": "Иллюзион",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI1LTExLTI2IDE5OjAwOjAwOzIxMzkz"
     }
 ]
