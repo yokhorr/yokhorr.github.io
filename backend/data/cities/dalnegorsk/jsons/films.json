@@ -1,44 +1,5 @@
 [
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "night_of_the_reaper",
-        "name": "Хэллоуин. Ночной Кошмар",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "hopper_et_le_secret_de_la_marm",
         "name": "Кролецып и Сурок Времени",
         "rating": 6,
@@ -62,6 +23,16 @@
         "length": 85
     },
     {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -72,6 +43,26 @@
         "length": 97
     },
     {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "golosovoj_pomoshnik",
         "name": "Голосовой помощник",
         "rating": 18,
@@ -79,5 +70,14 @@
             "триллер"
         ],
         "length": -1
+    },
+    {
+        "filmId": "night_of_the_reaper",
+        "name": "Хэллоуин. Ночной Кошмар",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
