@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "gabbys_dollhouse_the_movie",
-        "name": "Волшебный домик Габби в кино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "мюзикл",
-            "фэнтези",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "bugonia",
         "name": "Бугония",
         "rating": 16,
@@ -29,16 +17,6 @@
             "триллер"
         ],
         "length": -1
-    },
-    {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
     },
     {
         "filmId": "finnik_2",
@@ -94,6 +72,18 @@
         "length": 105
     },
     {
+        "filmId": "gabbys_dollhouse_the_movie",
+        "name": "Волшебный домик Габби в кино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "мюзикл",
+            "фэнтези",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "mazhor_v_dubae",
         "name": "Мажор в Дубае",
         "rating": 16,
@@ -102,5 +92,15 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
     }
 ]
