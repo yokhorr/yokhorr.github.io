@@ -1,48 +1,5 @@
 [
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "mazhor_v_dubae",
         "name": "Мажор в Дубае",
         "rating": 16,
@@ -70,5 +27,48 @@
             "триллер"
         ],
         "length": -1
+    },
+    {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
     }
 ]
