@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "bugonia",
-        "name": "Бугония",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -50,6 +31,16 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "bugonia",
+        "name": "Бугония",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 122
     },
     {
         "filmId": "world_breaker",
@@ -102,5 +93,14 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
     }
 ]
