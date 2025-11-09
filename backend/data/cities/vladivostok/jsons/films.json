@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
+            "фэнтези",
+            "приключения"
         ],
-        "length": 85
+        "length": 110
     },
     {
         "filmId": "papiny_dochki_mama_vernulas",
@@ -41,146 +40,6 @@
         "length": 90
     },
     {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "le_cercle_rouge",
-        "name": "Красный круг",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "nash_papa_ded_moroz",
-        "name": "Наш папа – Дед Мороз",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "kpop_demon_hunters",
-        "name": "Кей-поп. Охотницы на демонов",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "боевик"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "moj_syn",
-        "name": "Мой сын",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "nouvelle_vague",
-        "name": "Новая волна",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия",
-            "биография"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
-    },
-    {
         "filmId": "world_breaker",
         "name": "Разрушитель миров",
         "rating": 16,
@@ -198,6 +57,27 @@
             "драма"
         ],
         "length": 100
+    },
+    {
+        "filmId": "nash_papa_ded_moroz",
+        "name": "Наш папа – Дед Мороз",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "garri_potter_i_filosofskij_kamen",
@@ -218,6 +98,26 @@
             "комедия"
         ],
         "length": 80
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "shell",
@@ -298,6 +198,15 @@
         "length": 122
     },
     {
+        "filmId": "moj_syn",
+        "name": "Мой сын",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "kimetsu_no_yaiba_movie",
         "name": "Истребитель демонов: Бесконечная крепость",
         "rating": 16,
@@ -329,6 +238,17 @@
         "length": 125
     },
     {
+        "filmId": "nouvelle_vague",
+        "name": "Новая волна",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия",
+            "биография"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "night_of_the_reaper",
         "name": "Хэллоуин. Ночной Кошмар",
         "rating": 18,
@@ -345,6 +265,86 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "le_cercle_rouge",
+        "name": "Красный круг",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "kpop_demon_hunters",
+        "name": "Кей-поп. Охотницы на демонов",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "боевик"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
     },
     {
         "filmId": "annie_hall",
@@ -520,6 +520,13 @@
             "искусство"
         ],
         "length": 75
+    },
+    {
+        "filmId": "42713",
+        "name": "Киномакс тест 4",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "67487",
