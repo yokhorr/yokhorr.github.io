@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "golosovoj_pomoshnik",
         "name": "Голосовой помощник",
         "rating": 18,
@@ -61,6 +41,16 @@
         "length": 105
     },
     {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "finnik_2",
         "name": "Финник 2",
         "rating": 6,
@@ -70,5 +60,15 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
     }
 ]
