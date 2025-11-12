@@ -1,46 +1,25 @@
 [
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
             "комедия"
         ],
-        "length": 90
+        "length": 85
     },
     {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
+        "filmId": "transformers",
+        "name": "Трансформеры",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
+            "боевик",
             "приключения",
-            "фэнтези"
+            "фантастика"
         ],
-        "length": 50
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
+        "length": 150
     },
     {
         "filmId": "gorynych",
@@ -53,29 +32,35 @@
         "length": 97
     },
     {
-        "filmId": "campamento_garra_de_oso",
-        "name": "Пушистые каникулы",
-        "rating": 6,
+        "filmId": "twilight_saga_breaking_da",
+        "name": "Сумерки. Сага. Рассвет: Часть 2",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "приключения"
         ],
-        "length": 95
+        "length": 112
     },
     {
-        "filmId": "the_twits",
-        "name": "Свинтусы",
-        "rating": 6,
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "мюзикл",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
+            "триллер"
         ],
-        "length": 100
+        "length": -1
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "hopper_et_le_secret_de_la_marm",
@@ -90,85 +75,25 @@
         "length": 90
     },
     {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "nash_papa_ded_moroz",
-        "name": "Наш папа – Дед Мороз",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "poputchiki",
-        "name": "Попутчики",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
         "rating": 6,
         "genres": [
-            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "campamento_garra_de_oso",
+        "name": "Пушистые каникулы",
+        "rating": 6,
+        "genres": [
+            "комедия",
             "приключения",
-            "комедия"
+            "семейный"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "ognennyj_malchik",
-        "name": "Огненный мальчик",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "transformers",
-        "name": "Трансформеры",
-        "rating": 12,
-        "genres": [
-            "боевик",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "twilight_saga_breaking_da",
-        "name": "Сумерки. Сага. Рассвет: Часть 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "приключения"
-        ],
-        "length": 112
+        "length": 95
     },
     {
         "filmId": "garri_potter_i_filosofskij_kamen",
@@ -204,6 +129,15 @@
         "length": 110
     },
     {
+        "filmId": "poputchiki",
+        "name": "Попутчики",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "frankenstein_legacy",
         "name": "Франкенштейн: Воскрешение",
         "rating": 18,
@@ -233,6 +167,16 @@
         "length": 110
     },
     {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "tron_ares",
         "name": "Трон: Арес",
         "rating": 12,
@@ -253,5 +197,96 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "nash_papa_ded_moroz",
+        "name": "Наш папа – Дед Мороз",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [],
+        "length": 150
     }
 ]
