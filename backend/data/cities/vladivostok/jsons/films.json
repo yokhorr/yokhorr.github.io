@@ -1,54 +1,5 @@
 [
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ognennyj_malchik",
-        "name": "Огненный мальчик",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "golosovoj_pomoshnik",
         "name": "Голосовой помощник",
         "rating": 18,
@@ -56,68 +7,6 @@
             "триллер"
         ],
         "length": -1
-    },
-    {
-        "filmId": "nash_papa_ded_moroz",
-        "name": "Наш папа – Дед Мороз",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "nouvelle_vague",
-        "name": "Новая волна",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия",
-            "биография"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "poputchiki",
-        "name": "Попутчики",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 80
     },
     {
         "filmId": "avgust",
@@ -131,36 +20,53 @@
         "length": 140
     },
     {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
+        "filmId": "poputchiki",
+        "name": "Попутчики",
         "rating": 12,
         "genres": [
-            "драма",
-            "спорт",
-            "биография"
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
         ],
         "length": 110
     },
     {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "bugonia",
+        "name": "Бугония",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фантастика"
         ],
         "length": 122
     },
     {
-        "filmId": "67588",
-        "name": "Анатолий Белкин. Высокая вода",
-        "rating": 18,
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
         "genres": [
-            "документальный",
-            "биография"
+            "фантастика",
+            "боевик"
         ],
-        "length": 96
+        "length": 100
     },
     {
         "filmId": "dracula_a_love_tale",
@@ -173,40 +79,6 @@
         "length": 130
     },
     {
-        "filmId": "new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "63162",
-        "name": "Формула 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "bugonia",
-        "name": "Бугония",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "one_battle_after_another",
         "name": "Битва за битвой",
         "rating": 18,
@@ -217,6 +89,17 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "tron_ares",
+        "name": "Трон: Арес",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
     },
     {
         "filmId": "moj_syn",
@@ -245,6 +128,28 @@
             "триллер"
         ],
         "length": 125
+    },
+    {
+        "filmId": "nouvelle_vague",
+        "name": "Новая волна",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия",
+            "биография"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "night_of_the_reaper",
@@ -298,7 +203,7 @@
     {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "триллер",
             "криминал"
@@ -331,9 +236,29 @@
         "length": 50
     },
     {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "фантастика",
             "боевик"
@@ -363,6 +288,17 @@
         "length": 150
     },
     {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "garri_potter_i_uznik_azkabana",
         "name": "Гарри Поттер и узник Азкабана",
         "rating": 12,
@@ -377,7 +313,10 @@
         "filmId": "frankenstein",
         "name": "Франкенштейн",
         "rating": 18,
-        "genres": [],
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
         "length": 150
     },
     {

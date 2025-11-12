@@ -1,80 +1,5 @@
 [
     {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "transformers",
-        "name": "Трансформеры",
-        "rating": 12,
-        "genres": [
-            "боевик",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "twilight_saga_breaking_da",
-        "name": "Сумерки. Сага. Рассвет: Часть 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "приключения"
-        ],
-        "length": 112
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -83,77 +8,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "campamento_garra_de_oso",
-        "name": "Пушистые каникулы",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "pervyj_na_olimpe",
-        "name": "Первый на Олимпе",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "спорт",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "poputchiki",
-        "name": "Попутчики",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "frankenstein_legacy",
-        "name": "Франкенштейн: Воскрешение",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shelby_oaks",
-        "name": "Шелби Оукс. Город-призрак",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
     },
     {
         "filmId": "osiris",
@@ -186,6 +40,25 @@
             "приключения"
         ],
         "length": 122
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
     },
     {
         "filmId": "shell",
@@ -252,14 +125,67 @@
         "length": 50
     },
     {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "триллер",
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "campamento_garra_de_oso",
+        "name": "Пушистые каникулы",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "transformers",
+        "name": "Трансформеры",
+        "rating": 12,
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "poputchiki",
+        "name": "Попутчики",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 80
     },
     {
         "filmId": "garri_potter_i_tajnaja_komnata",
@@ -273,9 +199,31 @@
         "length": 160
     },
     {
+        "filmId": "pervyj_na_olimpe",
+        "name": "Первый на Олимпе",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "фантастика",
             "боевик"
@@ -286,7 +234,19 @@
         "filmId": "frankenstein",
         "name": "Франкенштейн",
         "rating": 18,
-        "genres": [],
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
         "length": 150
+    },
+    {
+        "filmId": "frankenstein_legacy",
+        "name": "Франкенштейн: Воскрешение",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]
