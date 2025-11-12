@@ -1,77 +1,5 @@
 [
     {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "osiris",
-        "name": "Хищник: Миссия «Осирис»",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tron_ares",
-        "name": "Трон: Арес",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "shell",
-        "name": "Оболочка",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "jaga_na_nashu_golovu",
         "name": "Яга на нашу голову",
         "rating": 6,
@@ -158,6 +86,26 @@
         "length": 95
     },
     {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -188,15 +136,15 @@
         "length": 80
     },
     {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
         "rating": 12,
         "genres": [
             "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 160
+        "length": 140
     },
     {
         "filmId": "pervyj_na_olimpe",
@@ -221,6 +169,17 @@
         "length": 140
     },
     {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
         "rating": 16,
@@ -231,6 +190,15 @@
         "length": 90
     },
     {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "frankenstein",
         "name": "Франкенштейн",
         "rating": 18,
@@ -239,6 +207,16 @@
             "фантастика"
         ],
         "length": 150
+    },
+    {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
     },
     {
         "filmId": "frankenstein_legacy",
