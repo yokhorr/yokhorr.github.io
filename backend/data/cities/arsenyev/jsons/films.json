@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "jaga_na_nashu_golovu",
         "name": "Яга на нашу голову",
         "rating": 6,
@@ -9,6 +19,25 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "traumatika",
+        "name": "Оно. Кошмар на Мейпл-стрит",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "bugonia",
+        "name": "Бугония",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 122
     },
     {
         "filmId": "hopper_et_le_secret_de_la_marm",
@@ -31,16 +60,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
     },
     {
         "filmId": "golosovoj_pomoshnik",
@@ -83,25 +102,6 @@
         "length": 90
     },
     {
-        "filmId": "traumatika",
-        "name": "Оно. Кошмар на Мейпл-стрит",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "bugonia",
-        "name": "Бугония",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фантастика"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -129,6 +129,6 @@
             "фантастика",
             "боевик"
         ],
-        "length": 90
+        "length": 110
     }
 ]
