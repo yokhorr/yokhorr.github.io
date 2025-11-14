@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
+            "драма",
+            "фантастика"
         ],
-        "length": 90
+        "length": 150
     },
     {
         "filmId": "predator_badlands",
@@ -19,6 +18,34 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "black_phone_2",
+        "name": "Чёрный телефон 2",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -41,22 +68,42 @@
         "length": 122
     },
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
         "genres": [
-            "драма",
-            "фантастика"
+            "фэнтези",
+            "комедия",
+            "семейный"
         ],
-        "length": 150
+        "length": 90
     },
     {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "67305",
+        "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
+        "rating": 6,
+        "genres": [
+            "прямая трансляция"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "триллер"
         ],
-        "length": 115
+        "length": -1
     }
 ]
