@@ -1,23 +1,13 @@
 [
     {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
+            "триллер",
+            "криминал"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
+        "length": 122
     },
     {
         "filmId": "predator_badlands",
@@ -30,26 +20,24 @@
         "length": 110
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "фэнтези",
+            "приключения"
         ],
-        "length": 90
+        "length": 110
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "papiny_dochki_mama_vernulas",
@@ -62,27 +50,15 @@
         "length": 105
     },
     {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
         "genres": [
             "фэнтези",
-            "приключения"
+            "приключения",
+            "семейный"
         ],
-        "length": 97
+        "length": 140
     },
     {
         "filmId": "avgust",
@@ -96,67 +72,13 @@
         "length": 140
     },
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
             "комедия"
         ],
         "length": 90
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -177,6 +99,17 @@
             "триллер"
         ],
         "length": -1
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "frankenstein",
@@ -206,6 +139,16 @@
             "мелодрама"
         ],
         "length": 110
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "bugonia",
@@ -270,6 +213,41 @@
         "length": 130
     },
     {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "lion_king",
         "name": "Детские часы в «Уссури‎»: Король Лев 1994",
         "rating": 6,
@@ -284,6 +262,17 @@
         "length": 90
     },
     {
+        "filmId": "finnik_2",
+        "name": "Финник 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "everybodys_everything",
         "name": "Lil Peep: всё для всех",
         "rating": 18,
@@ -291,6 +280,17 @@
             "документальный"
         ],
         "length": 116
+    },
+    {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
     },
     {
         "filmId": "67313",
@@ -510,6 +510,15 @@
         "rating": 18,
         "genres": [],
         "length": 360
+    },
+    {
+        "filmId": "narayama_bushiko",
+        "name": "Легенда о Нараяме",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "jonas_kaufmann_sound_of_movies",
