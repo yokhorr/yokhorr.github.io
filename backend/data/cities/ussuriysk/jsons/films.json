@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "black_phone_2",
-        "name": "Чёрный телефон 2",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -79,6 +50,16 @@
         "length": 90
     },
     {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -87,6 +68,16 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
     },
     {
         "filmId": "67305",
