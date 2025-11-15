@@ -1,37 +1,5 @@
 [
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "gabbys_dollhouse_the_movie",
-        "name": "Волшебный домик Габби в кино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "мюзикл",
-            "фэнтези",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
         "rating": 16,
@@ -103,6 +71,18 @@
         "length": 90
     },
     {
+        "filmId": "gabbys_dollhouse_the_movie",
+        "name": "Волшебный домик Габби в кино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "мюзикл",
+            "фэнтези",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "alisa_v_strane_chudes",
         "name": "Алиса в Стране Чудес",
         "rating": 6,
@@ -113,10 +93,30 @@
         "length": 110
     },
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "lysyj_njan",
         "name": "Лысый нянь",
         "rating": 6,
         "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
             "комедия"
         ],
         "length": 90
