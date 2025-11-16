@@ -1,33 +1,13 @@
 [
     {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
         "genres": [
+            "приключения",
             "комедия"
         ],
         "length": 90
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
     },
     {
         "filmId": "predator_badlands",
@@ -40,84 +20,12 @@
         "length": 110
     },
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "garri_potter_i_filosofskij_kamen",
-        "name": "Гарри Поттер и философский камень",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "67305",
-        "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
-        "rating": 6,
-        "genres": [
-            "прямая трансляция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
         "rating": 16,
         "genres": [
             "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "bugonia",
-        "name": "Бугония",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фантастика"
+            "криминал"
         ],
         "length": 122
     },
@@ -132,23 +40,15 @@
         "length": 150
     },
     {
-        "filmId": "67312",
-        "name": "Beat Weekend 2025: Трезвое село",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
+        "filmId": "avgust",
+        "name": "Август",
         "rating": 16,
         "genres": [
-            "приключения",
-            "комедия"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 90
+        "length": 140
     },
     {
         "filmId": "golosovoj_pomoshnik",
@@ -212,6 +112,17 @@
         "length": 130
     },
     {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "world_breaker",
         "name": "Разрушитель миров",
         "rating": 16,
@@ -220,6 +131,15 @@
             "боевик"
         ],
         "length": 100
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "hopper_et_le_secret_de_la_marm",
@@ -232,6 +152,36 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "finnik_2",
@@ -254,6 +204,28 @@
             "семейный"
         ],
         "length": 150
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "67311",
@@ -304,6 +276,16 @@
         "length": 95
     },
     {
+        "filmId": "bugonia",
+        "name": "Бугония",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фантастика"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "munch_i_helvete",
         "name": "Арт-Лекторий в кино: Мунк в аду",
         "rating": 18,
@@ -345,6 +327,22 @@
         "length": -1
     },
     {
+        "filmId": "68558",
+        "name": "На выброс",
+        "rating": 0,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "11202",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "приключения / семейный / фэнтези"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "affeksjonsverdi",
         "name": "Сентиментальная ценность",
         "rating": 18,
@@ -353,6 +351,16 @@
             "комедия"
         ],
         "length": 130
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "code_inconnu",
