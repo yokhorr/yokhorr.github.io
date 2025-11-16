@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "jaga_na_nashu_golovu",
         "name": "Яга на нашу голову",
         "rating": 6,
@@ -50,5 +41,14 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
     }
 ]

@@ -1,54 +1,5 @@
 [
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "jaga_na_nashu_golovu",
         "name": "Яга на нашу голову",
         "rating": 6,
@@ -58,25 +9,6 @@
             "семейный"
         ],
         "length": 90
-    },
-    {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "frankenstein_legacy",
-        "name": "Франкенштейн: Воскрешение",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
     },
     {
         "filmId": "lysyj_njan",
@@ -133,6 +65,16 @@
         "length": 90
     },
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "campamento_garra_de_oso",
         "name": "Пушистые каникулы",
         "rating": 6,
@@ -152,6 +94,16 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "transformers",
@@ -226,5 +178,53 @@
             "семейный"
         ],
         "length": 160
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "frankenstein_legacy",
+        "name": "Франкенштейн: Воскрешение",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]
