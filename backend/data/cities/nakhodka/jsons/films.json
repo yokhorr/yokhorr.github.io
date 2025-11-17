@@ -1,141 +1,5 @@
 [
     {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "nash_papa_ded_moroz",
-        "name": "Наш папа – Дед Мороз",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "campamento_garra_de_oso",
-        "name": "Пушистые каникулы",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "transformers",
-        "name": "Трансформеры",
-        "rating": 12,
-        "genres": [
-            "боевик",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "poputchiki",
-        "name": "Попутчики",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "garri_potter_i_filosofskij_kamen",
         "name": "Гарри Поттер и философский камень",
         "rating": 12,
@@ -158,6 +22,56 @@
         "length": 110
     },
     {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "avgust",
         "name": "Август",
         "rating": 16,
@@ -167,6 +81,16 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "garri_potter_i_tajnaja_komnata",
@@ -226,5 +150,81 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "nash_papa_ded_moroz",
+        "name": "Наш папа – Дед Мороз",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "campamento_garra_de_oso",
+        "name": "Пушистые каникулы",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "transformers",
+        "name": "Трансформеры",
+        "rating": 12,
+        "genres": [
+            "боевик",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "poputchiki",
+        "name": "Попутчики",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 80
     }
 ]
