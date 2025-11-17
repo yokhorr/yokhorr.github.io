@@ -1,33 +1,12 @@
 [
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
         "genres": [
-            "приключения",
             "комедия"
         ],
         "length": 90
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -38,76 +17,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "one_battle_after_another",
-        "name": "Битва за битвой",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "traumatika",
-        "name": "Оно. Кошмар на Мейпл-стрит",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "silent_hill",
-        "name": "Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "poputchiki",
-        "name": "Попутчики",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "dracula_a_love_tale",
-        "name": "Дракула",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "мелодрама"
-        ],
-        "length": 130
     },
     {
         "filmId": "jaga_na_nashu_golovu",
@@ -121,20 +30,11 @@
         "length": 90
     },
     {
-        "filmId": "world_breaker",
-        "name": "Разрушитель миров",
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
         "rating": 16,
         "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
+            "приключения",
             "комедия"
         ],
         "length": 90
@@ -170,6 +70,27 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -215,6 +136,16 @@
         "length": 140
     },
     {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "garri_potter_i_uznik_azkabana",
         "name": "Гарри Поттер и узник Азкабана",
         "rating": 12,
@@ -224,6 +155,15 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
     },
     {
         "filmId": "teatr_v_kino_voskresenie",
@@ -265,6 +205,27 @@
         "length": 122
     },
     {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "traumatika",
+        "name": "Оно. Кошмар на Мейпл-стрит",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "kimetsu_no_yaiba_movie",
         "name": "Истребитель демонов: Бесконечная крепость",
         "rating": 16,
@@ -275,6 +236,35 @@
             "боевик"
         ],
         "length": 150
+    },
+    {
+        "filmId": "poputchiki",
+        "name": "Попутчики",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "dracula_a_love_tale",
+        "name": "Дракула",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "мелодрама"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "world_breaker",
+        "name": "Разрушитель миров",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 100
     },
     {
         "filmId": "munch_i_helvete",
@@ -318,6 +308,18 @@
         "length": -1
     },
     {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд. Хранитель монстров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "na_vybros",
         "name": "На выброс",
         "rating": 6,
@@ -356,6 +358,35 @@
             "комедия"
         ],
         "length": 130
+    },
+    {
+        "filmId": "the_home_2025",
+        "name": "Обитель",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "tee_yod_3",
+        "name": "Первая ведьма. Долина дьявола",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "silent_hill",
+        "name": "Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 125
     },
     {
         "filmId": "code_inconnu",
@@ -494,5 +525,15 @@
             "драма"
         ],
         "length": 90
+    },
+    {
+        "filmId": "zhenitba_2025",
+        "name": "Театр в кино: Женитьба",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 130
     }
 ]
