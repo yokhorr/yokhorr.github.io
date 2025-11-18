@@ -1,33 +1,5 @@
 [
     {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "traumatika",
-        "name": "Оно. Кошмар на Мейпл-стрит",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "hopper_et_le_secret_de_la_marm",
         "name": "Кролецып и Сурок Времени",
         "rating": 6,
@@ -91,6 +63,16 @@
         "length": 105
     },
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "alisa_v_strane_chudes",
         "name": "Алиса в Стране Чудес",
         "rating": 6,
@@ -129,6 +111,24 @@
         "genres": [
             "приключения",
             "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "golosovoj_pomoshnik",
+        "name": "Голосовой помощник",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "traumatika",
+        "name": "Оно. Кошмар на Мейпл-стрит",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 90
     }
