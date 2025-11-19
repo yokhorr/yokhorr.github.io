@@ -9,6 +9,26 @@
         "length": 90
     },
     {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -30,48 +50,6 @@
         "length": 90
     },
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -82,47 +60,14 @@
         "length": 105
     },
     {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
+        "filmId": "gorynych",
+        "name": "Горыныч",
         "rating": 6,
         "genres": [
             "фэнтези",
             "приключения"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "finnik_2",
-        "name": "Финник 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
+        "length": 97
     },
     {
         "filmId": "garri_potter_i_filosofskij_kamen",
@@ -153,6 +98,17 @@
             "фэнтези",
             "приключения",
             "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
         ],
         "length": 140
     },
@@ -196,6 +152,16 @@
         "length": -1
     },
     {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "one_battle_after_another",
         "name": "Битва за битвой",
         "rating": 18,
@@ -227,15 +193,6 @@
             "ужасы"
         ],
         "length": 90
-    },
-    {
-        "filmId": "poputchiki",
-        "name": "Попутчики",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 80
     },
     {
         "filmId": "dracula_a_love_tale",
@@ -301,6 +258,18 @@
         "length": 85
     },
     {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "11202",
         "name": "Гарри Поттер и Орден Феникса",
         "rating": 12,
@@ -329,6 +298,17 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
     },
     {
         "filmId": "trap_house",
@@ -388,13 +368,6 @@
             "триллер"
         ],
         "length": 100
-    },
-    {
-        "filmId": "42713",
-        "name": "Киномакс тест 4",
-        "rating": 0,
-        "genres": [],
-        "length": -1
     },
     {
         "filmId": "silent_hill",
@@ -553,6 +526,55 @@
             "документальный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "68630",
+        "name": "Неделя французского кино — 2025: Курс жизни",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "68631",
+        "name": "Неделя французского кино — 2025: Дело Гольдмана",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "криминал",
+            "история"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "68632",
+        "name": "Неделя французского кино — 2025: Вознесение",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "68633",
+        "name": "Неделя французского кино — 2025: По блуждающим тропам",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "68634",
+        "name": "Неделя французского кино — 2025: Мелочи жизни",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 90
     },
     {
         "filmId": "14207",

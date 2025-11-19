@@ -1,57 +1,13 @@
 [
     {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
         "genres": [
-            "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "gabbys_dollhouse_the_movie",
-        "name": "Волшебный домик Габби в кино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "мюзикл",
-            "фэнтези",
             "комедия"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "golosovoj_pomoshnik",
-        "name": "Голосовой помощник",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -62,25 +18,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
     },
     {
         "filmId": "predator_badlands",
@@ -98,6 +35,72 @@
         "rating": 18,
         "genres": [
             "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд. Хранитель монстров",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "in_your_dreams",
+        "name": "Только во сне",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
         ],
         "length": 90
     }
