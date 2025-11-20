@@ -1,13 +1,13 @@
 [
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "драма"
+            "драма",
+            "фантастика"
         ],
-        "length": 122
+        "length": 150
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -18,15 +18,5 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
     }
 ]

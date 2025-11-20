@@ -1,36 +1,22 @@
 [
     {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
+        "filmId": "trap_house",
+        "name": "Джекпот",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
+            "боевик"
         ],
-        "length": 140
+        "length": 125
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
         "genres": [
-            "триллер",
-            "криминал"
+            "драма",
+            "фантастика"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
+        "length": 150
     },
     {
         "filmId": "aviator",
@@ -43,34 +29,14 @@
         "length": 122
     },
     {
-        "filmId": "trap_house",
-        "name": "Джекпот",
-        "rating": 18,
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
         "genres": [
-            "боевик"
+            "триллер",
+            "криминал"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
+        "length": 122
     },
     {
         "filmId": "the_thing_with_feathers",
@@ -84,34 +50,14 @@
         "length": 100
     },
     {
-        "filmId": "mazhor_v_dubae",
-        "name": "Мажор в Дубае",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
-        "rating": 16,
+        "rating": 18,
         "genres": [
             "фантастика",
             "боевик"
         ],
         "length": 110
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
     },
     {
         "filmId": "the_home_2025",
@@ -122,6 +68,29 @@
             "триллер"
         ],
         "length": 100
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "67596",
@@ -148,6 +117,16 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "jaga_na_nashu_golovu",
@@ -221,6 +200,27 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "one_battle_after_another",
