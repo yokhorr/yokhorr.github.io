@@ -1,33 +1,5 @@
 [
     {
-        "filmId": "traumatika",
-        "name": "Оно. Кошмар на Мейпл-стрит",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "tee_yod_3",
-        "name": "Первая ведьма. Долина дьявола",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "hopper_et_le_secret_de_la_marm",
         "name": "Кролецып и Сурок Времени",
         "rating": 6,
@@ -148,6 +120,16 @@
         "length": 122
     },
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
         "rating": 18,
@@ -156,5 +138,23 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "traumatika",
+        "name": "Оно. Кошмар на Мейпл-стрит",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "tee_yod_3",
+        "name": "Первая ведьма. Долина дьявола",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]
