@@ -1,25 +1,13 @@
 [
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "приключения"
+            "фантастика",
+            "драма"
         ],
-        "length": 97
-    },
-    {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
+        "length": 122
     },
     {
         "filmId": "masha_i_medvedi",
@@ -33,36 +21,6 @@
         "length": -1
     },
     {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -73,16 +31,6 @@
         "length": 122
     },
     {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "alisa_v_strane_chudes",
         "name": "Алиса в Стране Чудес",
         "rating": 6,
@@ -91,81 +39,6 @@
             "приключения"
         ],
         "length": 110
-    },
-    {
-        "filmId": "na_vybros",
-        "name": "На выброс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "harry_potter_and_the_order_",
-        "name": "Гарри Поттер и Орден Феникса",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
     },
     {
         "filmId": "lhomme_qui_retrecit",
@@ -189,6 +62,78 @@
         "length": 150
     },
     {
+        "filmId": "na_vybros",
+        "name": "На выброс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "trap_house",
         "name": "Джекпот",
         "rating": 18,
@@ -205,6 +150,27 @@
             "драма"
         ],
         "length": -1
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "affeksjonsverdi",
@@ -309,6 +275,18 @@
         "length": 90
     },
     {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "frozen_3d",
         "name": "Детские часы в «Уссури»: Холодное сердце",
         "rating": 0,
@@ -320,6 +298,28 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
     },
     {
         "filmId": "the_running_man_2025",
@@ -342,7 +342,7 @@
     },
     {
         "filmId": "45281",
-        "name": "Металлург — Амур. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
+        "name": "Металлург — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
         "rating": 6,
         "genres": [
             "прямая трансляция"
@@ -431,6 +431,15 @@
             "комедия"
         ],
         "length": 116
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "68580",

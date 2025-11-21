@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "aviator",
         "name": "Авиатор",
         "rating": 16,
@@ -75,6 +31,18 @@
         "length": 100
     },
     {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -83,6 +51,28 @@
             "приключения"
         ],
         "length": 97
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
     },
     {
         "filmId": "tee_yod_3",
