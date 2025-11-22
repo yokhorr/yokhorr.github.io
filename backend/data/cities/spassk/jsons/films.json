@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "lermontov",
         "name": "Лермонтов",
         "rating": 16,
@@ -39,6 +29,16 @@
             "приключения"
         ],
         "length": -1
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "stitch_head",
