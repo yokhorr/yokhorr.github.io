@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "lermontov",
         "name": "Лермонтов",
         "rating": 16,
@@ -7,18 +27,6 @@
             "драма"
         ],
         "length": 105
-    },
-    {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
     },
     {
         "filmId": "jaga_na_nashu_golovu",
@@ -43,23 +51,15 @@
         "length": -1
     },
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "драма"
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
+        "length": 90
     }
 ]

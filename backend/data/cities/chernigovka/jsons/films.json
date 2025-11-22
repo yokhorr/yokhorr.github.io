@@ -1,5 +1,34 @@
 [
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "tee_yod_3",
+        "name": "Первая ведьма. Долина дьявола",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -42,34 +71,5 @@
             "приключения"
         ],
         "length": -1
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "tee_yod_3",
-        "name": "Первая ведьма. Долина дьявола",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
     }
 ]
