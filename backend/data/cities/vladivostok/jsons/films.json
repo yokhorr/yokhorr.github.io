@@ -1,5 +1,45 @@
 [
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -12,14 +52,15 @@
         "length": 90
     },
     {
-        "filmId": "na_vybros",
-        "name": "На выброс",
-        "rating": 6,
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 85
+        "length": 150
     },
     {
         "filmId": "masha_i_medvedi",
@@ -44,35 +85,6 @@
         "length": 90
     },
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -81,26 +93,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
     },
     {
         "filmId": "avgust",
@@ -114,89 +106,14 @@
         "length": 140
     },
     {
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "name": "Кролецып и Сурок Времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "lhomme_qui_retrecit",
-        "name": "Дорогая, я уменьшаюсь",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "harry_potter_and_the_order_",
-        "name": "Гарри Поттер и Орден Феникса",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
         "genres": [
             "фантастика",
             "боевик"
         ],
-        "length": 135
-    },
-    {
-        "filmId": "affeksjonsverdi",
-        "name": "Сентиментальная ценность",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
+        "length": 110
     },
     {
         "filmId": "the_graduate",
@@ -218,6 +135,16 @@
             "фантастика"
         ],
         "length": 150
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "the_thing_with_feathers",
@@ -272,6 +199,16 @@
         "length": 125
     },
     {
+        "filmId": "affeksjonsverdi",
+        "name": "Сентиментальная ценность",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "mazhor_v_dubae",
         "name": "Мажор в Дубае",
         "rating": 16,
@@ -317,6 +254,69 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "na_vybros",
+        "name": "На выброс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "lysyj_njan",
+        "name": "Лысый нянь",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "hopper_et_le_secret_de_la_marm",
+        "name": "Кролецып и Сурок Времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "lhomme_qui_retrecit",
+        "name": "Дорогая, я уменьшаюсь",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
     },
     {
         "filmId": "poupelle_of_chimney_town",
@@ -378,11 +378,23 @@
         "length": -1
     },
     {
-        "filmId": "68682",
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "mission_santa_yoyo_to_the_res",
         "name": "Эльф и украденное Рождество",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "harry_potter_6",
@@ -398,15 +410,6 @@
         "length": 150
     },
     {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "est_tolko_mig",
         "name": "Есть только МиГ",
         "rating": 12,
@@ -415,6 +418,17 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "68580",
@@ -428,7 +442,7 @@
     {
         "filmId": "green_mile",
         "name": "Зеленая миля",
-        "rating": 16,
+        "rating": 18,
         "genres": [
             "драма",
             "криминал",
@@ -481,13 +495,6 @@
         "length": 75
     },
     {
-        "filmId": "66436",
-        "name": "Киномакс тест 5",
-        "rating": 0,
-        "genres": [],
-        "length": -1
-    },
-    {
         "filmId": "62021",
         "name": "Арт-лекторий: Тайная жизнь Уффици",
         "rating": 16,
@@ -505,6 +512,18 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила: История Резе",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
     },
     {
         "filmId": "shalnaja_imperatrica",
