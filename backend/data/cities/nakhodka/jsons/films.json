@@ -1,76 +1,5 @@
 [
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_thing_with_feathers",
-        "name": "Сущность",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "драма",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_home_2025",
-        "name": "Обитель",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "masha_i_medvedi",
         "name": "Маша и Медведи",
         "rating": 6,
@@ -92,6 +21,16 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "67596",
@@ -118,6 +57,16 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     },
     {
         "filmId": "gorynych",
@@ -231,5 +180,56 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_thing_with_feathers",
+        "name": "Сущность",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "драма",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_home_2025",
+        "name": "Обитель",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 100
     }
 ]
