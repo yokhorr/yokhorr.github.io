@@ -1,960 +1,6 @@
 [
     {
         "date": "25.11",
-        "time": "09:50",
-        "filmId": "aviator",
-        "theatre": "Уссури",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0yNSAwOTo1MDowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "09:50",
-        "filmId": "stitch_head",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTI1IDA5OjUwOjAwOzY3NDM2"
-    },
-    {
-        "date": "25.11",
-        "time": "09:50",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTI1IDA5OjUwOjAwOzY3MjA0"
-    },
-    {
-        "date": "25.11",
-        "time": "09:50",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0yNSAwOTo1MDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "09:50",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Уссури",
-        "cost": 100,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0yNSAwOTo1MDowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "09:50",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTI1IDA5OjUwOjAwOzY3MjAx"
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "aviator",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0yNSAxMDowMDowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "aviator",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTExLTI1IDEwOjAwOjAwOzY3MjAy"
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "stitch_head",
-        "theatre": "Уссури",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNSAxMDowMDowMDs2NzQzNg=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMjUgMTA6MDA6MDA7NjcyMDQ="
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "na_vybros",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTI1IDEwOjAwOjAwOzY4NTU4"
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "lysyj_njan",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTI1IDEwOjAwOjAwOzY3MjAw"
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Иллюзион",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTExLTI1IDEwOjAwOjAwOzY2ODQ1"
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0yNSAxMDowMDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:00",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0yNSAxMDowMDowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:10",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0yNSAxMDoxMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:15",
-        "filmId": "stitch_head",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0yNSAxMDoxNTowMDs2NzQzNg=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:15",
-        "filmId": "stitch_head",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0yNSAxMDoxNTowMDs2NzQzNg=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:15",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0yNSAxMDoxNTowMDs2NzE5NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:20",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 760,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0xMS0yNSAxMDoyMDowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:25",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0xMS0yNSAxMDoyNTowMDs2NjQ3Nw=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:30",
-        "filmId": "na_vybros",
-        "theatre": "Уссури",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0yNSAxMDozMDowMDs2ODU1OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:30",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Океан IMAX",
-        "cost": 220,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTExLTI1IDEwOjMwOjAwOzY2ODQ1"
-    },
-    {
-        "date": "25.11",
-        "time": "10:35",
-        "filmId": "predator_badlands",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0yNSAxMDozNTowMDs2Njg0Ng=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:40",
-        "filmId": "avgust",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0yNSAxMDo0MDowMDs2NjE2NA=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:50",
-        "filmId": "na_vybros",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yNSAxMDo1MDowMDs2ODU1OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "10:50",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0yNSAxMDo1MDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "11:00",
-        "filmId": "hopper_et_le_secret_de_la_marm",
-        "theatre": "Владивосток",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0yNSAxMTowMDowMDs2ODA5MA=="
-    },
-    {
-        "date": "25.11",
-        "time": "11:20",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yNSAxMToyMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "11:40",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Океан IMAX",
-        "cost": 210,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTI1IDExOjQwOjAwOzY3MjA0"
-    },
-    {
-        "date": "25.11",
-        "time": "11:40",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Уссури",
-        "cost": 100,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0yNSAxMTo0MDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "11:40",
-        "filmId": "predator_badlands",
-        "theatre": "Черёмушки",
-        "cost": 210,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0yNSAxMTo0MDowMDs2Njg0Ng=="
-    },
-    {
-        "date": "25.11",
-        "time": "11:45",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMjUgMTE6NDU6MDA7NjcyMDE="
-    },
-    {
-        "date": "25.11",
-        "time": "11:45",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTI1IDExOjQ1OjAwOzY3MjAx"
-    },
-    {
-        "date": "25.11",
-        "time": "11:50",
-        "filmId": "aviator",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTI1IDExOjUwOjAwOzY3MjAy"
-    },
-    {
-        "date": "25.11",
-        "time": "11:50",
-        "filmId": "alisa_v_strane_chudes",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTI1IDExOjUwOjAwOzY2NDc3"
-    },
-    {
-        "date": "25.11",
-        "time": "11:55",
-        "filmId": "stitch_head",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTI1IDExOjU1OjAwOzY3NDM2"
-    },
-    {
-        "date": "25.11",
-        "time": "11:55",
-        "filmId": "stitch_head",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0yNSAxMTo1NTowMDs2NzQzNg=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:00",
-        "filmId": "gorynych",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNSAxMjowMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:00",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Уссури",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0yNSAxMjowMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:00",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0yNSAxMjowMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:10",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 860,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0xMS0yNSAxMjoxMDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:15",
-        "filmId": "aviator",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0yNSAxMjoxNTowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:15",
-        "filmId": "lysyj_njan",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0yNSAxMjoxNTowMDs2NzIwMA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:15",
-        "filmId": "lysyj_njan",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0yNSAxMjoxNTowMDs2NzIwMA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:15",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Уссури",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0yNSAxMjoxNTowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:20",
-        "filmId": "aviator",
-        "theatre": "Иллюзион",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTExLTI1IDEyOjIwOjAwOzY3MjAy"
-    },
-    {
-        "date": "25.11",
-        "time": "12:20",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0yNSAxMjoyMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:20",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0yNSAxMjoyMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:25",
-        "filmId": "na_vybros",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0yNSAxMjoyNTowMDs2ODU1OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:25",
-        "filmId": "avgust",
-        "theatre": "Черёмушки",
-        "cost": 270,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0yNSAxMjoyNTowMDs2NjE2NA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:25",
-        "filmId": "avgust",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTExLTI1IDEyOjI1OjAwOzY2MTY0"
-    },
-    {
-        "date": "25.11",
-        "time": "12:30",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Владивосток",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yNSAxMjozMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:40",
-        "filmId": "lysyj_njan",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0xMS0yNSAxMjo0MDowMDs2NzIwMA=="
-    },
-    {
-        "date": "25.11",
-        "time": "12:50",
-        "filmId": "na_vybros",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0yNSAxMjo1MDowMDs2ODU1OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:00",
-        "filmId": "predator_badlands",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0yNSAxMzowMDowMDs2Njg0Ng=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:00",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Океан IMAX",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTExLTI1IDEzOjAwOjAwOzY2ODQ1"
-    },
-    {
-        "date": "25.11",
-        "time": "13:05",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Владивосток",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yNSAxMzowNTowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:20",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0yNSAxMzoyMDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:25",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMjUgMTM6MjU6MDA7NjcyMDQ="
-    },
-    {
-        "date": "25.11",
-        "time": "13:25",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTI1IDEzOjI1OjAwOzY3MjAx"
-    },
-    {
-        "date": "25.11",
-        "time": "13:30",
-        "filmId": "aviator",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0yNSAxMzozMDowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:45",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Иллюзион",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTI1IDEzOjQ1OjAwOzY2ODQ1"
-    },
-    {
-        "date": "25.11",
-        "time": "13:50",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTI1IDEzOjUwOjAwOzY3MjA0"
-    },
-    {
-        "date": "25.11",
-        "time": "13:50",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0yNSAxMzo1MDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:50",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Уссури",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0yNSAxMzo1MDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "13:55",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Черёмушки",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0yNSAxMzo1NTowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:05",
-        "filmId": "predator_badlands",
-        "theatre": "Уссури",
-        "cost": 150,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNS0xMS0yNSAxNDowNTowMDs2Njg0Ng=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:10",
-        "filmId": "stitch_head",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0yNSAxNDoxMDowMDs2NzQzNg=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:10",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Черёмушки",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNS0xMS0yNSAxNDoxMDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:10",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0yNSAxNDoxMDowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:10",
-        "filmId": "lhomme_qui_retrecit",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNSAxNDoxMDowMDs2ODU3Nw=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:10",
-        "filmId": "papiny_dochki_mama_vernulas",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTI1IDE0OjEwOjAwOzY3MTk1"
-    },
-    {
-        "date": "25.11",
-        "time": "14:15",
-        "filmId": "aviator",
-        "theatre": "Уссури",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNS0xMS0yNSAxNDoxNTowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:15",
-        "filmId": "aviator",
-        "theatre": "Черёмушки",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNS0xMS0yNSAxNDoxNTowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:15",
-        "filmId": "gorynych",
-        "theatre": "Черёмушки",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0yNSAxNDoxNTowMDs2NjE2OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:15",
-        "filmId": "lysyj_njan",
-        "theatre": "Океан IMAX",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTI1IDE0OjE1OjAwOzY3MjAw"
-    },
-    {
-        "date": "25.11",
-        "time": "14:15",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yNSAxNDoxNTowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:30",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0yNSAxNDozMDowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:35",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNS0xMS0yNSAxNDozNTowMDs2NjE2OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:35",
-        "filmId": "harry_potter_and_the_order_",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNS0xMS0yNSAxNDozNTowMDsxMTIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:40",
-        "filmId": "avgust",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 260,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMS0yNSAxNDo0MDowMDs2NjE2NA=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:45",
-        "filmId": "gorynych",
-        "theatre": "Иллюзион",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI1LTExLTI1IDE0OjQ1OjAwOzY2MTY4"
-    },
-    {
-        "date": "25.11",
-        "time": "14:50",
-        "filmId": "gorynych",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yNSAxNDo1MDowMDs2NjE2OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "14:50",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNS0xMS0yNSAxNDo1MDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "15:10",
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjUtMTEtMjUgMTU6MTA6MDA7MTA2MDk="
-    },
-    {
-        "date": "25.11",
-        "time": "15:15",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Океан IMAX",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI1LTExLTI1IDE1OjE1OjAwOzY3MjA0"
-    },
-    {
-        "date": "25.11",
-        "time": "15:25",
-        "filmId": "the_running_man_2025",
-        "theatre": "Черёмушки",
-        "cost": 390,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNS0xMS0yNSAxNToyNTowMDs2ODU4Mg=="
-    },
-    {
-        "date": "25.11",
-        "time": "15:25",
-        "filmId": "aviator",
-        "theatre": "Океан IMAX",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI1LTExLTI1IDE1OjI1OjAwOzY3MjAy"
-    },
-    {
-        "date": "25.11",
-        "time": "15:30",
-        "filmId": "predator_badlands",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNS0xMS0yNSAxNTozMDowMDs2Njg0Ng=="
-    },
-    {
-        "date": "25.11",
-        "time": "15:35",
-        "filmId": "predator_badlands",
-        "theatre": "Океан IMAX",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI1LTExLTI1IDE1OjM1OjAwOzY2ODQ2"
-    },
-    {
-        "date": "25.11",
-        "time": "15:40",
-        "filmId": "aviator",
-        "theatre": "Иллюзион",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI1LTExLTI1IDE1OjQwOjAwOzY3MjAy"
-    },
-    {
-        "date": "25.11",
-        "time": "15:40",
-        "filmId": "jaga_na_nashu_golovu",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNS0xMS0yNSAxNTo0MDowMDs2NzIwMQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "15:50",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNS0xMS0yNSAxNTo1MDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "15:50",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNS0xMS0yNSAxNTo1MDowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "15:55",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yNSAxNTo1NTowMDs2Njg0NQ=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:00",
-        "filmId": "masha_i_medvedi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNS0xMS0yNSAxNjowMDowMDs2NzIwNA=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:05",
-        "filmId": "aviator",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNS0xMS0yNSAxNjowNTowMDs2NzIwMg=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:10",
-        "filmId": "gorynych",
-        "theatre": "Океан IMAX",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI1LTExLTI1IDE2OjEwOjAwOzY2MTY4"
-    },
-    {
-        "date": "25.11",
-        "time": "16:10",
-        "filmId": "now_you_see_me_now_you_dont",
-        "theatre": "Иллюзион",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI1LTExLTI1IDE2OjEwOjAwOzY2ODQ1"
-    },
-    {
-        "date": "25.11",
-        "time": "16:10",
-        "filmId": "affeksjonsverdi",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNS0xMS0yNSAxNjoxMDowMDs2NzI1OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:15",
-        "filmId": "predator_badlands",
-        "theatre": "Уссури",
-        "cost": 1100,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0yNSAxNjoxNTowMDs2Njg0Ng=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:15",
-        "filmId": "predator_badlands",
-        "theatre": "Иллюзион",
-        "cost": 360,
-        "is3d": true,
-        "buyLink": "NjsxNDE2OTsyMDI1LTExLTI1IDE2OjE1OjAwOzY2ODQ2"
-    },
-    {
-        "date": "25.11",
-        "time": "16:15",
-        "filmId": "avgust",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNSAxNjoxNTowMDs2NjE2NA=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:20",
-        "filmId": "gorynych",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMS0yNSAxNjoyMDowMDs2NjE2OA=="
-    },
-    {
-        "date": "25.11",
-        "time": "16:25",
-        "filmId": "stitch_head",
-        "theatre": "Черёмушки",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNS0xMS0yNSAxNjoyNTowMDs2NzQzNg=="
-    },
-    {
-        "date": "25.11",
         "time": "16:35",
         "filmId": "now_you_see_me_now_you_dont",
         "theatre": "Уссури",
@@ -1768,18 +814,18 @@
         "time": "23:40",
         "filmId": "now_you_see_me_now_you_dont",
         "theatre": "Уссури",
-        "cost": 200,
+        "cost": 800,
         "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNSAyMzo0MDowMDs2Njg0NQ=="
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0yNSAyMzo0MDowMDs2Njg0NQ=="
     },
     {
         "date": "25.11",
         "time": "23:40",
         "filmId": "now_you_see_me_now_you_dont",
         "theatre": "Уссури",
-        "cost": 200,
+        "cost": 800,
         "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNS0xMS0yNSAyMzo0MDowMDs2Njg0NQ=="
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNS0xMS0yNSAyMzo0MDowMDs2Njg0NQ=="
     },
     {
         "date": "25.11",
@@ -4241,11 +3287,11 @@
     {
         "date": "27.11",
         "time": "21:00",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yNyAyMTowMDowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yNyAyMTowMDowMDs2NzIwNQ=="
     },
     {
         "date": "27.11",
@@ -4277,11 +3323,11 @@
     {
         "date": "27.11",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yNyAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yNyAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "27.11",
@@ -4934,11 +3980,11 @@
     {
         "date": "28.11",
         "time": "21:00",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yOCAyMTowMDowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yOCAyMTowMDowMDs2NzIwNQ=="
     },
     {
         "date": "28.11",
@@ -4970,11 +4016,11 @@
     {
         "date": "28.11",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 500,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yOCAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yOCAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "28.11",
@@ -5636,11 +4682,11 @@
     {
         "date": "29.11",
         "time": "21:05",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yOSAyMTowNTowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0yOSAyMTowNTowMDs2NzIwNQ=="
     },
     {
         "date": "29.11",
@@ -5654,11 +4700,11 @@
     {
         "date": "29.11",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 500,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yOSAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0yOSAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "29.11",
@@ -6320,11 +5366,11 @@
     {
         "date": "30.11",
         "time": "21:05",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0zMCAyMTowNTowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMS0zMCAyMTowNTowMDs2NzIwNQ=="
     },
     {
         "date": "30.11",
@@ -6338,11 +5384,11 @@
     {
         "date": "30.11",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 500,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0zMCAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMS0zMCAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "30.11",
@@ -6995,11 +6041,11 @@
     {
         "date": "01.12",
         "time": "21:00",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMi0wMSAyMTowMDowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMi0wMSAyMTowMDowMDs2NzIwNQ=="
     },
     {
         "date": "01.12",
@@ -7031,11 +6077,11 @@
     {
         "date": "01.12",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMi0wMSAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMi0wMSAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "01.12",
@@ -7688,11 +6734,11 @@
     {
         "date": "02.12",
         "time": "21:00",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMi0wMiAyMTowMDowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMi0wMiAyMTowMDowMDs2NzIwNQ=="
     },
     {
         "date": "02.12",
@@ -7724,11 +6770,11 @@
     {
         "date": "02.12",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMi0wMiAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMi0wMiAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "02.12",
@@ -8381,11 +7427,11 @@
     {
         "date": "03.12",
         "time": "21:00",
-        "filmId": "aviator",
+        "filmId": "est_tolko_mig",
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMi0wMyAyMTowMDowMDs2NzIwMg=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNS0xMi0wMyAyMTowMDowMDs2NzIwNQ=="
     },
     {
         "date": "03.12",
@@ -8408,11 +7454,11 @@
     {
         "date": "03.12",
         "time": "21:15",
-        "filmId": "est_tolko_mig",
+        "filmId": "aviator",
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMi0wMyAyMToxNTowMDs2NzIwNQ=="
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNS0xMi0wMyAyMToxNTowMDs2NzIwMg=="
     },
     {
         "date": "03.12",
@@ -8593,6 +7639,15 @@
         "cost": 620,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNS0xMi0wNSAxNzoxMDowMDs2NzE5OA=="
+    },
+    {
+        "date": "05.12",
+        "time": "19:00",
+        "filmId": "die_my_love",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNS0xMi0wNSAxOTowMDowMDs2NzQ0Mg=="
     },
     {
         "date": "05.12",

@@ -1,15 +1,14 @@
 [
     {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
+            "триллер",
+            "военный",
+            "история"
         ],
-        "length": 90
+        "length": 140
     },
     {
         "filmId": "masha_i_medvedi",
@@ -21,6 +20,57 @@
             "приключения"
         ],
         "length": -1
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "traumatika",
+        "name": "Оно. Кошмар на Мейпл-стрит",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "in_your_dreams",
@@ -66,26 +116,6 @@
         "length": 90
     },
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "garri_potter_i_tajnaja_komnata",
         "name": "Гарри Поттер и тайная комната",
         "rating": 12,
@@ -95,35 +125,5 @@
             "семейный"
         ],
         "length": 160
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "traumatika",
-        "name": "Оно. Кошмар на Мейпл-стрит",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]
