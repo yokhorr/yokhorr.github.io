@@ -1,46 +1,5 @@
 [
     {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "lermontov",
-        "name": "Лермонтов",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -61,5 +20,55 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ty_ne_odin",
+        "name": "Ты не один",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]

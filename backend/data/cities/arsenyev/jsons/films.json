@@ -11,42 +11,6 @@
         "length": -1
     },
     {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "in_your_dreams",
-        "name": "Только во сне",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "aviator",
         "name": "Авиатор",
         "rating": 16,
@@ -55,15 +19,6 @@
             "драма"
         ],
         "length": 122
-    },
-    {
-        "filmId": "lysyj_njan",
-        "name": "Лысый нянь",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -93,5 +48,78 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "mission_santa_yoyo_to_the_res",
+        "name": "Эльф и украденное Рождество",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "in_your_dreams",
+        "name": "Только во сне",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
