@@ -1,76 +1,5 @@
 [
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_thing_with_feathers",
-        "name": "Сущность",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "драма",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_home_2025",
-        "name": "Обитель",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "67596",
         "name": "Мульт в кино. Выпуск №188. Сказочный поход",
         "rating": 0,
@@ -84,6 +13,28 @@
         "length": 50
     },
     {
+        "filmId": "68708",
+        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "masha_i_medvedi",
         "name": "Маша и Медведи",
         "rating": 6,
@@ -93,6 +44,16 @@
             "приключения"
         ],
         "length": -1
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     },
     {
         "filmId": "po_bratski",
@@ -114,6 +75,15 @@
         "length": 100
     },
     {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "appu",
         "name": "Книга джунглей и слоненок Бимбо",
         "rating": 6,
@@ -122,6 +92,26 @@
             "приключения"
         ],
         "length": 90
+    },
+    {
+        "filmId": "mazhor_v_dubae",
+        "name": "Мажор в Дубае",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -133,6 +123,19 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "in_your_dreams",
+        "name": "Только во сне",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "stitch_head",
@@ -147,6 +150,16 @@
         "length": 90
     },
     {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
         "filmId": "trap_house",
         "name": "Джекпот",
         "rating": 18,
@@ -154,6 +167,18 @@
             "боевик"
         ],
         "length": 125
+    },
+    {
+        "filmId": "one_battle_after_another",
+        "name": "Битва за битвой",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 160
     },
     {
         "filmId": "jaga_na_nashu_golovu",
@@ -173,6 +198,26 @@
         "genres": [
             "мультфильм",
             "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_astronaut",
+        "name": "Астронавт",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "триллер"
         ],
         "length": 90
     },
@@ -198,6 +243,47 @@
         "length": 122
     },
     {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "the_home_2025",
+        "name": "Обитель",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "black_phone_2",
         "name": "Чёрный телефон 2",
         "rating": 18,
@@ -205,5 +291,26 @@
             "ужасы"
         ],
         "length": 115
+    },
+    {
+        "filmId": "the_thing_with_feathers",
+        "name": "Сущность",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "драма",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     }
 ]
