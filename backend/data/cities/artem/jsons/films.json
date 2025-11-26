@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
         "rating": 18,
@@ -30,6 +8,15 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "traumatika",
+        "name": "Оно. Кошмар на Мейпл-стрит",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -42,23 +29,15 @@
         "length": 122
     },
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "драма"
+            "комедия",
+            "фэнтези",
+            "приключения"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "traumatika",
-        "name": "Оно. Кошмар на Мейпл-стрит",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
+        "length": -1
     },
     {
         "filmId": "mission_santa_yoyo_to_the_res",
@@ -115,6 +94,16 @@
         "length": 100
     },
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "po_bratski",
         "name": "По-братски",
         "rating": 12,
@@ -131,6 +120,17 @@
             "фэнтези",
             "приключения",
             "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
         ],
         "length": 140
     },
