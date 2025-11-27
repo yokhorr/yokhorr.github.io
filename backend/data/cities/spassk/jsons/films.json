@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ketindihan",
-        "name": "Сомния. Кошмар вернулся",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "aviator",
         "name": "Авиатор",
         "rating": 16,
@@ -60,6 +41,16 @@
         "length": -1
     },
     {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -70,5 +61,14 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]

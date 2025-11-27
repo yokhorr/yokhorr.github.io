@@ -1,23 +1,82 @@
 [
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "приключения"
+            "драма",
+            "фантастика"
         ],
-        "length": 97
+        "length": 150
     },
     {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "приключения"
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "po_bratski",
+        "name": "По-братски",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "hyakuemu",
@@ -32,95 +91,6 @@
         "length": 100
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "iki_dunya_bir_dilek",
-        "name": "Два мира, одно желание",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "est_tolko_mig",
         "name": "Есть только МиГ",
         "rating": 12,
@@ -129,68 +99,6 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "68580",
-        "name": "«Кинодивы Италии: великая красота» — авторская лекция Альбины Старостиной",
-        "rating": 12,
-        "genres": [
-            "лекция"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "green_mile",
-        "name": "Зеленая миля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 189
     },
     {
         "filmId": "the_astronaut",
@@ -213,6 +121,16 @@
         "length": 115
     },
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "the_home_2025",
         "name": "Обитель",
         "rating": 18,
@@ -232,6 +150,28 @@
         "length": 95
     },
     {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -240,6 +180,15 @@
             "фэнтези",
             "комедия",
             "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
         ],
         "length": 90
     },
@@ -264,6 +213,16 @@
         "length": 85
     },
     {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -272,6 +231,16 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "harry_potter_6",
@@ -298,6 +267,17 @@
         "length": 135
     },
     {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "sweet_november",
         "name": "Сладкий ноябрь",
         "rating": 12,
@@ -315,6 +295,17 @@
         "length": 360
     },
     {
+        "filmId": "green_mile",
+        "name": "Зеленая миля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 189
+    },
+    {
         "filmId": "68708",
         "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
         "rating": 0,
@@ -327,18 +318,17 @@
         "length": 50
     },
     {
-        "filmId": "42536",
-        "name": "История игрушек",
-        "rating": 12,
+        "filmId": "toy_story",
+        "name": "Детские часы в «Уссури‎»: История игрушек",
+        "rating": 0,
         "genres": [
             "мультфильм",
             "фантастика",
-            "боевик",
             "драма",
             "приключения",
             "семейный"
         ],
-        "length": 100
+        "length": 80
     },
     {
         "filmId": "wicked_for_good",
@@ -368,13 +358,13 @@
     },
     {
         "filmId": "toy_story_2",
-        "name": "История игрушек 2 3D",
+        "name": "Детские часы в «Уссури‎»: История игрушек 2",
         "rating": 0,
         "genres": [
             "семейный",
             "мультфильм"
         ],
-        "length": 92
+        "length": 90
     },
     {
         "filmId": "stranger_things_s05ep34",
@@ -577,6 +567,18 @@
         "length": 95
     },
     {
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "68624",
         "name": "Эхо МКФ Послание к человеку-2025: Поля падения",
         "rating": 18,
@@ -604,6 +606,17 @@
             "документальный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "harry_potter_and_the_deathly_i",
+        "name": "Гарри Поттер и Дары смерти: Часть 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 145
     },
     {
         "filmId": "68626",
@@ -661,6 +674,15 @@
             "документальный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "67305",
+        "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2025)",
+        "rating": 6,
+        "genres": [
+            "прямая трансляция"
+        ],
+        "length": 122
     },
     {
         "filmId": "68636",
