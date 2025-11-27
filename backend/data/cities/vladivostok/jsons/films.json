@@ -1,94 +1,14 @@
 [
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
         "genres": [
-            "драма",
-            "фантастика"
+            "комедия",
+            "фэнтези",
+            "приключения"
         ],
-        "length": 150
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "iki_dunya_bir_dilek",
-        "name": "Два мира, одно желание",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "hyakuemu",
-        "name": "Стометровка",
-        "rating": 12,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "драма",
-            "спорт"
-        ],
-        "length": 100
+        "length": -1
     },
     {
         "filmId": "est_tolko_mig",
@@ -101,24 +21,15 @@
         "length": 100
     },
     {
-        "filmId": "the_astronaut",
-        "name": "Астронавт",
-        "rating": 16,
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "фантастика",
-            "триллер"
+            "фэнтези",
+            "комедия",
+            "семейный"
         ],
         "length": 90
-    },
-    {
-        "filmId": "geomeun_sunyeodeul",
-        "name": "Астрал: 13 инкарнаций зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
     },
     {
         "filmId": "aviator",
@@ -129,47 +40,6 @@
             "драма"
         ],
         "length": 122
-    },
-    {
-        "filmId": "the_home_2025",
-        "name": "Обитель",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ketindihan",
-        "name": "Сомния. Кошмар вернулся",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
     },
     {
         "filmId": "stitch_head",
@@ -184,6 +54,16 @@
         "length": 90
     },
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "pismo_dedu_morozu",
         "name": "Письмо Деду Морозу",
         "rating": 6,
@@ -191,6 +71,26 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "mission_santa_yoyo_to_the_res",
@@ -211,6 +111,25 @@
             "приключения"
         ],
         "length": 85
+    },
+    {
+        "filmId": "po_bratski",
+        "name": "По-братски",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -243,6 +162,16 @@
         "length": 97
     },
     {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "harry_potter_6",
         "name": "Гарри Поттер и Принц-полукровка",
         "rating": 16,
@@ -254,6 +183,18 @@
             "детектив"
         ],
         "length": 150
+    },
+    {
+        "filmId": "hyakuemu",
+        "name": "Стометровка",
+        "rating": 12,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "драма",
+            "спорт"
+        ],
+        "length": 100
     },
     {
         "filmId": "harry_potter_and_the_order_",
@@ -276,6 +217,26 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
     },
     {
         "filmId": "sweet_november",
@@ -306,6 +267,45 @@
         "length": 189
     },
     {
+        "filmId": "geomeun_sunyeodeul",
+        "name": "Астрал: 13 инкарнаций зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_home_2025",
+        "name": "Обитель",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_astronaut",
+        "name": "Астронавт",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "триллер"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "68708",
         "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
         "rating": 0,
@@ -316,6 +316,20 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "stranger_things_s05ep12",
+        "name": "Очень странные дела. 5 сезон, 1-2 серии",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 122
     },
     {
         "filmId": "toy_story",
@@ -343,8 +357,8 @@
         "length": 135
     },
     {
-        "filmId": "stranger_things_s05ep12",
-        "name": "Очень странные дела. 5 сезон, 1-2 серии",
+        "filmId": "stranger_things_s05ep34",
+        "name": "Очень странные дела. 5 сезон, 3-4 серии",
         "rating": 16,
         "genres": [
             "ужасы",
@@ -365,20 +379,6 @@
             "мультфильм"
         ],
         "length": 90
-    },
-    {
-        "filmId": "stranger_things_s05ep34",
-        "name": "Очень странные дела. 5 сезон, 3-4 серии",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "фэнтези",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 122
     },
     {
         "filmId": "narayama_bushiko",
@@ -691,6 +691,13 @@
         "genres": [
             "лекция"
         ],
+        "length": 122
+    },
+    {
+        "filmId": "68686",
+        "name": "Сибирь — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ — 2025)",
+        "rating": 6,
+        "genres": [],
         "length": 122
     }
 ]
