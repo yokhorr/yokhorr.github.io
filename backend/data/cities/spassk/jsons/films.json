@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "ty_ne_odin",
-        "name": "Ты не один",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "приключения"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "est_tolko_mig",
         "name": "Есть только МиГ",
         "rating": 12,
@@ -29,18 +8,6 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
     },
     {
         "filmId": "ketindihan",
@@ -70,5 +37,38 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "ty_ne_odin",
+        "name": "Ты не один",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
     }
 ]

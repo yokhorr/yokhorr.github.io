@@ -1,24 +1,55 @@
 [
     {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
+        "filmId": "gorynych",
+        "name": "Горыныч",
         "rating": 6,
         "genres": [
-            "комедия",
             "фэнтези",
             "приключения"
         ],
-        "length": -1
+        "length": 97
     },
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
+        "filmId": "hyakuemu",
+        "name": "Стометровка",
         "rating": 12,
         "genres": [
-            "военный",
-            "комедия"
+            "аниме",
+            "мультфильм",
+            "драма",
+            "спорт"
         ],
         "length": 100
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
     },
     {
         "filmId": "jaga_na_nashu_golovu",
@@ -42,37 +73,6 @@
         "length": 122
     },
     {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "iki_dunya_bir_dilek",
         "name": "Два мира, одно желание",
         "rating": 16,
@@ -80,37 +80,6 @@
             "мелодрама"
         ],
         "length": 115
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "mission_santa_yoyo_to_the_res",
-        "name": "Эльф и украденное Рождество",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "na_vybros",
-        "name": "На выброс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
     },
     {
         "filmId": "po_bratski",
@@ -122,90 +91,13 @@
         "length": 100
     },
     {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "приключения"
+            "комедия"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "harry_potter_6",
-        "name": "Гарри Поттер и Принц-полукровка",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "мелодрама",
-            "драма",
-            "приключения",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "hyakuemu",
-        "name": "Стометровка",
-        "rating": 12,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "драма",
-            "спорт"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "harry_potter_and_the_order_",
-        "name": "Гарри Поттер и Орден Феникса",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 135
+        "length": 90
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -229,6 +121,27 @@
         "length": 122
     },
     {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "frankenstein",
         "name": "Франкенштейн",
         "rating": 18,
@@ -237,6 +150,16 @@
             "фантастика"
         ],
         "length": 150
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "sweet_november",
@@ -254,6 +177,17 @@
         "rating": 18,
         "genres": [],
         "length": 360
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "green_mile",
@@ -306,6 +240,18 @@
         "length": 95
     },
     {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "68708",
         "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
         "rating": 0,
@@ -330,6 +276,16 @@
             "детектив"
         ],
         "length": 122
+    },
+    {
+        "filmId": "na_vybros",
+        "name": "На выброс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
     },
     {
         "filmId": "toy_story",
@@ -357,6 +313,16 @@
         "length": 135
     },
     {
+        "filmId": "mission_santa_yoyo_to_the_res",
+        "name": "Эльф и украденное Рождество",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "stranger_things_s05ep34",
         "name": "Очень странные дела. 5 сезон, 3-4 серии",
         "rating": 16,
@@ -369,6 +335,40 @@
             "детектив"
         ],
         "length": 122
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "harry_potter_6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "мелодрама",
+            "драма",
+            "приключения",
+            "детектив"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 135
     },
     {
         "filmId": "toy_story_2",

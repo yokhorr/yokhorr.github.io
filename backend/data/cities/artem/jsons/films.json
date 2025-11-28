@@ -1,5 +1,96 @@
 [
     {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "mission_santa_yoyo_to_the_res",
+        "name": "Эльф и украденное Рождество",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "masha_i_medvedi",
         "name": "Маша и Медведи",
         "rating": 6,
@@ -11,14 +102,14 @@
         "length": -1
     },
     {
-        "filmId": "mission_santa_yoyo_to_the_res",
-        "name": "Эльф и украденное Рождество",
+        "filmId": "gorynych",
+        "name": "Горыныч",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "семейный"
+            "фэнтези",
+            "приключения"
         ],
-        "length": 90
+        "length": 97
     },
     {
         "filmId": "in_your_dreams",
@@ -55,106 +146,6 @@
         "length": 110
     },
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "ketindihan",
-        "name": "Сомния. Кошмар вернулся",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
         "filmId": "stranger_things_s05ep12",
         "name": "Очень странные дела. 5 сезон, 1-2 серии",
         "rating": 16,
@@ -167,6 +158,15 @@
             "детектив"
         ],
         "length": 122
+    },
+    {
+        "filmId": "po_bratski",
+        "name": "По-братски",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "svjatoj_fedor_tomskij",
