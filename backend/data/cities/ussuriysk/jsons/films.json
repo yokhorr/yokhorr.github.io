@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "geomeun_sunyeodeul",
-        "name": "Астрал: 13 инкарнаций зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "est_tolko_mig",
         "name": "Есть только МиГ",
         "rating": 12,
@@ -110,6 +91,15 @@
             "боевик"
         ],
         "length": 135
+    },
+    {
+        "filmId": "geomeun_sunyeodeul",
+        "name": "Астрал: 13 инкарнаций зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
     },
     {
         "filmId": "predator_badlands",
