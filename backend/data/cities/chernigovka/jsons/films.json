@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "geomeun_sunyeodeul",
         "name": "Астрал: 13 инкарнаций зла",
         "rating": 18,
@@ -69,5 +50,24 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
     }
 ]

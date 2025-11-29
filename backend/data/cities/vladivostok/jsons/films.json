@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -18,64 +8,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
     },
     {
         "filmId": "frankenstein",
@@ -88,18 +20,54 @@
         "length": 150
     },
     {
-        "filmId": "stranger_things_s05ep12",
-        "name": "Очень странные дела. 5 сезон, 1-2 серии",
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
         "rating": 16,
         "genres": [
-            "ужасы",
             "фантастика",
-            "фэнтези",
-            "триллер",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "green_mile",
+        "name": "Зеленая миля",
+        "rating": 18,
+        "genres": [
             "драма",
+            "криминал",
             "детектив"
         ],
+        "length": 189
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
         "length": 122
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "avgust",
@@ -111,6 +79,46 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "geomeun_sunyeodeul",
+        "name": "Астрал: 13 инкарнаций зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "the_astronaut",
+        "name": "Астронавт",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "триллер"
+        ],
+        "length": 90
     },
     {
         "filmId": "stranger_things_s05ep34",
@@ -127,87 +135,13 @@
         "length": 122
     },
     {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
+        "filmId": "po_bratski",
+        "name": "По-братски",
+        "rating": 12,
         "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
+            "комедия"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "iki_dunya_bir_dilek",
-        "name": "Два мира, одно желание",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "wicked_for_good",
-        "name": "Злая. Часть 2",
-        "rating": 16,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
-            "мелодрама",
-            "семейный"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "green_mile",
-        "name": "Зеленая миля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 189
-    },
-    {
-        "filmId": "geomeun_sunyeodeul",
-        "name": "Астрал: 13 инкарнаций зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_astronaut",
-        "name": "Астронавт",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "триллер"
-        ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "the_home_2025",
@@ -240,6 +174,16 @@
         "length": 90
     },
     {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -248,6 +192,26 @@
             "фэнтези",
             "комедия",
             "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
         ],
         "length": 90
     },
@@ -262,6 +226,20 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "stranger_things_s05ep12",
+        "name": "Очень странные дела. 5 сезон, 1-2 серии",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 122
     },
     {
         "filmId": "na_vybros",
@@ -284,6 +262,18 @@
         "length": 90
     },
     {
+        "filmId": "wicked_for_good",
+        "name": "Злая. Часть 2",
+        "rating": 16,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "мелодрама",
+            "семейный"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "hyakuemu",
         "name": "Стометровка",
         "rating": 12,
@@ -304,6 +294,16 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "mission_santa_yoyo_to_the_res",
