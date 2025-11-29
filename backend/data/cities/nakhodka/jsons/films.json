@@ -1,28 +1,23 @@
 [
     {
-        "filmId": "67596",
-        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
-        "rating": 0,
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фэнтези"
+            "мелодрама"
         ],
-        "length": 50
+        "length": 115
     },
     {
-        "filmId": "68708",
-        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
-        "rating": 0,
+        "filmId": "the_astronaut",
+        "name": "Астронавт",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "ужасы",
+            "фантастика",
+            "триллер"
         ],
-        "length": 50
+        "length": 90
     },
     {
         "filmId": "aviator",
@@ -35,15 +30,34 @@
         "length": 122
     },
     {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
         "rating": 6,
         "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
+            "комедия"
         ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -76,81 +90,6 @@
         "length": 90
     },
     {
-        "filmId": "stitch_head",
-        "name": "Стич-Хэд",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "appu",
-        "name": "Книга джунглей и слоненок Бимбо",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "alisa_v_strane_chudes",
-        "name": "Алиса в Стране Чудес",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "in_your_dreams",
-        "name": "Только во сне",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "avgust",
         "name": "Август (финальная версия)",
         "rating": 16,
@@ -162,74 +101,14 @@
         "length": 140
     },
     {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
         "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "trap_house",
-        "name": "Джекпот",
-        "rating": 18,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "mission_santa_yoyo_to_the_res",
-        "name": "Эльф и украденное Рождество",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "iki_dunya_bir_dilek",
-        "name": "Два мира, одно желание",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_astronaut",
-        "name": "Астронавт",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "триллер"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
+            "военный",
             "комедия"
         ],
-        "length": 122
+        "length": 100
     },
     {
         "filmId": "the_home_2025",
@@ -290,6 +169,127 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "67596",
+        "name": "Мульт в кино. Выпуск №188. Сказочный поход",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "68708",
+        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "stitch_head",
+        "name": "Стич-Хэд",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "appu",
+        "name": "Книга джунглей и слоненок Бимбо",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "alisa_v_strane_chudes",
+        "name": "Алиса в Стране Чудес",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "in_your_dreams",
+        "name": "Только во сне",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "trap_house",
+        "name": "Джекпот",
+        "rating": 18,
+        "genres": [
+            "боевик"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "mission_santa_yoyo_to_the_res",
+        "name": "Эльф и украденное Рождество",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "mazhor_v_dubae",

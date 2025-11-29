@@ -1,5 +1,44 @@
 [
     {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "ty_ne_odin",
         "name": "Ты не один",
         "rating": 12,
@@ -31,44 +70,5 @@
             "приключения"
         ],
         "length": -1
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "ketindihan",
-        "name": "Сомния. Кошмар вернулся",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     }
 ]
