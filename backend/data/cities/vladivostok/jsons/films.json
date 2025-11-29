@@ -1,168 +1,5 @@
 [
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "iki_dunya_bir_dilek",
-        "name": "Два мира, одно желание",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "green_mile",
-        "name": "Зеленая миля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 189
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "geomeun_sunyeodeul",
-        "name": "Астрал: 13 инкарнаций зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_astronaut",
-        "name": "Астронавт",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "триллер"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "stranger_things_s05ep34",
-        "name": "Очень странные дела. 5 сезон, 3-4 серии",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "фэнтези",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_home_2025",
-        "name": "Обитель",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ketindihan",
-        "name": "Сомния. Кошмар вернулся",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "jaga_na_nashu_golovu",
         "name": "Яга на нашу голову",
         "rating": 6,
@@ -207,6 +44,16 @@
         "length": -1
     },
     {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "pismo_dedu_morozu",
         "name": "Письмо Деду Морозу",
         "rating": 6,
@@ -214,6 +61,15 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 115
     },
     {
         "filmId": "68708",
@@ -242,6 +98,17 @@
         "length": 122
     },
     {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "na_vybros",
         "name": "На выброс",
         "rating": 6,
@@ -250,6 +117,25 @@
             "приключения"
         ],
         "length": 85
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "po_bratski",
+        "name": "По-братски",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "toy_story_2",
@@ -274,6 +160,16 @@
         "length": 135
     },
     {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "hyakuemu",
         "name": "Стометровка",
         "rating": 12,
@@ -284,6 +180,16 @@
             "спорт"
         ],
         "length": 100
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "alisa_v_strane_chudes",
@@ -316,6 +222,20 @@
         "length": 90
     },
     {
+        "filmId": "stranger_things_s05ep34",
+        "name": "Очень странные дела. 5 сезон, 3-4 серии",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "harry_potter_6",
         "name": "Гарри Поттер и Принц-полукровка",
         "rating": 16,
@@ -340,6 +260,26 @@
         "length": 135
     },
     {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "garri_potter_i_uznik_azkabana",
         "name": "Гарри Поттер и узник Азкабана",
         "rating": 12,
@@ -349,6 +289,66 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "green_mile",
+        "name": "Зеленая миля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 189
+    },
+    {
+        "filmId": "geomeun_sunyeodeul",
+        "name": "Астрал: 13 инкарнаций зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_astronaut",
+        "name": "Астронавт",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "триллер"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_home_2025",
+        "name": "Обитель",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ketindihan",
+        "name": "Сомния. Кошмар вернулся",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "odna_doma_3",
