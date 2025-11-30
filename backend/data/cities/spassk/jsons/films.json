@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "ketindihan",
         "name": "Сомния. Кошмар вернулся",
         "rating": 18,
@@ -60,6 +40,16 @@
         "length": -1
     },
     {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "stitch_head",
         "name": "Стич-Хэд",
         "rating": 6,
@@ -70,5 +60,15 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     }
 ]
