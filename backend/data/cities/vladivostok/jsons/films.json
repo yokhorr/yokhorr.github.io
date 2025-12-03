@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -18,117 +8,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "odna_doma_3",
-        "name": "Одна дома 3",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "iki_dunya_bir_dilek",
-        "name": "Два мира, одно желание",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
     },
     {
         "filmId": "frankenstein",
@@ -141,15 +20,43 @@
         "length": 150
     },
     {
-        "filmId": "harry_potter_and_the_order_",
-        "name": "Гарри Поттер и Орден Феникса",
-        "rating": 12,
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
+            "фантастика",
+            "боевик"
         ],
         "length": 135
+    },
+    {
+        "filmId": "iki_dunya_bir_dilek",
+        "name": "Два мира, одно желание",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "predator_badlands",
@@ -162,35 +69,6 @@
         "length": 110
     },
     {
-        "filmId": "62021",
-        "name": "Арт-лекторий: Тайная жизнь Уффици",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "68630",
-        "name": "Неделя французского кино — 2025: Курс жизни",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "green_mile",
         "name": "Зеленая миля",
         "rating": 18,
@@ -200,6 +78,16 @@
             "детектив"
         ],
         "length": 189
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "geomeun_sunyeodeul",
@@ -220,6 +108,26 @@
             "триллер"
         ],
         "length": 90
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "po_bratski",
+        "name": "По-братски",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_home_2025",
@@ -260,6 +168,15 @@
             "комедия"
         ],
         "length": -1
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -317,6 +234,17 @@
         "length": 100
     },
     {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "mission_santa_yoyo_to_the_res",
         "name": "Эльф и украденное Рождество",
         "rating": 6,
@@ -325,6 +253,16 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "65628",
@@ -361,6 +299,16 @@
         "length": 135
     },
     {
+        "filmId": "papiny_dochki_mama_vernulas",
+        "name": "Папины дочки. Мама вернулась",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "harry_potter_and_the_deathly_",
         "name": "Гарри Поттер и Дары смерти: Часть 1",
         "rating": 16,
@@ -371,6 +319,17 @@
             "детектив"
         ],
         "length": 130
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "in_die_sonne_schauen",
@@ -532,6 +491,17 @@
             "комедия"
         ],
         "length": 125
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 135
     },
     {
         "filmId": "giotto_e_il_sogno_del_rinascim",
