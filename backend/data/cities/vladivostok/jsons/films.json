@@ -1,45 +1,12 @@
 [
     {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
+        "filmId": "keeper",
+        "name": "Крипер",
         "rating": 18,
         "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
+            "ужасы"
         ],
         "length": 100
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
     },
     {
         "filmId": "predator_badlands",
@@ -52,56 +19,12 @@
         "length": 110
     },
     {
-        "filmId": "harry_potter_and_the_deathly_",
-        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
         "rating": 16,
         "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
+            "триллер",
+            "криминал"
         ],
         "length": 122
     },
@@ -114,33 +37,6 @@
             "фантастика"
         ],
         "length": 150
-    },
-    {
-        "filmId": "in_die_sonne_schauen",
-        "name": "Звук падения",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "68632",
-        "name": "Неделя французского кино — 2025: Вознесение",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
     },
     {
         "filmId": "avgust",
@@ -166,6 +62,49 @@
         "length": 140
     },
     {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "bojcovskij_klub",
         "name": "Бойцовский клуб",
         "rating": 18,
@@ -175,6 +114,26 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "est_tolko_mig",
@@ -348,6 +307,18 @@
         "length": 105
     },
     {
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "68819",
         "name": "КСБ: Как стать боссом",
         "rating": 18,
@@ -365,6 +336,15 @@
             "драма"
         ],
         "length": 95
+    },
+    {
+        "filmId": "in_die_sonne_schauen",
+        "name": "Звук падения",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 150
     },
     {
         "filmId": "ice_age_2_the_meltdown",
@@ -423,6 +403,17 @@
             "драма"
         ],
         "length": 90
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     },
     {
         "filmId": "zhenitba_2025",
