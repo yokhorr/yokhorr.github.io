@@ -1,13 +1,37 @@
 [
     {
-        "filmId": "volchok",
-        "name": "Волчок",
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
         "rating": 16,
         "genres": [
+            "фэнтези",
             "приключения",
-            "комедия"
+            "семейный"
         ],
-        "length": 122
+        "length": 150
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
     },
     {
         "filmId": "zootopia_2",
@@ -20,6 +44,56 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_running_man_2025",
+        "name": "Бегущий человек",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "mission_santa_yoyo_to_the_res",
@@ -64,79 +138,5 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_running_man_2025",
-        "name": "Бегущий человек",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
     }
 ]

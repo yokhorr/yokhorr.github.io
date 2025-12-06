@@ -1,75 +1,11 @@
 [
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "wicked_for_good",
-        "name": "Злая. Часть 2",
-        "rating": 16,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
-            "мелодрама",
-            "семейный"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
         "genres": [
             "триллер",
             "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
         ],
         "length": 122
     },
@@ -97,6 +33,16 @@
         "length": 100
     },
     {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "the_running_man_2025",
         "name": "Бегущий человек",
         "rating": 16,
@@ -115,5 +61,59 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "wicked_for_good",
+        "name": "Злая. Часть 2",
+        "rating": 16,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "мелодрама",
+            "семейный"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     }
 ]
