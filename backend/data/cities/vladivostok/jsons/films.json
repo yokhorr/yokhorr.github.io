@@ -1,148 +1,11 @@
 [
     {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "volchok",
         "name": "Волчок",
         "rating": 16,
         "genres": [
             "приключения",
             "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "eojjeolsuga_eobsda",
-        "name": "Метод исключения",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "bojcovskij_klub",
-        "name": "Бойцовский клуб",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "in_die_sonne_schauen",
-        "name": "Звук падения",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
         ],
         "length": 122
     },
@@ -164,6 +27,29 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "68708",
@@ -189,6 +75,28 @@
         "length": 90
     },
     {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "masha_i_medvedi",
         "name": "Маша и Медведи",
         "rating": 6,
@@ -212,6 +120,17 @@
         "length": 90
     },
     {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "mission_santa_yoyo_to_the_res",
         "name": "Эльф и украденное Рождество",
         "rating": 6,
@@ -220,6 +139,15 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "in_die_sonne_schauen",
+        "name": "Звук падения",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 150
     },
     {
         "filmId": "wicked_for_good",
@@ -262,6 +190,16 @@
             "приключения"
         ],
         "length": 97
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     },
     {
         "filmId": "harry_potter_6",
@@ -344,6 +282,16 @@
         "length": 85
     },
     {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "68634",
         "name": "Неделя французского кино — 2025: Мелочи жизни",
         "rating": 16,
@@ -354,6 +302,16 @@
         "length": 90
     },
     {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "predator_badlands",
         "name": "Хищник: Планета смерти",
         "rating": 18,
@@ -362,6 +320,48 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "eojjeolsuga_eobsda",
+        "name": "Метод исключения",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "keeper",
+        "name": "Крипер",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "bojcovskij_klub",
+        "name": "Бойцовский клуб",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "14207",
