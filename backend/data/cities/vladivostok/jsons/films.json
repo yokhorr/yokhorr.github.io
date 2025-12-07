@@ -10,6 +10,25 @@
         "length": 122
     },
     {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "zootopia_2",
         "name": "Зверополис 2",
         "rating": 6,
@@ -33,130 +52,6 @@
         "length": -1
     },
     {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "eojjeolsuga_eobsda",
-        "name": "Метод исключения",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bojcovskij_klub",
-        "name": "Бойцовский клуб",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "68708",
         "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
         "rating": 0,
@@ -178,6 +73,49 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "masha_i_medvedi",
@@ -232,6 +170,28 @@
         "length": 97
     },
     {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "eojjeolsuga_eobsda",
+        "name": "Метод исключения",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -262,6 +222,16 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
     },
     {
         "filmId": "hvis_ingen_gar_i_fella",
@@ -327,6 +297,26 @@
         "length": 110
     },
     {
+        "filmId": "keeper",
+        "name": "Крипер",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "bojcovskij_klub",
+        "name": "Бойцовский клуб",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "in_die_sonne_schauen",
         "name": "Звук падения",
         "rating": 18,
@@ -334,6 +324,16 @@
             "драма"
         ],
         "length": 150
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "zhenitba_2025",
@@ -585,5 +585,15 @@
             "документальный"
         ],
         "length": 70
+    },
+    {
+        "filmId": "un_homme_et_une_femme",
+        "name": "Мужчина и женщина 1966",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 100
     }
 ]
