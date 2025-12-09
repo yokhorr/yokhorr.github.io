@@ -1,22 +1,23 @@
 [
     {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
+        "filmId": "volchok",
+        "name": "Волчок",
         "rating": 16,
         "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
             "комедия",
-            "семейный"
+            "фэнтези"
         ],
         "length": 100
     },
@@ -33,113 +34,6 @@
         "length": 100
     },
     {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "harry_potter_and_the_deathly_",
-        "name": "Гарри Поттер и Дары смерти: Часть 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "zhenitba_2025",
-        "name": "Театр в кино: Женитьба",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_family_man",
-        "name": "Клуб «Кино и смыслы»: Семьянин",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "eojjeolsuga_eobsda",
         "name": "Метод исключения",
         "rating": 18,
@@ -150,6 +44,16 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     },
     {
         "filmId": "keeper",
@@ -169,6 +73,17 @@
             "фантастика"
         ],
         "length": 150
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
     },
     {
         "filmId": "bojcovskij_klub",
@@ -202,6 +117,16 @@
         "length": 150
     },
     {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "aviator",
         "name": "Авиатор",
         "rating": 16,
@@ -210,6 +135,26 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "pismo_dedu_morozu",
@@ -338,6 +283,18 @@
         "length": 80
     },
     {
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "giotto_e_il_sogno_del_rinascim",
         "name": "Арт-лекторий в кино: Джотто. Предчувствие Ренессанса",
         "rating": 16,
@@ -358,6 +315,16 @@
         "length": 135
     },
     {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "snegovik",
         "name": "Снеговик",
         "rating": 6,
@@ -367,6 +334,15 @@
             "фэнтези"
         ],
         "length": 95
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
@@ -379,13 +355,13 @@
         "length": -1
     },
     {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 12,
+        "filmId": "41297",
+        "name": "Три кота и море приключений",
+        "rating": 0,
         "genres": [
-            "комедия"
+            "мультфильм"
         ],
-        "length": 122
+        "length": 65
     },
     {
         "filmId": "regretting_you",
@@ -396,6 +372,19 @@
             "мелодрама"
         ],
         "length": 115
+    },
+    {
+        "filmId": "shi_guang_dai_li_ren_ying_du",
+        "name": "Агент времени: Глава Инду. Фильм",
+        "rating": 18,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "детектив",
+            "приключения",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "harry_potter_and_the_deathly_i",
@@ -418,17 +407,14 @@
         "length": -1
     },
     {
-        "filmId": "shi_guang_dai_li_ren_ying_du",
-        "name": "Агент времени: Глава Инду. Фильм",
+        "filmId": "not_without_hope",
+        "name": "Выживший",
         "rating": 18,
         "genres": [
-            "мультфильм",
-            "фантастика",
-            "детектив",
-            "приключения",
+            "триллер",
             "драма"
         ],
-        "length": 100
+        "length": 122
     },
     {
         "filmId": "adulthood",
@@ -532,6 +518,17 @@
             "документальный"
         ],
         "length": 65
+    },
+    {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
     },
     {
         "filmId": "svjatoj_fedor_tomskij",
