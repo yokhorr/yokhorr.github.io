@@ -1,46 +1,5 @@
 [
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "shalnaja_imperatrica",
         "name": "Шальная императрица",
         "rating": 18,
@@ -50,29 +9,6 @@
             "приключения"
         ],
         "length": -1
-    },
-    {
-        "filmId": "68708",
-        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
     },
     {
         "filmId": "semjanin",
@@ -97,6 +33,50 @@
         "length": 100
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -105,6 +85,101 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "zhenitba_2025",
+        "name": "Театр в кино: Женитьба",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_family_man",
+        "name": "Клуб «Кино и смыслы»: Семьянин",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "eojjeolsuga_eobsda",
+        "name": "Метод исключения",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "keeper",
+        "name": "Крипер",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "bojcovskij_klub",
+        "name": "Бойцовский клуб",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
     },
     {
         "filmId": "avgust",
@@ -116,6 +191,57 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "in_die_sonne_schauen",
+        "name": "Звук падения",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "aviator",
+        "name": "Авиатор",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "68708",
+        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "masha_i_medvedi",
@@ -170,28 +296,6 @@
         "length": 97
     },
     {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "eojjeolsuga_eobsda",
-        "name": "Метод исключения",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "papiny_dochki_mama_vernulas",
         "name": "Папины дочки. Мама вернулась",
         "rating": 6,
@@ -224,16 +328,6 @@
         "length": 100
     },
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "hvis_ingen_gar_i_fella",
         "name": "Мышиный переполох",
         "rating": 6,
@@ -244,98 +338,13 @@
         "length": 80
     },
     {
-        "filmId": "harry_potter_and_the_deathly_",
-        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "filmId": "giotto_e_il_sogno_del_rinascim",
+        "name": "Арт-лекторий в кино: Джотто. Предчувствие Ренессанса",
         "rating": 16,
         "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения",
-            "детектив"
+            "документальный"
         ],
-        "length": 130
-    },
-    {
-        "filmId": "zhenitba_2025",
-        "name": "Театр в кино: Женитьба",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_family_man",
-        "name": "Клуб «Кино и смыслы»: Семьянин",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bojcovskij_klub",
-        "name": "Бойцовский клуб",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "in_die_sonne_schauen",
-        "name": "Звук падения",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "aviator",
-        "name": "Авиатор",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
-        ],
-        "length": 122
+        "length": 95
     },
     {
         "filmId": "harry_potter_and_the_order_",
@@ -349,11 +358,13 @@
         "length": 135
     },
     {
-        "filmId": "giotto_e_il_sogno_del_rinascim",
-        "name": "Арт-лекторий в кино: Джотто. Предчувствие Ренессанса",
-        "rating": 16,
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
         "genres": [
-            "документальный"
+            "комедия",
+            "приключения",
+            "фэнтези"
         ],
         "length": 95
     },
@@ -377,17 +388,6 @@
         "length": 122
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "regretting_you",
         "name": "Сожалею о тебе",
         "rating": 18,
@@ -396,6 +396,26 @@
             "мелодрама"
         ],
         "length": 115
+    },
+    {
+        "filmId": "harry_potter_and_the_deathly_i",
+        "name": "Гарри Поттер и Дары смерти: Часть 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": -1
     },
     {
         "filmId": "shi_guang_dai_li_ren_ying_du",
@@ -505,17 +525,6 @@
         "length": 95
     },
     {
-        "filmId": "harry_potter_and_the_deathly_i",
-        "name": "Гарри Поттер и Дары смерти: Часть 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "68626",
         "name": "Эхо МКФ Послание к человеку-2025: Samba Infinito; Записки поэта; Грациано",
         "rating": 16,
@@ -523,15 +532,6 @@
             "документальный"
         ],
         "length": 65
-    },
-    {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
     },
     {
         "filmId": "svjatoj_fedor_tomskij",
