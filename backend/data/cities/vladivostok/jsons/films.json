@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "volchok",
         "name": "Волчок",
         "rating": 16,
@@ -43,28 +22,6 @@
         "length": 100
     },
     {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "harry_potter_and_the_deathly_",
-        "name": "Гарри Поттер и Дары смерти: Часть 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "chainsaw_man_movie_rezehen",
         "name": "Человек-бензопила. Фильм: История Резе",
         "rating": 18,
@@ -77,69 +34,6 @@
         "length": 100
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "harry_potter_6",
-        "name": "Гарри Поттер и Принц-полукровка",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "мелодрама",
-            "драма",
-            "приключения",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "giotto_e_il_sogno_del_rinascim",
-        "name": "Арт-лекторий в кино: Джотто. Предчувствие Ренессанса",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "harry_potter_and_the_order_",
-        "name": "Гарри Поттер и Орден Феникса",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "eojjeolsuga_eobsda",
         "name": "Метод исключения",
         "rating": 18,
@@ -150,6 +44,27 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
     },
     {
         "filmId": "frankenstein",
@@ -210,6 +125,16 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "snegovik",
@@ -281,6 +206,17 @@
         "length": 80
     },
     {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "shi_guang_dai_li_ren_ying_du",
         "name": "Агент времени: Глава Инду. Фильм",
         "rating": 18,
@@ -292,17 +228,6 @@
             "драма"
         ],
         "length": 100
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
     },
     {
         "filmId": "five_nights_at_freddy_2",
@@ -325,6 +250,18 @@
         "length": 145
     },
     {
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "not_without_hope",
         "name": "Выживший",
         "rating": 18,
@@ -333,6 +270,29 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "harry_potter_6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "мелодрама",
+            "драма",
+            "приключения",
+            "детектив"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "adulthood",
@@ -359,15 +319,6 @@
         "length": 105
     },
     {
-        "filmId": "silent_night_deadly_night",
-        "name": "Тихая ночь, смертельная ночь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "perjanjian_setan",
         "name": "Астрал. Дом № 13",
         "rating": 18,
@@ -375,6 +326,15 @@
             "ужасы"
         ],
         "length": 75
+    },
+    {
+        "filmId": "silent_night_deadly_night",
+        "name": "Тихая ночь, смертельная ночь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "41297",
@@ -549,6 +509,17 @@
         "rating": 6,
         "genres": [],
         "length": 122
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 135
     },
     {
         "filmId": "avatar_the_way_of_water",
