@@ -1,22 +1,13 @@
 [
     {
-        "filmId": "hvis_ingen_gar_i_fella",
-        "name": "Мышиный переполох",
-        "rating": 6,
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
         "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
+            "военный",
             "комедия"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "volchok",
@@ -27,15 +18,5 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
     }
 ]

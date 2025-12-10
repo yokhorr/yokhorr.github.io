@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "volchok",
         "name": "Волчок",
         "rating": 16,
@@ -8,25 +29,6 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "est_tolko_mig",
-        "name": "Есть только МиГ",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
     },
     {
         "filmId": "zootopia_2",
@@ -41,58 +43,26 @@
         "length": 100
     },
     {
-        "filmId": "die_my_love",
-        "name": "Умри, моя любовь",
-        "rating": 18,
+        "filmId": "est_tolko_mig",
+        "name": "Есть только МиГ",
+        "rating": 12,
         "genres": [
-            "триллер",
+            "военный",
             "комедия"
         ],
-        "length": 122
+        "length": 100
     },
     {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "68708",
-        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
         "rating": 16,
         "genres": [
-            "комедия",
-            "семейный"
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
         ],
-        "length": 100
+        "length": 130
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -117,89 +87,14 @@
         "length": 122
     },
     {
-        "filmId": "avgust",
-        "name": "Август (финальная версия)",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "военный",
-            "история"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "mission_santa_yoyo_to_the_res",
-        "name": "Эльф и украденное Рождество",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "65628",
-        "name": "Тимур и его команда",
-        "rating": 12,
-        "genres": [
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "wicked_for_good",
-        "name": "Злая. Часть 2",
-        "rating": 16,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
-            "мелодрама",
-            "семейный"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "eojjeolsuga_eobsda",
-        "name": "Метод исключения",
+        "filmId": "die_my_love",
+        "name": "Умри, моя любовь",
         "rating": 18,
         "genres": [
             "триллер",
-            "комедия",
-            "драма",
-            "криминал"
+            "комедия"
         ],
-        "length": 140
-    },
-    {
-        "filmId": "papiny_dochki_mama_vernulas",
-        "name": "Папины дочки. Мама вернулась",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 105
+        "length": 122
     },
     {
         "filmId": "harry_potter_6",
@@ -213,47 +108,6 @@
             "детектив"
         ],
         "length": 150
-    },
-    {
-        "filmId": "po_bratski",
-        "name": "По-братски",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "hvis_ingen_gar_i_fella",
-        "name": "Мышиный переполох",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "harry_potter_and_the_deathly_",
-        "name": "Гарри Поттер и Дары смерти: Часть 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 130
     },
     {
         "filmId": "giotto_e_il_sogno_del_rinascim",
@@ -286,6 +140,28 @@
         "length": 110
     },
     {
+        "filmId": "eojjeolsuga_eobsda",
+        "name": "Метод исключения",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "bojcovskij_klub",
         "name": "Бойцовский клуб",
         "rating": 18,
@@ -304,6 +180,17 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "avgust",
+        "name": "Август (финальная версия)",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "военный",
+            "история"
+        ],
+        "length": 140
     },
     {
         "filmId": "in_die_sonne_schauen",
@@ -338,7 +225,7 @@
     {
         "filmId": "neverojatnye_prikljuchenija_shurika",
         "name": "Невероятные приключения Шурика",
-        "rating": 12,
+        "rating": 18,
         "genres": [
             "комедия"
         ],
@@ -355,13 +242,23 @@
         "length": -1
     },
     {
-        "filmId": "41297",
-        "name": "Три кота и море приключений",
-        "rating": 0,
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
         "genres": [
-            "мультфильм"
+            "комедия"
         ],
-        "length": 65
+        "length": 90
+    },
+    {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
     },
     {
         "filmId": "regretting_you",
@@ -372,6 +269,16 @@
             "мелодрама"
         ],
         "length": 115
+    },
+    {
+        "filmId": "hvis_ingen_gar_i_fella",
+        "name": "Мышиный переполох",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "shi_guang_dai_li_ren_ying_du",
@@ -387,15 +294,15 @@
         "length": 100
     },
     {
-        "filmId": "harry_potter_and_the_deathly_i",
-        "name": "Гарри Поттер и Дары смерти: Часть 2",
-        "rating": 16,
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
         "genres": [
+            "комедия",
             "фэнтези",
-            "приключения",
-            "детектив"
+            "приключения"
         ],
-        "length": 145
+        "length": -1
     },
     {
         "filmId": "five_nights_at_freddy_2",
@@ -405,6 +312,17 @@
             "ужасы"
         ],
         "length": -1
+    },
+    {
+        "filmId": "harry_potter_and_the_deathly_i",
+        "name": "Гарри Поттер и Дары смерти: Часть 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 145
     },
     {
         "filmId": "not_without_hope",
@@ -457,6 +375,15 @@
             "ужасы"
         ],
         "length": 75
+    },
+    {
+        "filmId": "41297",
+        "name": "Три кота и море приключений",
+        "rating": 0,
+        "genres": [
+            "мультфильм"
+        ],
+        "length": 65
     },
     {
         "filmId": "legends_of_the_fall",
