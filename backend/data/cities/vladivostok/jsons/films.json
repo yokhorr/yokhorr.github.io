@@ -9,6 +9,15 @@
         "length": 105
     },
     {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "zootopia_2",
         "name": "Зверополис 2",
         "rating": 6,
@@ -21,28 +30,6 @@
         "length": 100
     },
     {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -51,97 +38,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "adulthood",
-        "name": "Дело семейное",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия",
-            "криминал",
-            "детектив"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "bojcovskij_klub",
-        "name": "Бойцовский клуб",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "rapaces",
-        "name": "Стервятники",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "perjanjian_setan",
-        "name": "Астрал. Дом № 13",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "silent_night_deadly_night",
-        "name": "Тихая ночь, смертельная ночь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
     },
     {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
@@ -170,6 +66,16 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "jaga_na_nashu_golovu",
@@ -201,6 +107,28 @@
             "семейный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
     },
     {
         "filmId": "shi_guang_dai_li_ren_ying_du",
@@ -320,6 +248,78 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "adulthood",
+        "name": "Дело семейное",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия",
+            "криминал",
+            "детектив"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "bojcovskij_klub",
+        "name": "Бойцовский клуб",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "rapaces",
+        "name": "Стервятники",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "silent_night_deadly_night",
+        "name": "Тихая ночь, смертельная ночь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "perjanjian_setan",
+        "name": "Астрал. Дом № 13",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "keeper",
+        "name": "Крипер",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "aladdin_1992",

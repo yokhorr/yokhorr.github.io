@@ -1,32 +1,5 @@
 [
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
         "name": "Три кота. Путешествие во времени",
         "rating": 0,
@@ -47,6 +20,15 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "volchok",
@@ -91,6 +73,15 @@
         "length": 135
     },
     {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "chainsaw_man_movie_rezehen",
         "name": "Человек-бензопила. Фильм: История Резе",
         "rating": 18,
@@ -99,6 +90,15 @@
             "мультфильм",
             "фэнтези",
             "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "keeper",
+        "name": "Крипер",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
     }
