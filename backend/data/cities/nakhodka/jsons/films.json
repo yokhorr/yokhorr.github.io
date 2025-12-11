@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "harry_potter_6",
-        "name": "Гарри Поттер и Принц-полукровка",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "мелодрама",
-            "драма",
-            "приключения",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "five_nights_at_freddy_2",
         "name": "Пять ночей с Фредди 2",
         "rating": 16,
@@ -53,14 +9,14 @@
         "length": 105
     },
     {
-        "filmId": "semjanin",
-        "name": "Семьянин",
+        "filmId": "volchok",
+        "name": "Волчок",
         "rating": 16,
         "genres": [
-            "комедия",
-            "семейный"
+            "приключения",
+            "комедия"
         ],
-        "length": 100
+        "length": 122
     },
     {
         "filmId": "zootopia_2",
@@ -75,12 +31,11 @@
         "length": 100
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
         "genres": [
-            "триллер",
-            "криминал"
+            "комедия"
         ],
         "length": 122
     },
@@ -93,6 +48,16 @@
             "мелодрама"
         ],
         "length": 115
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     },
     {
         "filmId": "predator_badlands",
@@ -135,6 +100,16 @@
         "length": -1
     },
     {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "68708",
         "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
         "rating": 0,
@@ -147,6 +122,18 @@
         "length": 50
     },
     {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "keeper",
         "name": "Крипер",
         "rating": 18,
@@ -154,6 +141,19 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "harry_potter_6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "мелодрама",
+            "драма",
+            "приключения",
+            "детектив"
+        ],
+        "length": 150
     },
     {
         "filmId": "po_bratski",
