@@ -1,5 +1,23 @@
 [
     {
+        "filmId": "pabrik_gula",
+        "name": "Сахарная фабрика",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "hvis_ingen_gar_i_fella",
         "name": "Мышиный переполох",
         "rating": 6,
@@ -28,23 +46,5 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "pabrik_gula",
-        "name": "Сахарная фабрика",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
     }
 ]
