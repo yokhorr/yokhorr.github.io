@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "volchok",
         "name": "Волчок",
         "rating": 16,
@@ -17,76 +8,6 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "silent_night_deadly_night",
-        "name": "Тихая ночь, смертельная ночь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     },
     {
         "filmId": "shalnaja_imperatrica",
@@ -110,6 +31,34 @@
         "length": -1
     },
     {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "68708",
         "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
         "rating": 0,
@@ -131,6 +80,18 @@
         "length": 100
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "chainsaw_man_movie_rezehen",
         "name": "Человек-бензопила. Фильм: История Резе",
         "rating": 18,
@@ -141,6 +102,26 @@
             "боевик"
         ],
         "length": 100
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 115
     },
     {
         "filmId": "keeper",
@@ -175,5 +156,24 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "silent_night_deadly_night",
+        "name": "Тихая ночь, смертельная ночь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
