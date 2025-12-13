@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "volchok",
         "name": "Волчок",
         "rating": 16,
@@ -17,82 +8,6 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "aladdin_1992",
-        "name": "Детские часы в «Уссури»: Аладдин 1992",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "мюзикл",
-            "фэнтези",
-            "мелодрама",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
     },
     {
         "filmId": "shi_guang_dai_li_ren_ying_du",
@@ -108,46 +23,35 @@
         "length": 100
     },
     {
-        "filmId": "hvis_ingen_gar_i_fella",
-        "name": "Мышиный переполох",
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
         "rating": 6,
         "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
+            "мультфильм",
             "приключения",
-            "семейный"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
-        "rating": 16,
-        "genres": [
             "комедия",
-            "семейный"
+            "фэнтези"
         ],
         "length": 100
     },
     {
-        "filmId": "avatar",
-        "name": "Аватар",
-        "rating": 12,
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "боевик",
-            "триллер"
+            "ужасы"
         ],
-        "length": 180
+        "length": 105
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -162,35 +66,54 @@
         "length": 100
     },
     {
-        "filmId": "56825",
-        "name": "Один дома",
-        "rating": 0,
+        "filmId": "68625",
+        "name": "Эхо МКФ Послание к человеку-2025: Инстинкт; Счаст; Приключения реального самурая в мире катастроф",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "семейный"
+            "документальный"
         ],
-        "length": 103
+        "length": 95
     },
     {
-        "filmId": "not_without_hope",
-        "name": "Выживший",
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
         "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
-        "rating": 6,
         "genres": [
             "комедия",
             "фэнтези",
             "приключения"
         ],
         "length": -1
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -212,48 +135,6 @@
             "детектив"
         ],
         "length": 145
-    },
-    {
-        "filmId": "harry_potter_and_the_deathly_",
-        "name": "Гарри Поттер и Дары смерти: Часть 1",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "68625",
-        "name": "Эхо МКФ Послание к человеку-2025: Инстинкт; Счаст; Приключения реального самурая в мире катастроф",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
     },
     {
         "filmId": "68626",
@@ -336,6 +217,35 @@
         "length": 95
     },
     {
+        "filmId": "gorynych",
+        "name": "Горыныч",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 97
+    },
+    {
+        "filmId": "pismo_dedu_morozu",
+        "name": "Письмо Деду Морозу",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "hvis_ingen_gar_i_fella",
+        "name": "Мышиный переполох",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "garri_potter_i_kubok_ognja",
         "name": "Гарри Поттер и Кубок огня",
         "rating": 16,
@@ -347,6 +257,27 @@
         "length": 150
     },
     {
+        "filmId": "semjanin",
+        "name": "Семьянин",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "masha_i_medvedi",
+        "name": "Маша и Медведи",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "svjatoj_fedor_tomskij",
         "name": "Святой Фёдор Томский. Тайна сибирского старца",
         "rating": 12,
@@ -354,6 +285,18 @@
             "документальный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "harry_potter_and_the_deathly_",
+        "name": "Гарри Поттер и Дары смерти: Часть 1",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 130
     },
     {
         "filmId": "68627",
@@ -383,6 +326,16 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "not_without_hope",
+        "name": "Выживший",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "pickpocket",
