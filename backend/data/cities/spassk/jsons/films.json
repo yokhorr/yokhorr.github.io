@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "pismo_dedu_morozu",
         "name": "Письмо Деду Морозу",
         "rating": 6,
@@ -33,6 +23,16 @@
         "name": "Невероятные приключения Шурика",
         "rating": 18,
         "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
             "комедия"
         ],
         "length": 122
