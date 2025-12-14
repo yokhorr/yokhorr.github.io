@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "shi_guang_dai_li_ren_ying_du",
-        "name": "Агент времени: Глава Инду. Фильм",
-        "rating": 18,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "детектив",
-            "приключения",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "zootopia_2",
         "name": "Зверополис 2",
         "rating": 6,
@@ -43,6 +10,15 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -64,33 +40,24 @@
         "length": 105
     },
     {
-        "filmId": "68627",
-        "name": "Эхо МКФ Послание к человеку-2025: Секретная система недопонимания — 2; Гражданин заключенный",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик"
+            "драма",
+            "мелодрама"
         ],
-        "length": 110
+        "length": 115
     },
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский"
+            "приключения",
+            "комедия"
         ],
-        "length": -1
+        "length": 122
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -103,46 +70,6 @@
             "боевик"
         ],
         "length": 100
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "68628",
-        "name": "Эхо МКФ Послание к человеку-2025: Слоны-призраки",
-        "rating": 12,
-        "genres": [
-            "документальный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bojcovskij_klub",
-        "name": "Бойцовский клуб",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
     },
     {
         "filmId": "rapaces",
@@ -227,6 +154,29 @@
         "length": 95
     },
     {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "shi_guang_dai_li_ren_ying_du",
+        "name": "Агент времени: Глава Инду. Фильм",
+        "rating": 18,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "детектив",
+            "приключения",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "gorynych",
         "name": "Горыныч",
         "rating": 6,
@@ -235,6 +185,17 @@
             "приключения"
         ],
         "length": 97
+    },
+    {
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "pismo_dedu_morozu",
@@ -300,6 +261,16 @@
         "length": 145
     },
     {
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "pickpocket",
         "name": "Карманник",
         "rating": 16,
@@ -308,6 +279,17 @@
             "криминал"
         ],
         "length": 75
+    },
+    {
+        "filmId": "bojcovskij_klub",
+        "name": "Бойцовский клуб",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
     },
     {
         "filmId": "68382",
