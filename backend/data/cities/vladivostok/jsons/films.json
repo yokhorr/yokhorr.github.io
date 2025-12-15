@@ -1,20 +1,11 @@
 [
     {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
+        "filmId": "volchok",
+        "name": "Волчок",
         "rating": 16,
         "genres": [
-            "триллер",
-            "криминал"
+            "приключения",
+            "комедия"
         ],
         "length": 122
     },
@@ -26,16 +17,6 @@
             "ужасы"
         ],
         "length": 105
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
     },
     {
         "filmId": "zootopia_2",
@@ -50,108 +31,13 @@
         "length": 100
     },
     {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
         "rating": 18,
         "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "rapaces",
-        "name": "Стервятники",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "not_without_hope",
-        "name": "Выживший",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
+            "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "frankenstein",
-        "name": "Франкенштейн",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "perjanjian_setan",
-        "name": "Астрал. Дом № 13",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "adulthood",
-        "name": "Дело семейное",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия",
-            "криминал",
-            "детектив"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "keeper",
-        "name": "Крипер",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "silent_night_deadly_night",
-        "name": "Тихая ночь, смертельная ночь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     },
     {
         "filmId": "shi_guang_dai_li_ren_ying_du",
@@ -227,6 +113,29 @@
         "length": 100
     },
     {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "masha_i_medvedi",
         "name": "Маша и Медведи",
         "rating": 6,
@@ -250,6 +159,16 @@
         "length": 130
     },
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "harry_potter_and_the_deathly_i",
         "name": "Гарри Поттер и Дары смерти: Часть 2",
         "rating": 16,
@@ -259,6 +178,16 @@
             "детектив"
         ],
         "length": 145
+    },
+    {
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 115
     },
     {
         "filmId": "predator_badlands",
@@ -291,6 +220,77 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "rapaces",
+        "name": "Стервятники",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "not_without_hope",
+        "name": "Выживший",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "frankenstein",
+        "name": "Франкенштейн",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "perjanjian_setan",
+        "name": "Астрал. Дом № 13",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "adulthood",
+        "name": "Дело семейное",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия",
+            "криминал",
+            "детектив"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "keeper",
+        "name": "Крипер",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "silent_night_deadly_night",
+        "name": "Тихая ночь, смертельная ночь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "55525",
@@ -472,6 +472,13 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "53216",
+        "name": "Киномакс тест 1",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "un_homme_et_une_femme",
