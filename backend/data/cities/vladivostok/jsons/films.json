@@ -10,13 +10,27 @@
         "length": 122
     },
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
+        "filmId": "shi_guang_dai_li_ren_ying_du",
+        "name": "Агент времени: Глава Инду. Фильм",
+        "rating": 18,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "фантастика",
+            "детектив",
+            "приключения",
+            "драма"
         ],
-        "length": 105
+        "length": 100
+    },
+    {
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 115
     },
     {
         "filmId": "zootopia_2",
@@ -31,6 +45,15 @@
         "length": 100
     },
     {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
         "name": "Три кота. Путешествие во времени",
         "rating": 0,
@@ -41,76 +64,14 @@
         "length": -1
     },
     {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "shi_guang_dai_li_ren_ying_du",
-        "name": "Агент времени: Глава Инду. Фильм",
-        "rating": 18,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "детектив",
-            "приключения",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "gorynych",
-        "name": "Горыныч",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 97
-    },
-    {
-        "filmId": "jaga_na_nashu_golovu",
-        "name": "Яга на нашу голову",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "pismo_dedu_morozu",
-        "name": "Письмо Деду Морозу",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "hvis_ingen_gar_i_fella",
-        "name": "Мышиный переполох",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "semjanin",
-        "name": "Семьянин",
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
         "rating": 16,
         "genres": [
-            "комедия",
-            "семейный"
+            "триллер",
+            "криминал"
         ],
-        "length": 100
+        "length": 122
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -125,26 +86,43 @@
         "length": 100
     },
     {
-        "filmId": "shalnaja_imperatrica",
-        "name": "Шальная императрица",
+        "filmId": "predator_badlands",
+        "name": "Хищник: Планета смерти",
         "rating": 18,
         "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
+            "фантастика",
+            "боевик"
         ],
-        "length": -1
+        "length": 110
     },
     {
-        "filmId": "masha_i_medvedi",
-        "name": "Маша и Медведи",
+        "filmId": "jaga_na_nashu_golovu",
+        "name": "Яга на нашу голову",
         "rating": 6,
         "genres": [
-            "комедия",
             "фэнтези",
-            "приключения"
+            "комедия",
+            "семейный"
         ],
-        "length": -1
+        "length": 90
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "55525",
+        "name": "Арт-Лекторий в кино: Мир Эндрю Уайета",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 85
     },
     {
         "filmId": "harry_potter_and_the_deathly_",
@@ -157,56 +135,6 @@
             "детектив"
         ],
         "length": 130
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "harry_potter_and_the_deathly_i",
-        "name": "Гарри Поттер и Дары смерти: Часть 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "детектив"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "predator_badlands",
-        "name": "Хищник: Планета смерти",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "55525",
-        "name": "Арт-Лекторий в кино: Мир Эндрю Уайета",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 85
     },
     {
         "filmId": "67305",
@@ -257,6 +185,17 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "shalnaja_imperatrica",
+        "name": "Шальная императрица",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
     },
     {
         "filmId": "frankenstein",
@@ -311,7 +250,7 @@
     {
         "filmId": "elki_12",
         "name": "Ёлки 12",
-        "rating": 6,
+        "rating": 12,
         "genres": [
             "комедия"
         ],
@@ -485,6 +424,17 @@
             "балет"
         ],
         "length": 95
+    },
+    {
+        "filmId": "harry_potter_and_the_deathly_i",
+        "name": "Гарри Поттер и Дары смерти: Часть 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "детектив"
+        ],
+        "length": 145
     },
     {
         "filmId": "murillo",
