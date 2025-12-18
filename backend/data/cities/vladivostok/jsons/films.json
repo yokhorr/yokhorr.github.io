@@ -12,11 +12,10 @@
         "length": 100
     },
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
         "genres": [
-            "приключения",
             "комедия"
         ],
         "length": 122
@@ -31,17 +30,6 @@
         "length": -1
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "five_nights_at_freddy_2",
         "name": "Пять ночей с Фредди 2",
         "rating": 16,
@@ -49,6 +37,16 @@
             "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
     },
     {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
@@ -59,15 +57,6 @@
             "детский"
         ],
         "length": -1
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
     },
     {
         "filmId": "dust_bunny",
@@ -81,26 +70,25 @@
         "length": 110
     },
     {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
+        "filmId": "volchok",
+        "name": "Волчок",
         "rating": 16,
         "genres": [
-            "триллер",
-            "криминал"
+            "приключения",
+            "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "length": 140
     },
     {
         "filmId": "eternity_2025",
@@ -115,26 +103,15 @@
         "length": 115
     },
     {
-        "filmId": "ookami_kodomo_no_ame_to_yuki",
-        "name": "Волчьи дети Амэ и Юки",
-        "rating": 12,
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
         "genres": [
-            "аниме",
-            "мультфильм",
+            "комедия",
+            "приключения",
             "фэнтези"
         ],
-        "length": 117
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "length": 140
+        "length": 95
     },
     {
         "filmId": "avatar",
@@ -148,6 +125,18 @@
         "length": 180
     },
     {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "fackham_hall",
         "name": "Фэкхем-Холл",
         "rating": 18,
@@ -155,6 +144,17 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "ookami_kodomo_no_ame_to_yuki",
+        "name": "Волчьи дети Амэ и Юки",
+        "rating": 12,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 117
     },
     {
         "filmId": "68686",
