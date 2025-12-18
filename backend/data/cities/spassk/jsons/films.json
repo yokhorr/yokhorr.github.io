@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "neverojatnye_prikljuchenija_shurika",
         "name": "Невероятные приключения Шурика",
         "rating": 18,
@@ -36,6 +27,15 @@
             "фэнтези"
         ],
         "length": 95
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     },
     {
         "filmId": "volchok",

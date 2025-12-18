@@ -12,6 +12,59 @@
         "length": 100
     },
     {
+        "filmId": "eternity_2025",
+        "name": "Вечность",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "neverojatnye_prikljuchenija_shurika",
         "name": "Невероятные приключения Шурика",
         "rating": 18,
@@ -30,44 +83,15 @@
         "length": -1
     },
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
+        "filmId": "avatar",
+        "name": "Аватар",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "фантастика",
+            "боевик",
+            "триллер"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
+        "length": 180
     },
     {
         "filmId": "volchok",
@@ -78,51 +102,6 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "avatar",
-        "name": "Аватар",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 180
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -146,6 +125,27 @@
         "length": 100
     },
     {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "ookami_kodomo_no_ame_to_yuki",
         "name": "Волчьи дети Амэ и Юки",
         "rating": 12,
@@ -162,6 +162,19 @@
         "rating": 6,
         "genres": [],
         "length": 122
+    },
+    {
+        "filmId": "the_jungle_book_1967",
+        "name": "Детские часы в «Уссури»: Книга джунглей 1967",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "мюзикл",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "harry_potter_and_the_order_",
@@ -199,6 +212,20 @@
         "length": 75
     },
     {
+        "filmId": "the_little_mermaid_1989",
+        "name": "Детские часы в «Уссури»: Русалочка 1989",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "мюзикл",
+            "фэнтези",
+            "мелодрама",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "harry_potter_6",
         "name": "Гарри Поттер и Принц-полукровка",
         "rating": 16,
@@ -223,6 +250,13 @@
         "length": 145
     },
     {
+        "filmId": "68687",
+        "name": "Автомобилист — Адмирал . Прямая трансляция (Фонбет чемпионат КХЛ — 2025)",
+        "rating": 6,
+        "genres": [],
+        "length": 122
+    },
+    {
         "filmId": "birdman",
         "name": "Бёрдмэн",
         "rating": 18,
@@ -231,13 +265,6 @@
             "комедия"
         ],
         "length": 119
-    },
-    {
-        "filmId": "68687",
-        "name": "Автомобилист — Адмирал . Прямая трансляция (Фонбет чемпионат КХЛ — 2025)",
-        "rating": 6,
-        "genres": [],
-        "length": 122
     },
     {
         "filmId": "dresden_the_nutcracker",
@@ -332,6 +359,16 @@
             "мелодрама"
         ],
         "length": 100
+    },
+    {
+        "filmId": "56704",
+        "name": "Большой театр: Щелкунчик",
+        "rating": 6,
+        "genres": [
+            "фильм-спектакль",
+            "балет"
+        ],
+        "length": 135
     },
     {
         "filmId": "49386",
