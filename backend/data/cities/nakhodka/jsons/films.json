@@ -10,34 +10,15 @@
         "length": 122
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
         "genres": [
+            "детектив",
             "комедия",
-            "приключения",
-            "фэнтези"
+            "криминал"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
+        "length": 140
     },
     {
         "filmId": "neverojatnye_prikljuchenija_shurika",
@@ -49,27 +30,23 @@
         "length": 122
     },
     {
-        "filmId": "68708",
-        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
-        "rating": 0,
+        "filmId": "regretting_you",
+        "name": "Сожалею о тебе",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "драма",
+            "мелодрама"
         ],
-        "length": 50
+        "length": 115
     },
     {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
         "rating": 16,
         "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
+            "ужасы"
         ],
-        "length": 140
+        "length": 105
     },
     {
         "filmId": "zootopia_2",
@@ -84,6 +61,26 @@
         "length": 100
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "dust_bunny",
         "name": "Поймать монстра",
         "rating": 18,
@@ -95,15 +92,6 @@
         "length": 110
     },
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -112,19 +100,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "harry_potter_6",
-        "name": "Гарри Поттер и Принц-полукровка",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "мелодрама",
-            "драма",
-            "приключения",
-            "детектив"
-        ],
-        "length": 150
     },
     {
         "filmId": "eternity_2025",
@@ -139,16 +114,6 @@
         "length": 115
     },
     {
-        "filmId": "regretting_you",
-        "name": "Сожалею о тебе",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "silent_night_deadly_night",
         "name": "Тихая ночь, смертельная ночь",
         "rating": 18,
@@ -156,5 +121,40 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "68708",
+        "name": "МУЛЬТ в кино. Выпуск №189. Тыдыщ в прошлое!",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "harry_potter_6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "мелодрама",
+            "драма",
+            "приключения",
+            "детектив"
+        ],
+        "length": 150
     }
 ]
