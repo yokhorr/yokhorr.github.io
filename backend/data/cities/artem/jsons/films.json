@@ -9,49 +9,6 @@
         "length": 105
     },
     {
-        "filmId": "harry_potter_6",
-        "name": "Гарри Поттер и Принц-полукровка",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "мелодрама",
-            "драма",
-            "приключения",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "eternity_2025",
         "name": "Вечность",
         "rating": 18,
@@ -75,6 +32,18 @@
         "length": 110
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
         "name": "Три кота. Путешествие во времени",
         "rating": 0,
@@ -96,6 +65,15 @@
         "length": 95
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "volchok",
         "name": "Волчок",
         "rating": 16,
@@ -104,5 +82,27 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "harry_potter_6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "мелодрама",
+            "драма",
+            "приключения",
+            "детектив"
+        ],
+        "length": 150
     }
 ]

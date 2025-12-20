@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "ci_sha_xiao_shuo_jia_2",
         "name": "Ассасин: Смертельная битва",
         "rating": 18,
@@ -58,5 +38,25 @@
             "фэнтези"
         ],
         "length": 95
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     }
 ]

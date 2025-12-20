@@ -1,12 +1,15 @@
 [
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 105
+        "length": 100
     },
     {
         "filmId": "neverojatnye_prikljuchenija_shurika",
@@ -16,6 +19,29 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "eternity_2025",
+        "name": "Вечность",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 115
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -37,81 +63,13 @@
         "length": -1
     },
     {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
         "rating": 16,
         "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
+            "ужасы"
         ],
-        "length": 140
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 115
+        "length": 105
     },
     {
         "filmId": "avatar",
@@ -134,6 +92,16 @@
         "length": 100
     },
     {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "chainsaw_man_movie_rezehen",
         "name": "Человек-бензопила. Фильм: История Резе",
         "rating": 18,
@@ -144,6 +112,38 @@
             "боевик"
         ],
         "length": 100
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_little_mermaid_1989",
