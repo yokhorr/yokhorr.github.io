@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "silent_night_deadly_night",
-        "name": "Тихая ночь, смертельная ночь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "neverojatnye_prikljuchenija_shurika",
         "name": "Невероятные приключения Шурика",
         "rating": 18,
@@ -56,5 +47,14 @@
             "детский"
         ],
         "length": -1
+    },
+    {
+        "filmId": "silent_night_deadly_night",
+        "name": "Тихая ночь, смертельная ночь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
