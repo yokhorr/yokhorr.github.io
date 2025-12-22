@@ -10,15 +10,13 @@
         "length": -1
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
         "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 95
+        "length": -1
     },
     {
         "filmId": "zootopia_2",
@@ -33,22 +31,15 @@
         "length": 100
     },
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
         "genres": [
-            "комедия"
+            "комедия",
+            "приключения",
+            "фэнтези"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
+        "length": 95
     },
     {
         "filmId": "volchok",
@@ -61,15 +52,13 @@
         "length": 122
     },
     {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
         "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
+            "комедия"
         ],
-        "length": 140
+        "length": 122
     },
     {
         "filmId": "five_nights_at_freddy_2",
@@ -79,6 +68,17 @@
             "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "length": 140
     },
     {
         "filmId": "eternity_2025",
