@@ -12,6 +12,15 @@
         "length": 100
     },
     {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "elki_12",
         "name": "Ёлки 12",
         "rating": 12,
@@ -21,14 +30,14 @@
         "length": -1
     },
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский"
+            "триллер",
+            "криминал"
         ],
-        "length": -1
+        "length": 122
     },
     {
         "filmId": "five_nights_at_freddy_2",
@@ -38,6 +47,37 @@
             "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
     },
     {
         "filmId": "snegovik",
@@ -51,37 +91,6 @@
         "length": 95
     },
     {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "wake_up_dead_man",
         "name": "Достать ножи: Воскрешение покойника",
         "rating": 16,
@@ -93,14 +102,14 @@
         "length": 140
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
+        "filmId": "dresden_the_nutcracker",
+        "name": "Дрезден: Щелкунчик",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "криминал"
+            "фильм-спектакль",
+            "балет"
         ],
-        "length": 122
+        "length": 95
     },
     {
         "filmId": "eternity_2025",
@@ -115,36 +124,16 @@
         "length": 115
     },
     {
-        "filmId": "ookami_kodomo_no_ame_to_yuki",
-        "name": "Волчьи дети Амэ и Юки",
-        "rating": 12,
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
         "genres": [
             "аниме",
             "мультфильм",
-            "фэнтези"
+            "фэнтези",
+            "боевик"
         ],
-        "length": 117
-    },
-    {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "dresden_the_nutcracker",
-        "name": "Дрезден: Щелкунчик",
-        "rating": 6,
-        "genres": [
-            "фильм-спектакль",
-            "балет"
-        ],
-        "length": 95
+        "length": 100
     },
     {
         "filmId": "fackham_hall",
@@ -154,6 +143,17 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "ookami_kodomo_no_ame_to_yuki",
+        "name": "Волчьи дети Амэ и Юки",
+        "rating": 12,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 117
     },
     {
         "filmId": "harry_potter_and_the_deathly_i",
@@ -266,25 +266,60 @@
         "length": -1
     },
     {
-        "filmId": "53216",
-        "name": "Киномакс тест 1",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "filmId": "stranger_things_s05ep0506",
+        "name": "Очень странные дела. 5 сезон, 5 и 6 серия",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 122
     },
     {
-        "filmId": "53217",
-        "name": "Киномакс тест 2",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "filmId": "stranger_things_s05ep05",
+        "name": "Очень странные дела. 5 сезон, 5 серия",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 61
     },
     {
-        "filmId": "42713",
-        "name": "Киномакс тест 4",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "filmId": "stranger_things_s05ep06",
+        "name": "Очень странные дела. 5 сезон, 6 серия",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 61
+    },
+    {
+        "filmId": "stranger_things_s05ep07",
+        "name": "Очень странные дела. 5 сезон, 7 серия",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 61
     },
     {
         "filmId": "cheburashka_2",
@@ -298,6 +333,16 @@
         "length": -1
     },
     {
+        "filmId": "56825",
+        "name": "Один дома",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 103
+    },
+    {
         "filmId": "un_homme_et_une_femme",
         "name": "Мужчина и женщина 1966",
         "rating": 16,
@@ -306,6 +351,15 @@
             "мелодрама"
         ],
         "length": 100
+    },
+    {
+        "filmId": "9823",
+        "name": "Один дома 2: Затерянный в Нью-Йорке",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "56704",
@@ -328,22 +382,23 @@
         "length": 101
     },
     {
-        "filmId": "56825",
-        "name": "Один дома",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 103
-    },
-    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
         "genres": [
             "приключения",
             "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
         ],
         "length": -1
     },
