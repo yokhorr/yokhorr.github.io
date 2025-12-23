@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "silent_night_deadly_night",
-        "name": "Тихая ночь, смертельная ночь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "snegovik",
         "name": "Снеговик",
         "rating": 6,
@@ -49,6 +31,15 @@
         "length": 122
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "neverojatnye_prikljuchenija_shurika",
         "name": "Невероятные приключения Шурика",
         "rating": 18,
@@ -56,5 +47,14 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "silent_night_deadly_night",
+        "name": "Тихая ночь, смертельная ночь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]

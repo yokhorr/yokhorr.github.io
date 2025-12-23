@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "zootopia_2",
         "name": "Зверополис 2",
         "rating": 6,
@@ -12,26 +31,24 @@
         "length": 100
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
         "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
             "комедия"
         ],
-        "length": 115
+        "length": -1
+    },
+    {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
     },
     {
         "filmId": "neverojatnye_prikljuchenija_shurika",
@@ -43,33 +60,14 @@
         "length": 122
     },
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
         "genres": [
+            "приключения",
             "комедия"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
+        "length": 122
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -84,55 +82,37 @@
         "length": 100
     },
     {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "fackham_hall",
-        "name": "Фэкхем-Холл",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
         "rating": 16,
         "genres": [
-            "приключения",
-            "комедия"
+            "триллер",
+            "криминал"
         ],
         "length": 122
     },
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский"
+            "детектив",
+            "комедия",
+            "криминал"
         ],
-        "length": 65
+        "length": 140
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
+        "filmId": "eternity_2025",
+        "name": "Вечность",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
         ],
-        "length": 95
+        "length": 115
     },
     {
         "filmId": "ookami_kodomo_no_ame_to_yuki",
@@ -144,6 +124,26 @@
             "фэнтези"
         ],
         "length": 117
+    },
+    {
+        "filmId": "fackham_hall",
+        "name": "Фэкхем-Холл",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "harry_potter_and_the_deathly_i",
@@ -421,5 +421,14 @@
             "балет"
         ],
         "length": 130
+    },
+    {
+        "filmId": "el_bosco",
+        "name": "Арт-лекторий в кино: Босх: Сад сновидений",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 86
     }
 ]
