@@ -1,34 +1,12 @@
 [
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский"
+            "комедия"
         ],
-        "length": 65
-    },
-    {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
+        "length": 122
     },
     {
         "filmId": "elki_12",
@@ -38,26 +16,6 @@
             "комедия"
         ],
         "length": -1
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
     },
     {
         "filmId": "volchok",
@@ -70,18 +28,6 @@
         "length": 122
     },
     {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -90,40 +36,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "ookami_kodomo_no_ame_to_yuki",
-        "name": "Волчьи дети Амэ и Юки",
-        "rating": 12,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 117
     },
     {
         "filmId": "fackham_hall",
@@ -146,6 +58,59 @@
         "length": 110
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
+    },
+    {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "harry_potter_and_the_deathly_i",
         "name": "Гарри Поттер и Дары смерти: Часть 2",
         "rating": 16,
@@ -166,6 +131,18 @@
         "length": 70
     },
     {
+        "filmId": "eternity_2025",
+        "name": "Вечность",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "avatar",
         "name": "Аватар 2009",
         "rating": 12,
@@ -175,6 +152,18 @@
             "триллер"
         ],
         "length": 180
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
@@ -187,6 +176,17 @@
             "фэнтези"
         ],
         "length": 75
+    },
+    {
+        "filmId": "ookami_kodomo_no_ame_to_yuki",
+        "name": "Волчьи дети Амэ и Юки",
+        "rating": 12,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 117
     },
     {
         "filmId": "68969",
@@ -391,6 +391,26 @@
             "боевик"
         ],
         "length": -1
+    },
+    {
+        "filmId": "follemente",
+        "name": "Безумное свидание",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "father_mother_sister_brother",
+        "name": "Отец мать сестра брат",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "traction_park_massacre",
