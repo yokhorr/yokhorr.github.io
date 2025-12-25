@@ -12,15 +12,6 @@
         "length": 75
     },
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "snegovik",
         "name": "Снеговик",
         "rating": 6,
@@ -40,5 +31,14 @@
             "детский"
         ],
         "length": 65
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     }
 ]
