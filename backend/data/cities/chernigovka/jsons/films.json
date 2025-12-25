@@ -1,5 +1,34 @@
 [
     {
+        "filmId": "mechty_sbyvajutsja",
+        "name": "Мечты сбываются",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 70
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "bang",
+        "name": "Пуля навылет",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
         "name": "Три кота. Путешествие во времени",
         "rating": 0,
@@ -40,34 +69,5 @@
             "комедия"
         ],
         "length": 122
-    },
-    {
-        "filmId": "mechty_sbyvajutsja",
-        "name": "Мечты сбываются",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 70
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "bang",
-        "name": "Пуля навылет",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 90
     }
 ]
