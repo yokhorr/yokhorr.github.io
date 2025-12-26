@@ -12,15 +12,13 @@
         "length": 75
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
         "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 95
+        "length": -1
     },
     {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
@@ -33,12 +31,14 @@
         "length": 65
     },
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
         "genres": [
-            "комедия"
+            "комедия",
+            "приключения",
+            "фэнтези"
         ],
-        "length": -1
+        "length": 95
     }
 ]
