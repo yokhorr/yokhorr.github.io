@@ -1,69 +1,5 @@
 [
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "56825",
-        "name": "Один дома",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "five_nights_at_freddy_2",
         "name": "Пять ночей с Фредди 2",
         "rating": 16,
@@ -80,6 +16,27 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "avatar_the_way_of_water",
@@ -123,6 +80,49 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
+    },
+    {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "56825",
+        "name": "Один дома",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 103
     },
     {
         "filmId": "56704",
