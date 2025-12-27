@@ -1,45 +1,11 @@
 [
     {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
         "genres": [
+            "приключения",
             "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "stranger_things_s05ep0506",
-        "name": "Очень странные дела. 5 сезон, 5 и 6 серия",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "фэнтези",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
         ],
         "length": 122
     },
@@ -56,25 +22,23 @@
         "length": 100
     },
     {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
         "rating": 16,
         "genres": [
-            "ужасы"
+            "триллер",
+            "криминал"
         ],
-        "length": 105
+        "length": 122
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "elki_12",
@@ -86,88 +50,15 @@
         "length": -1
     },
     {
-        "filmId": "volchok",
-        "name": "Волчок",
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
         "rating": 16,
         "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "stranger_things_s05ep05",
-        "name": "Очень странные дела. 5 сезон, 5 серия",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "фэнтези",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 61
-    },
-    {
-        "filmId": "ookami_kodomo_no_ame_to_yuki",
-        "name": "Волчьи дети Амэ и Юки",
-        "rating": 12,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 117
-    },
-    {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
+            "детектив",
             "комедия",
-            "приключения",
-            "фэнтези"
+            "криминал"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "stranger_things_s05ep06",
-        "name": "Очень странные дела. 5 сезон, 6 серия",
-        "rating": 16,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "фэнтези",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 61
-    },
-    {
-        "filmId": "avatar_the_way_of_water",
-        "name": "Аватар: Путь воды",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 192
+        "length": 140
     },
     {
         "filmId": "avatar",
@@ -191,6 +82,15 @@
             "боевик"
         ],
         "length": 100
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "dust_bunny",
@@ -218,6 +118,18 @@
         "length": 61
     },
     {
+        "filmId": "eternity_2025",
+        "name": "Вечность",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "69489",
         "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
         "rating": 0,
@@ -230,6 +142,18 @@
         "length": 50
     },
     {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
         "name": "Три кота. Путешествие во времени",
         "rating": 0,
@@ -238,6 +162,17 @@
             "детский"
         ],
         "length": 65
+    },
+    {
+        "filmId": "snegovik",
+        "name": "Снеговик",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 95
     },
     {
         "filmId": "lilo_i_stich",
@@ -275,6 +210,57 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "ookami_kodomo_no_ame_to_yuki",
+        "name": "Волчьи дети Амэ и Юки",
+        "rating": 12,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 117
+    },
+    {
+        "filmId": "stranger_things_s05ep05",
+        "name": "Очень странные дела. 5 сезон, 5 серия",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 61
+    },
+    {
+        "filmId": "stranger_things_s05ep06",
+        "name": "Очень странные дела. 5 сезон, 6 серия",
+        "rating": 16,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 61
+    },
+    {
+        "filmId": "avatar_the_way_of_water",
+        "name": "Аватар: Путь воды",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 192
     },
     {
         "filmId": "56825",

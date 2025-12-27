@@ -1,65 +1,5 @@
 [
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "9823",
-        "name": "Один дома 2: Затерянный в Нью-Йорке",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avatar_the_way_of_water",
-        "name": "Аватар: Путь воды",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 192
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "wake_up_dead_man",
         "name": "Достать ножи: Воскрешение покойника",
         "rating": 16,
@@ -69,6 +9,15 @@
             "криминал"
         ],
         "length": 140
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "dust_bunny",
@@ -104,6 +53,18 @@
         "length": 75
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "snegovik",
         "name": "Снеговик",
         "rating": 6,
@@ -123,6 +84,45 @@
             "семейный"
         ],
         "length": 103
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "9823",
+        "name": "Один дома 2: Затерянный в Нью-Йорке",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "avatar_the_way_of_water",
+        "name": "Аватар: Путь воды",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 192
     },
     {
         "filmId": "56704",
