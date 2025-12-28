@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "mechty_sbyvajutsja",
-        "name": "Мечты сбываются",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 70
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "bang",
         "name": "Пуля навылет",
         "rating": 18,
@@ -62,6 +44,15 @@
         "length": 95
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "neverojatnye_prikljuchenija_shurika",
         "name": "Невероятные приключения Шурика",
         "rating": 18,
@@ -69,5 +60,14 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "mechty_sbyvajutsja",
+        "name": "Мечты сбываются",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 70
     }
 ]
