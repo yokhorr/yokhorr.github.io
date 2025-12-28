@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "tri_bogatyrja_i_svet_klinom",
         "name": "Три богатыря и свет клином",
         "rating": 6,
@@ -19,6 +10,15 @@
             "фэнтези"
         ],
         "length": 75
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     },
     {
         "filmId": "zootopia_2",
@@ -33,27 +33,6 @@
         "length": 100
     },
     {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "avatar_the_way_of_water",
         "name": "Аватар: Путь воды",
         "rating": 12,
@@ -64,6 +43,15 @@
             "приключения"
         ],
         "length": 192
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "five_nights_at_freddy_2",
