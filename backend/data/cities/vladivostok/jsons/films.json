@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
         "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
+            "мультфильм",
+            "детский"
         ],
-        "length": 140
+        "length": 65
     },
     {
         "filmId": "zootopia_2",
@@ -21,109 +20,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "avatar",
-        "name": "Аватар 2009",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 180
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 65
     },
     {
         "filmId": "snegovik",
@@ -161,6 +57,64 @@
         "length": 50
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
+        "rating": 16,
+        "genres": [
+            "детектив",
+            "комедия",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "56825",
         "name": "Один дома",
         "rating": 0,
@@ -180,6 +134,18 @@
             "фэнтези"
         ],
         "length": 117
+    },
+    {
+        "filmId": "eternity_2025",
+        "name": "Вечность",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 115
     },
     {
         "filmId": "9823",
@@ -221,6 +187,40 @@
             "приключения"
         ],
         "length": 192
+    },
+    {
+        "filmId": "avatar",
+        "name": "Аватар 2009",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер"
+        ],
+        "length": 180
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "the_jester_2",
@@ -377,5 +377,15 @@
             "детектив"
         ],
         "length": 130
+    },
+    {
+        "filmId": "arena_di_verona_nabucco",
+        "name": "Арена ди Верона: Набукко",
+        "rating": 12,
+        "genres": [
+            "фильм-спектакль",
+            "опера"
+        ],
+        "length": 150
     }
 ]
