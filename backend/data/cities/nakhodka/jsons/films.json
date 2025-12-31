@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "elki_12",
         "name": "Ёлки 12",
         "rating": 12,
@@ -28,17 +7,6 @@
             "комедия"
         ],
         "length": -1
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -51,6 +19,15 @@
         "length": 122
     },
     {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "silent_night_deadly_night",
         "name": "Тихая ночь, смертельная ночь",
         "rating": 18,
@@ -58,6 +35,18 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
     },
     {
         "filmId": "cheburashka_2",
