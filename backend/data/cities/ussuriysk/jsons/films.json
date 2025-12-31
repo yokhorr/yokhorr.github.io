@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "zootopia_2",
         "name": "Зверополис 2",
         "rating": 6,
@@ -33,16 +12,13 @@
         "length": 100
     },
     {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
         "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
+            "комедия"
         ],
-        "length": 100
+        "length": -1
     },
     {
         "filmId": "neverojatnye_prikljuchenija_shurika",
@@ -114,5 +90,17 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
     }
 ]

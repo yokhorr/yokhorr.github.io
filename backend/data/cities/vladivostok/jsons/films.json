@@ -1,12 +1,34 @@
 [
     {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
+        "filmId": "wake_up_dead_man",
+        "name": "Достать ножи: Воскрешение покойника",
         "rating": 16,
         "genres": [
-            "ужасы"
+            "детектив",
+            "комедия",
+            "криминал"
         ],
-        "length": 105
+        "length": 140
+    },
+    {
+        "filmId": "neverojatnye_prikljuchenija_shurika",
+        "name": "Невероятные приключения Шурика",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "dust_bunny",
+        "name": "Поймать монстра",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 110
     },
     {
         "filmId": "zootopia_2",
@@ -21,15 +43,6 @@
         "length": 100
     },
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "tri_bogatyrja_i_svet_klinom",
         "name": "Три богатыря и свет клином",
         "rating": 6,
@@ -42,44 +55,30 @@
         "length": 75
     },
     {
-        "filmId": "69489",
-        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "snegovik",
-        "name": "Снеговик",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "neverojatnye_prikljuchenija_shurika",
-        "name": "Невероятные приключения Шурика",
-        "rating": 18,
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
         "genres": [
             "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "9823",
+        "name": "Один дома 2: Затерянный в Нью-Йорке",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
         ],
         "length": 122
     },
@@ -94,96 +93,21 @@
         "length": 122
     },
     {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "49386",
-        "name": "Нуреев: Щелкунчик",
-        "rating": 6,
-        "genres": [
-            "балет",
-            "фильм-спектакль"
-        ],
-        "length": 101
-    },
-    {
-        "filmId": "wake_up_dead_man",
-        "name": "Достать ножи: Воскрешение покойника",
-        "rating": 16,
-        "genres": [
-            "детектив",
-            "комедия",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "56825",
-        "name": "Один дома",
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
         "rating": 0,
         "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "56704",
-        "name": "Большой театр: Щелкунчик",
-        "rating": 6,
-        "genres": [
-            "фильм-спектакль",
-            "балет"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "ookami_kodomo_no_ame_to_yuki",
-        "name": "Волчьи дети Амэ и Юки",
-        "rating": 12,
-        "genres": [
-            "аниме",
             "мультфильм",
-            "фэнтези"
+            "детский"
         ],
-        "length": 117
+        "length": 65
     },
     {
-        "filmId": "eternity_2025",
-        "name": "Вечность",
-        "rating": 18,
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "dust_bunny",
-        "name": "Поймать монстра",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "9823",
-        "name": "Один дома 2: Затерянный в Нью-Йорке",
-        "rating": 0,
-        "genres": [
-            "комедия"
+            "ужасы"
         ],
         "length": 105
     },
@@ -239,6 +163,18 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "69489",
+        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "za_palycha_2",

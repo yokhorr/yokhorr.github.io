@@ -1,26 +1,35 @@
 [
     {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
+        "filmId": "buratino",
+        "name": "Буратино",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "семейный",
             "комедия",
             "фэнтези"
         ],
-        "length": 100
+        "length": -1
     },
     {
-        "filmId": "snegovik",
-        "name": "Снеговик",
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
         "rating": 6,
         "genres": [
+            "семейный",
             "комедия",
-            "приключения",
             "фэнтези"
         ],
-        "length": 95
+        "length": -1
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
@@ -35,25 +44,24 @@
         "length": 75
     },
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
         "rating": 12,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
+            "комедия",
+            "военный",
+            "боевик"
         ],
-        "length": 160
+        "length": -1
+    },
+    {
+        "filmId": "traction_park_massacre",
+        "name": "Пункт назначения. Новый аттракцион",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "elki_12",
