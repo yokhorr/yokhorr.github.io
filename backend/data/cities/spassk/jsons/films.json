@@ -1,33 +1,12 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "elki_12",
         "name": "Ёлки 12",
         "rating": 12,
         "genres": [
             "комедия"
         ],
-        "length": -1
+        "length": 85
     },
     {
         "filmId": "traction_park_massacre",
@@ -39,6 +18,16 @@
         "length": 85
     },
     {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -47,7 +36,18 @@
             "комедия",
             "фэнтези"
         ],
-        "length": -1
+        "length": 100
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
