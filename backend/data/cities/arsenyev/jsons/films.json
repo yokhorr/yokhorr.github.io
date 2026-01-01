@@ -1,12 +1,11 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
         "rating": 6,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "приключения",
+            "семейный"
         ],
         "length": -1
     },
@@ -20,28 +19,6 @@
             "фэнтези"
         ],
         "length": -1
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
     },
     {
         "filmId": "za_palycha_2",
@@ -64,6 +41,17 @@
         "length": 85
     },
     {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "elki_12",
         "name": "Ёлки 12",
         "rating": 12,
@@ -71,5 +59,17 @@
             "комедия"
         ],
         "length": -1
+    },
+    {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
     }
 ]

@@ -11,27 +11,6 @@
         "length": -1
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "tri_bogatyrja_i_svet_klinom",
         "name": "Три богатыря и свет клином",
         "rating": 6,
@@ -44,16 +23,25 @@
         "length": 75
     },
     {
-        "filmId": "69489",
-        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
-        "rating": 0,
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
         "genres": [
-            "мультфильм",
             "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
             "комедия",
             "фэнтези"
         ],
-        "length": 50
+        "length": -1
     },
     {
         "filmId": "elki_12",
@@ -63,16 +51,6 @@
             "комедия"
         ],
         "length": -1
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 65
     },
     {
         "filmId": "za_palycha_2",
@@ -132,6 +110,28 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "69489",
+        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
     },
     {
         "filmId": "the_jester_2",
