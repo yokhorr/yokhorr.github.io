@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "traction_park_massacre",
-        "name": "Пункт назначения. Новый аттракцион",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
@@ -51,6 +33,15 @@
         "length": 105
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -60,5 +51,14 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "traction_park_massacre",
+        "name": "Пункт назначения. Новый аттракцион",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     }
 ]
