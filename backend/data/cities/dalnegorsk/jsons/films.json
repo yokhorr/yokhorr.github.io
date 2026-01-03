@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
@@ -10,15 +21,16 @@
         "length": 105
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
         "rating": 6,
         "genres": [
-            "семейный",
+            "мультфильм",
+            "приключения",
             "комедия",
             "фэнтези"
         ],
-        "length": 105
+        "length": 75
     },
     {
         "filmId": "buratino",
@@ -32,27 +44,15 @@
         "length": 100
     },
     {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "семейный",
             "комедия",
             "фэнтези"
         ],
-        "length": 75
+        "length": 105
     },
     {
         "filmId": "elki_12",
