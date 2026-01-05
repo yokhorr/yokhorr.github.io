@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -60,5 +41,42 @@
             "фэнтези"
         ],
         "length": 75
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_confession",
+        "name": "Синистер. Первое проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
