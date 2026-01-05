@@ -1,12 +1,13 @@
 [
     {
-        "filmId": "traction_park_massacre",
-        "name": "Пункт назначения. Новый аттракцион",
-        "rating": 18,
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "приключения",
+            "семейный"
         ],
-        "length": 85
+        "length": 105
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
@@ -19,16 +20,6 @@
             "фэнтези"
         ],
         "length": 75
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
     },
     {
         "filmId": "buratino",
@@ -51,6 +42,15 @@
             "фэнтези"
         ],
         "length": 105
+    },
+    {
+        "filmId": "traction_park_massacre",
+        "name": "Пункт назначения. Новый аттракцион",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "elki_12",
