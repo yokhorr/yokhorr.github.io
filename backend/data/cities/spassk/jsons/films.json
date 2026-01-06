@@ -1,12 +1,13 @@
 [
     {
-        "filmId": "traction_park_massacre",
-        "name": "Пункт назначения. Новый аттракцион",
-        "rating": 18,
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "приключения",
+            "семейный"
         ],
-        "length": 85
+        "length": 105
     },
     {
         "filmId": "elki_12",
@@ -16,16 +17,6 @@
             "комедия"
         ],
         "length": 85
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
     },
     {
         "filmId": "cheburashka_2",
@@ -60,6 +51,15 @@
             "фэнтези"
         ],
         "length": 75
+    },
+    {
+        "filmId": "traction_park_massacre",
+        "name": "Пункт назначения. Новый аттракцион",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "dobryj_doktor",
