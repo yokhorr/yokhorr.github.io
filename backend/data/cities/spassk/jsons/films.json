@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_confession",
-        "name": "Синистер. Первое проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -60,5 +42,23 @@
             "фэнтези"
         ],
         "length": 75
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_confession",
+        "name": "Синистер. Первое проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]

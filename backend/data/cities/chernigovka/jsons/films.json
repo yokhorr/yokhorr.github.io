@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "tri_bogatyrja_i_svet_klinom",
         "name": "Три богатыря и свет клином",
         "rating": 6,
@@ -52,5 +42,15 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
     }
 ]
