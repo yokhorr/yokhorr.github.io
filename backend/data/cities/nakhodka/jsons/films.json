@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
@@ -8,15 +19,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
     },
     {
         "filmId": "buratino",
@@ -30,17 +32,6 @@
         "length": 100
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -49,6 +40,15 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
     },
     {
         "filmId": "za_palycha_2",
