@@ -1,1 +1,43 @@
-[]
+[
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "traction_park_massacre",
+        "name": "Пункт назначения. Новый аттракцион",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    }
+]

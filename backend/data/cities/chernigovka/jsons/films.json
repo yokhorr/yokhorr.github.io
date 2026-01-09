@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -34,16 +22,6 @@
         "length": 105
     },
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 18,
@@ -52,5 +30,27 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     }
 ]
