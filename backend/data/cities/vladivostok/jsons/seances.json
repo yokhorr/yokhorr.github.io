@@ -1,510 +1,6 @@
 [
     {
         "date": "09.01",
-        "time": "16:30",
-        "filmId": "buratino",
-        "theatre": "Уссури",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wMS0wOSAxNjozMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "16:30",
-        "filmId": "buratino",
-        "theatre": "Океан IMAX",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTAxLTA5IDE2OjMwOjAwOzY3MjQ3"
-    },
-    {
-        "date": "09.01",
-        "time": "16:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0wOSAxNjozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "16:35",
-        "filmId": "buratino",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTAxLTA5IDE2OjM1OjAwOzY3MjQ3"
-    },
-    {
-        "date": "09.01",
-        "time": "16:35",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0wOSAxNjozNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "16:45",
-        "filmId": "prostokvashino",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTAxLTA5IDE2OjQ1OjAwOzY3MjQ4"
-    },
-    {
-        "date": "09.01",
-        "time": "16:45",
-        "filmId": "prostokvashino",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0wOSAxNjo0NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "16:45",
-        "filmId": "prostokvashino",
-        "theatre": "Океан IMAX",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTAxLTA5IDE2OjQ1OjAwOzY3MjQ4"
-    },
-    {
-        "date": "09.01",
-        "time": "16:55",
-        "filmId": "cheburashka_2",
-        "theatre": "Океан IMAX",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTA5IDE2OjU1OjAwOzY3MjQ2"
-    },
-    {
-        "date": "09.01",
-        "time": "17:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0wOSAxNzowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Иллюзион",
-        "cost": 640,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTA5IDE3OjAwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "09.01",
-        "time": "17:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0wOSAxNzowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:00",
-        "filmId": "prostokvashino",
-        "theatre": "Уссури",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0wOSAxNzowMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:05",
-        "filmId": "buratino",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0wOSAxNzowNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:10",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0wOSAxNzoxMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:20",
-        "filmId": "elki_12",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0wOSAxNzoyMDowMDs2NzY0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:20",
-        "filmId": "dobryj_doktor",
-        "theatre": "Владивосток",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0wOSAxNzoyMDowMDs2OTU2NA=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:30",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0wOSAxNzozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:35",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 830,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0wOSAxNzozNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "17:40",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wMS0wOSAxNzo0MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:00",
-        "filmId": "buratino",
-        "theatre": "Москва",
-        "cost": 450,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMDkgMTg6MDA6MDA7NjcyNDc="
-    },
-    {
-        "date": "09.01",
-        "time": "18:00",
-        "filmId": "buratino",
-        "theatre": "Владивосток",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0wOSAxODowMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:00",
-        "filmId": "buratino",
-        "theatre": "Уссури",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0wOSAxODowMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTAxLTA5IDE4OjAwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "09.01",
-        "time": "18:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Океан IMAX",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTAxLTA5IDE4OjAwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "09.01",
-        "time": "18:15",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 1650,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0wOSAxODoxNTowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:20",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wMS0wOSAxODoyMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:20",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wMS0wOSAxODoyMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:25",
-        "filmId": "prostokvashino",
-        "theatre": "Владивосток",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0wOSAxODoyNTowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:40",
-        "filmId": "buratino",
-        "theatre": "Океан IMAX",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTAxLTA5IDE4OjQwOjAwOzY3MjQ3"
-    },
-    {
-        "date": "09.01",
-        "time": "18:40",
-        "filmId": "the_housemaid",
-        "theatre": "Уссури",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wMS0wOSAxODo0MDowMDs2OTU1Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:40",
-        "filmId": "prostokvashino",
-        "theatre": "Уссури",
-        "cost": 1650,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wMS0wOSAxODo0MDowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:45",
-        "filmId": "prostokvashino",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTAxLTA5IDE4OjQ1OjAwOzY3MjQ4"
-    },
-    {
-        "date": "09.01",
-        "time": "18:50",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0wOSAxODo1MDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "18:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0wOSAxODo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:00",
-        "filmId": "buratino",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTAxLTA5IDE5OjAwOjAwOzY3MjQ3"
-    },
-    {
-        "date": "09.01",
-        "time": "19:00",
-        "filmId": "buratino",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0wOSAxOTowMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0wOSAxOTowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:00",
-        "filmId": "prostokvashino",
-        "theatre": "Океан IMAX",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTAxLTA5IDE5OjAwOjAwOzY3MjQ4"
-    },
-    {
-        "date": "09.01",
-        "time": "19:10",
-        "filmId": "volchok",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0wOSAxOToxMDowMDs2ODUwMw=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:15",
-        "filmId": "za_palycha_2",
-        "theatre": "Владивосток",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0wOSAxOToxNTowMDs2OTAxMQ=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:15",
-        "filmId": "prostokvashino",
-        "theatre": "Уссури",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0wOSAxOToxNTowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:20",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0wOSAxOToyMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:20",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0wOSAxOToyMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:20",
-        "filmId": "cheburashka_2",
-        "theatre": "Океан IMAX",
-        "cost": 690,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTA5IDE5OjIwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "09.01",
-        "time": "19:25",
-        "filmId": "cheburashka_2",
-        "theatre": "Иллюзион",
-        "cost": 640,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTA5IDE5OjI1OjAwOzY3MjQ2"
-    },
-    {
-        "date": "09.01",
-        "time": "19:25",
-        "filmId": "prostokvashino",
-        "theatre": "Черёмушки",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0wOSAxOToyNTowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:40",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0wOSAxOTo0MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "19:50",
-        "filmId": "dobryj_doktor",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0wOSAxOTo1MDowMDs2OTU2NA=="
-    },
-    {
-        "date": "09.01",
-        "time": "20:00",
-        "filmId": "the_housemaid",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 830,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0wOSAyMDowMDowMDs2OTU1Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "20:05",
-        "filmId": "dobryj_doktor",
-        "theatre": "Москва",
-        "cost": 450,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMDkgMjA6MDU6MDA7Njk1NjQ="
-    },
-    {
-        "date": "09.01",
-        "time": "20:10",
-        "filmId": "elki_12",
-        "theatre": "Уссури",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0wOSAyMDoxMDowMDs2NzY0Nw=="
-    },
-    {
-        "date": "09.01",
-        "time": "20:10",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wMS0wOSAyMDoxMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "09.01",
-        "time": "20:10",
-        "filmId": "prostokvashino",
-        "theatre": "Владивосток",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0wOSAyMDoxMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "09.01",
-        "time": "20:15",
-        "filmId": "dobryj_doktor",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTAxLTA5IDIwOjE1OjAwOzY5NTY0"
-    },
-    {
-        "date": "09.01",
-        "time": "20:15",
-        "filmId": "dobryj_doktor",
-        "theatre": "Океан IMAX",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTAxLTA5IDIwOjE1OjAwOzY5NTY0"
-    },
-    {
-        "date": "09.01",
         "time": "20:40",
         "filmId": "cheburashka_2",
         "theatre": "Черёмушки",
@@ -2981,11 +2477,11 @@
     {
         "date": "11.01",
         "time": "10:15",
-        "filmId": "dobryj_doktor",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
         "cost": 1100,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMSAxMDoxNTowMDs2OTU2NA=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMSAxMDoxNTowMDs2NzY0Nw=="
     },
     {
         "date": "11.01",
@@ -3611,20 +3107,20 @@
     {
         "date": "11.01",
         "time": "15:35",
-        "filmId": "elki_12",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAxNTozNTowMDs2NzY0Nw=="
-    },
-    {
-        "date": "11.01",
-        "time": "15:35",
         "filmId": "prostokvashino",
         "theatre": "Москва",
         "cost": 450,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMTEgMTU6MzU6MDA7NjcyNDg="
+    },
+    {
+        "date": "11.01",
+        "time": "15:35",
+        "filmId": "the_housemaid",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 750,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAxNTozNTowMDs2OTU1Ng=="
     },
     {
         "date": "11.01",
@@ -3763,12 +3259,12 @@
     },
     {
         "date": "11.01",
-        "time": "16:35",
+        "time": "16:40",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 650,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAxNjozNTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAxNjo0MDowMDs2NzI0Nw=="
     },
     {
         "date": "11.01",
@@ -3880,15 +3376,6 @@
     },
     {
         "date": "11.01",
-        "time": "17:30",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAxNzozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "11.01",
         "time": "17:35",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
@@ -3958,6 +3445,15 @@
         "cost": 1650,
         "is3d": false,
         "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xMSAxODoxNTowMDs2NzI0Ng=="
+    },
+    {
+        "date": "11.01",
+        "time": "18:15",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 750,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAxODoxNTowMDs2NzI0OA=="
     },
     {
         "date": "11.01",
@@ -4033,15 +3529,6 @@
     },
     {
         "date": "11.01",
-        "time": "18:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAxODo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "11.01",
         "time": "19:00",
         "filmId": "buratino",
         "theatre": "Иллюзион",
@@ -4084,6 +3571,15 @@
         "cost": 620,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xMSAxOToxMDowMDs2ODUwMw=="
+    },
+    {
+        "date": "11.01",
+        "time": "19:10",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 650,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAxOToxMDowMDs2NzI0OA=="
     },
     {
         "date": "11.01",
@@ -4168,15 +3664,6 @@
     },
     {
         "date": "11.01",
-        "time": "19:50",
-        "filmId": "dobryj_doktor",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAxOTo1MDowMDs2OTU2NA=="
-    },
-    {
-        "date": "11.01",
         "time": "20:00",
         "filmId": "the_housemaid",
         "theatre": "Киномакс-Сапфир",
@@ -4228,6 +3715,15 @@
         "cost": 620,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTAxLTExIDIwOjE1OjAwOzY5NTY0"
+    },
+    {
+        "date": "11.01",
+        "time": "20:35",
+        "filmId": "dobryj_doktor",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 750,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAyMDozNTowMDs2OTU2NA=="
     },
     {
         "date": "11.01",
@@ -4304,20 +3800,20 @@
     {
         "date": "11.01",
         "time": "21:10",
-        "filmId": "the_housemaid",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMSAyMToxMDowMDs2OTU1Ng=="
-    },
-    {
-        "date": "11.01",
-        "time": "21:10",
         "filmId": "prostokvashino",
         "theatre": "Иллюзион",
         "cost": 620,
         "is3d": false,
         "buyLink": "NjsxNDI5MDsyMDI2LTAxLTExIDIxOjEwOjAwOzY3MjQ4"
+    },
+    {
+        "date": "11.01",
+        "time": "21:10",
+        "filmId": "now_you_see_me_now_you_dont",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMSAyMToxMDowMDs2Njg0NQ=="
     },
     {
         "date": "11.01",
@@ -4340,15 +3836,6 @@
     {
         "date": "11.01",
         "time": "21:20",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAyMToyMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "11.01",
-        "time": "21:20",
         "filmId": "follemente",
         "theatre": "Уссури",
         "cost": 620,
@@ -4358,20 +3845,20 @@
     {
         "date": "11.01",
         "time": "21:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xMSAyMTozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "11.01",
-        "time": "21:30",
         "filmId": "dobryj_doktor",
         "theatre": "Уссури",
         "cost": 620,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xMSAyMTozMDowMDs2OTU2NA=="
+    },
+    {
+        "date": "11.01",
+        "time": "21:30",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 650,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAyMTozMDowMDs2NzI0OA=="
     },
     {
         "date": "11.01",
@@ -4390,6 +3877,15 @@
         "cost": 620,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0xMSAyMTo0MDowMDs2NzI0Ng=="
+    },
+    {
+        "date": "11.01",
+        "time": "21:40",
+        "filmId": "cheburashka_2",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 750,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xMSAyMTo0MDowMDs2NzI0Ng=="
     },
     {
         "date": "11.01",
@@ -4429,15 +3925,6 @@
     },
     {
         "date": "11.01",
-        "time": "21:50",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 750,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAyMTo1MDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "11.01",
         "time": "22:00",
         "filmId": "chainsaw_man_movie_rezehen",
         "theatre": "Уссури",
@@ -4466,11 +3953,20 @@
     {
         "date": "11.01",
         "time": "22:10",
-        "filmId": "now_you_see_me_now_you_dont",
+        "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 750,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xMSAyMjoxMDowMDs2Njg0NQ=="
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xMSAyMjoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "11.01",
+        "time": "22:35",
+        "filmId": "elki_12",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 750,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMSAyMjozNTowMDs2NzY0Nw=="
     },
     {
         "date": "11.01",
@@ -4582,12 +4078,12 @@
     },
     {
         "date": "11.01",
-        "time": "23:40",
-        "filmId": "diabolic",
+        "time": "23:30",
+        "filmId": "the_mean_one",
         "theatre": "Киномакс-Сапфир",
-        "cost": 650,
+        "cost": 1600,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAyMzo0MDowMDs2OTQ5Mw=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMSAyMzozMDowMDs2OTU2Mg=="
     },
     {
         "date": "11.01",
@@ -4610,11 +4106,11 @@
     {
         "date": "11.01",
         "time": "23:50",
-        "filmId": "the_mean_one",
+        "filmId": "diabolic",
         "theatre": "Киномакс-Сапфир",
-        "cost": 1600,
+        "cost": 650,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMSAyMzo1MDowMDs2OTU2Mg=="
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMSAyMzo1MDowMDs2OTQ5Mw=="
     },
     {
         "date": "11.01",
@@ -4844,11 +4340,11 @@
     {
         "date": "12.01",
         "time": "10:15",
-        "filmId": "dobryj_doktor",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
-        "cost": 780,
+        "cost": 660,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMiAxMDoxNTowMDs2OTU2NA=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMiAxMDoxNTowMDs2NzY0Nw=="
     },
     {
         "date": "12.01",
@@ -4888,12 +4384,21 @@
     },
     {
         "date": "12.01",
-        "time": "10:35",
+        "time": "10:30",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMiAxMDozNTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMiAxMDozMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "12.01",
+        "time": "10:40",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxMDo0MDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -4903,15 +4408,6 @@
         "cost": 780,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wMS0xMiAxMDo1MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "12.01",
-        "time": "10:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxMDo1NTowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -4987,15 +4483,6 @@
     },
     {
         "date": "12.01",
-        "time": "11:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxMTo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "12.01",
         "time": "12:00",
         "filmId": "buratino",
         "theatre": "Уссури",
@@ -5011,6 +4498,15 @@
         "cost": 700,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0xMiAxMjowMDowMDs2OTAxMQ=="
+    },
+    {
+        "date": "12.01",
+        "time": "12:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 540,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxMjowMDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -5167,12 +4663,21 @@
     },
     {
         "date": "12.01",
-        "time": "12:55",
+        "time": "12:50",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 540,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMiAxMjo1NTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMiAxMjo1MDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "12.01",
+        "time": "13:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxMzowMDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -5182,15 +4687,6 @@
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0xMiAxMzoxMDowMDs2ODg1Mg=="
-    },
-    {
-        "date": "12.01",
-        "time": "13:15",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxMzoxNTowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -5302,15 +4798,6 @@
     },
     {
         "date": "12.01",
-        "time": "14:15",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxNDoxNTowMDs2NzI0OA=="
-    },
-    {
-        "date": "12.01",
         "time": "14:20",
         "filmId": "buratino",
         "theatre": "Уссури",
@@ -5335,6 +4822,15 @@
         "cost": 370,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xMiAxNDoyMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "12.01",
+        "time": "14:20",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxNDoyMDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -5464,21 +4960,21 @@
     },
     {
         "date": "12.01",
+        "time": "15:20",
+        "filmId": "the_housemaid",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxNToyMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "12.01",
         "time": "15:25",
         "filmId": "prostokvashino",
         "theatre": "Москва",
         "cost": 250,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMTIgMTU6MjU6MDA7NjcyNDg="
-    },
-    {
-        "date": "12.01",
-        "time": "15:35",
-        "filmId": "elki_12",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxNTozNTowMDs2NzY0Nw=="
     },
     {
         "date": "12.01",
@@ -5609,15 +5105,6 @@
     {
         "date": "12.01",
         "time": "16:35",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxNjozNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "12.01",
-        "time": "16:35",
         "filmId": "prostokvashino",
         "theatre": "Уссури",
         "cost": 420,
@@ -5632,6 +5119,15 @@
         "cost": 420,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xMiAxNjozNTowMDs2NzI0OA=="
+    },
+    {
+        "date": "12.01",
+        "time": "16:40",
+        "filmId": "buratino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxNjo0MDowMDs2NzI0Nw=="
     },
     {
         "date": "12.01",
@@ -5665,18 +5161,18 @@
         "time": "17:00",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
-        "cost": 1150,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xMiAxNzowMDowMDs2NzI0Ng=="
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xMiAxNzowMDowMDs2NzI0Ng=="
     },
     {
         "date": "12.01",
         "time": "17:00",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
-        "cost": 1150,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xMiAxNzowMDowMDs2NzI0Ng=="
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xMiAxNzowMDowMDs2NzI0Ng=="
     },
     {
         "date": "12.01",
@@ -5743,15 +5239,6 @@
     },
     {
         "date": "12.01",
-        "time": "17:30",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxNzozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "12.01",
         "time": "17:35",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
@@ -5803,6 +5290,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTAxLTEyIDE4OjAwOjAwOzY3MjQ2"
+    },
+    {
+        "date": "12.01",
+        "time": "18:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxODowMDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -5887,15 +5383,6 @@
     },
     {
         "date": "12.01",
-        "time": "18:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxODo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "12.01",
         "time": "19:00",
         "filmId": "buratino",
         "theatre": "Иллюзион",
@@ -5938,6 +5425,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xMiAxOToxMDowMDs2ODUwMw=="
+    },
+    {
+        "date": "12.01",
+        "time": "19:10",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 670,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAxOToxMDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -6022,15 +5518,6 @@
     },
     {
         "date": "12.01",
-        "time": "19:50",
-        "filmId": "dobryj_doktor",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAxOTo1MDowMDs2OTU2NA=="
-    },
-    {
-        "date": "12.01",
         "time": "20:00",
         "filmId": "the_housemaid",
         "theatre": "Киномакс-Сапфир",
@@ -6082,6 +5569,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTAxLTEyIDIwOjE1OjAwOzY5NTY0"
+    },
+    {
+        "date": "12.01",
+        "time": "20:20",
+        "filmId": "dobryj_doktor",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAyMDoyMDowMDs2OTU2NA=="
     },
     {
         "date": "12.01",
@@ -6149,11 +5645,11 @@
     {
         "date": "12.01",
         "time": "21:10",
-        "filmId": "the_housemaid",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
-        "cost": 1120,
+        "cost": 1000,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMiAyMToxMDowMDs2OTU1Ng=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMiAyMToxMDowMDs2NzY0Nw=="
     },
     {
         "date": "12.01",
@@ -6185,15 +5681,6 @@
     {
         "date": "12.01",
         "time": "21:20",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAyMToyMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "12.01",
-        "time": "21:20",
         "filmId": "follemente",
         "theatre": "Уссури",
         "cost": 490,
@@ -6203,20 +5690,20 @@
     {
         "date": "12.01",
         "time": "21:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xMiAyMTozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "12.01",
-        "time": "21:30",
         "filmId": "dobryj_doktor",
         "theatre": "Уссури",
         "cost": 490,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xMiAyMTozMDowMDs2OTU2NA=="
+    },
+    {
+        "date": "12.01",
+        "time": "21:30",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 670,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAyMTozMDowMDs2NzI0OA=="
     },
     {
         "date": "12.01",
@@ -6235,6 +5722,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0xMiAyMTo0MDowMDs2NzI0Ng=="
+    },
+    {
+        "date": "12.01",
+        "time": "21:40",
+        "filmId": "cheburashka_2",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xMiAyMTo0MDowMDs2NzI0Ng=="
     },
     {
         "date": "12.01",
@@ -6271,15 +5767,6 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xMiAyMTo0NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "12.01",
-        "time": "21:50",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAyMTo1MDowMDs2NzI0Nw=="
     },
     {
         "date": "12.01",
@@ -6328,6 +5815,15 @@
     },
     {
         "date": "12.01",
+        "time": "22:20",
+        "filmId": "buratino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMiAyMjoyMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "12.01",
         "time": "22:40",
         "filmId": "the_confession",
         "theatre": "Киномакс-Сапфир",
@@ -6361,6 +5857,15 @@
         "cost": 850,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wMS0xMiAyMzowNTowMDs2OTU1Ng=="
+    },
+    {
+        "date": "12.01",
+        "time": "23:10",
+        "filmId": "the_mean_one",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1020,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMiAyMzoxMDowMDs2OTU2Mg=="
     },
     {
         "date": "12.01",
@@ -6436,15 +5941,6 @@
     },
     {
         "date": "12.01",
-        "time": "23:40",
-        "filmId": "diabolic",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAyMzo0MDowMDs2OTQ5Mw=="
-    },
-    {
-        "date": "12.01",
         "time": "23:45",
         "filmId": "elki_12",
         "theatre": "Черёмушки",
@@ -6455,11 +5951,11 @@
     {
         "date": "12.01",
         "time": "23:50",
-        "filmId": "the_mean_one",
+        "filmId": "diabolic",
         "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
+        "cost": 550,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMiAyMzo1MDowMDs2OTU2Mg=="
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMiAyMzo1MDowMDs2OTQ5Mw=="
     },
     {
         "date": "12.01",
@@ -6680,11 +6176,11 @@
     {
         "date": "13.01",
         "time": "10:15",
-        "filmId": "dobryj_doktor",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
-        "cost": 780,
+        "cost": 400,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMyAxMDoxNTowMDs2OTU2NA=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMyAxMDoxNTowMDs2NzY0Nw=="
     },
     {
         "date": "13.01",
@@ -6733,12 +6229,21 @@
     },
     {
         "date": "13.01",
-        "time": "10:35",
+        "time": "10:30",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMyAxMDozNTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMyAxMDozMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "13.01",
+        "time": "10:40",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxMDo0MDowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -6748,15 +6253,6 @@
         "cost": 780,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wMS0xMyAxMDo1MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "13.01",
-        "time": "10:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxMDo1NTowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -6832,15 +6328,6 @@
     },
     {
         "date": "13.01",
-        "time": "11:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxMTo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "13.01",
         "time": "12:00",
         "filmId": "buratino",
         "theatre": "Уссури",
@@ -6856,6 +6343,15 @@
         "cost": 700,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0xMyAxMjowMDowMDs2OTAxMQ=="
+    },
+    {
+        "date": "13.01",
+        "time": "12:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 540,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxMjowMDowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -7012,12 +6508,21 @@
     },
     {
         "date": "13.01",
-        "time": "12:55",
+        "time": "12:50",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 540,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMyAxMjo1NTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xMyAxMjo1MDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "13.01",
+        "time": "13:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxMzowMDowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -7027,15 +6532,6 @@
         "cost": 310,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0xMyAxMzoxMDowMDs2ODg1Mg=="
-    },
-    {
-        "date": "13.01",
-        "time": "13:15",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxMzoxNTowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -7147,15 +6643,6 @@
     },
     {
         "date": "13.01",
-        "time": "14:15",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxNDoxNTowMDs2NzI0OA=="
-    },
-    {
-        "date": "13.01",
         "time": "14:20",
         "filmId": "buratino",
         "theatre": "Уссури",
@@ -7171,6 +6658,15 @@
         "cost": 370,
         "is3d": false,
         "buyLink": "ODsxNjIwNTsyMDI2LTAxLTEzIDE0OjIwOjAwOzY3MjQ3"
+    },
+    {
+        "date": "13.01",
+        "time": "14:20",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxNDoyMDowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -7309,12 +6805,12 @@
     },
     {
         "date": "13.01",
-        "time": "15:35",
-        "filmId": "elki_12",
+        "time": "15:20",
+        "filmId": "the_housemaid",
         "theatre": "Киномакс-Сапфир",
-        "cost": 220,
+        "cost": 500,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxNTozNTowMDs2NzY0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxNToyMDowMDs2OTU1Ng=="
     },
     {
         "date": "13.01",
@@ -7454,20 +6950,20 @@
     {
         "date": "13.01",
         "time": "16:35",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxNjozNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "13.01",
-        "time": "16:35",
         "filmId": "prostokvashino",
         "theatre": "Черёмушки",
         "cost": 420,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xMyAxNjozNTowMDs2NzI0OA=="
+    },
+    {
+        "date": "13.01",
+        "time": "16:40",
+        "filmId": "buratino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxNjo0MDowMDs2NzI0Nw=="
     },
     {
         "date": "13.01",
@@ -7501,18 +6997,18 @@
         "time": "17:00",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
-        "cost": 1150,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xMyAxNzowMDowMDs2NzI0Ng=="
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xMyAxNzowMDowMDs2NzI0Ng=="
     },
     {
         "date": "13.01",
         "time": "17:00",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
-        "cost": 1150,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xMyAxNzowMDowMDs2NzI0Ng=="
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xMyAxNzowMDowMDs2NzI0Ng=="
     },
     {
         "date": "13.01",
@@ -7579,15 +7075,6 @@
     },
     {
         "date": "13.01",
-        "time": "17:30",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxNzozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "13.01",
         "time": "17:35",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
@@ -7639,6 +7126,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "NjsxNDI4OTsyMDI2LTAxLTEzIDE4OjAwOjAwOzY3MjQ2"
+    },
+    {
+        "date": "13.01",
+        "time": "18:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxODowMDowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -7723,15 +7219,6 @@
     },
     {
         "date": "13.01",
-        "time": "18:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxODo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "13.01",
         "time": "19:00",
         "filmId": "buratino",
         "theatre": "Иллюзион",
@@ -7774,6 +7261,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xMyAxOToxMDowMDs2ODUwMw=="
+    },
+    {
+        "date": "13.01",
+        "time": "19:10",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 670,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAxOToxMDowMDs2NzI0OA=="
     },
     {
         "date": "13.01",
@@ -7858,15 +7354,6 @@
     },
     {
         "date": "13.01",
-        "time": "19:50",
-        "filmId": "dobryj_doktor",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAxOTo1MDowMDs2OTU2NA=="
-    },
-    {
-        "date": "13.01",
         "time": "20:00",
         "filmId": "buratino",
         "theatre": "Москва",
@@ -7918,6 +7405,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "NjsxNDI4OTsyMDI2LTAxLTEzIDIwOjE1OjAwOzY5NTY0"
+    },
+    {
+        "date": "13.01",
+        "time": "20:20",
+        "filmId": "dobryj_doktor",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAyMDoyMDowMDs2OTU2NA=="
     },
     {
         "date": "13.01",
@@ -7985,11 +7481,11 @@
     {
         "date": "13.01",
         "time": "21:10",
-        "filmId": "the_housemaid",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
-        "cost": 1120,
+        "cost": 400,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMyAyMToxMDowMDs2OTU1Ng=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMyAyMToxMDowMDs2NzY0Nw=="
     },
     {
         "date": "13.01",
@@ -8021,29 +7517,11 @@
     {
         "date": "13.01",
         "time": "21:20",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAyMToyMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "13.01",
-        "time": "21:20",
         "filmId": "follemente",
         "theatre": "Уссури",
         "cost": 490,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wMS0xMyAyMToyMDowMDs2OTQ5Mg=="
-    },
-    {
-        "date": "13.01",
-        "time": "21:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xMyAyMTozMDowMDs2NzI0Ng=="
     },
     {
         "date": "13.01",
@@ -8065,6 +7543,15 @@
     },
     {
         "date": "13.01",
+        "time": "21:30",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 670,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAyMTozMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "13.01",
         "time": "21:40",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
@@ -8080,6 +7567,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0xMyAyMTo0MDowMDs2NzI0Ng=="
+    },
+    {
+        "date": "13.01",
+        "time": "21:40",
+        "filmId": "cheburashka_2",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xMyAyMTo0MDowMDs2NzI0Ng=="
     },
     {
         "date": "13.01",
@@ -8116,15 +7612,6 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xMyAyMTo0NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "13.01",
-        "time": "21:50",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAyMTo1MDowMDs2NzI0Nw=="
     },
     {
         "date": "13.01",
@@ -8173,6 +7660,15 @@
     },
     {
         "date": "13.01",
+        "time": "22:20",
+        "filmId": "buratino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xMyAyMjoyMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "13.01",
         "time": "22:40",
         "filmId": "the_confession",
         "theatre": "Киномакс-Сапфир",
@@ -8206,6 +7702,15 @@
         "cost": 850,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wMS0xMyAyMzowNTowMDs2OTU1Ng=="
+    },
+    {
+        "date": "13.01",
+        "time": "23:10",
+        "filmId": "the_mean_one",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMyAyMzoxMDowMDs2OTU2Mg=="
     },
     {
         "date": "13.01",
@@ -8290,15 +7795,6 @@
     },
     {
         "date": "13.01",
-        "time": "23:40",
-        "filmId": "diabolic",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 260,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAyMzo0MDowMDs2OTQ5Mw=="
-    },
-    {
-        "date": "13.01",
         "time": "23:45",
         "filmId": "elki_12",
         "theatre": "Черёмушки",
@@ -8309,11 +7805,11 @@
     {
         "date": "13.01",
         "time": "23:50",
-        "filmId": "the_mean_one",
+        "filmId": "diabolic",
         "theatre": "Киномакс-Сапфир",
-        "cost": 400,
+        "cost": 260,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xMyAyMzo1MDowMDs2OTU2Mg=="
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xMyAyMzo1MDowMDs2OTQ5Mw=="
     },
     {
         "date": "13.01",
@@ -8489,11 +7985,11 @@
     {
         "date": "14.01",
         "time": "10:15",
-        "filmId": "dobryj_doktor",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
-        "cost": 780,
+        "cost": 660,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xNCAxMDoxNTowMDs2OTU2NA=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xNCAxMDoxNTowMDs2NzY0Nw=="
     },
     {
         "date": "14.01",
@@ -8542,12 +8038,21 @@
     },
     {
         "date": "14.01",
-        "time": "10:35",
+        "time": "10:30",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xNCAxMDozNTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xNCAxMDozMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "14.01",
+        "time": "10:40",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxMDo0MDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -8557,15 +8062,6 @@
         "cost": 780,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wMS0xNCAxMDo1MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "14.01",
-        "time": "10:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxMDo1NTowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -8632,15 +8128,6 @@
     },
     {
         "date": "14.01",
-        "time": "11:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxMTo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "14.01",
         "time": "12:00",
         "filmId": "buratino",
         "theatre": "Уссури",
@@ -8656,6 +8143,15 @@
         "cost": 700,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0xNCAxMjowMDowMDs2OTAxMQ=="
+    },
+    {
+        "date": "14.01",
+        "time": "12:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 540,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxMjowMDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -8785,12 +8281,21 @@
     },
     {
         "date": "14.01",
-        "time": "12:55",
+        "time": "12:50",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
         "cost": 540,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xNCAxMjo1NTowMDs2NzI0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xNCAxMjo1MDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "14.01",
+        "time": "13:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxMzowMDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -8800,15 +8305,6 @@
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0xNCAxMzoxMDowMDs2ODg1Mg=="
-    },
-    {
-        "date": "14.01",
-        "time": "13:15",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxMzoxNTowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -8911,15 +8407,6 @@
     },
     {
         "date": "14.01",
-        "time": "14:15",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxNDoxNTowMDs2NzI0OA=="
-    },
-    {
-        "date": "14.01",
         "time": "14:20",
         "filmId": "buratino",
         "theatre": "Уссури",
@@ -8935,6 +8422,15 @@
         "cost": 370,
         "is3d": false,
         "buyLink": "ODsxNjIwNTsyMDI2LTAxLTE0IDE0OjIwOjAwOzY3MjQ3"
+    },
+    {
+        "date": "14.01",
+        "time": "14:20",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxNDoyMDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -9046,12 +8542,12 @@
     },
     {
         "date": "14.01",
-        "time": "15:35",
-        "filmId": "elki_12",
+        "time": "15:20",
+        "filmId": "the_housemaid",
         "theatre": "Киномакс-Сапфир",
-        "cost": 400,
+        "cost": 500,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxNTozNTowMDs2NzY0Nw=="
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxNToyMDowMDs2OTU1Ng=="
     },
     {
         "date": "14.01",
@@ -9173,20 +8669,20 @@
     {
         "date": "14.01",
         "time": "16:35",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxNjozNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "14.01",
-        "time": "16:35",
         "filmId": "prostokvashino",
         "theatre": "Черёмушки",
         "cost": 420,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xNCAxNjozNTowMDs2NzI0OA=="
+    },
+    {
+        "date": "14.01",
+        "time": "16:40",
+        "filmId": "buratino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxNjo0MDowMDs2NzI0Nw=="
     },
     {
         "date": "14.01",
@@ -9211,18 +8707,18 @@
         "time": "17:00",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
-        "cost": 1150,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xNCAxNzowMDowMDs2NzI0Ng=="
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xNCAxNzowMDowMDs2NzI0Ng=="
     },
     {
         "date": "14.01",
         "time": "17:00",
         "filmId": "cheburashka_2",
         "theatre": "Уссури",
-        "cost": 1150,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xNCAxNzowMDowMDs2NzI0Ng=="
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xNCAxNzowMDowMDs2NzI0Ng=="
     },
     {
         "date": "14.01",
@@ -9280,15 +8776,6 @@
     },
     {
         "date": "14.01",
-        "time": "17:30",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxNzozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "14.01",
         "time": "17:35",
         "filmId": "buratino",
         "theatre": "Киномакс-Сапфир",
@@ -9340,6 +8827,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTAxLTE0IDE4OjAwOjAwOzY3MjQ2"
+    },
+    {
+        "date": "14.01",
+        "time": "18:00",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxODowMDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -9406,15 +8902,6 @@
     },
     {
         "date": "14.01",
-        "time": "18:55",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxODo1NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "14.01",
         "time": "19:00",
         "filmId": "cheburashka_2",
         "theatre": "Киномакс-Сапфир",
@@ -9448,6 +8935,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xNCAxOToxMDowMDs2ODUwMw=="
+    },
+    {
+        "date": "14.01",
+        "time": "19:10",
+        "filmId": "prostokvashino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 670,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAxOToxMDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -9523,15 +9019,6 @@
     },
     {
         "date": "14.01",
-        "time": "19:50",
-        "filmId": "dobryj_doktor",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAxOTo1MDowMDs2OTU2NA=="
-    },
-    {
-        "date": "14.01",
         "time": "20:00",
         "filmId": "buratino",
         "theatre": "Москва",
@@ -9583,6 +9070,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTAxLTE0IDIwOjE1OjAwOzY5NTY0"
+    },
+    {
+        "date": "14.01",
+        "time": "20:20",
+        "filmId": "dobryj_doktor",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAyMDoyMDowMDs2OTU2NA=="
     },
     {
         "date": "14.01",
@@ -9650,11 +9146,11 @@
     {
         "date": "14.01",
         "time": "21:10",
-        "filmId": "the_housemaid",
+        "filmId": "now_you_see_me_now_you_dont",
         "theatre": "Киномакс-Сапфир",
-        "cost": 1120,
+        "cost": 1000,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xNCAyMToxMDowMDs2OTU1Ng=="
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xNCAyMToxMDowMDs2Njg0NQ=="
     },
     {
         "date": "14.01",
@@ -9676,21 +9172,12 @@
     },
     {
         "date": "14.01",
-        "time": "21:20",
+        "time": "21:30",
         "filmId": "prostokvashino",
         "theatre": "Киномакс-Сапфир",
         "cost": 670,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAyMToyMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "14.01",
-        "time": "21:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xNCAyMTozMDowMDs2NzI0Ng=="
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAyMTozMDowMDs2NzI0OA=="
     },
     {
         "date": "14.01",
@@ -9709,6 +9196,15 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0xNCAyMTo0MDowMDs2NzI0Ng=="
+    },
+    {
+        "date": "14.01",
+        "time": "21:40",
+        "filmId": "cheburashka_2",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xNCAyMTo0MDowMDs2NzI0Ng=="
     },
     {
         "date": "14.01",
@@ -9736,15 +9232,6 @@
         "cost": 490,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xNCAyMTo0NTowMDs2NzI0OA=="
-    },
-    {
-        "date": "14.01",
-        "time": "21:50",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAyMTo1MDowMDs2NzI0Nw=="
     },
     {
         "date": "14.01",
@@ -9794,11 +9281,20 @@
     {
         "date": "14.01",
         "time": "22:10",
-        "filmId": "now_you_see_me_now_you_dont",
+        "filmId": "buratino",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xNCAyMjoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "14.01",
+        "time": "22:20",
+        "filmId": "elki_12",
         "theatre": "Киномакс-Сапфир",
         "cost": 450,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xNCAyMjoxMDowMDs2Njg0NQ=="
+        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xNCAyMjoyMDowMDs2NzY0Nw=="
     },
     {
         "date": "14.01",
@@ -9874,21 +9370,21 @@
     },
     {
         "date": "14.01",
+        "time": "23:30",
+        "filmId": "the_mean_one",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 1020,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xNCAyMzozMDowMDs2OTU2Mg=="
+    },
+    {
+        "date": "14.01",
         "time": "23:40",
         "filmId": "cheburashka_2",
         "theatre": "Черёмушки",
         "cost": 370,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xNCAyMzo0MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "14.01",
-        "time": "23:40",
-        "filmId": "diabolic",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAyMzo0MDowMDs2OTQ5Mw=="
     },
     {
         "date": "14.01",
@@ -9902,20 +9398,20 @@
     {
         "date": "14.01",
         "time": "23:50",
+        "filmId": "diabolic",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xNCAyMzo1MDowMDs2OTQ5Mw=="
+    },
+    {
+        "date": "14.01",
+        "time": "23:50",
         "filmId": "father_mother_sister_brother",
         "theatre": "Уссури",
         "cost": 370,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xNCAyMzo1MDowMDs2OTQ5MQ=="
-    },
-    {
-        "date": "14.01",
-        "time": "23:50",
-        "filmId": "the_mean_one",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xNCAyMzo1MDowMDs2OTU2Mg=="
     },
     {
         "date": "14.01",
