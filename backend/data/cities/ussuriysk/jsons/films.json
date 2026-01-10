@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "cheburashka_2",
         "name": "Чебурашка 2",
         "rating": 6,
@@ -28,16 +39,5 @@
             "ужасы"
         ],
         "length": 85
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
     }
 ]
