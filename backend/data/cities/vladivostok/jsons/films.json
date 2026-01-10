@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "cheburashka_2",
         "name": "Чебурашка 2",
         "rating": 6,
@@ -30,24 +9,6 @@
             "фэнтези"
         ],
         "length": 105
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_housemaid",
@@ -60,14 +21,23 @@
         "length": 130
     },
     {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
         "genres": [
-            "приключения",
             "комедия"
         ],
-        "length": 122
+        "length": 85
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "follemente",
@@ -76,6 +46,26 @@
         "genres": [
             "мелодрама",
             "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
         ],
         "length": 100
     },
@@ -182,6 +172,16 @@
             "боевик"
         ],
         "length": 90
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "the_mean_one",
