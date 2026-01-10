@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "elki_12",
         "name": "Ёлки 12",
         "rating": 12,
@@ -7,6 +38,28 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
@@ -21,17 +74,6 @@
         "length": 75
     },
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "69489",
         "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
         "rating": 0,
@@ -42,47 +84,5 @@
             "фэнтези"
         ],
         "length": 50
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
     }
 ]
