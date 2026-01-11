@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "cheburashka_2",
         "name": "Чебурашка 2",
         "rating": 6,
@@ -18,85 +9,6 @@
             "фэнтези"
         ],
         "length": 105
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "now_you_see_me_now_you_dont",
-        "name": "Иллюзия обмана 3",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_confession",
-        "name": "Синистер. Первое проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "follemente",
-        "name": "Безумное свидание",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "traction_park_massacre",
-        "name": "Пункт назначения. Новый аттракцион",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "chainsaw_man_movie_rezehen",
-        "name": "Человек-бензопила. Фильм: История Резе",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 100
     },
     {
         "filmId": "buratino",
@@ -110,33 +22,14 @@
         "length": 100
     },
     {
-        "filmId": "father_mother_sister_brother",
-        "name": "Отец мать сестра брат",
-        "rating": 18,
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
         "genres": [
-            "драма",
-            "комедия"
+            "приключения",
+            "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "the_mean_one",
-        "name": "Гринч. Ужасающий новый год",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "diabolic",
-        "name": "Оно. Первое пришествие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
+        "length": 105
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
@@ -163,6 +56,15 @@
         "length": 50
     },
     {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "tri_kota_puteshestvie_v_vremeni",
         "name": "Три кота. Путешествие во времени",
         "rating": 0,
@@ -184,6 +86,25 @@
         "length": 90
     },
     {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "sun_valley_serenade",
         "name": "Серенада солнечной долины",
         "rating": 12,
@@ -203,6 +124,85 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "follemente",
+        "name": "Безумное свидание",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_confession",
+        "name": "Синистер. Первое проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "traction_park_massacre",
+        "name": "Пункт назначения. Новый аттракцион",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "chainsaw_man_movie_rezehen",
+        "name": "Человек-бензопила. Фильм: История Резе",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "now_you_see_me_now_you_dont",
+        "name": "Иллюзия обмана 3",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "the_mean_one",
+        "name": "Гринч. Ужасающий новый год",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "father_mother_sister_brother",
+        "name": "Отец мать сестра брат",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "diabolic",
+        "name": "Оно. Первое пришествие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "berlin_the_nutcracker",
