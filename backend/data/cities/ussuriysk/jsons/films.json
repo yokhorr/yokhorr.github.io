@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
         "rating": 6,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "приключения",
+            "семейный"
         ],
-        "length": 100
+        "length": 105
     },
     {
         "filmId": "cheburashka_2",
@@ -22,14 +21,15 @@
         "length": 105
     },
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
+        "filmId": "buratino",
+        "name": "Буратино",
         "rating": 6,
         "genres": [
-            "приключения",
-            "семейный"
+            "семейный",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 105
+        "length": 100
     },
     {
         "filmId": "traction_park_massacre",
