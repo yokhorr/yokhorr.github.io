@@ -11,24 +11,49 @@
         "length": 105
     },
     {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "драма"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 130
+        "length": 75
     },
     {
-        "filmId": "follemente",
-        "name": "Безумное свидание",
-        "rating": 18,
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
         "genres": [
-            "мелодрама",
-            "комедия"
+            "семейный",
+            "комедия",
+            "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "69489",
+        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "elki_12",
@@ -40,14 +65,74 @@
         "length": 85
     },
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "berlin_the_nutcracker",
+        "name": "Берлинская государственная опера: Щелкунчик",
         "rating": 6,
         "genres": [
-            "приключения",
-            "семейный"
+            "фильм-спектакль",
+            "балет"
         ],
-        "length": 105
+        "length": 130
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "follemente",
+        "name": "Безумное свидание",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_confession",
@@ -66,15 +151,6 @@
             "ужасы"
         ],
         "length": 85
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -97,17 +173,6 @@
             "криминал"
         ],
         "length": 122
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
     },
     {
         "filmId": "the_mean_one",
@@ -137,71 +202,6 @@
             "ужасы"
         ],
         "length": 100
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "69489",
-        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "berlin_the_nutcracker",
-        "name": "Берлинская государственная опера: Щелкунчик",
-        "rating": 6,
-        "genres": [
-            "фильм-спектакль",
-            "балет"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
     },
     {
         "filmId": "el_bosco",

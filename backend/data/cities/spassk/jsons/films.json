@@ -11,15 +11,6 @@
         "length": 100
     },
     {
-        "filmId": "the_confession",
-        "name": "Синистер. Первое проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
@@ -60,5 +51,14 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "the_confession",
+        "name": "Синистер. Первое проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
