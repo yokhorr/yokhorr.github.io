@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "cheburashka_2",
         "name": "Чебурашка 2",
         "rating": 6,
@@ -30,24 +9,6 @@
             "фэнтези"
         ],
         "length": 105
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_housemaid",
@@ -60,38 +21,6 @@
         "length": 130
     },
     {
-        "filmId": "sun_valley_serenade",
-        "name": "Серенада солнечной долины",
-        "rating": 12,
-        "genres": [
-            "мюзикл",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "follemente",
         "name": "Безумное свидание",
         "rating": 18,
@@ -100,6 +29,25 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "the_confession",
@@ -118,6 +66,15 @@
             "ужасы"
         ],
         "length": 85
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "chainsaw_man_movie_rezehen",
@@ -140,6 +97,17 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_mean_one",
@@ -205,6 +173,17 @@
         "length": 65
     },
     {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "berlin_the_nutcracker",
         "name": "Берлинская государственная опера: Щелкунчик",
         "rating": 6,
@@ -213,6 +192,16 @@
             "балет"
         ],
         "length": 130
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "el_bosco",
@@ -351,5 +340,16 @@
             "документальный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "69830",
+        "name": "Киноклуб «Кино и Смыслы»: фильм «Невидимая сторона»",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "спорт",
+            "биография"
+        ],
+        "length": -1
     }
 ]
