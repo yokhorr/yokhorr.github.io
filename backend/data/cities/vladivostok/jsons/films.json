@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -32,28 +21,15 @@
         "length": 105
     },
     {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "семейный",
             "комедия",
             "фэнтези"
         ],
-        "length": 75
-    },
-    {
-        "filmId": "69489",
-        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
+        "length": 105
     },
     {
         "filmId": "elki_12",
@@ -65,25 +41,13 @@
         "length": 85
     },
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский"
+            "комедия"
         ],
-        "length": 65
-    },
-    {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
+        "length": 95
     },
     {
         "filmId": "the_housemaid",
@@ -94,15 +58,6 @@
             "драма"
         ],
         "length": 130
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "sun_valley_serenade",
@@ -124,6 +79,17 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
     },
     {
         "filmId": "follemente",
@@ -205,6 +171,40 @@
         "length": 100
     },
     {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "69489",
+        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
+    },
+    {
         "filmId": "berlin_the_nutcracker",
         "name": "Берлинская государственная опера: Щелкунчик",
         "rating": 6,
@@ -261,11 +261,14 @@
         "length": 110
     },
     {
-        "filmId": "69795",
+        "filmId": "zaverbovannyj",
         "name": "Завербованный",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 90
     },
     {
         "filmId": "68705",
