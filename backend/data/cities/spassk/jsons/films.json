@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "dobryj_doktor",
         "name": "Добрый доктор",
         "rating": 16,
@@ -37,6 +16,16 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "tri_bogatyrja_i_svet_klinom",
@@ -60,5 +49,16 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     }
 ]

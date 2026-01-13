@@ -1,14 +1,12 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 100
+        "length": 95
     },
     {
         "filmId": "cheburashka_2",
@@ -22,14 +20,24 @@
         "length": 105
     },
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
         "genres": [
-            "приключения",
-            "семейный"
+            "триллер",
+            "драма"
         ],
-        "length": 105
+        "length": 130
+    },
+    {
+        "filmId": "follemente",
+        "name": "Безумное свидание",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "elki_12",
@@ -41,64 +49,14 @@
         "length": 85
     },
     {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "berlin_the_nutcracker",
-        "name": "Берлинская государственная опера: Щелкунчик",
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
         "rating": 6,
         "genres": [
-            "фильм-спектакль",
-            "балет"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
             "приключения",
-            "комедия"
+            "семейный"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "follemente",
-        "name": "Безумное свидание",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
+        "length": 105
     },
     {
         "filmId": "the_confession",
@@ -139,6 +97,17 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_mean_one",
@@ -204,6 +173,17 @@
         "length": 65
     },
     {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "el_bosco",
         "name": "Арт-лекторий в кино: Босх: Сад сновидений",
         "rating": 18,
@@ -211,6 +191,16 @@
             "документальный"
         ],
         "length": 86
+    },
+    {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -226,18 +216,6 @@
         "length": 190
     },
     {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "shen_hai",
         "name": "Океан чудес",
         "rating": 12,
@@ -248,6 +226,18 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "zaverbovannyj",
@@ -387,7 +377,7 @@
     {
         "filmId": "68114",
         "name": "«Светский шик: Лоуренс Альма-Тадема» — Лекция Ю.Климко",
-        "rating": 12,
+        "rating": 16,
         "genres": [
             "лекция"
         ],
