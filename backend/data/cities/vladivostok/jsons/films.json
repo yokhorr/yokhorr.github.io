@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -32,6 +9,17 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     },
     {
         "filmId": "prostokvashino",
@@ -44,18 +32,6 @@
         "length": 105
     },
     {
-        "filmId": "69489",
-        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
         "filmId": "elki_12",
         "name": "Ёлки 12",
         "rating": 12,
@@ -65,25 +41,13 @@
         "length": 85
     },
     {
-        "filmId": "tri_kota_puteshestvie_v_vremeni",
-        "name": "Три кота. Путешествие во времени",
-        "rating": 0,
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский"
+            "комедия"
         ],
-        "length": 65
-    },
-    {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
+        "length": 95
     },
     {
         "filmId": "the_housemaid",
@@ -94,15 +58,6 @@
             "драма"
         ],
         "length": 130
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "berlin_the_nutcracker",
@@ -123,6 +78,17 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
     },
     {
         "filmId": "follemente",
@@ -204,6 +170,40 @@
         "length": 100
     },
     {
+        "filmId": "tri_bogatyrja_i_svet_klinom",
+        "name": "Три богатыря и свет клином",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "69489",
+        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "tri_kota_puteshestvie_v_vremeni",
+        "name": "Три кота. Путешествие во времени",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский"
+        ],
+        "length": 65
+    },
+    {
         "filmId": "el_bosco",
         "name": "Арт-лекторий в кино: Босх: Сад сновидений",
         "rating": 18,
@@ -260,6 +260,26 @@
         "length": 90
     },
     {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "playdate",
+        "name": "Убойная суббота",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "68705",
         "name": "TheatreHD: Последняя сказка",
         "rating": 12,
@@ -302,6 +322,18 @@
             "искусство"
         ],
         "length": 75
+    },
+    {
+        "filmId": "kuangye_shidai",
+        "name": "Воскрешение",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "мелодрама",
+            "драма",
+            "триллер"
+        ],
+        "length": 160
     },
     {
         "filmId": "eternal_sunshine",
@@ -351,5 +383,14 @@
             "биография"
         ],
         "length": -1
+    },
+    {
+        "filmId": "68114",
+        "name": "«Светский шик: Лоуренс Альма-Тадема» — Лекция Ю.Климко",
+        "rating": 12,
+        "genres": [
+            "лекция"
+        ],
+        "length": 122
     }
 ]
