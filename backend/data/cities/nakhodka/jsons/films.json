@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -22,6 +11,17 @@
         "length": 100
     },
     {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "now_you_see_me_now_you_dont",
         "name": "Иллюзия обмана 3",
         "rating": 16,
@@ -30,6 +30,17 @@
             "криминал"
         ],
         "length": 122
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
     },
     {
         "filmId": "prostokvashino",
@@ -51,15 +62,16 @@
         "length": 85
     },
     {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
+        "filmId": "69489",
+        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
+        "rating": 0,
         "genres": [
+            "мультфильм",
+            "приключения",
             "комедия",
-            "военный",
-            "боевик"
+            "фэнтези"
         ],
-        "length": 90
+        "length": 50
     },
     {
         "filmId": "zootopia_2",
@@ -72,18 +84,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "69489",
-        "name": "Мульт в кино. Выпуск №190. Подарок для друзей",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -121,6 +121,15 @@
         "length": 85
     },
     {
+        "filmId": "five_nights_at_freddy_2",
+        "name": "Пять ночей с Фредди 2",
+        "rating": 16,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "people_we_meet_on_vacation",
         "name": "Отпуск на двоих",
         "rating": 16,
@@ -128,6 +137,16 @@
             "мелодрама"
         ],
         "length": 115
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "wake_up_dead_man",
@@ -139,14 +158,5 @@
             "криминал"
         ],
         "length": 140
-    },
-    {
-        "filmId": "five_nights_at_freddy_2",
-        "name": "Пять ночей с Фредди 2",
-        "rating": 16,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
     }
 ]

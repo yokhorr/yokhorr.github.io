@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "the_confession",
         "name": "Синистер. Первое проклятие",
         "rating": 18,
@@ -49,5 +38,16 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     }
 ]

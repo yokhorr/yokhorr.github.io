@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "cheburashka_2",
         "name": "Чебурашка 2",
         "rating": 6,
@@ -22,51 +11,14 @@
         "length": 105
     },
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "elki_12",
-        "name": "Ёлки 12",
-        "rating": 12,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "el_bosco",
-        "name": "Арт-лекторий в кино: Босх: Сад сновидений",
+        "filmId": "follemente",
+        "name": "Безумное свидание",
         "rating": 18,
         "genres": [
-            "документальный"
-        ],
-        "length": 86
-    },
-    {
-        "filmId": "volchok",
-        "name": "Волчок",
-        "rating": 16,
-        "genres": [
-            "приключения",
+            "мелодрама",
             "комедия"
         ],
-        "length": 122
+        "length": 100
     },
     {
         "filmId": "the_housemaid",
@@ -79,25 +31,14 @@
         "length": 130
     },
     {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
         "genres": [
-            "комедия",
-            "военный",
-            "боевик"
+            "приключения",
+            "семейный"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "follemente",
-        "name": "Безумное свидание",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
+        "length": 105
     },
     {
         "filmId": "now_you_see_me_now_you_dont",
@@ -119,6 +60,15 @@
         "length": 90
     },
     {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "traction_park_massacre",
         "name": "Пункт назначения. Новый аттракцион",
         "rating": 18,
@@ -136,6 +86,26 @@
             "мультфильм",
             "фэнтези",
             "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "elki_12",
+        "name": "Ёлки 12",
+        "rating": 12,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
         ],
         "length": 100
     },
@@ -228,6 +198,16 @@
         "length": 90
     },
     {
+        "filmId": "volchok",
+        "name": "Волчок",
+        "rating": 16,
+        "genres": [
+            "приключения",
+            "комедия"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "marty_supreme",
         "name": "Марти Великолепный",
         "rating": 18,
@@ -246,6 +226,17 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "za_palycha_2",
+        "name": "За Палыча 2!",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "военный",
+            "боевик"
+        ],
+        "length": 90
     },
     {
         "filmId": "68705",
