@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "cheburashka_2",
         "name": "Чебурашка 2",
         "rating": 6,
@@ -60,5 +27,27 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "shen_hai",
+        "name": "Океан чудес",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения",
+            "драма"
+        ],
+        "length": 110
     }
 ]

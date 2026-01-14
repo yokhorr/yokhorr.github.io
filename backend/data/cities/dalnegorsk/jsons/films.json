@@ -1,26 +1,13 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
         "rating": 6,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
+            "семейный"
         ],
-        "length": 75
+        "length": 105
     },
     {
         "filmId": "cheburashka_2",
@@ -30,16 +17,6 @@
             "семейный",
             "комедия",
             "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
         ],
         "length": 105
     },

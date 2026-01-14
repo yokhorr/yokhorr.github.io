@@ -1,35 +1,14 @@
 [
     {
-        "filmId": "za_palycha_2",
-        "name": "За Палыча 2!",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "военный",
-            "боевик"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "name": "Три богатыря и свет клином",
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "семейный",
             "комедия",
             "фэнтези"
         ],
-        "length": 75
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
+        "length": 105
     },
     {
         "filmId": "prostokvashino",
@@ -38,17 +17,6 @@
         "genres": [
             "приключения",
             "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
         ],
         "length": 105
     },
@@ -71,5 +39,39 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "shen_hai",
+        "name": "Океан чудес",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
     }
 ]
