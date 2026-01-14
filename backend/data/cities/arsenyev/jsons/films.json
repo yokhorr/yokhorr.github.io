@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_confession",
-        "name": "Синистер. Первое проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
@@ -64,6 +44,17 @@
             "приключения"
         ],
         "length": 190
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "dobryj_doktor",
