@@ -1,14 +1,22 @@
 [
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 100
+        "length": 95
+    },
+    {
+        "filmId": "playdate",
+        "name": "Убойная суббота",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "cheburashka_2",
@@ -35,25 +43,6 @@
         "length": 190
     },
     {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "playdate",
-        "name": "Убойная суббота",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "the_spongebob_movie_2025",
         "name": "Губка Боб: В поисках квадратных штанов",
         "rating": 6,
@@ -75,5 +64,16 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     }
 ]
