@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "shen_hai",
-        "name": "Океан чудес",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения",
-            "драма"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 12,
@@ -44,6 +11,17 @@
             "приключения"
         ],
         "length": 190
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     },
     {
         "filmId": "buratino",
@@ -64,5 +42,15 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     }
 ]
