@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "dobryj_doktor",
+        "name": "Добрый доктор",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 12,
@@ -13,15 +22,14 @@
         "length": 190
     },
     {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
+        "filmId": "playdate",
+        "name": "Убойная суббота",
+        "rating": 16,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "боевик",
+            "комедия"
         ],
-        "length": 100
+        "length": 95
     },
     {
         "filmId": "cheburashka_2",
@@ -33,25 +41,6 @@
             "фэнтези"
         ],
         "length": 105
-    },
-    {
-        "filmId": "dobryj_doktor",
-        "name": "Добрый доктор",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "playdate",
-        "name": "Убойная суббота",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_spongebob_movie_2025",
@@ -75,5 +64,16 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     }
 ]
