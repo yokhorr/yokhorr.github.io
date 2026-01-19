@@ -1,762 +1,6 @@
 [
     {
         "date": "19.01",
-        "time": "09:50",
-        "filmId": "buratino",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0xOSAwOTo1MDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "09:50",
-        "filmId": "buratino",
-        "theatre": "Черёмушки",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xOSAwOTo1MDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Уссури",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xOSAxMDowMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "buratino",
-        "theatre": "Иллюзион",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTAxLTE5IDEwOjAwOjAwOzY3MjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "buratino",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTAxLTE5IDEwOjAwOjAwOzY3MjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "prostokvashino",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMTkgMTA6MDA6MDA7NjcyNDg="
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "prostokvashino",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xOSAxMDowMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "prostokvashino",
-        "theatre": "Черёмушки",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xOSAxMDowMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Иллюзион",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTAxLTE5IDEwOjAwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xOSAxMDowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTAxLTE5IDEwOjAwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "19.01",
-        "time": "10:00",
-        "filmId": "dobryj_doktor",
-        "theatre": "Черёмушки",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wMS0xOSAxMDowMDowMDs2OTU2NA=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:10",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wMS0xOSAxMDoxMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:10",
-        "filmId": "prostokvashino",
-        "theatre": "Океан IMAX",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTAxLTE5IDEwOjEwOjAwOzY3MjQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "10:10",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 380,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xOSAxMDoxMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:20",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Иллюзион",
-        "cost": 440,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTE5IDEwOjIwOjAwOzY4NjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "10:30",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0xOSAxMDozMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wMS0xOSAxMDozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 780,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xOSAxMDozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "10:30",
-        "filmId": "prostokvashino",
-        "theatre": "Иллюзион",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTAxLTE5IDEwOjMwOjAwOzY3MjQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "11:00",
-        "filmId": "buratino",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0xOSAxMTowMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "11:00",
-        "filmId": "shen_hai",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 340,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xOSAxMTowMDowMDs2NzQzMw=="
-    },
-    {
-        "date": "19.01",
-        "time": "11:10",
-        "filmId": "zootopia_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xOSAxMToxMDowMDs2Njg0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "11:20",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 770,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xOSAxMToyMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "11:30",
-        "filmId": "prostokvashino",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0xOSAxMTozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "11:30",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xOSAxMTozMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "11:55",
-        "filmId": "buratino",
-        "theatre": "Москва",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMTkgMTE6NTU6MDA7NjcyNDc="
-    },
-    {
-        "date": "19.01",
-        "time": "12:00",
-        "filmId": "zootopia_2",
-        "theatre": "Уссури",
-        "cost": 850,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xOSAxMjowMDowMDs2Njg0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:00",
-        "filmId": "zootopia_2",
-        "theatre": "Владивосток",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0xOSAxMjowMDowMDs2Njg0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:00",
-        "filmId": "buratino",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0xOSAxMjowMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:00",
-        "filmId": "prostokvashino",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xOSAxMjowMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:00",
-        "filmId": "tri_bogatyrja_i_svet_klinom",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wMS0xOSAxMjowMDowMDs2ODg1Mg=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:10",
-        "filmId": "zootopia_2",
-        "theatre": "Океан IMAX",
-        "cost": 330,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NjsyMDI2LTAxLTE5IDEyOjEwOjAwOzY2ODQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "12:10",
-        "filmId": "buratino",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTAxLTE5IDEyOjEwOjAwOzY3MjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "12:10",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 850,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wMS0xOSAxMjoxMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:10",
-        "filmId": "prostokvashino",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xOSAxMjoxMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:15",
-        "filmId": "zootopia_2",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xOSAxMjoxNTowMDs2Njg0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:15",
-        "filmId": "cheburashka_2",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTAxLTE5IDEyOjE1OjAwOzY3MjQ2"
-    },
-    {
-        "date": "19.01",
-        "time": "12:15",
-        "filmId": "cheburashka_2",
-        "theatre": "Океан IMAX",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTAxLTE5IDEyOjE1OjAwOzY3MjQ2"
-    },
-    {
-        "date": "19.01",
-        "time": "12:20",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xOSAxMjoyMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:20",
-        "filmId": "prostokvashino",
-        "theatre": "Океан IMAX",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTAxLTE5IDEyOjIwOjAwOzY3MjQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "12:25",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xOSAxMjoyNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:30",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Океан IMAX",
-        "cost": 560,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTE5IDEyOjMwOjAwOzY4NjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "12:40",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wMS0xOSAxMjo0MDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "12:40",
-        "filmId": "prostokvashino",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTAxLTE5IDEyOjQwOjAwOzY3MjQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "12:45",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 860,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xOSAxMjo0NTowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wMS0xOSAxMzowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:10",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0xOSAxMzoxMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:20",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xOSAxMzoyMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:30",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wMS0xOSAxMzozMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:40",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wMS0xOSAxMzo0MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:40",
-        "filmId": "shen_hai",
-        "theatre": "Владивосток",
-        "cost": 310,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0xOSAxMzo0MDowMDs2NzQzMw=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:45",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xOSAxMzo0NTowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:50",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Уссури",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0xOSAxMzo1MDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "13:50",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Москва",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMTkgMTM6NTA6MDA7Njg2NDc="
-    },
-    {
-        "date": "19.01",
-        "time": "14:10",
-        "filmId": "buratino",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0xOSAxNDoxMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:10",
-        "filmId": "buratino",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xOSAxNDoxMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:10",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 650,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wMS0xOSAxNDoxMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:10",
-        "filmId": "prostokvashino",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0xOSAxNDoxMDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:15",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Иллюзион",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTE5IDE0OjE1OjAwOzY4NjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "14:20",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Черёмушки",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0xOSAxNDoyMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:20",
-        "filmId": "zootopia_2",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "NjsxNDI4OTsyMDI2LTAxLTE5IDE0OjIwOjAwOzY2ODQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "14:25",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Уссури",
-        "cost": 1650,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wMS0xOSAxNDoyNTowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:25",
-        "filmId": "zootopia_2",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMS0xOSAxNDoyNTowMDs2Njg0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:25",
-        "filmId": "buratino",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTAxLTE5IDE0OjI1OjAwOzY3MjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "14:30",
-        "filmId": "zootopia_2",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wMS0xOSAxNDozMDowMDs2Njg0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 1050,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wMS0xOSAxNDozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTAxLTE5IDE0OjMwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "19.01",
-        "time": "14:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTAxLTE5IDE0OjMwOjAwOzY3MjQ2"
-    },
-    {
-        "date": "19.01",
-        "time": "14:35",
-        "filmId": "buratino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wMS0xOSAxNDozNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:35",
-        "filmId": "prostokvashino",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTAxLTE5IDE0OjM1OjAwOzY3MjQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "14:40",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wMS0xOSAxNDo0MDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "14:50",
-        "filmId": "prostokvashino",
-        "theatre": "Иллюзион",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTAxLTE5IDE0OjUwOjAwOzY3MjQ4"
-    },
-    {
-        "date": "19.01",
-        "time": "15:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wMS0xOSAxNTowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "15:10",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 830,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wMS0xOSAxNToxMDowMDs2ODY0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "15:30",
-        "filmId": "cheburashka_2",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wMS0xOSAxNTozMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "15:40",
-        "filmId": "prostokvashino",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0xOSAxNTo0MDowMDs2NzI0OA=="
-    },
-    {
-        "date": "19.01",
-        "time": "15:50",
-        "filmId": "dobryj_doktor",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0xOSAxNTo1MDowMDs2OTU2NA=="
-    },
-    {
-        "date": "19.01",
-        "time": "16:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wMS0xOSAxNjowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "16:00",
-        "filmId": "cheburashka_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wMS0xOSAxNjowMDowMDs2NzI0Ng=="
-    },
-    {
-        "date": "19.01",
-        "time": "16:20",
-        "filmId": "buratino",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wMS0xOSAxNjoyMDowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "16:20",
-        "filmId": "zaverbovannyj",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0xOSAxNjoyMDowMDs2OTc5NQ=="
-    },
-    {
-        "date": "19.01",
-        "time": "16:25",
-        "filmId": "buratino",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wMS0xOSAxNjoyNTowMDs2NzI0Nw=="
-    },
-    {
-        "date": "19.01",
-        "time": "16:30",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Океан IMAX",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTE5IDE2OjMwOjAwOzY4NjQ3"
-    },
-    {
-        "date": "19.01",
         "time": "16:35",
         "filmId": "zootopia_2",
         "theatre": "Океан IMAX",
@@ -772,15 +16,6 @@
         "cost": 200,
         "is3d": false,
         "buyLink": "NjsxNDI4OTsyMDI2LTAxLTE5IDE2OjM1OjAwOzY3MjQ3"
-    },
-    {
-        "date": "19.01",
-        "time": "16:40",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wMS0xOSAxNjo0MDowMDs2ODY0Nw=="
     },
     {
         "date": "19.01",
@@ -4762,12 +3997,255 @@
     },
     {
         "date": "22.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMiAxMDowMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjIgMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "22.01",
+        "time": "10:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIyIDEwOjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "10:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIyIDEwOjIwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "10:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMiAxMDozMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMiAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "22.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMiAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "22.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMiAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "22.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjIgMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "22.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMiAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMiAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "22.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjIgMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "22.01",
+        "time": "13:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMiAxMzo1MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIyIDE0OjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIyIDE0OjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMiAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "14:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 440,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMiAxNDoyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMiAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "22.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMiAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "22.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjIgMTY6MDU6MDA7Njg2NDc="
+    },
+    {
+        "date": "22.01",
         "time": "16:50",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yMiAxNjo1MDowMDs2OTgwNg=="
+    },
+    {
+        "date": "22.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMiAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "22.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMiAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "22.01",
+        "time": "17:40",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 480,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMiAxNzo0MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMiAxNzo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "18:10",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIyIDE4OjEwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "18:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMiAxODoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "18:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIyIDE4OjE1OjAwOzY4NjQ3"
     },
     {
         "date": "22.01",
@@ -4780,12 +4258,291 @@
     },
     {
         "date": "22.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMiAxOToxMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "22.01",
         "time": "19:20",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yMiAxOToyMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "22.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMiAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "22.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjIgMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "22.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMiAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "21:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMiAyMTozMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMiAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "22.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMiAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "22.01",
+        "time": "22:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIyIDIyOjA1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "22:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMiAyMjowNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "22.01",
+        "time": "22:10",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIyIDIyOjEwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "22.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjIgMjI6NTU6MDA7Njk4MDE="
+    },
+    {
+        "date": "23.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMyAxMDowMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjMgMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "23.01",
+        "time": "10:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIzIDEwOjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "10:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIzIDEwOjIwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "10:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMyAxMDozMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMyAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "23.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMyAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "23.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMyAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "23.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjMgMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "23.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMyAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMyAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "23.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjMgMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "23.01",
+        "time": "13:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMyAxMzo1MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 460,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIzIDE0OjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIzIDE0OjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMyAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "14:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 440,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMyAxNDoyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMyAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "23.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMyAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "23.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjMgMTY6MDU6MDA7Njg2NDc="
     },
     {
         "date": "23.01",
@@ -4798,12 +4555,354 @@
     },
     {
         "date": "23.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMyAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "23.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMyAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "23.01",
+        "time": "17:40",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 480,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMyAxNzo0MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMyAxNzo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "18:10",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIzIDE4OjEwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "18:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMyAxODoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "18:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 650,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIzIDE4OjE1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMyAxOToxMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "23.01",
         "time": "19:20",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
         "cost": 600,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yMyAxOToyMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "23.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMyAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "23.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjMgMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "23.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yMyAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "21:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yMyAyMTozMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yMyAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "23.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yMyAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "23.01",
+        "time": "22:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTIzIDIyOjA1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "22:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yMyAyMjowNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "23.01",
+        "time": "22:10",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 650,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTIzIDIyOjEwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "23.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjMgMjI6NTU6MDA7Njk4MDE="
+    },
+    {
+        "date": "24.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 410,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNCAxMDowMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 410,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI0IDEwOjAwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI0IDEwOjAwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjQgMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "24.01",
+        "time": "10:10",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNCAxMDoxMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNCAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "24.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNCAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "24.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNCAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "24.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjQgMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "24.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNCAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNCAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "24.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjQgMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "24.01",
+        "time": "13:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 590,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNCAxMzo1MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "13:55",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 590,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI0IDEzOjU1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "13:55",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI0IDEzOjU1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "14:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 570,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNCAxNDowMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNCAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNCAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "24.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNCAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "24.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjQgMTY6MDU6MDA7Njg2NDc="
     },
     {
         "date": "24.01",
@@ -4816,12 +4915,354 @@
     },
     {
         "date": "24.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNCAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "24.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNCAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "24.01",
+        "time": "17:40",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 610,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNCAxNzo0MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNCAxNzo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "17:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 610,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI0IDE3OjUwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "17:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNCAxNzo1MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "17:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 630,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI0IDE3OjUwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNCAxOToxMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "24.01",
         "time": "19:20",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
         "cost": 600,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yNCAxOToyMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "24.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNCAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "24.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjQgMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "24.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNCAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "21:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNCAyMTozMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNCAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "24.01",
+        "time": "21:40",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNCAyMTo0MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "24.01",
+        "time": "21:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI0IDIxOjQ1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "21:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 650,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI0IDIxOjQ1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "24.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNCAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "24.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjQgMjI6NTU6MDA7Njk4MDE="
+    },
+    {
+        "date": "25.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 410,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNSAxMDowMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 410,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI1IDEwOjAwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "10:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI1IDEwOjAwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjUgMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "25.01",
+        "time": "10:10",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNSAxMDoxMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNSAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "25.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNSAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "25.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNSAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "25.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjUgMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "25.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNSAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNSAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "25.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjUgMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "25.01",
+        "time": "13:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 590,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNSAxMzo1MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "13:55",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 590,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI1IDEzOjU1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "13:55",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI1IDEzOjU1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "14:00",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 570,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNSAxNDowMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNSAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNSAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "25.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNSAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "25.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjUgMTY6MDU6MDA7Njg2NDc="
     },
     {
         "date": "25.01",
@@ -4834,12 +5275,282 @@
     },
     {
         "date": "25.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNSAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "25.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNSAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "25.01",
+        "time": "17:40",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 610,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNSAxNzo0MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNSAxNzo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "17:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 610,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI1IDE3OjUwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "17:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNSAxNzo1MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "17:50",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 630,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI1IDE3OjUwOjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNSAxOToxMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "25.01",
         "time": "19:20",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
         "cost": 600,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yNSAxOToyMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "25.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNSAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "25.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjUgMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "25.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNSAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "21:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wMS0yNSAyMTozMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNSAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "25.01",
+        "time": "21:40",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Черёмушки",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wMS0yNSAyMTo0MDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "25.01",
+        "time": "21:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Иллюзион",
+        "cost": 620,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTAxLTI1IDIxOjQ1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "21:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Океан IMAX",
+        "cost": 650,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI1IDIxOjQ1OjAwOzY4NjQ3"
+    },
+    {
+        "date": "25.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 900,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNSAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "25.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjUgMjI6NTU6MDA7Njk4MDE="
+    },
+    {
+        "date": "26.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjYgMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "26.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNiAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "26.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNiAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "26.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNiAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "26.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjYgMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "26.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNiAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "26.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNiAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "26.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjYgMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "26.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNiAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "26.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNiAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "26.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNiAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "26.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjYgMTY6MDU6MDA7Njg2NDc="
     },
     {
         "date": "26.01",
@@ -4849,6 +5560,33 @@
         "cost": 500,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yNiAxNjo1MDowMDs2OTgwNg=="
+    },
+    {
+        "date": "26.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNiAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "26.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNiAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "26.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNiAxNzo0NTowMDs2ODY0Nw=="
     },
     {
         "date": "26.01",
@@ -4870,12 +5608,183 @@
     },
     {
         "date": "26.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNiAxOToxMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "26.01",
         "time": "19:20",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yNiAxOToyMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "26.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNiAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "26.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjYgMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "26.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNiAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "26.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNiAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "26.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNiAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "26.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjYgMjI6NTU6MDA7Njk4MDE="
+    },
+    {
+        "date": "27.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjcgMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "27.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNyAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "27.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNyAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "27.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNyAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "27.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjcgMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "27.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 310,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNyAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "27.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNyAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "27.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjcgMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "27.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNyAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "27.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNyAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "27.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNyAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "27.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjcgMTY6MDU6MDA7Njg2NDc="
     },
     {
         "date": "27.01",
@@ -4888,12 +5797,48 @@
     },
     {
         "date": "27.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNyAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "27.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNyAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "27.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNyAxNzo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "27.01",
         "time": "19:00",
         "filmId": "63100",
         "theatre": "Океан IMAX",
         "cost": 500,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTAxLTI3IDE5OjAwOjAwOzYzMTAw"
+    },
+    {
+        "date": "27.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNyAxOToxMDowMDs2OTU1Ng=="
     },
     {
         "date": "27.01",
@@ -4906,12 +5851,174 @@
     },
     {
         "date": "27.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNyAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "27.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjcgMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "27.01",
         "time": "19:30",
         "filmId": "69116",
         "theatre": "Океан IMAX",
         "cost": 1500,
         "is3d": false,
         "buyLink": "ODsxNjA4NTsyMDI2LTAxLTI3IDE5OjMwOjAwOzY5MTE2"
+    },
+    {
+        "date": "27.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yNyAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "27.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yNyAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "27.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yNyAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "27.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjcgMjI6NTU6MDA7Njk4MDE="
+    },
+    {
+        "date": "28.01",
+        "time": "10:00",
+        "filmId": "prostokvashino",
+        "theatre": "Москва",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjggMTA6MDA6MDA7NjcyNDg="
+    },
+    {
+        "date": "28.01",
+        "time": "11:00",
+        "filmId": "prostokvashino",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yOCAxMTowMDowMDs2NzI0OA=="
+    },
+    {
+        "date": "28.01",
+        "time": "11:15",
+        "filmId": "zootopia_2",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yOCAxMToxNTowMDs2Njg0OA=="
+    },
+    {
+        "date": "28.01",
+        "time": "11:45",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yOCAxMTo0NTowMDs2OTgwNg=="
+    },
+    {
+        "date": "28.01",
+        "time": "11:55",
+        "filmId": "buratino",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjggMTE6NTU6MDA7NjcyNDc="
+    },
+    {
+        "date": "28.01",
+        "time": "13:10",
+        "filmId": "buratino",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yOCAxMzoxMDowMDs2NzI0Nw=="
+    },
+    {
+        "date": "28.01",
+        "time": "13:25",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yOCAxMzoyNTowMDs2OTk1NA=="
+    },
+    {
+        "date": "28.01",
+        "time": "13:50",
+        "filmId": "levsha",
+        "theatre": "Москва",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjggMTM6NTA6MDA7Njk4MDY="
+    },
+    {
+        "date": "28.01",
+        "time": "14:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yOCAxNDoxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "28.01",
+        "time": "15:05",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yOCAxNTowNTowMDs2OTgwNg=="
+    },
+    {
+        "date": "28.01",
+        "time": "15:20",
+        "filmId": "fleak_kekselias_ystavani",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yOCAxNToyMDowMDs2OTk1NA=="
+    },
+    {
+        "date": "28.01",
+        "time": "16:05",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjggMTY6MDU6MDA7Njg2NDc="
     },
     {
         "date": "28.01",
@@ -4921,6 +6028,33 @@
         "cost": 500,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yOCAxNjo1MDowMDs2OTgwNg=="
+    },
+    {
+        "date": "28.01",
+        "time": "17:00",
+        "filmId": "levsha",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yOCAxNzowMDowMDs2OTgwNg=="
+    },
+    {
+        "date": "28.01",
+        "time": "17:30",
+        "filmId": "in_your_dreams",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yOCAxNzozMDowMDs2ODU5NA=="
+    },
+    {
+        "date": "28.01",
+        "time": "17:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yOCAxNzo0NTowMDs2ODY0Nw=="
     },
     {
         "date": "28.01",
@@ -4942,6 +6076,15 @@
     },
     {
         "date": "28.01",
+        "time": "19:10",
+        "filmId": "the_housemaid",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yOCAxOToxMDowMDs2OTU1Ng=="
+    },
+    {
+        "date": "28.01",
         "time": "19:20",
         "filmId": "levsha",
         "theatre": "Киномакс-Сапфир",
@@ -4950,9 +6093,63 @@
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yOCAxOToyMDowMDs2OTgwNg=="
     },
     {
+        "date": "28.01",
+        "time": "19:25",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yOCAxOToyNTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "28.01",
+        "time": "19:30",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjggMTk6MzA6MDA7Njg2NDc="
+    },
+    {
+        "date": "28.01",
+        "time": "21:15",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wMS0yOCAyMToxNTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "28.01",
+        "time": "21:35",
+        "filmId": "zaverbovannyj",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wMS0yOCAyMTozNTowMDs2OTc5NQ=="
+    },
+    {
+        "date": "28.01",
+        "time": "21:45",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wMS0yOCAyMTo0NTowMDs2OTgwMQ=="
+    },
+    {
+        "date": "28.01",
+        "time": "22:55",
+        "filmId": "return_to_silent_hill",
+        "theatre": "Москва",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDEtMjggMjI6NTU6MDA7Njk4MDE="
+    },
+    {
         "date": "29.01",
         "time": "16:20",
-        "filmId": "69955",
+        "filmId": "papa_mozhet",
         "theatre": "Киномакс-Сапфир",
         "cost": 500,
         "is3d": false,
@@ -4961,7 +6158,7 @@
     {
         "date": "29.01",
         "time": "18:20",
-        "filmId": "69955",
+        "filmId": "papa_mozhet",
         "theatre": "Киномакс-Сапфир",
         "cost": 550,
         "is3d": false,
@@ -4993,5 +6190,23 @@
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wMS0yOSAyMjozMDowMDs2OTgwNQ=="
+    },
+    {
+        "date": "02.02",
+        "time": "19:00",
+        "filmId": "pastoral",
+        "theatre": "Уссури",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMi0wMiAxOTowMDowMDsxMTQ3Mw=="
+    },
+    {
+        "date": "09.02",
+        "time": "19:00",
+        "filmId": "fargo",
+        "theatre": "Уссури",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wMi0wOSAxOTowMDowMDsyODAzMw=="
     }
 ]
