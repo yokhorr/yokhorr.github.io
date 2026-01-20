@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 12,
@@ -11,27 +22,6 @@
             "приключения"
         ],
         "length": 190
-    },
-    {
-        "filmId": "playdate",
-        "name": "Убойная суббота",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
     },
     {
         "filmId": "the_spongebob_movie_2025",
@@ -72,6 +62,16 @@
         "name": "Добрый доктор",
         "rating": 16,
         "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "playdate",
+        "name": "Убойная суббота",
+        "rating": 16,
+        "genres": [
+            "боевик",
             "комедия"
         ],
         "length": 95
