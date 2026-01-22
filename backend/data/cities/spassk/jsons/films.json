@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "return_to_silent_hill",
         "name": "Возвращение в Сайлент Хилл",
         "rating": 18,
@@ -8,16 +18,6 @@
             "триллер"
         ],
         "length": 105
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
     },
     {
         "filmId": "prostokvashino",
