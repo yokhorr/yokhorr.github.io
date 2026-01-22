@@ -1,16 +1,14 @@
 [
     {
-        "filmId": "fleak_kekselias_ystavani",
-        "name": "Флибубу",
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "фэнтези",
+            "семейный",
             "комедия",
-            "приключения",
-            "семейный"
+            "фэнтези"
         ],
-        "length": 85
+        "length": 105
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -36,6 +34,39 @@
         "length": 130
     },
     {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "playdate",
+        "name": "Убойная суббота",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "fleak_kekselias_ystavani",
+        "name": "Флибубу",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "the_spongebob_movie_2025",
         "name": "Губка Боб: В поисках квадратных штанов",
         "rating": 6,
@@ -47,17 +78,6 @@
             "семейный"
         ],
         "length": 95
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
     },
     {
         "filmId": "prostokvashino",
@@ -79,25 +99,5 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "playdate",
-        "name": "Убойная суббота",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
     }
 ]
