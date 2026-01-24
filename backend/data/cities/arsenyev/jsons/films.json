@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
@@ -80,6 +57,16 @@
         "length": 95
     },
     {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "buratino",
         "name": "Буратино",
         "rating": 6,
@@ -89,6 +76,19 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
     },
     {
         "filmId": "28_years_later_the_bone_temple",
