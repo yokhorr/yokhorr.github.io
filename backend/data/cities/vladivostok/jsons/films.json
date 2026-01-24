@@ -1,108 +1,5 @@
 [
     {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "tenshi_no_tamago",
-        "name": "Яйцо ангела",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "ужасы",
-            "фантастика",
-            "фэнтези",
-            "драма"
-        ],
-        "length": 70
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "in_your_dreams",
-        "name": "Только во сне",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 18,
@@ -121,6 +18,39 @@
             "спорт"
         ],
         "length": 150
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     },
     {
         "filmId": "zaverbovannyj",
@@ -175,6 +105,17 @@
         "length": 100
     },
     {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "fleak_kekselias_ystavani",
         "name": "Флибубу",
         "rating": 6,
@@ -188,6 +129,16 @@
         "length": 85
     },
     {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "blokadnye_sudby",
         "name": "Блокадные судьбы",
         "rating": 12,
@@ -198,6 +149,55 @@
             "военный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tenshi_no_tamago",
+        "name": "Яйцо ангела",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "ужасы",
+            "фантастика",
+            "фэнтези",
+            "драма"
+        ],
+        "length": 70
+    },
+    {
+        "filmId": "in_your_dreams",
+        "name": "Только во сне",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "eraserhead",

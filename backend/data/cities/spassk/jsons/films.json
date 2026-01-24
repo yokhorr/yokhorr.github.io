@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "levsha",
         "name": "Левша",
         "rating": 12,
@@ -52,5 +41,16 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     }
 ]
