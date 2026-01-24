@@ -1,24 +1,12 @@
 [
     {
-        "filmId": "fleak_kekselias_ystavani",
-        "name": "Флибубу",
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "фэнтези",
+            "семейный",
             "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
+            "фэнтези"
         ],
         "length": 105
     },
@@ -43,14 +31,26 @@
         "length": 105
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
         "rating": 6,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "приключения",
+            "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "fleak_kekselias_ystavani",
+        "name": "Флибубу",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     }
 ]
