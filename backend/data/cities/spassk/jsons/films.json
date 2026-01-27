@@ -1,11 +1,24 @@
 [
     {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
+        "filmId": "fleak_kekselias_ystavani",
+        "name": "Флибубу",
         "rating": 6,
         "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
             "приключения",
             "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
         ],
         "length": 105
     },
@@ -31,25 +44,12 @@
         "length": 105
     },
     {
-        "filmId": "fleak_kekselias_ystavani",
-        "name": "Флибубу",
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
             "приключения",
             "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
         ],
         "length": 105
     }
