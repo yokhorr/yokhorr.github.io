@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 12,
@@ -34,23 +13,43 @@
         "length": 190
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 18,
         "genres": [
             "триллер",
             "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "odishon",
+        "name": "Кинопроба",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "драма",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
         ],
         "length": 130
     },
@@ -65,6 +64,16 @@
         "length": 105
     },
     {
+        "filmId": "zaverbovannyj",
+        "name": "Завербованный",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "marty_supreme",
         "name": "Марти Великолепный",
         "rating": 18,
@@ -73,6 +82,61 @@
             "спорт"
         ],
         "length": 150
+    },
+    {
+        "filmId": "playdate",
+        "name": "Убойная суббота",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "fleak_kekselias_ystavani",
+        "name": "Флибубу",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "zootopia_2",
@@ -85,6 +149,18 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "blokadnye_sudby",
+        "name": "Блокадные судьбы",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "драма",
+            "история",
+            "военный"
+        ],
+        "length": 80
     },
     {
         "filmId": "in_your_dreams",
@@ -114,110 +190,6 @@
         "length": 70
     },
     {
-        "filmId": "63100",
-        "name": "Собачье сердце (Театр МТЮЗ)",
-        "rating": 12,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "69116",
-        "name": "Спорт-шик в модных домах и брендах — Лекция Я.Михеева",
-        "rating": 16,
-        "genres": [
-            "лекция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "odishon",
-        "name": "Кинопроба",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "драма",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "zaverbovannyj",
-        "name": "Завербованный",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "playdate",
-        "name": "Убойная суббота",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "fleak_kekselias_ystavani",
-        "name": "Флибубу",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "blokadnye_sudby",
-        "name": "Блокадные судьбы",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "драма",
-            "история",
-            "военный"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "55387",
         "name": "Арт-лекторий в кино: Леонардо. Пять веков спустя",
         "rating": 12,
@@ -234,6 +206,15 @@
             "драма",
             "спорт",
             "биография"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
+        "genres": [
+            "комедия"
         ],
         "length": -1
     },
@@ -289,6 +270,20 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "mercy_2025",
+        "name": "Казнить нельзя помиловать",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_surrender",
@@ -410,6 +405,13 @@
             "документальный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "70209",
+        "name": "День Святого Валентина — Лекция Я. Михеева",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "taxi_driver",

@@ -1,27 +1,13 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
+        "filmId": "levsha",
+        "name": "Левша",
         "rating": 12,
         "genres": [
             "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
             "приключения"
         ],
-        "length": 190
+        "length": 130
     },
     {
         "filmId": "return_to_silent_hill",
@@ -32,15 +18,5 @@
             "триллер"
         ],
         "length": 105
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
     }
 ]
