@@ -10,26 +10,6 @@
         "length": 105
     },
     {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "charlie_the_wonderdog",
         "name": "Чарли Чудо-пёс",
         "rating": 6,
@@ -71,6 +51,16 @@
         "length": 100
     },
     {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "69805",
         "name": "Гренландия 2: Миграция",
         "rating": 16,
@@ -81,5 +71,15 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     }
 ]
