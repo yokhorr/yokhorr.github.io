@@ -1,5 +1,33 @@
 [
     {
+        "filmId": "svjatoj_fedor_tomskij",
+        "name": "Святой Фёдор Томский. Тайна сибирского старца",
+        "rating": 12,
+        "genres": [
+            "документальный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "papa_mozhet",
         "name": "Папа может",
         "rating": 6,
@@ -30,33 +58,5 @@
             "приключения"
         ],
         "length": 100
-    },
-    {
-        "filmId": "svjatoj_fedor_tomskij",
-        "name": "Святой Фёдор Томский. Тайна сибирского старца",
-        "rating": 12,
-        "genres": [
-            "документальный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
     }
 ]

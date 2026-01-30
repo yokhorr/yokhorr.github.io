@@ -21,6 +21,16 @@
         "length": 105
     },
     {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -30,69 +40,12 @@
         "length": -1
     },
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "papa_mozhet",
         "name": "Папа может",
         "rating": 6,
         "genres": [
             "комедия",
             "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "charlie_the_wonderdog",
-        "name": "Чарли Чудо-пёс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
         ],
         "length": 100
     },
@@ -109,6 +62,30 @@
         "length": 100
     },
     {
+        "filmId": "charlie_the_wonderdog",
+        "name": "Чарли Чудо-пёс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
         "filmId": "return_to_silent_hill",
         "name": "Возвращение в Сайлент Хилл",
         "rating": 18,
@@ -117,30 +94,6 @@
             "триллер"
         ],
         "length": 105
-    },
-    {
-        "filmId": "fleak_kekselias_ystavani",
-        "name": "Флибубу",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "zolotoj_dubl",
-        "name": "Золотой дубль",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "спорт",
-            "семейный"
-        ],
-        "length": 122
     },
     {
         "filmId": "the_housemaid",
@@ -153,6 +106,18 @@
         "length": 130
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "marty_supreme",
         "name": "Марти Великолепный",
         "rating": 18,
@@ -161,16 +126,6 @@
             "спорт"
         ],
         "length": 150
-    },
-    {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
     },
     {
         "filmId": "mercy_2025",
@@ -196,6 +151,16 @@
         "length": 95
     },
     {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "69980",
         "name": "МУЛЬТ в кино. Выпуск №191. Уроки волшебства",
         "rating": 0,
@@ -206,6 +171,41 @@
             "фэнтези"
         ],
         "length": 45
+    },
+    {
+        "filmId": "zolotoj_dubl",
+        "name": "Золотой дубль",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "спорт",
+            "семейный"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "fleak_kekselias_ystavani",
+        "name": "Флибубу",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "pastoral",
