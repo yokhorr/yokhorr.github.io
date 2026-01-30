@@ -1,76 +1,23 @@
 [
     {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "приключения"
+            "триллер",
+            "драма"
         ],
         "length": 130
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
         "rating": 18,
         "genres": [
             "ужасы",
             "триллер"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "papa_mozhet",
-        "name": "Папа может",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "greenland_2_migration",
-        "name": "Гренландия 2: Миграция",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "charlie_the_wonderdog",
-        "name": "Чарли Чудо-пёс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
+        "length": 105
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -86,46 +33,16 @@
         "length": 190
     },
     {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
+        "filmId": "greenland_2_migration",
+        "name": "Гренландия 2: Миграция",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
+            "фантастика",
+            "боевик",
             "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "приключения"
         ],
         "length": 100
-    },
-    {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "спорт"
-        ],
-        "length": 150
     },
     {
         "filmId": "mercy_2025",
@@ -142,6 +59,15 @@
         "length": 100
     },
     {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "the_surrender",
         "name": "Заклятие. Обряд реинкарнации",
         "rating": 18,
@@ -151,12 +77,54 @@
         "length": 95
     },
     {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "prostokvashino",
         "name": "Простоквашино",
         "rating": 6,
         "genres": [
             "приключения",
             "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "charlie_the_wonderdog",
+        "name": "Чарли Чудо-пёс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
         ],
         "length": 105
     },
@@ -173,15 +141,26 @@
         "length": 45
     },
     {
-        "filmId": "zolotoj_dubl",
-        "name": "Золотой дубль",
-        "rating": 16,
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
         "genres": [
-            "драма",
-            "спорт",
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "papa_mozhet",
+        "name": "Папа может",
+        "rating": 6,
+        "genres": [
+            "комедия",
             "семейный"
         ],
-        "length": 122
+        "length": 100
     },
     {
         "filmId": "buratino",
@@ -206,6 +185,27 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "zolotoj_dubl",
+        "name": "Золотой дубль",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "спорт",
+            "семейный"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
     },
     {
         "filmId": "pastoral",
