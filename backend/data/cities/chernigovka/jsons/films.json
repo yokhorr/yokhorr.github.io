@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "charlie_the_wonderdog",
         "name": "Чарли Чудо-пёс",
         "rating": 6,
@@ -71,5 +61,15 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     }
 ]
