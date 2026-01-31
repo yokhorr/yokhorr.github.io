@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "papa_mozhet",
-        "name": "Папа может",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "svjatoj_fedor_tomskij",
-        "name": "Святой Фёдор Томский. Тайна сибирского старца",
-        "rating": 12,
-        "genres": [
-            "документальный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -58,5 +29,34 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "papa_mozhet",
+        "name": "Папа может",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "svjatoj_fedor_tomskij",
+        "name": "Святой Фёдор Томский. Тайна сибирского старца",
+        "rating": 12,
+        "genres": [
+            "документальный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
     }
 ]
