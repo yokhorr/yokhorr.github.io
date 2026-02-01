@@ -1,47 +1,5 @@
 [
     {
-        "filmId": "charlie_the_wonderdog",
-        "name": "Чарли Чудо-пёс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "papa_mozhet",
-        "name": "Папа может",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -71,5 +29,36 @@
             "триллер"
         ],
         "length": 105
+    },
+    {
+        "filmId": "charlie_the_wonderdog",
+        "name": "Чарли Чудо-пёс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "papa_mozhet",
+        "name": "Папа может",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
     }
 ]
