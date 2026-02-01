@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "papa_mozhet",
-        "name": "Папа может",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 18,
@@ -32,25 +10,23 @@
         "length": 130
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
         "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 105
+        "length": -1
     },
     {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "приключения"
+            "ужасы",
+            "триллер"
         ],
-        "length": 130
+        "length": 105
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -66,15 +42,14 @@
         "length": 190
     },
     {
-        "filmId": "charlie_the_wonderdog",
-        "name": "Чарли Чудо-пёс",
+        "filmId": "papa_mozhet",
+        "name": "Папа может",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "комедия",
-            "фантастика"
+            "семейный"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "greenland_2_migration",
@@ -89,25 +64,6 @@
         "length": 100
     },
     {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "mercy_2025",
         "name": "Казнить нельзя помиловать",
         "rating": 16,
@@ -120,16 +76,6 @@
             "детектив"
         ],
         "length": 100
-    },
-    {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "спорт"
-        ],
-        "length": 150
     },
     {
         "filmId": "zolotoj_dubl",
@@ -153,6 +99,16 @@
         "length": 110
     },
     {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "the_surrender",
         "name": "Заклятие. Обряд реинкарнации",
         "rating": 18,
@@ -160,6 +116,17 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
     },
     {
         "filmId": "prostokvashino",
@@ -170,6 +137,17 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "charlie_the_wonderdog",
+        "name": "Чарли Чудо-пёс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
     },
     {
         "filmId": "69980",
@@ -195,6 +173,18 @@
         "length": 100
     },
     {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "fleak_kekselias_ystavani",
         "name": "Флибубу",
         "rating": 6,
@@ -206,6 +196,16 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
     },
     {
         "filmId": "pastoral",
