@@ -1,5 +1,34 @@
 [
     {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "papa_mozhet",
         "name": "Папа может",
         "rating": 6,
@@ -29,34 +58,5 @@
             "приключения"
         ],
         "length": 100
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
     }
 ]

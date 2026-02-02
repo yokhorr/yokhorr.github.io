@@ -1,96 +1,11 @@
 [
     {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prostokvashino",
-        "name": "Простоквашино",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "charlie_the_wonderdog",
-        "name": "Чарли Чудо-пёс",
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "комедия",
-            "фантастика"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "69980",
-        "name": "МУЛЬТ в кино. Выпуск №191. Уроки волшебства",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 45
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "buratino",
-        "name": "Буратино",
-        "rating": 6,
-        "genres": [
-            "семейный",
             "комедия",
             "фэнтези"
         ],
@@ -107,18 +22,6 @@
         "length": 100
     },
     {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "greenland_2_migration",
         "name": "Гренландия 2: Миграция",
         "rating": 18,
@@ -131,6 +34,28 @@
         "length": 100
     },
     {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "charlie_the_wonderdog",
+        "name": "Чарли Чудо-пёс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "фантастика"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "return_to_silent_hill",
         "name": "Возвращение в Сайлент Хилл",
         "rating": 18,
@@ -139,6 +64,123 @@
             "триллер"
         ],
         "length": 105
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "pastoral",
+        "name": "Пастораль",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "mercy_2025",
+        "name": "Казнить нельзя помиловать",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_surrender",
+        "name": "Заклятие. Обряд реинкарнации",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "prostokvashino",
+        "name": "Простоквашино",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "69980",
+        "name": "МУЛЬТ в кино. Выпуск №191. Уроки волшебства",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 45
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "fleak_kekselias_ystavani",
@@ -165,58 +207,6 @@
         "length": 122
     },
     {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "спорт"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "pastoral",
-        "name": "Пастораль",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "mercy_2025",
-        "name": "Казнить нельзя помиловать",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_surrender",
-        "name": "Заклятие. Обряд реинкарнации",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "70024",
         "name": "Венская опера: Дон Жуан",
         "rating": 18,
@@ -227,6 +217,16 @@
         "length": 183
     },
     {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "vlastelin_kolec_bratstvo_kolca",
         "name": "Властелин колец: Братство Кольца",
         "rating": 12,
@@ -234,6 +234,29 @@
             "фэнтези"
         ],
         "length": 183
+    },
+    {
+        "filmId": "the_poutpout_fish",
+        "name": "Рыбка унывака. Подводное приключение",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "nesvjataja_valentina",
+        "name": "Несвятая Валентина",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
     },
     {
         "filmId": "ravioli_oli",
@@ -263,6 +286,17 @@
             "триллер"
         ],
         "length": 160
+    },
+    {
+        "filmId": "it_2017",
+        "name": "Оно",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "fargo",
@@ -296,11 +330,15 @@
         "length": 80
     },
     {
-        "filmId": "66436",
-        "name": "Киномакс тест 5",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "filmId": "vlastelin_kolec_dve_kreposti",
+        "name": "Властелин колец: Две крепости",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "приключения"
+        ],
+        "length": 183
     },
     {
         "filmId": "skazka_o_care_saltane",
