@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "whistle",
-        "name": "Свист",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "the_poutpout_fish",
         "name": "Рыбка унывака. Подводное приключение",
         "rating": 6,
@@ -42,6 +23,16 @@
         "length": 100
     },
     {
+        "filmId": "levsha",
+        "name": "Левша",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "приключения"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "shelter_2025",
         "name": "Убежище",
         "rating": 18,
@@ -59,6 +50,15 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "whistle",
+        "name": "Свист",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "greenland_2_migration",
