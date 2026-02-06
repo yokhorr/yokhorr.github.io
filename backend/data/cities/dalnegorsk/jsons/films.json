@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "greenland_2_migration",
+        "name": "Гренландия 2: Миграция",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "the_poutpout_fish",
         "name": "Рыбка унывака. Подводное приключение",
         "rating": 6,
@@ -43,25 +74,6 @@
         "length": 130
     },
     {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "whistle",
         "name": "Свист",
         "rating": 18,
@@ -79,17 +91,5 @@
             "триллер"
         ],
         "length": 105
-    },
-    {
-        "filmId": "greenland_2_migration",
-        "name": "Гренландия 2: Миграция",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 100
     }
 ]
