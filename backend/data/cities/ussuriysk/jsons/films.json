@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "whistle",
-        "name": "Свист",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -115,6 +96,25 @@
             "драма",
             "криминал",
             "детектив"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "whistle",
+        "name": "Свист",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
     }
