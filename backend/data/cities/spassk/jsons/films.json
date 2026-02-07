@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "whistle",
-        "name": "Свист",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "papa_mozhet",
         "name": "Папа может",
         "rating": 6,
@@ -80,5 +61,24 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "whistle",
+        "name": "Свист",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]
