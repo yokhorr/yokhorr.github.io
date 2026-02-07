@@ -1,5 +1,33 @@
 [
     {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "whistle",
+        "name": "Свист",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "the_poutpout_fish",
         "name": "Рыбка унывака. Подводное приключение",
         "rating": 6,
@@ -41,34 +69,6 @@
             "боевик",
             "триллер",
             "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "whistle",
-        "name": "Свист",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 100
     }
