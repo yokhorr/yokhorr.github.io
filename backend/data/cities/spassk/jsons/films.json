@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "papa_mozhet",
-        "name": "Папа может",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "whistle",
         "name": "Свист",
         "rating": 18,
@@ -36,6 +17,16 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "papa_mozhet",
+        "name": "Папа может",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "greenland_2_migration",
@@ -75,6 +66,15 @@
     {
         "filmId": "ravioli_oli",
         "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
         "rating": 16,
         "genres": [
             "комедия"
