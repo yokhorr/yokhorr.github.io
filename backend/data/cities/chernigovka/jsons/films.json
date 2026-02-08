@@ -1,50 +1,5 @@
 [
     {
-        "filmId": "the_poutpout_fish",
-        "name": "Рыбка унывака. Подводное приключение",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "greenland_2_migration",
-        "name": "Гренландия 2: Миграция",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ravioli_oli",
         "name": "Равиоли Оли",
         "rating": 16,
@@ -69,6 +24,40 @@
         "rating": 18,
         "genres": [
             "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_poutpout_fish",
+        "name": "Рыбка унывака. Подводное приключение",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "greenland_2_migration",
+        "name": "Гренландия 2: Миграция",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
         ],
         "length": 100
     }
