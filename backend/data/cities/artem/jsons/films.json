@@ -1,5 +1,27 @@
 [
     {
+        "filmId": "vlastelin_kolec_bratstvo_kolca",
+        "name": "Властелин колец: Братство Кольца",
+        "rating": 12,
+        "genres": [
+            "фэнтези"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
         "filmId": "shelter_2025",
         "name": "Убежище",
         "rating": 18,
@@ -88,19 +110,6 @@
         "length": 100
     },
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -150,14 +159,5 @@
             "приключения"
         ],
         "length": 100
-    },
-    {
-        "filmId": "vlastelin_kolec_bratstvo_kolca",
-        "name": "Властелин колец: Братство Кольца",
-        "rating": 12,
-        "genres": [
-            "фэнтези"
-        ],
-        "length": 183
     }
 ]
