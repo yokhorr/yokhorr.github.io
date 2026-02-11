@@ -1,86 +1,5 @@
 [
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "mercy_2025",
-        "name": "Казнить нельзя помиловать",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "anaconda",
-        "name": "Анаконда",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "uvolit_zhoru",
         "name": "Уволить Жору",
         "rating": 18,
@@ -131,6 +50,16 @@
         "length": 100
     },
     {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "the_poutpout_fish",
         "name": "Рыбка унывака. Подводное приключение",
         "rating": 6,
@@ -155,6 +84,17 @@
         "length": 105
     },
     {
+        "filmId": "anaconda",
+        "name": "Анаконда",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "комедия",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "greenland_2_migration",
         "name": "Гренландия 2: Миграция",
         "rating": 18,
@@ -177,6 +117,19 @@
         "length": 100
     },
     {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -184,6 +137,19 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
     },
     {
         "filmId": "marty_supreme",
@@ -225,6 +191,40 @@
             "криминал"
         ],
         "length": 125
+    },
+    {
+        "filmId": "mercy_2025",
+        "name": "Казнить нельзя помиловать",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     },
     {
         "filmId": "zootopia_2",

@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -156,6 +123,16 @@
         "length": 195
     },
     {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "the_grieving",
         "name": "Верни меня из мертвых",
         "rating": 18,
@@ -163,5 +140,18 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
     }
 ]
