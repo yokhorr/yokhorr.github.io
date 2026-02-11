@@ -1,50 +1,5 @@
 [
     {
-        "filmId": "the_poutpout_fish",
-        "name": "Рыбка унывака. Подводное приключение",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "papa_mozhet",
-        "name": "Папа может",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "greenland_2_migration",
-        "name": "Гренландия 2: Миграция",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ravioli_oli",
         "name": "Равиоли Оли",
         "rating": 16,
@@ -80,5 +35,47 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_poutpout_fish",
+        "name": "Рыбка унывака. Подводное приключение",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_grieving",
+        "name": "Верни меня из мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
