@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "lembayung",
         "name": "Улыбка. Зарождение зла",
         "rating": 18,
@@ -49,6 +29,17 @@
         "length": 90
     },
     {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "shelter_2025",
         "name": "Убежище",
         "rating": 18,
@@ -57,5 +48,14 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
