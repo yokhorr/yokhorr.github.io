@@ -1,18 +1,5 @@
 [
     {
-        "filmId": "the_poutpout_fish",
-        "name": "Рыбка унывака. Подводное приключение",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -22,24 +9,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
     },
     {
         "filmId": "the_grieving",
@@ -59,5 +28,36 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_poutpout_fish",
+        "name": "Рыбка унывака. Подводное приключение",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
