@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "the_grieving",
+        "name": "Верни меня из мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -9,24 +18,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_grieving",
-        "name": "Верни меня из мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_poutpout_fish",
@@ -49,6 +40,15 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "shelter_2025",

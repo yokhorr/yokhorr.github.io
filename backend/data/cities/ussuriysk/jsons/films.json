@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "whistle",
         "name": "Свист",
         "rating": 18,
@@ -7,6 +16,16 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
     },
     {
         "filmId": "skazka_o_care_saltane",
@@ -18,6 +37,27 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "titanic",
+        "name": "Титаник",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "приключения",
+            "история"
+        ],
+        "length": 195
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -33,22 +73,36 @@
         "length": 190
     },
     {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
+        "filmId": "send_help",
+        "name": "На помощь!",
         "rating": 18,
         "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
             "триллер"
         ],
-        "length": 110
+        "length": 115
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "mercy_2025",
+        "name": "Казнить нельзя помиловать",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
     }
 ]
