@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "uvolit_zhoru",
         "name": "Уволить Жору",
         "rating": 18,
@@ -9,65 +18,13 @@
         "length": 100
     },
     {
-        "filmId": "stray_kids_the_dominate",
-        "name": "Stray Kids: The dominATE Experience",
-        "rating": 12,
+        "filmId": "pervaja",
+        "name": "Первая",
+        "rating": 16,
         "genres": [
-            "фильм-концерт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
-            "триллер",
             "драма"
         ],
-        "length": 130
-    },
-    {
-        "filmId": "titanic",
-        "name": "Титаник",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "приключения",
-            "история"
-        ],
-        "length": 195
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
+        "length": 100
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -83,82 +40,15 @@
         "length": 190
     },
     {
-        "filmId": "schastliv_kogda_ty_net",
-        "name": "Счастлив, когда ты нет",
-        "rating": 18,
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 6,
         "genres": [
-            "комедия",
-            "мелодрама"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "the_beldham",
-        "name": "Белдхэм. Проклятие ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "lembayung",
-        "name": "Улыбка. Зарождение зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_grieving",
-        "name": "Верни меня из мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "pervaja",
-        "name": "Первая",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
+        "length": 115
     },
     {
         "filmId": "the_poutpout_fish",
@@ -172,6 +62,25 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "stray_kids_the_dominate",
+        "name": "Stray Kids: The dominATE Experience",
+        "rating": 12,
+        "genres": [
+            "фильм-концерт"
+        ],
+        "length": 145
     },
     {
         "filmId": "cheburashka_2",
@@ -207,6 +116,16 @@
         "length": 100
     },
     {
+        "filmId": "schastliv_kogda_ty_net",
+        "name": "Счастлив, когда ты нет",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "nesvjataja_valentina",
         "name": "Несвятая Валентина",
         "rating": 12,
@@ -215,6 +134,26 @@
             "мелодрама"
         ],
         "length": 90
+    },
+    {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     },
     {
         "filmId": "greenland_2_migration",
@@ -248,6 +187,27 @@
             "музыка"
         ],
         "length": 95
+    },
+    {
+        "filmId": "titanic",
+        "name": "Титаник",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "приключения",
+            "история"
+        ],
+        "length": 195
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
     },
     {
         "filmId": "young_werther",
@@ -298,6 +258,46 @@
             "драма"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_beldham",
+        "name": "Белдхэм. Проклятие ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "lembayung",
+        "name": "Улыбка. Зарождение зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "the_grieving",
+        "name": "Верни меня из мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
     },
     {
         "filmId": "bridget_joness_diary",

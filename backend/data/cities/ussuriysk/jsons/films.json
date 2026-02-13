@@ -9,25 +9,6 @@
         "length": 100
     },
     {
-        "filmId": "whistle",
-        "name": "Свист",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -82,6 +63,16 @@
         "length": 115
     },
     {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "wuthering_heights",
         "name": "Грозовой перевал",
         "rating": 18,
@@ -102,6 +93,15 @@
             "драма",
             "криминал",
             "детектив"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "whistle",
+        "name": "Свист",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
     }
