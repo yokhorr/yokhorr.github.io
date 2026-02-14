@@ -20,32 +20,6 @@
         "length": 115
     },
     {
-        "filmId": "the_wrecking_crew",
-        "name": "Опасный дуэт",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "детектив",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "mercy_2025",
-        "name": "Казнить нельзя помиловать",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ravioli_oli",
         "name": "Равиоли Оли",
         "rating": 16,
@@ -53,48 +27,6 @@
             "комедия"
         ],
         "length": 90
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_beldham",
-        "name": "Белдхэм. Проклятие ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "28_years_later_the_bone_temple",
-        "name": "28 лет спустя: Храм костей",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
     },
     {
         "filmId": "69980",
@@ -197,6 +129,19 @@
         "length": 100
     },
     {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "kommentiruj_eto",
         "name": "Комментируй это",
         "rating": 16,
@@ -237,5 +182,60 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "the_beldham",
+        "name": "Белдхэм. Проклятие ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_wrecking_crew",
+        "name": "Опасный дуэт",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "детектив",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "mercy_2025",
+        "name": "Казнить нельзя помиловать",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "28_years_later_the_bone_temple",
+        "name": "28 лет спустя: Храм костей",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     }
 ]
