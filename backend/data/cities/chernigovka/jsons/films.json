@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -29,16 +9,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
     },
     {
         "filmId": "uvolit_zhoru",
@@ -57,5 +27,25 @@
             "ужасы"
         ],
         "length": 122
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     }
 ]
