@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "lembayung",
-        "name": "Улыбка. Зарождение зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -40,6 +22,15 @@
         "length": 105
     },
     {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "ravioli_oli",
         "name": "Равиоли Оли",
         "rating": 16,
@@ -57,5 +48,14 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "lembayung",
+        "name": "Улыбка. Зарождение зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]
