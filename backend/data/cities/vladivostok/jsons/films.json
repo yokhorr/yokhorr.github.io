@@ -1,12 +1,50 @@
 [
     {
-        "filmId": "stray_kids_the_dominate",
-        "name": "Stray Kids: The dominATE Experience",
+        "filmId": "levsha",
+        "name": "Левша",
         "rating": 12,
         "genres": [
-            "фильм-концерт"
+            "фантастика",
+            "приключения"
         ],
-        "length": 145
+        "length": 130
+    },
+    {
+        "filmId": "ravioli_oli",
+        "name": "Равиоли Оли",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "raj_pod_nogami_materej_2",
+        "name": "Рай под ногами матерей 2. Письмо матери",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "pervaja",
+        "name": "Первая",
+        "rating": 16,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -33,155 +71,6 @@
         "length": 115
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "спорт"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "titanic",
-        "name": "Титаник",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "приключения",
-            "история"
-        ],
-        "length": 195
-    },
-    {
-        "filmId": "shelter_2025",
-        "name": "Убежище",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_beldham",
-        "name": "Белдхэм. Проклятие ведьмы",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "lembayung",
-        "name": "Улыбка. Зарождение зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_grieving",
-        "name": "Верни меня из мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "pervaja",
-        "name": "Первая",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "raj_pod_nogami_materej_2",
-        "name": "Рай под ногами матерей 2. Письмо матери",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "the_poutpout_fish",
         "name": "Рыбка унывака. Подводное приключение",
         "rating": 6,
@@ -206,6 +95,25 @@
         "length": 105
     },
     {
+        "filmId": "stray_kids_the_dominate",
+        "name": "Stray Kids: The dominATE Experience",
+        "rating": 12,
+        "genres": [
+            "фильм-концерт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "zootopia_2",
         "name": "Зверополис 2",
         "rating": 6,
@@ -228,6 +136,16 @@
         "length": 100
     },
     {
+        "filmId": "shelter_2025",
+        "name": "Убежище",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "nesvjataja_valentina",
         "name": "Несвятая Валентина",
         "rating": 12,
@@ -236,6 +154,26 @@
             "мелодрама"
         ],
         "length": 90
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     },
     {
         "filmId": "greenland_2_migration",
@@ -271,6 +209,16 @@
         "length": 95
     },
     {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "cyrano_de_bergerac_2022",
         "name": "МХТ им. А. П. Чехова: Сирано де Бержерак",
         "rating": 16,
@@ -280,6 +228,49 @@
             "комедия"
         ],
         "length": -1
+    },
+    {
+        "filmId": "titanic",
+        "name": "Титаник",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "приключения",
+            "история"
+        ],
+        "length": 195
+    },
+    {
+        "filmId": "the_beldham",
+        "name": "Белдхэм. Проклятие ведьмы",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "lembayung",
+        "name": "Улыбка. Зарождение зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
     },
     {
         "filmId": "krasavica",
@@ -335,6 +326,17 @@
         "length": 90
     },
     {
+        "filmId": "dopolnitelnoe_vremja",
+        "name": "Дополнительное время",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "спорт"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "korol_i_shut_navsegda",
         "name": "Король и Шут. Навсегда",
         "rating": 18,
@@ -346,6 +348,16 @@
             "музыка"
         ],
         "length": -1
+    },
+    {
+        "filmId": "the_straight_story",
+        "name": "Простая история",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 110
     },
     {
         "filmId": "guantanamera",
@@ -388,14 +400,41 @@
         "length": 125
     },
     {
-        "filmId": "the_straight_story",
-        "name": "Простая история",
-        "rating": 12,
+        "filmId": "rabbit_trap",
+        "name": "Ловушка для кролика",
+        "rating": 18,
         "genres": [
-            "драма",
-            "биография"
+            "ужасы",
+            "триллер",
+            "детектив"
         ],
-        "length": 110
+        "length": 90
+    },
+    {
+        "filmId": "kto_to_dolzhen_umeret",
+        "name": "Кто-то должен умереть",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 65
+    },
+    {
+        "filmId": "it_will_find_you",
+        "name": "Астрал. Амулет зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "71029",
+        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "eternal_sunshine",
@@ -464,6 +503,16 @@
         "length": 122
     },
     {
+        "filmId": "the_girl_with_the_dragon_tatto",
+        "name": "Девушка с татуировкой дракона",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "postman_always_rings_twice",
         "name": "Почтальон всегда звонит дважды",
         "rating": 18,
@@ -493,5 +542,16 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "la_gioconda",
+        "name": "Teatro di San Carlo: Джоконда",
+        "rating": 18,
+        "genres": [
+            "фильм-спектакль",
+            "опера",
+            "балет"
+        ],
+        "length": 190
     }
 ]
