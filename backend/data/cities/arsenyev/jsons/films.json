@@ -1,63 +1,17 @@
 [
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_poutpout_fish",
-        "name": "Рыбка унывака. Подводное приключение",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ravioli_oli",
-        "name": "Равиоли Оли",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "uvolit_zhoru",
         "name": "Уволить Жору",
-        "rating": 18,
+        "rating": 0,
         "genres": [
             "комедия"
         ],
         "length": 100
     },
     {
-        "filmId": "the_spongebob_movie_2025",
-        "name": "Губка Боб: В поисках квадратных штанов",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
-        "rating": 12,
+        "rating": 0,
         "genres": [
             "фантастика",
             "фэнтези",
@@ -70,7 +24,7 @@
     {
         "filmId": "the_grieving",
         "name": "Верни меня из мертвых",
-        "rating": 18,
+        "rating": 0,
         "genres": [
             "ужасы"
         ],
@@ -79,7 +33,7 @@
     {
         "filmId": "shelter_2025",
         "name": "Убежище",
-        "rating": 18,
+        "rating": 0,
         "genres": [
             "боевик",
             "триллер"
@@ -89,7 +43,7 @@
     {
         "filmId": "mercy_2025",
         "name": "Казнить нельзя помиловать",
-        "rating": 16,
+        "rating": 0,
         "genres": [
             "фантастика",
             "боевик",
@@ -99,5 +53,72 @@
             "детектив"
         ],
         "length": 100
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "les_legendaires",
+        "name": "Легенды",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
+        ],
+        "length": -1
     }
 ]
