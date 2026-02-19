@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "uvolit_zhoru",
         "name": "Уволить Жору",
         "rating": 0,
@@ -64,6 +44,16 @@
         "length": -1
     },
     {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "korol_i_shut_navsegda",
         "name": "Король и Шут. Навсегда",
         "rating": 0,
@@ -75,5 +65,15 @@
             "музыка"
         ],
         "length": 122
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
     }
 ]
