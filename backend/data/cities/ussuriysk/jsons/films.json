@@ -1,27 +1,13 @@
 [
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
         "rating": 0,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
+            "драма",
+            "мелодрама"
         ],
-        "length": 190
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
+        "length": 135
     },
     {
         "filmId": "crime_101",
@@ -35,16 +21,6 @@
         "length": 140
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "les_legendaires",
         "name": "Легенды",
         "rating": 0,
@@ -54,6 +30,17 @@
             "приключения"
         ],
         "length": 90
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
     },
     {
         "filmId": "krasavica",
@@ -85,6 +72,19 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
     },
     {
         "filmId": "send_help",
