@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "bear_kid_super_hero",
-        "name": "Супер Мишка",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 0,
@@ -75,5 +31,49 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "bear_kid_super_hero",
+        "name": "Супер Мишка",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]

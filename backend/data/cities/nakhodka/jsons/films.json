@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 0,
@@ -11,67 +21,17 @@
         "length": 115
     },
     {
-        "filmId": "krasavica",
-        "name": "Красавица",
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
         "rating": 0,
         "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "69980",
-        "name": "МУЛЬТ в кино. Выпуск №191. Уроки волшебства",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 45
-    },
-    {
-        "filmId": "pervaja",
-        "name": "Первая",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "les_legendaires",
-        "name": "Легенды",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
             "фэнтези",
-            "приключения"
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
         ],
-        "length": 90
+        "length": 122
     },
     {
         "filmId": "dopolnitelnoe_vremja",
@@ -98,58 +58,16 @@
         "length": 95
     },
     {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
+        "filmId": "krasavica",
+        "name": "Красавица",
         "rating": 0,
         "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
             "приключения",
-            "музыка"
+            "драма",
+            "военный",
+            "история"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "the_beldham",
-        "name": "Белдхэм. Проклятие ведьмы",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "спорт"
-        ],
-        "length": 150
+        "length": -1
     },
     {
         "filmId": "wuthering_heights",
@@ -180,6 +98,15 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -218,6 +145,19 @@
         "length": 125
     },
     {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "return_to_silent_hill",
         "name": "Возвращение в Сайлент Хилл",
         "rating": 0,
@@ -238,6 +178,66 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "pervaja",
+        "name": "Первая",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "les_legendaires",
+        "name": "Легенды",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_beldham",
+        "name": "Белдхэм. Проклятие ведьмы",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "69980",
+        "name": "МУЛЬТ в кино. Выпуск №191. Уроки волшебства",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 45
     },
     {
         "filmId": "zootopia_2",

@@ -1,66 +1,13 @@
 [
     {
-        "filmId": "les_legendaires",
-        "name": "Легенды",
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
         "rating": 0,
         "genres": [
-            "мультфильм",
-            "фэнтези",
+            "боевик",
             "приключения"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "raj_pod_nogami_materej_2",
-        "name": "Рай под ногами матерей 2. Письмо матери",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
+        "length": 110
     },
     {
         "filmId": "skazka_o_care_saltane",
@@ -72,17 +19,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "dopolnitelnoe_vremja",
-        "name": "Дополнительное время",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "спорт"
-        ],
-        "length": -1
     },
     {
         "filmId": "korol_i_shut_navsegda",
@@ -98,6 +34,38 @@
         "length": 122
     },
     {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "kto_to_dolzhen_umeret",
+        "name": "Кто-то должен умереть",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 65
+    },
+    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 0,
@@ -108,44 +76,35 @@
         "length": 130
     },
     {
-        "filmId": "pervaja",
-        "name": "Первая",
+        "filmId": "crime_101",
+        "name": "Ограбление в Лос-Анжелесе",
         "rating": 0,
         "genres": [
-            "драма"
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "raj_pod_nogami_materej_2",
+        "name": "Рай под ногами матерей 2. Письмо матери",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "приключения"
         ],
         "length": 100
     },
     {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
+        "filmId": "the_straight_story",
+        "name": "Простая история",
         "rating": 0,
         "genres": [
-            "боевик",
-            "приключения"
+            "драма",
+            "биография"
         ],
         "length": 110
-    },
-    {
-        "filmId": "rabbit_trap",
-        "name": "Ловушка для кролика",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "спорт"
-        ],
-        "length": 150
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -161,37 +120,6 @@
         "length": 190
     },
     {
-        "filmId": "crime_101",
-        "name": "Ограбление в Лос-Анжелесе",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "kto_to_dolzhen_umeret",
-        "name": "Кто-то должен умереть",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "the_straight_story",
-        "name": "Простая история",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "iron_man",
         "name": "Железный человек",
         "rating": 0,
@@ -201,6 +129,17 @@
             "приключения"
         ],
         "length": 125
+    },
+    {
+        "filmId": "rabbit_trap",
+        "name": "Ловушка для кролика",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
     },
     {
         "filmId": "shelter_2025",
@@ -222,6 +161,15 @@
         "length": 100
     },
     {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "send_help",
         "name": "На помощь!",
         "rating": 0,
@@ -229,6 +177,17 @@
             "триллер"
         ],
         "length": 115
+    },
+    {
+        "filmId": "les_legendaires",
+        "name": "Легенды",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
     },
     {
         "filmId": "71029",
@@ -241,6 +200,47 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "dopolnitelnoe_vremja",
+        "name": "Дополнительное время",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "спорт"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "pervaja",
+        "name": "Первая",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
     },
     {
         "filmId": "zootopia_2",
