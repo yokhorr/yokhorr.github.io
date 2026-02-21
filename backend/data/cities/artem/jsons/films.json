@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
-            "приключения",
-            "музыка"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 0,
@@ -95,6 +51,40 @@
         "length": 90
     },
     {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "vlastelin_kolec_dve_kreposti",
         "name": "Властелин колец: Две крепости",
         "rating": 0,
@@ -117,5 +107,15 @@
             "приключения"
         ],
         "length": 190
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
     }
 ]
