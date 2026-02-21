@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "dopolnitelnoe_vremja",
-        "name": "Дополнительное время",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "спорт"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "krasavica",
         "name": "Красавица",
         "rating": 0,
@@ -61,6 +30,37 @@
         "rating": 0,
         "genres": [
             "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "dopolnitelnoe_vremja",
+        "name": "Дополнительное время",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "спорт"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
         ],
         "length": 100
     }

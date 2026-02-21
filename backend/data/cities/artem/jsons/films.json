@@ -1,26 +1,13 @@
 [
     {
-        "filmId": "krasavica",
-        "name": "Красавица",
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
         "rating": 0,
         "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "les_legendaires",
-        "name": "Легенды",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
+            "боевик",
             "приключения"
         ],
-        "length": 90
+        "length": 110
     },
     {
         "filmId": "skazka_o_care_saltane",
@@ -34,14 +21,14 @@
         "length": 115
     },
     {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
         "rating": 0,
         "genres": [
-            "боевик",
-            "приключения"
+            "драма",
+            "мелодрама"
         ],
-        "length": 110
+        "length": 135
     },
     {
         "filmId": "korol_i_shut_navsegda",
@@ -55,38 +42,6 @@
             "музыка"
         ],
         "length": 122
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "stray_kids_the_dominate",
-        "name": "Stray Kids: The dominATE Experience",
-        "rating": 0,
-        "genres": [
-            "фильм-концерт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
     },
     {
         "filmId": "the_housemaid",
@@ -117,6 +72,29 @@
         "length": 95
     },
     {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "les_legendaires",
+        "name": "Легенды",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "vlastelin_kolec_dve_kreposti",
         "name": "Властелин колец: Две крепости",
         "rating": 0,
@@ -126,5 +104,18 @@
             "приключения"
         ],
         "length": 183
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
     }
 ]

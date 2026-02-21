@@ -1,14 +1,16 @@
 [
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
+        "filmId": "the_spongebob_movie_2025",
+        "name": "Губка Боб: В поисках квадратных штанов",
         "rating": 0,
         "genres": [
+            "мультфильм",
             "фэнтези",
+            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 115
+        "length": 95
     },
     {
         "filmId": "krasavica",
@@ -23,15 +25,6 @@
         "length": -1
     },
     {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "guantanamera",
         "name": "Гуантанамера",
         "rating": 0,
@@ -42,82 +35,15 @@
         "length": 110
     },
     {
-        "filmId": "71029",
-        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
         "rating": 0,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "pervaja",
-        "name": "Первая",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "les_legendaires",
-        "name": "Легенды",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
             "фэнтези",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "dopolnitelnoe_vremja",
-        "name": "Дополнительное время",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "спорт"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "the_spongebob_movie_2025",
-        "name": "Губка Боб: В поисках квадратных штанов",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "kommentiruj_eto",
-        "name": "Комментируй это",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
+        "length": 115
     },
     {
         "filmId": "korol_i_shut_navsegda",
@@ -133,23 +59,15 @@
         "length": 122
     },
     {
-        "filmId": "the_beldham",
-        "name": "Белдхэм. Проклятие ведьмы",
+        "filmId": "dopolnitelnoe_vremja",
+        "name": "Дополнительное время",
         "rating": 0,
         "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "marty_supreme",
-        "name": "Марти Великолепный",
-        "rating": 0,
-        "genres": [
-            "комедия",
+            "семейный",
+            "приключения",
             "спорт"
         ],
-        "length": 150
+        "length": -1
     },
     {
         "filmId": "wuthering_heights",
@@ -180,6 +98,15 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -218,6 +145,19 @@
         "length": 125
     },
     {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "return_to_silent_hill",
         "name": "Возвращение в Сайлент Хилл",
         "rating": 0,
@@ -226,6 +166,66 @@
             "триллер"
         ],
         "length": 105
+    },
+    {
+        "filmId": "71029",
+        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "pervaja",
+        "name": "Первая",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "les_legendaires",
+        "name": "Легенды",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "kommentiruj_eto",
+        "name": "Комментируй это",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_beldham",
+        "name": "Белдхэм. Проклятие ведьмы",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "marty_supreme",
+        "name": "Марти Великолепный",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 150
     },
     {
         "filmId": "69980",
