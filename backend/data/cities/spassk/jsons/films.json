@@ -1,47 +1,5 @@
 [
     {
-        "filmId": "bear_kid_super_hero",
-        "name": "Супер Мишка",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 0,
@@ -75,5 +33,47 @@
             "история"
         ],
         "length": -1
+    },
+    {
+        "filmId": "bear_kid_super_hero",
+        "name": "Супер Мишка",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
     }
 ]
