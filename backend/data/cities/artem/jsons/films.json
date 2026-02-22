@@ -1,48 +1,5 @@
 [
     {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
-            "приключения",
-            "музыка"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "the_housemaid",
         "name": "Горничная",
         "rating": 0,
@@ -83,6 +40,17 @@
         "length": 90
     },
     {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "krasavica",
         "name": "Красавица",
         "rating": 0,
@@ -93,6 +61,28 @@
             "история"
         ],
         "length": -1
+    },
+    {
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "uvolit_zhoru",
+        "name": "Уволить Жору",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -106,5 +96,15 @@
             "приключения"
         ],
         "length": 190
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
     }
 ]
