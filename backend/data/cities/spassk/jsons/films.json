@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "bear_kid_super_hero",
         "name": "Супер Мишка",
         "rating": 0,
@@ -22,6 +10,18 @@
             "фэнтези"
         ],
         "length": 80
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": -1
     },
     {
         "filmId": "skazka_o_care_saltane",

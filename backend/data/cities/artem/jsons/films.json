@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_grieving",
-        "name": "Верни меня из мертвых",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "les_legendaires",
         "name": "Легенды",
         "rating": 0,
@@ -49,6 +20,16 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "krasavica",
@@ -106,5 +87,24 @@
             "мелодрама"
         ],
         "length": 135
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_grieving",
+        "name": "Верни меня из мертвых",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
