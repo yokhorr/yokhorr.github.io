@@ -1,48 +1,5 @@
 [
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "dopolnitelnoe_vremja",
-        "name": "Дополнительное время",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "спорт"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "korol_i_shut_navsegda",
         "name": "Король и Шут. Навсегда",
         "rating": 0,
@@ -63,5 +20,77 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "dopolnitelnoe_vremja",
+        "name": "Дополнительное время",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "спорт"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "moj_ded",
+        "name": "Мой дед",
+        "rating": 0,
+        "genres": [
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "draniki",
+        "name": "Драники",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
     }
 ]
