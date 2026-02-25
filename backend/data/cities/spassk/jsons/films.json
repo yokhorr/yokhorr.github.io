@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "uvolit_zhoru",
         "name": "Уволить Жору",
         "rating": 0,
@@ -92,5 +72,15 @@
             "военный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
     }
 ]
