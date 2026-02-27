@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "korol_i_shut_navsegda",
         "name": "Король и Шут. Навсегда",
         "rating": 0,
@@ -31,6 +11,16 @@
             "музыка"
         ],
         "length": 122
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "krasavica",
@@ -62,6 +52,16 @@
             "фэнтези",
             "приключения",
             "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
         ],
         "length": 115
     },
