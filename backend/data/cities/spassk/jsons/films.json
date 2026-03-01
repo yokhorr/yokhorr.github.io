@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 0,
@@ -9,28 +18,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
-            "приключения",
-            "музыка"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
     },
     {
         "filmId": "krasavica",
@@ -63,6 +50,19 @@
             "военный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
+        ],
+        "length": 122
     },
     {
         "filmId": "guantanamera",
