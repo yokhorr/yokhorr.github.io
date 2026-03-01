@@ -1,5 +1,67 @@
 [
     {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_notebook",
+        "name": "Дневник памяти",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "cinga",
+        "name": "Цинга",
+        "rating": 0,
+        "genres": [
+            "триллер"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "draniki",
         "name": "Драники",
         "rating": 0,
@@ -20,15 +82,6 @@
         "length": 135
     },
     {
-        "filmId": "moj_ded",
-        "name": "Мой дед",
-        "rating": 0,
-        "genres": [
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "krasavica",
         "name": "Красавица",
         "rating": 0,
@@ -37,160 +90,6 @@
             "драма",
             "военный",
             "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "71029",
-        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
-            "приключения",
-            "музыка"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "zootopia_2",
-        "name": "Зверополис 2",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "spasti_bessmertnogo",
-        "name": "Спасти бессмертного",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "драма",
-            "фантастика",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "levsha",
-        "name": "Левша",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "dopolnitelnoe_vremja",
-        "name": "Дополнительное время",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "спорт"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "giant",
-        "name": "Гигант",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "set_2026",
-        "name": "Сеть",
-        "rating": 0,
-        "genres": [
-            "документальный"
         ],
         "length": -1
     },
@@ -207,16 +106,6 @@
         "length": 122
     },
     {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "shelter_2025",
         "name": "Убежище",
         "rating": 0,
@@ -227,23 +116,14 @@
         "length": 110
     },
     {
-        "filmId": "the_notebook",
-        "name": "Дневник памяти",
+        "filmId": "the_housemaid",
+        "name": "Горничная",
         "rating": 0,
         "genres": [
-            "драма",
-            "мелодрама"
+            "триллер",
+            "драма"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "cinga",
-        "name": "Цинга",
-        "rating": 0,
-        "genres": [
-            "триллер"
-        ],
-        "length": 90
+        "length": 130
     },
     {
         "filmId": "crime_101",
@@ -267,6 +147,19 @@
         "length": 105
     },
     {
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "iron_man",
         "name": "Железный человек",
         "rating": 0,
@@ -276,6 +169,16 @@
             "приключения"
         ],
         "length": 125
+    },
+    {
+        "filmId": "giant",
+        "name": "Гигант",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "спорт"
+        ],
+        "length": 110
     },
     {
         "filmId": "iron_man_2",
@@ -305,6 +208,84 @@
             "триллер"
         ],
         "length": 115
+    },
+    {
+        "filmId": "guantanamera",
+        "name": "Гуантанамера",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "moj_ded",
+        "name": "Мой дед",
+        "rating": 0,
+        "genres": [
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "71029",
+        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "dopolnitelnoe_vremja",
+        "name": "Дополнительное время",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "спорт"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "spasti_bessmertnogo",
+        "name": "Спасти бессмертного",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "драма",
+            "фантастика",
+            "военный",
+            "история"
+        ],
+        "length": 105
     },
     {
         "filmId": "postman_always_rings_twice",
