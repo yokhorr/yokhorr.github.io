@@ -1,16 +1,13 @@
 [
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
         "rating": 0,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
+            "драма",
+            "мелодрама"
         ],
-        "length": 190
+        "length": 135
     },
     {
         "filmId": "krasavica",
@@ -25,14 +22,14 @@
         "length": 100
     },
     {
-        "filmId": "malysh",
-        "name": "Малыш",
+        "filmId": "the_housemaid",
+        "name": "Горничная",
         "rating": 0,
         "genres": [
-            "драма",
-            "военный"
+            "триллер",
+            "драма"
         ],
-        "length": 115
+        "length": 130
     },
     {
         "filmId": "skazka_o_care_saltane",
@@ -46,43 +43,17 @@
         "length": 115
     },
     {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
         "rating": 0,
         "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "draniki",
-        "name": "Драники",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
             "триллер",
-            "драма"
+            "приключения"
         ],
-        "length": 130
+        "length": 190
     },
     {
         "filmId": "crime_101",
@@ -96,6 +67,15 @@
         "length": 140
     },
     {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "shelter_2025",
         "name": "Убежище",
         "rating": 0,
@@ -104,26 +84,6 @@
             "триллер"
         ],
         "length": 110
-    },
-    {
-        "filmId": "coutures",
-        "name": "Кутюр",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "teatr_krasnyj_fakel_besy",
-        "name": "Театр «‎Красный Факел»: Бесы",
-        "rating": 0,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 185
     },
     {
         "filmId": "korol_i_shut_navsegda",
@@ -139,17 +99,6 @@
         "length": 122
     },
     {
-        "filmId": "iron_man",
-        "name": "Железный человек",
-        "rating": 0,
-        "genres": [
-            "боевик",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "chainsaw_man_soushuuhen",
         "name": "Человек-бензопила. Фильм",
         "rating": 0,
@@ -160,6 +109,16 @@
             "боевик"
         ],
         "length": 122
+    },
+    {
+        "filmId": "coutures",
+        "name": "Кутюр",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 105
     },
     {
         "filmId": "giant",
@@ -201,6 +160,16 @@
         "length": 95
     },
     {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "guantanamera",
         "name": "Гуантанамера",
         "rating": 0,
@@ -209,6 +178,16 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "draniki",
+        "name": "Драники",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "moj_ded",
@@ -291,6 +270,17 @@
         "length": 195
     },
     {
+        "filmId": "iron_man",
+        "name": "Железный человек",
+        "rating": 0,
+        "genres": [
+            "боевик",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "send_help",
         "name": "На помощь!",
         "rating": 0,
@@ -300,33 +290,12 @@
         "length": 115
     },
     {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "tjulpany",
         "name": "Тюльпаны",
         "rating": 0,
         "genres": [
             "комедия",
             "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
         ],
         "length": -1
     },
@@ -340,6 +309,27 @@
         "length": -1
     },
     {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "k_sebe_nezhno",
         "name": "К себе нежно",
         "rating": 0,
@@ -350,12 +340,32 @@
         "length": -1
     },
     {
+        "filmId": "how_to_make_a_killing",
+        "name": "Наследник",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "l_etranger",
         "name": "Посторонний",
         "rating": 0,
         "genres": [
             "драма",
             "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "bolshaja_zemlja",
+        "name": "Большая земля",
+        "rating": 0,
+        "genres": [
+            "драма"
         ],
         "length": 122
     },
@@ -377,26 +387,6 @@
             "спорт"
         ],
         "length": 75
-    },
-    {
-        "filmId": "how_to_make_a_killing",
-        "name": "Наследник",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bolshaja_zemlja",
-        "name": "Большая земля",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 122
     },
     {
         "filmId": "granica",
