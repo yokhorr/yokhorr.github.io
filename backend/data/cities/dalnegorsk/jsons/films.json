@@ -1,67 +1,5 @@
 [
     {
-        "filmId": "dopolnitelnoe_vremja",
-        "name": "Дополнительное время",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "спорт"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "moj_ded",
-        "name": "Мой дед",
-        "rating": 0,
-        "genres": [
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "draniki",
-        "name": "Драники",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "malysh",
         "name": "Малыш",
         "rating": 0,
@@ -83,5 +21,54 @@
             "музыка"
         ],
         "length": 122
+    },
+    {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
+        "rating": 0,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": -1
     }
 ]
