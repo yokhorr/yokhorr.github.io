@@ -1,35 +1,5 @@
 [
     {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 0,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "crime_101",
-        "name": "Ограбление в Лос-Анжелесе",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -90,6 +60,25 @@
         "genres": [
             "ужасы",
             "детектив"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 0,
+        "genres": [
+            "триллер"
         ],
         "length": 115
     }
