@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "draniki",
         "name": "Драники",
         "rating": 0,
@@ -83,6 +54,35 @@
             "фэнтези",
             "приключения",
             "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
         ],
         "length": 115
     },
