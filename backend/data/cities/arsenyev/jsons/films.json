@@ -1,47 +1,5 @@
 [
     {
-        "filmId": "draniki",
-        "name": "Драники",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "novaja_tesha",
         "name": "Новая тёща",
         "rating": 0,
@@ -49,29 +7,6 @@
             "комедия"
         ],
         "length": -1
-    },
-    {
-        "filmId": "goat",
-        "name": "Мечтай по-крупному",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный",
-            "спорт"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
     },
     {
         "filmId": "carevna_ljagushka_2",
@@ -103,5 +38,70 @@
             "мелодрама"
         ],
         "length": 135
+    },
+    {
+        "filmId": "draniki",
+        "name": "Драники",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "goat",
+        "name": "Мечтай по-крупному",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный",
+            "спорт"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
