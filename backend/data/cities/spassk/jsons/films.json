@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "novaja_tesha",
         "name": "Новая тёща",
         "rating": 0,
@@ -9,13 +20,21 @@
         "length": -1
     },
     {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
         "rating": 0,
         "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
         ],
         "length": 100
     },
@@ -38,24 +57,5 @@
             "военный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
     }
 ]
