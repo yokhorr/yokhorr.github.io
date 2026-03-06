@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "tjulpany",
         "name": "Тюльпаны",
         "rating": 0,
@@ -31,14 +10,13 @@
         "length": 90
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
         "rating": 0,
         "genres": [
-            "драма",
-            "мелодрама"
+            "комедия"
         ],
-        "length": 135
+        "length": -1
     },
     {
         "filmId": "scream_7",
@@ -51,15 +29,6 @@
         "length": 115
     },
     {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "draniki",
         "name": "Драники",
         "rating": 0,
@@ -68,6 +37,17 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "goat",
@@ -115,5 +95,25 @@
             "военный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
+        "rating": 0,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
     }
 ]
