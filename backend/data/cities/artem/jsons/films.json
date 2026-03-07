@@ -1,13 +1,13 @@
 [
     {
-        "filmId": "draniki",
-        "name": "Драники",
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
         "rating": 0,
         "genres": [
-            "комедия",
-            "семейный"
+            "мелодрама",
+            "комедия"
         ],
-        "length": 85
+        "length": -1
     },
     {
         "filmId": "carevna_ljagushka_2",
@@ -19,6 +19,55 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "draniki",
+        "name": "Драники",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "goat",
@@ -58,35 +107,6 @@
         "length": 100
     },
     {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "malysh",
         "name": "Малыш",
         "rating": 0,
@@ -95,25 +115,5 @@
             "военный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
     }
 ]

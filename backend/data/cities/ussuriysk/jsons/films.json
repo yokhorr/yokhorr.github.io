@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -11,17 +21,6 @@
         "length": 100
     },
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "novaja_tesha",
         "name": "Новая тёща",
         "rating": 0,
@@ -29,26 +28,6 @@
             "комедия"
         ],
         "length": -1
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
     },
     {
         "filmId": "wuthering_heights",
@@ -68,5 +47,26 @@
             "триллер"
         ],
         "length": 115
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
     }
 ]

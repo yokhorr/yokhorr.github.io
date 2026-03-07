@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "draniki",
-        "name": "Драники",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -30,14 +11,13 @@
         "length": 100
     },
     {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
         "rating": 0,
         "genres": [
-            "комедия",
-            "мелодрама"
+            "комедия"
         ],
-        "length": 90
+        "length": -1
     },
     {
         "filmId": "malysh",
@@ -57,5 +37,25 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "draniki",
+        "name": "Драники",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
     }
 ]
