@@ -1,99 +1,5 @@
 [
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "how_to_make_a_killing",
-        "name": "Наследник",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "titanic",
-        "name": "Титаник",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "приключения",
-            "история"
-        ],
-        "length": 195
-    },
-    {
-        "filmId": "chainsaw_man_soushuuhen",
-        "name": "Человек-бензопила. Фильм",
-        "rating": 0,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "tjulpany",
         "name": "Тюльпаны",
         "rating": 0,
@@ -104,47 +10,13 @@
         "length": 90
     },
     {
-        "filmId": "bolshaja_zemlja",
-        "name": "Большая земля",
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
         "rating": 0,
         "genres": [
-            "драма"
+            "комедия"
         ],
-        "length": 122
-    },
-    {
-        "filmId": "granica",
-        "name": "Граница",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "crime_101",
-        "name": "Ограбление в Лос-Анжелесе",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
-            "приключения",
-            "музыка"
-        ],
-        "length": 122
+        "length": -1
     },
     {
         "filmId": "chelovek_kotoryj_smeetsja",
@@ -225,6 +97,26 @@
         "length": 122
     },
     {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
+        "rating": 0,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "draniki",
         "name": "Драники",
         "rating": 0,
@@ -233,6 +125,37 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "how_to_make_a_killing",
+        "name": "Наследник",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "cheburashka_2",
@@ -246,6 +169,16 @@
         "length": 105
     },
     {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "coutures",
         "name": "Кутюр",
         "rating": 0,
@@ -254,6 +187,27 @@
             "мелодрама"
         ],
         "length": 105
+    },
+    {
+        "filmId": "titanic",
+        "name": "Титаник",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "приключения",
+            "история"
+        ],
+        "length": 195
+    },
+    {
+        "filmId": "bolshaja_zemlja",
+        "name": "Большая земля",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "iron_man_2",
@@ -265,6 +219,52 @@
             "приключения"
         ],
         "length": 125
+    },
+    {
+        "filmId": "korol_i_shut_navsegda",
+        "name": "Король и Шут. Навсегда",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "драма",
+            "приключения",
+            "музыка"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "chainsaw_man_soushuuhen",
+        "name": "Человек-бензопила. Фильм",
+        "rating": 0,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "crime_101",
+        "name": "Ограбление в Лос-Анжелесе",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "granica",
+        "name": "Граница",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 80
     },
     {
         "filmId": "the_bodyguard",

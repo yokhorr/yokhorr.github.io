@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 0,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -60,6 +41,16 @@
         "length": 90
     },
     {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "wuthering_heights",
         "name": "Грозовой перевал",
         "rating": 0,
@@ -68,5 +59,14 @@
             "мелодрама"
         ],
         "length": 135
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 0,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
     }
 ]
