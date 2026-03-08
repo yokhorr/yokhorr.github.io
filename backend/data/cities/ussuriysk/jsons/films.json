@@ -10,6 +10,15 @@
         "length": 115
     },
     {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 0,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -19,34 +28,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 0,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
     },
     {
         "filmId": "skazka_o_care_saltane",
@@ -60,6 +41,15 @@
         "length": 115
     },
     {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "tjulpany",
         "name": "Тюльпаны",
         "rating": 0,
@@ -68,5 +58,15 @@
             "мелодрама"
         ],
         "length": 90
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
     }
 ]
