@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -57,5 +38,24 @@
             "мелодрама"
         ],
         "length": 90
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]

@@ -1,47 +1,5 @@
 [
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "tjulpany",
         "name": "Тюльпаны",
         "rating": 0,
@@ -50,29 +8,6 @@
             "мелодрама"
         ],
         "length": 90
-    },
-    {
-        "filmId": "killer_whale",
-        "name": "Кит-убийца",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "return_to_silent_hill",
-        "name": "Возвращение в Сайлент Хилл",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 105
     },
     {
         "filmId": "carevna_ljagushka_2",
@@ -119,6 +54,15 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     },
     {
         "filmId": "guantanamera",
@@ -218,6 +162,16 @@
         "length": 122
     },
     {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "how_to_make_a_killing",
         "name": "Наследник",
         "rating": 0,
@@ -258,5 +212,51 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "killer_whale",
+        "name": "Кит-убийца",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер",
+            "детектив"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "return_to_silent_hill",
+        "name": "Возвращение в Сайлент Хилл",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 105
     }
 ]
