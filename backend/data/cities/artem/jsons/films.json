@@ -1,52 +1,11 @@
 [
     {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
+        "filmId": "malysh",
+        "name": "Малыш",
         "rating": 0,
         "genres": [
             "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
+            "военный"
         ],
         "length": 115
     },
@@ -60,12 +19,12 @@
         "length": -1
     },
     {
-        "filmId": "malysh",
-        "name": "Малыш",
+        "filmId": "scream_7",
+        "name": "Крик 7",
         "rating": 0,
         "genres": [
-            "драма",
-            "военный"
+            "ужасы",
+            "детектив"
         ],
         "length": 115
     },
@@ -78,6 +37,17 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "goat",
@@ -115,5 +85,35 @@
             "история"
         ],
         "length": 100
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
+        "rating": 0,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
     }
 ]
