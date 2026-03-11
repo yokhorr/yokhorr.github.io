@@ -11,20 +11,20 @@
         "length": 100
     },
     {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "k_sebe_nezhno",
         "name": "К себе нежно",
         "rating": 0,
         "genres": [
             "мелодрама",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
             "комедия"
         ],
         "length": -1
@@ -38,5 +38,24 @@
             "мелодрама"
         ],
         "length": 90
+    },
+    {
+        "filmId": "marsupilami",
+        "name": "Марсупилами. Пушистый круиз",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]

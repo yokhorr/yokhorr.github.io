@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "69980",
-        "name": "МУЛЬТ в кино. Выпуск №191. Уроки волшебства",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 45
-    },
-    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 0,
@@ -44,16 +11,14 @@
         "length": 115
     },
     {
-        "filmId": "71029",
-        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
+        "filmId": "coutures",
+        "name": "Кутюр",
         "rating": 0,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "драма",
+            "мелодрама"
         ],
-        "length": 50
+        "length": 105
     },
     {
         "filmId": "novaja_tesha",
@@ -65,14 +30,14 @@
         "length": -1
     },
     {
-        "filmId": "guantanamera",
-        "name": "Гуантанамера",
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
         "rating": 0,
         "genres": [
-            "боевик",
-            "приключения"
+            "комедия",
+            "мелодрама"
         ],
-        "length": 110
+        "length": 90
     },
     {
         "filmId": "goat",
@@ -89,77 +54,24 @@
         "length": 100
     },
     {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
+        "filmId": "primate",
+        "name": "Примат",
         "rating": 0,
         "genres": [
-            "комедия"
+            "ужасы"
         ],
-        "length": 100
+        "length": 90
     },
     {
-        "filmId": "uvolit_zhoru",
-        "name": "Уволить Жору",
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
         "rating": 0,
         "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_spongebob_movie_2025",
-        "name": "Губка Боб: В поисках квадратных штанов",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
+            "семейный",
             "приключения",
-            "семейный"
+            "фэнтези"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "moj_drug",
-        "name": "Мой друг",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "приключения"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "draniki",
-        "name": "Драники",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "chainsaw_man_soushuuhen",
-        "name": "Человек-бензопила. Фильм",
-        "rating": 0,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 122
+        "length": 100
     },
     {
         "filmId": "scream_7",
@@ -181,37 +93,6 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "coutures",
-        "name": "Кутюр",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "primate",
-        "name": "Примат",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -258,5 +139,119 @@
             "триллер"
         ],
         "length": 105
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "71029",
+        "name": "МУЛЬТ в кино. Выпуск №192. Друзья из сказки",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "chelovek_kotoryj_smeetsja",
+        "name": "Человек, который смеётся",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "war_machine",
+        "name": "Военная машина",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_spongebob_movie_2025",
+        "name": "Губка Боб: В поисках квадратных штанов",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "zhemchug",
+        "name": "Жемчуг",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "zootopia_2",
+        "name": "Зверополис 2",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_bride",
+        "name": "Невеста!",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "драма",
+            "мелодрама"
+        ],
+        "length": 125
     }
 ]
