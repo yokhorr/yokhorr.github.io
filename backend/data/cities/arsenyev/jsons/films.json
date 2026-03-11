@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "novaja_tesha",
         "name": "Новая тёща",
         "rating": 0,
@@ -18,26 +28,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
     },
     {
         "filmId": "goat",
@@ -84,5 +74,15 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
     }
 ]

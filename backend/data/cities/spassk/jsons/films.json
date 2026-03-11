@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "malysh",
         "name": "Малыш",
         "rating": 0,
@@ -39,6 +19,17 @@
         "length": 100
     },
     {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "kolokol_nadezhdy",
         "name": "Колокол надежды",
         "rating": 0,
@@ -46,6 +37,15 @@
             "драма"
         ],
         "length": 95
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
     },
     {
         "filmId": "tjulpany",
