@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "novaja_tesha",
         "name": "Новая тёща",
         "rating": 0,
@@ -27,122 +7,6 @@
             "комедия"
         ],
         "length": -1
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "how_to_make_a_killing",
-        "name": "Наследник",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "titanic",
-        "name": "Титаник",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "приключения",
-            "история"
-        ],
-        "length": 195
-    },
-    {
-        "filmId": "chainsaw_man_soushuuhen",
-        "name": "Человек-бензопила. Фильм",
-        "rating": 0,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "bolshaja_zemlja",
-        "name": "Большая земля",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "korol_i_shut_navsegda",
-        "name": "Король и Шут. Навсегда",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "комедия",
-            "драма",
-            "приключения",
-            "музыка"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "granica",
-        "name": "Граница",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "chelovek_kotoryj_smeetsja",
-        "name": "Человек, который смеётся",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
     },
     {
         "filmId": "hoppers",
@@ -202,6 +66,26 @@
         "length": 100
     },
     {
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
+        "rating": 0,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "zhemchug",
         "name": "Жемчуг",
         "rating": 0,
@@ -235,6 +119,66 @@
         "length": 140
     },
     {
+        "filmId": "bolshaja_zemlja",
+        "name": "Большая земля",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "how_to_make_a_killing",
+        "name": "Наследник",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "kuangye_shidai",
         "name": "Воскрешение",
         "rating": 0,
@@ -254,6 +198,18 @@
             "драма"
         ],
         "length": 90
+    },
+    {
+        "filmId": "titanic",
+        "name": "Титаник",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "приключения",
+            "история"
+        ],
+        "length": 195
     },
     {
         "filmId": "bu_feng_zhui_ying",
@@ -338,6 +294,28 @@
         "length": 145
     },
     {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "guardians_of_the_galaxy",
+        "name": "Стражи Галактики. Часть 1 2014",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "71679",
         "name": "«Музы: цена вдохновения» — Лекция Ю.Климко",
         "rating": 0,
@@ -345,6 +323,18 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "chainsaw_man_soushuuhen_2",
+        "name": "Человек-бензопила. Фильм 2",
+        "rating": 0,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "notting_hill",
