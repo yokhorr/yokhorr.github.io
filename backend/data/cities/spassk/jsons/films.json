@@ -11,11 +11,11 @@
         "length": 100
     },
     {
-        "filmId": "kolokol_nadezhdy",
-        "name": "Колокол надежды",
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
         "rating": 0,
         "genres": [
-            "драма"
+            "ужасы"
         ],
         "length": 95
     },
@@ -26,7 +26,16 @@
         "genres": [
             "комедия"
         ],
-        "length": -1
+        "length": 95
+    },
+    {
+        "filmId": "kolokol_nadezhdy",
+        "name": "Колокол надежды",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "tjulpany",
@@ -37,14 +46,5 @@
             "мелодрама"
         ],
         "length": 90
-    },
-    {
-        "filmId": "no_me_sigas",
-        "name": "Инферно",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     }
 ]
