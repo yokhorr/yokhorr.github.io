@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 0,
@@ -22,67 +13,25 @@
         "length": 105
     },
     {
-        "filmId": "zhemchug",
-        "name": "Жемчуг",
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
         "rating": 0,
         "genres": [
             "драма",
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
             "мелодрама"
         ],
-        "length": 90
+        "length": 135
     },
     {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
+        "filmId": "how_to_make_a_killing",
+        "name": "Наследник",
         "rating": 0,
         "genres": [
             "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
             "драма",
-            "военный"
+            "комедия"
         ],
-        "length": 115
+        "length": 100
     },
     {
         "filmId": "k_sebe_nezhno",
@@ -95,16 +44,6 @@
         "length": 110
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "scream_7",
         "name": "Крик 7",
         "rating": 0,
@@ -115,14 +54,13 @@
         "length": 115
     },
     {
-        "filmId": "marsupilami",
-        "name": "Марсупилами. Пушистый круиз",
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
         "rating": 0,
         "genres": [
-            "семейный",
-            "приключения"
+            "комедия"
         ],
-        "length": 90
+        "length": 95
     },
     {
         "filmId": "the_physician_2",
@@ -132,50 +70,6 @@
             "драма"
         ],
         "length": 140
-    },
-    {
-        "filmId": "kuangye_shidai",
-        "name": "Воскрешение",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "мелодрама",
-            "драма",
-            "триллер"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "bolshaja_zemlja",
-        "name": "Большая земля",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "titanic",
-        "name": "Титаник",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "приключения",
-            "история"
-        ],
-        "length": 195
-    },
-    {
-        "filmId": "how_to_make_a_killing",
-        "name": "Наследник",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -211,6 +105,48 @@
         "length": 95
     },
     {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "marsupilami",
+        "name": "Марсупилами. Пушистый круиз",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "krasavica",
         "name": "Красавица",
         "rating": 0,
@@ -221,6 +157,46 @@
             "история"
         ],
         "length": 100
+    },
+    {
+        "filmId": "zhemchug",
+        "name": "Жемчуг",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "bolshaja_zemlja",
+        "name": "Большая земля",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "den_rozhdenija_sidni_ljumeta",
@@ -251,6 +227,18 @@
             "приключения"
         ],
         "length": 130
+    },
+    {
+        "filmId": "titanic",
+        "name": "Титаник",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "приключения",
+            "история"
+        ],
+        "length": 195
     },
     {
         "filmId": "the_bride",
