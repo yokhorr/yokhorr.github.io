@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 0,
@@ -13,93 +24,6 @@
         "length": 105
     },
     {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "goat",
-        "name": "Мечтай по-крупному",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный",
-            "спорт"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 0,
@@ -111,6 +35,15 @@
             "приключения"
         ],
         "length": 190
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "scream_7",
@@ -132,6 +65,49 @@
         "length": 95
     },
     {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "krasavica",
+        "name": "Красавица",
+        "rating": 0,
+        "genres": [
+            "приключения",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "bolshaja_zemlja",
         "name": "Большая земля",
         "rating": 0,
@@ -139,6 +115,16 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "k_sebe_nezhno",
+        "name": "К себе нежно",
+        "rating": 0,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "the_bride",
