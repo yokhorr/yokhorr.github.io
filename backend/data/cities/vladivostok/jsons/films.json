@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 0,
@@ -22,67 +13,14 @@
         "length": 105
     },
     {
-        "filmId": "zhemchug",
-        "name": "Жемчуг",
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
         "rating": 0,
         "genres": [
             "драма",
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
             "мелодрама"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_housemaid",
-        "name": "Горничная",
-        "rating": 0,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
+        "length": 135
     },
     {
         "filmId": "k_sebe_nezhno",
@@ -95,16 +33,6 @@
         "length": 110
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "scream_7",
         "name": "Крик 7",
         "rating": 0,
@@ -113,55 +41,6 @@
             "детектив"
         ],
         "length": 115
-    },
-    {
-        "filmId": "marsupilami",
-        "name": "Марсупилами. Пушистый круиз",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_physician_2",
-        "name": "Лекарь 2: Наследие Авиценны",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "den_rozhdenija_sidni_ljumeta",
-        "name": "День рождения Сидни Люмета",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_notebook",
-        "name": "Дневник памяти",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "iron_man_3",
-        "name": "Железный человек 3",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 130
     },
     {
         "filmId": "how_to_make_a_killing",
@@ -173,6 +52,24 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_physician_2",
+        "name": "Лекарь 2: Наследие Авиценны",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "titanic",
@@ -220,6 +117,59 @@
         "length": 95
     },
     {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "marsupilami",
+        "name": "Марсупилами. Пушистый круиз",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "zhemchug",
+        "name": "Жемчуг",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 0,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "krasavica",
         "name": "Красавица",
         "rating": 0,
@@ -241,6 +191,35 @@
         "length": 122
     },
     {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_housemaid",
+        "name": "Горничная",
+        "rating": 0,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "den_rozhdenija_sidni_ljumeta",
+        "name": "День рождения Сидни Люмета",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "the_bride",
         "name": "Невеста!",
         "rating": 0,
@@ -251,6 +230,17 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "iron_man_3",
+        "name": "Железный человек 3",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 130
     },
     {
         "filmId": "holymotors",
@@ -377,6 +367,15 @@
             "документальный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "the_father_2020",
+        "name": "Киноклуб «Кино и смыслы‎»: к/ф «‎Отец»",
+        "rating": 0,
+        "genres": [
+            "драма"
+        ],
+        "length": 122
     },
     {
         "filmId": "zvezdnye_vojny_epizod_iiimest_sithov",
