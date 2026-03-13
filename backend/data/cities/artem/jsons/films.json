@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "no_me_sigas",
-        "name": "Инферно",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 0,
@@ -114,6 +85,16 @@
         "length": 110
     },
     {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 0,
@@ -137,5 +118,24 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
     }
 ]
