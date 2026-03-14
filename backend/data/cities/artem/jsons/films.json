@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "no_me_sigas",
-        "name": "Инферно",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 0,
@@ -74,6 +45,16 @@
             "история"
         ],
         "length": 100
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
     },
     {
         "filmId": "novaja_tesha",
@@ -137,5 +118,24 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
     }
 ]
