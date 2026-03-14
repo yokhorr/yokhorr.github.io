@@ -1,18 +1,5 @@
 [
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
         "filmId": "scream_7",
         "name": "Крик 7",
         "rating": 0,
@@ -21,15 +8,6 @@
             "детектив"
         ],
         "length": 115
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "wuthering_heights",
@@ -95,5 +73,27 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
     }
 ]

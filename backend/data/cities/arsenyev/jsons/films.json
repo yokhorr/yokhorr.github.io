@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "novaja_tesha",
         "name": "Новая тёща",
         "rating": 0,
@@ -18,25 +28,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "no_me_sigas",
-        "name": "Инферно",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     },
     {
         "filmId": "goat",
@@ -74,5 +65,14 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]

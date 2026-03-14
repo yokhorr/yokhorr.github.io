@@ -1,60 +1,5 @@
 [
     {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "carevna_ljagushka_2",
-        "name": "Царевна-лягушка 2",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 0,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "the_bride",
-        "name": "Невеста!",
-        "rating": 0,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "драма",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "no_me_sigas",
         "name": "Инферно",
         "rating": 0,
@@ -97,6 +42,17 @@
         "length": 105
     },
     {
+        "filmId": "carevna_ljagushka_2",
+        "name": "Царевна-лягушка 2",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 0,
@@ -120,6 +76,15 @@
         "length": 100
     },
     {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "bolshaja_zemlja",
         "name": "Большая земля",
         "rating": 0,
@@ -137,5 +102,40 @@
             "комедия"
         ],
         "length": 110
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 0,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 0,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "the_bride",
+        "name": "Невеста!",
+        "rating": 0,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "драма",
+            "мелодрама"
+        ],
+        "length": 125
     }
 ]
