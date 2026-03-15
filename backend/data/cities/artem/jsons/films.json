@@ -1,16 +1,13 @@
 [
     {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
+        "filmId": "malysh",
+        "name": "Малыш",
         "rating": 0,
         "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
+            "драма",
+            "военный"
         ],
-        "length": 105
+        "length": 115
     },
     {
         "filmId": "carevna_ljagushka_2",
@@ -22,77 +19,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 0,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "krasavica",
-        "name": "Красавица",
-        "rating": 0,
-        "genres": [
-            "приключения",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
-        "rating": 0,
-        "genres": [
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "bolshaja_zemlja",
-        "name": "Большая земля",
-        "rating": 0,
-        "genres": [
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "k_sebe_nezhno",
-        "name": "К себе нежно",
-        "rating": 0,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 0,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -120,6 +46,15 @@
         "length": 125
     },
     {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "no_me_sigas",
         "name": "Инферно",
         "rating": 0,
@@ -127,6 +62,16 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
+        "rating": 0,
+        "genres": [
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 90
     },
     {
         "filmId": "scream_7",

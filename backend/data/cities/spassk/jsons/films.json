@@ -1,13 +1,21 @@
 [
     {
-        "filmId": "tjulpany",
-        "name": "Тюльпаны",
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
         "rating": 0,
         "genres": [
-            "комедия",
-            "мелодрама"
+            "комедия"
         ],
-        "length": 90
+        "length": 95
+    },
+    {
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "kolokol_nadezhdy",
@@ -30,21 +38,13 @@
         "length": 100
     },
     {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
+        "filmId": "tjulpany",
+        "name": "Тюльпаны",
         "rating": 0,
         "genres": [
-            "комедия"
+            "комедия",
+            "мелодрама"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "no_me_sigas",
-        "name": "Инферно",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
+        "length": 90
     }
 ]

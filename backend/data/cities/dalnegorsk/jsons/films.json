@@ -1,5 +1,33 @@
 [
     {
+        "filmId": "marsupilami",
+        "name": "Марсупилами. Пушистый круиз",
+        "rating": 0,
+        "genres": [
+            "семейный",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 0,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "no_me_sigas",
+        "name": "Инферно",
+        "rating": 0,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "carevna_ljagushka_2",
         "name": "Царевна-лягушка 2",
         "rating": 0,
@@ -21,25 +49,6 @@
         "length": 110
     },
     {
-        "filmId": "marsupilami",
-        "name": "Марсупилами. Пушистый круиз",
-        "rating": 0,
-        "genres": [
-            "семейный",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 0,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "tjulpany",
         "name": "Тюльпаны",
         "rating": 0,
@@ -48,14 +57,5 @@
             "мелодрама"
         ],
         "length": 90
-    },
-    {
-        "filmId": "no_me_sigas",
-        "name": "Инферно",
-        "rating": 0,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     }
 ]
