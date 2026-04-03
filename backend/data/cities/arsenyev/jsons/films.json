@@ -1,30 +1,5 @@
 [
     {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -36,23 +11,15 @@
         "length": 100
     },
     {
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "name": "Космическая собака Лида",
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
         "rating": 16,
         "genres": [
-            "семейный",
-            "фантастика"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
+        "length": 155
     },
     {
         "filmId": "korolek_moej_ljubvi",
@@ -63,17 +30,6 @@
             "мюзикл"
         ],
         "length": 110
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "the_bride",
@@ -109,5 +65,49 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "handbok_for_superhjaltar",
+        "name": "Красная маска. Настольная книга супергероя",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "боевик",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "name": "Космическая собака Лида",
+        "rating": 16,
+        "genres": [
+            "семейный",
+            "фантастика"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     }
 ]

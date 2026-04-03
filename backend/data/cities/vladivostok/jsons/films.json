@@ -1,82 +1,5 @@
 [
     {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "koty_ermitazha_2",
-        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "doktor_gaf",
-        "name": "Доктор Гаф",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "name": "Космическая собака Лида",
-        "rating": 16,
-        "genres": [
-            "семейный",
-            "фантастика"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -99,72 +22,26 @@
         "length": 155
     },
     {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "rise_of_the_conqueror",
-        "name": "Тамерлан",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "приключения",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "woodwalkers_2",
-        "name": "Дети леса 2",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "tensei_shitara_slime_datta_ken",
-        "name": "О моём перерождении в слизь: Слёзы синего моря",
-        "rating": 16,
-        "genres": [
-            "аниме",
             "мультфильм",
-            "фэнтези",
-            "боевик",
+            "фантастика",
             "комедия",
-            "приключения"
+            "приключения",
+            "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -180,6 +57,47 @@
         "length": 190
     },
     {
+        "filmId": "woodwalkers_2",
+        "name": "Дети леса 2",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "name": "Космическая собака Лида",
+        "rating": 16,
+        "genres": [
+            "семейный",
+            "фантастика"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "one_battle_after_another",
         "name": "Обзор премии Оскар 2026: Битва за битвой",
         "rating": 18,
@@ -190,6 +108,18 @@
             "криминал"
         ],
         "length": 160
+    },
+    {
+        "filmId": "rise_of_the_conqueror",
+        "name": "Тамерлан",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "приключения",
+            "военный",
+            "история"
+        ],
+        "length": 105
     },
     {
         "filmId": "bone_keeper",
@@ -212,6 +142,16 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
     },
     {
         "filmId": "wuthering_heights",
@@ -246,6 +186,20 @@
         "length": 115
     },
     {
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "name": "О моём перерождении в слизь: Слёзы синего моря",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "the_mortuary_assistant",
         "name": "Вскрытие демона",
         "rating": 18,
@@ -262,6 +216,52 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "doktor_gaf",
+        "name": "Доктор Гаф",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "koty_ermitazha_2",
+        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "handbok_for_superhjaltar",
+        "name": "Красная маска. Настольная книга супергероя",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "боевик",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
     },
     {
         "filmId": "ready_or_not_here_i_come",

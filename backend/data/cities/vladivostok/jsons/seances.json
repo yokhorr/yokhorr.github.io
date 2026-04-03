@@ -1,789 +1,6 @@
 [
     {
         "date": "03.04",
-        "time": "10:30",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNC0wMyAxMDozMDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "10:35",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wMyAxMDozNTowMDs3MTI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:00",
-        "filmId": "doktor_gaf",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wNC0wMyAxMTowMDowMDs3MTI3MA=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:00",
-        "filmId": "hoppers",
-        "theatre": "Владивосток",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wMyAxMTowMDowMDs3MTI4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:00",
-        "filmId": "handbok_for_superhjaltar",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wMyAxMTowMDowMDs3MjI0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:10",
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNC0wMyAxMToxMDowMDs2NzIzNA=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:30",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNC0wMyAxMTozMDowMDs3MTI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:40",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wNC0wMyAxMTo0MDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:45",
-        "filmId": "hoppers",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDMgMTE6NDU6MDA7NzEyODE="
-    },
-    {
-        "date": "03.04",
-        "time": "11:45",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wMyAxMTo0NTowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:55",
-        "filmId": "hoppers",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wMyAxMTo1NTowMDs3MTI4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "11:55",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Иллюзион",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTAzIDExOjU1OjAwOzcxNzc2"
-    },
-    {
-        "date": "03.04",
-        "time": "11:55",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Океан IMAX",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTAzIDExOjU1OjAwOzcxMjc1"
-    },
-    {
-        "date": "03.04",
-        "time": "12:00",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Уссури",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wMyAxMjowMDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:00",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Иллюзион",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTAzIDEyOjAwOjAwOzcxMjcx"
-    },
-    {
-        "date": "03.04",
-        "time": "12:00",
-        "filmId": "project_hail_mary",
-        "theatre": "Уссури",
-        "cost": 850,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wMyAxMjowMDowMDs3MTY0Nw=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:00",
-        "filmId": "project_hail_mary",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wMyAxMjowMDowMDs3MTY0Nw=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:00",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Уссури",
-        "cost": 850,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wMyAxMjowMDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:10",
-        "filmId": "doktor_gaf",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wMyAxMjoxMDowMDs3MTI3MA=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:10",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wMyAxMjoxMDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:15",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Океан IMAX",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTAzIDEyOjE1OjAwOzcxNjQ5"
-    },
-    {
-        "date": "03.04",
-        "time": "12:20",
-        "filmId": "hoppers",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wMyAxMjoyMDowMDs3MTI4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:20",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wMyAxMjoyMDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:20",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Черёмушки",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wMyAxMjoyMDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:20",
-        "filmId": "skazka_o_care_saltane",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wMyAxMjoyMDowMDs2OTk4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:30",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Иллюзион",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA0LTAzIDEyOjMwOjAwOzcxNjQ5"
-    },
-    {
-        "date": "03.04",
-        "time": "12:30",
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "theatre": "Океан IMAX",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTAzIDEyOjMwOjAwOzY3MjM0"
-    },
-    {
-        "date": "03.04",
-        "time": "12:30",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wMyAxMjozMDowMDs3MTI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:35",
-        "filmId": "handbok_for_superhjaltar",
-        "theatre": "Иллюзион",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTAzIDEyOjM1OjAwOzcyMjQ5"
-    },
-    {
-        "date": "03.04",
-        "time": "12:40",
-        "filmId": "rise_of_the_conqueror",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wMyAxMjo0MDowMDs3MjI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:50",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNC0wMyAxMjo1MDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "12:55",
-        "filmId": "woodwalkers_2",
-        "theatre": "Владивосток",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wMyAxMjo1NTowMDs3MjI1MA=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:00",
-        "filmId": "malysh",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wMyAxMzowMDowMDs3MDg3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:05",
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wMyAxMzowNTowMDs2NzIzNA=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:10",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wNC0wMyAxMzoxMDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:20",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNC0wMyAxMzoyMDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:25",
-        "filmId": "project_hail_mary",
-        "theatre": "Океан IMAX",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTAzIDEzOjI1OjAwOzcxNjQ3"
-    },
-    {
-        "date": "03.04",
-        "time": "13:30",
-        "filmId": "woodwalkers_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNC0wMyAxMzozMDowMDs3MjI1MA=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:35",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Москва",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDMgMTM6MzU6MDA7NzEyNzE="
-    },
-    {
-        "date": "03.04",
-        "time": "13:45",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wMyAxMzo0NTowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "13:50",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTAzIDEzOjUwOjAwOzcxNzc2"
-    },
-    {
-        "date": "03.04",
-        "time": "14:00",
-        "filmId": "project_hail_mary",
-        "theatre": "Уссури",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wMyAxNDowMDowMDs3MTY0Nw=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:00",
-        "filmId": "project_hail_mary",
-        "theatre": "Иллюзион",
-        "cost": 390,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTAzIDE0OjAwOjAwOzcxNjQ3"
-    },
-    {
-        "date": "03.04",
-        "time": "14:10",
-        "filmId": "skazka_o_care_saltane",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wMyAxNDoxMDowMDs2OTk4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:15",
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wMyAxNDoxNTowMDs2NzIzNA=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:20",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wNC0wMyAxNDoyMDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:20",
-        "filmId": "tensei_shitara_slime_datta_ken",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wMyAxNDoyMDowMDs3MTg0Nw=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:30",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wMyAxNDozMDowMDs3MTI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:35",
-        "filmId": "hoppers",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTAzIDE0OjM1OjAwOzcxMjgx"
-    },
-    {
-        "date": "03.04",
-        "time": "14:35",
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTAzIDE0OjM1OjAwOzY3MjM0"
-    },
-    {
-        "date": "03.04",
-        "time": "14:35",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTAzIDE0OjM1OjAwOzcxNzc2"
-    },
-    {
-        "date": "03.04",
-        "time": "14:40",
-        "filmId": "hoppers",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wMyAxNDo0MDowMDs3MTI4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:40",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Уссури",
-        "cost": 1050,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wMyAxNDo0MDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:40",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wMyAxNDo0MDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:40",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wMyAxNDo0MDowMDs3MTI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:40",
-        "filmId": "handbok_for_superhjaltar",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wMyAxNDo0MDowMDs3MjI0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:45",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTAzIDE0OjQ1OjAwOzcxMjcx"
-    },
-    {
-        "date": "03.04",
-        "time": "14:45",
-        "filmId": "peaky_blinders_immortal_man",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wMyAxNDo0NTowMDs3MTg0MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "14:50",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA0LTAzIDE0OjUwOjAwOzcxMjcx"
-    },
-    {
-        "date": "03.04",
-        "time": "14:55",
-        "filmId": "koty_ermitazha_2",
-        "theatre": "Владивосток",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wMyAxNDo1NTowMDs3MTI3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:05",
-        "filmId": "avatar_fire_and_ash",
-        "theatre": "Уссури",
-        "cost": 1150,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wMyAxNTowNTowMDs2ODY0Nw=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:05",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wMyAxNTowNTowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:10",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNC0wMyAxNToxMDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:15",
-        "filmId": "hoppers",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNC0wMyAxNToxNTowMDs3MTI4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:20",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Москва",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDMgMTU6MjA6MDA7NzEyNzE="
-    },
-    {
-        "date": "03.04",
-        "time": "15:20",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wMyAxNToyMDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:20",
-        "filmId": "handbok_for_superhjaltar",
-        "theatre": "Владивосток",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wMyAxNToyMDowMDs3MjI0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:40",
-        "filmId": "malysh",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNC0wMyAxNTo0MDowMDs3MDg3NQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "15:50",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wNC0wMyAxNTo1MDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:25",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wMyAxNjoyNTowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:25",
-        "filmId": "skazka_o_care_saltane",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wMyAxNjoyNTowMDs2OTk4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:30",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Океан IMAX",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTAzIDE2OjMwOjAwOzcxMjcx"
-    },
-    {
-        "date": "03.04",
-        "time": "16:30",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wMyAxNjozMDowMDs3MTI3MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:30",
-        "filmId": "peaky_blinders_immortal_man",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wMyAxNjozMDowMDs3MTg0MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:35",
-        "filmId": "project_hail_mary",
-        "theatre": "Океан IMAX",
-        "cost": 470,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTAzIDE2OjM1OjAwOzcxNjQ3"
-    },
-    {
-        "date": "03.04",
-        "time": "16:35",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wMyAxNjozNTowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:40",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wMyAxNjo0MDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:40",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wMyAxNjo0MDowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:40",
-        "filmId": "handbok_for_superhjaltar",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wMyAxNjo0MDowMDs3MjI0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:45",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Уссури",
-        "cost": 1150,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wMyAxNjo0NTowMDs3MTY0OQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:45",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Владивосток",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wMyAxNjo0NTowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
-        "time": "16:45",
-        "filmId": "handbok_for_superhjaltar",
-        "theatre": "Океан IMAX",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTAzIDE2OjQ1OjAwOzcyMjQ5"
-    },
-    {
-        "date": "03.04",
-        "time": "16:50",
-        "filmId": "domovenok_kuzja_2",
-        "theatre": "Иллюзион",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA0LTAzIDE2OjUwOjAwOzcxMjcx"
-    },
-    {
-        "date": "03.04",
-        "time": "16:50",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Иллюзион",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTAzIDE2OjUwOjAwOzcxNjQ5"
-    },
-    {
-        "date": "03.04",
-        "time": "16:50",
-        "filmId": "korolek_moej_ljubvi",
-        "theatre": "Океан IMAX",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTAzIDE2OjUwOjAwOzcxNjQ5"
-    },
-    {
-        "date": "03.04",
-        "time": "17:00",
-        "filmId": "hoppers",
-        "theatre": "Черёмушки",
-        "cost": 420,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wMyAxNzowMDowMDs3MTI4MQ=="
-    },
-    {
-        "date": "03.04",
-        "time": "17:00",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wNC0wMyAxNzowMDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "03.04",
         "time": "17:05",
         "filmId": "domovenok_kuzja_2",
         "theatre": "Уссури",
@@ -5122,12 +4339,165 @@
     },
     {
         "date": "06.04",
+        "time": "09:50",
+        "filmId": "doktor_gaf",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAwOTo1MDowMDs3MTI3MA=="
+    },
+    {
+        "date": "06.04",
+        "time": "09:50",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAwOTo1MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "09:50",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNiAwOTo1MDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "09:50",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDA5OjUwOjAwOzcxMjc1"
+    },
+    {
+        "date": "06.04",
         "time": "10:00",
         "filmId": "koty_ermitazha_2",
         "theatre": "Москва",
         "cost": 250,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDYgMTA6MDA6MDA7NzEyNzU="
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAxMDowMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNiAxMDowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA2IDEwOjAwOjAwOzcxMjcx"
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNiAxMDowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAxMDowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA2IDEwOjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Иллюзион",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDEwOjAwOjAwOzY3MjM0"
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAxMDowMDowMDs2NzIzNA=="
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDEwOjAwOjAwOzY3MjM0"
+    },
+    {
+        "date": "06.04",
+        "time": "10:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAxMDowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "10:10",
+        "filmId": "hoppers",
+        "theatre": "Иллюзион",
+        "cost": 190,
+        "is3d": true,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA2IDEwOjEwOjAwOzcxMjgx"
+    },
+    {
+        "date": "06.04",
+        "time": "10:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDEwOjEwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "10:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDEwOjEwOjAwOzcxNjQ5"
     },
     {
         "date": "06.04",
@@ -5239,12 +4609,111 @@
     },
     {
         "date": "06.04",
+        "time": "11:45",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDExOjQ1OjAwOzcxMjcx"
+    },
+    {
+        "date": "06.04",
+        "time": "11:55",
+        "filmId": "hoppers",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": true,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAxMTo1NTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "11:55",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAxMTo1NTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNiAxMjowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA2IDEyOjAwOjAwOzcxMjcx"
+    },
+    {
+        "date": "06.04",
+        "time": "12:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNiAxMjowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNiAxMjowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:05",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAxMjowNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
         "time": "12:10",
         "filmId": "domovenok_kuzja_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 420,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wNiAxMjoxMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:15",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDEyOjE1OjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "12:20",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAxMjoyMDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAxMjoyMDowMDs3MTY0OQ=="
     },
     {
         "date": "06.04",
@@ -5257,12 +4726,75 @@
     },
     {
         "date": "06.04",
+        "time": "12:20",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDEyOjIwOjAwOzcxNzc2"
+    },
+    {
+        "date": "06.04",
+        "time": "12:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDEyOjMwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "12:30",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNiAxMjozMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:30",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNiAxMjozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "06.04",
         "time": "12:30",
         "filmId": "koty_ermitazha_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wNiAxMjozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "12:30",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA2IDEyOjMwOjAwOzcyMjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "12:30",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDEyOjMwOjAwOzcyMjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "12:40",
+        "filmId": "woodwalkers_2",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAxMjo0MDowMDs3MjI1MA=="
     },
     {
         "date": "06.04",
@@ -5303,6 +4835,15 @@
     {
         "date": "06.04",
         "time": "13:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA2IDEzOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "13:10",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
@@ -5338,12 +4879,57 @@
     },
     {
         "date": "06.04",
+        "time": "13:45",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDEzOjQ1OjAwOzcxNzc2"
+    },
+    {
+        "date": "06.04",
+        "time": "13:55",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAxMzo1NTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNiAxNDowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA2IDE0OjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
         "time": "14:10",
         "filmId": "how_to_make_a_killing",
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wNiAxNDoxMDowMDs3MTE0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:15",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAxNDoxNTowMDs2NzIzNA=="
     },
     {
         "date": "06.04",
@@ -5356,12 +4942,66 @@
     },
     {
         "date": "06.04",
+        "time": "14:25",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDE0OjI1OjAwOzcyMzI0"
+    },
+    {
+        "date": "06.04",
+        "time": "14:25",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNiAxNDoyNTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:30",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA2IDE0OjMwOjAwOzcxNzc2"
+    },
+    {
+        "date": "06.04",
         "time": "14:30",
         "filmId": "koty_ermitazha_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 480,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wNiAxNDozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:35",
+        "filmId": "hoppers",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": true,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDE0OjM1OjAwOzcxMjgx"
+    },
+    {
+        "date": "06.04",
+        "time": "14:40",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAxNDo0MDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:40",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 1050,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNiAxNDo0MDowMDs3MTI3MQ=="
     },
     {
         "date": "06.04",
@@ -5374,12 +5014,66 @@
     },
     {
         "date": "06.04",
+        "time": "14:40",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAxNDo0MDowMDs3MjI0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:45",
+        "filmId": "rise_of_the_conqueror",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAxNDo0NTowMDs3MjI3NQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:50",
+        "filmId": "doktor_gaf",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAxNDo1MDowMDs3MTI3MA=="
+    },
+    {
+        "date": "06.04",
+        "time": "14:50",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDE0OjUwOjAwOzcxMjcx"
+    },
+    {
+        "date": "06.04",
         "time": "14:55",
         "filmId": "koty_ermitazha_2",
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wNiAxNDo1NTowMDs3MTI3NQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "15:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDE1OjAwOjAwOzcxMjc1"
+    },
+    {
+        "date": "06.04",
+        "time": "15:05",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNiAxNTowNTowMDs3MTI3MQ=="
     },
     {
         "date": "06.04",
@@ -5437,6 +5131,15 @@
     },
     {
         "date": "06.04",
+        "time": "15:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 1150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNiAxNTo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "06.04",
         "time": "15:50",
         "filmId": "korolek_moej_ljubvi",
         "theatre": "Киномакс-Сапфир",
@@ -5455,12 +5158,75 @@
     },
     {
         "date": "06.04",
+        "time": "16:25",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA2IDE2OjI1OjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "16:25",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNiAxNjoyNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "16:25",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDE2OjI1OjAwOzcxNzc2"
+    },
+    {
+        "date": "06.04",
         "time": "16:30",
         "filmId": "skazka_o_care_saltane",
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wNiAxNjozMDowMDs2OTk4MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "16:35",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAxNjozNTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "16:35",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAxNjozNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "16:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAxNjo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "16:40",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 1150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNiAxNjo0MDowMDs3MTg0MQ=="
     },
     {
         "date": "06.04",
@@ -5474,11 +5240,65 @@
     {
         "date": "06.04",
         "time": "16:45",
+        "filmId": "how_to_make_a_killing",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDE2OjQ1OjAwOzcxMTQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "16:45",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wNiAxNjo0NTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "16:50",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDE2OjUwOjAwOzcxMjcx"
+    },
+    {
+        "date": "06.04",
+        "time": "16:50",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDE2OjUwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "16:55",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAxNjo1NTowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "17:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAxNzowMDowMDs3MjMyNA=="
+    },
+    {
+        "date": "06.04",
+        "time": "17:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDE3OjAwOjAwOzcxNjQ5"
     },
     {
         "date": "06.04",
@@ -5491,12 +5311,57 @@
     },
     {
         "date": "06.04",
+        "time": "17:00",
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAxNzowMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNiAxNzowNTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA2IDE3OjA1OjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNiAxNzowNTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
         "time": "17:05",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDYgMTc6MDU6MDA7NzE3NzY="
+    },
+    {
+        "date": "06.04",
+        "time": "17:10",
+        "filmId": "hoppers",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": true,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA2IDE3OjEwOjAwOzcxMjgx"
     },
     {
         "date": "06.04",
@@ -5563,12 +5428,30 @@
     },
     {
         "date": "06.04",
+        "time": "18:35",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAxODozNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
         "time": "18:40",
         "filmId": "korolek_moej_ljubvi",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wNiAxODo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "18:50",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDE4OjUwOjAwOzcxODQx"
     },
     {
         "date": "06.04",
@@ -5581,12 +5464,75 @@
     },
     {
         "date": "06.04",
+        "time": "18:55",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDE4OjU1OjAwOzcxODQx"
+    },
+    {
+        "date": "06.04",
+        "time": "19:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAxOTowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "19:00",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNiAxOTowMDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "06.04",
         "time": "19:00",
         "filmId": "27201",
         "theatre": "Уссури",
         "cost": 380,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNiAxOTowMDowMDsyNzIwMQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "19:05",
+        "filmId": "rise_of_the_conqueror",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAxOTowNTowMDs3MjI3NQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "19:05",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDE5OjA1OjAwOzcxNzc2"
+    },
+    {
+        "date": "06.04",
+        "time": "19:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDE5OjEwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "19:15",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAxOToxNTowMDs3MTY0OQ=="
     },
     {
         "date": "06.04",
@@ -5599,12 +5545,48 @@
     },
     {
         "date": "06.04",
+        "time": "19:15",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAxOToxNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
         "time": "19:20",
         "filmId": "woodwalkers_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 470,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wNiAxOToyMDowMDs3MjI1MA=="
+    },
+    {
+        "date": "06.04",
+        "time": "19:20",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAxOToyMDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "19:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDE5OjIwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "19:30",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA2IDE5OjMwOjAwOzcxNzc2"
     },
     {
         "date": "06.04",
@@ -5627,6 +5609,24 @@
     {
         "date": "06.04",
         "time": "19:40",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNiAxOTo0MDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "19:40",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA2IDE5OjQwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "19:40",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
@@ -5641,6 +5641,33 @@
         "cost": 670,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNC0wNiAyMDoxMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNiAyMDoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA2IDIwOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNiAyMDoxMDowMDs3MTY0Nw=="
     },
     {
         "date": "06.04",
@@ -5698,12 +5725,75 @@
     },
     {
         "date": "06.04",
+        "time": "21:10",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDIxOjEwOjAwOzcxODQx"
+    },
+    {
+        "date": "06.04",
+        "time": "21:15",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDIxOjE1OjAwOzcyMzI0"
+    },
+    {
+        "date": "06.04",
+        "time": "21:15",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAyMToxNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:15",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAyMToxNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAyMToyMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:25",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNiAyMToyNTowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
         "time": "21:25",
         "filmId": "guardians_of_the_galaxy_vol_3",
         "theatre": "Владивосток",
         "cost": 900,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wNiAyMToyNTowMDs0NTgxNg=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDIxOjMwOjAwOzcxNjQ5"
     },
     {
         "date": "06.04",
@@ -5722,6 +5812,69 @@
         "cost": 470,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wNiAyMTozMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:35",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAyMTozNTowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:40",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAyMTo0MDowMDs3MjMyNA=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDIxOjQwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "06.04",
+        "time": "21:45",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDIxOjQ1OjAwOzcxODQx"
+    },
+    {
+        "date": "06.04",
+        "time": "21:50",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNiAyMTo1MDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "21:55",
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAyMTo1NTowMDs3MTg0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "22:10",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA2IDIyOjEwOjAwOzcxNzc2"
     },
     {
         "date": "06.04",
@@ -5779,6 +5932,51 @@
     },
     {
         "date": "06.04",
+        "time": "23:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNiAyMzowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA2IDIzOjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNiAyMzoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA2IDIzOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "06.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNiAyMzoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "06.04",
         "time": "23:10",
         "filmId": "bone_keeper",
         "theatre": "Киномакс-Сапфир",
@@ -5797,12 +5995,138 @@
     },
     {
         "date": "06.04",
+        "time": "23:30",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA2IDIzOjMwOjAwOzcxODQx"
+    },
+    {
+        "date": "06.04",
+        "time": "23:35",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA2IDIzOjM1OjAwOzcyMzI0"
+    },
+    {
+        "date": "06.04",
+        "time": "23:35",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNiAyMzozNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "06.04",
         "time": "23:40",
         "filmId": "the_mortuary_assistant",
         "theatre": "Киномакс-Сапфир",
         "cost": 530,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wNiAyMzo0MDowMDs3MTY1MA=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNiAyMzo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:45",
+        "filmId": "scream_7",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA2IDIzOjQ1OjAwOzcwMDQ1"
+    },
+    {
+        "date": "06.04",
+        "time": "23:45",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNiAyMzo0NTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:55",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNiAyMzo1NTowMDs3MjMyNA=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:55",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNiAyMzo1NTowMDs3MTY0OQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:55",
+        "filmId": "bone_keeper",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNiAyMzo1NTowMDs3MjI1MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:59",
+        "filmId": "bone_keeper",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNiAyMzo1OTowMDs3MjI1MQ=="
+    },
+    {
+        "date": "06.04",
+        "time": "23:59",
+        "filmId": "bone_keeper",
+        "theatre": "Иллюзион",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA2IDIzOjU5OjAwOzcyMjUx"
+    },
+    {
+        "date": "06.04",
+        "time": "23:59",
+        "filmId": "bone_keeper",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA2IDIzOjU5OjAwOzcyMjUx"
+    },
+    {
+        "date": "07.04",
+        "time": "09:50",
+        "filmId": "doktor_gaf",
+        "theatre": "Уссури",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAwOTo1MDowMDs3MTI3MA=="
+    },
+    {
+        "date": "07.04",
+        "time": "09:50",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDA5OjUwOjAwOzcxMjc1"
     },
     {
         "date": "07.04",
@@ -5812,6 +6136,141 @@
         "cost": 250,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDcgMTA6MDA6MDA7NzEyNzU="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAxMDowMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNyAxMDowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA3IDEwOjAwOjAwOzcxMjcx"
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNyAxMDowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAxMDowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAxMDowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDEwOjAwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA3IDEwOjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDEwOjAwOjAwOzY3MjM0"
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAxMDowMDowMDs2NzIzNA=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Океан IMAX",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDEwOjAwOjAwOzY3MjM0"
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNyAxMDowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAxMDowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
+        "time": "10:10",
+        "filmId": "hoppers",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": true,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA3IDEwOjEwOjAwOzcxMjgx"
+    },
+    {
+        "date": "07.04",
+        "time": "10:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDEwOjEwOjAwOzcxNjQ5"
     },
     {
         "date": "07.04",
@@ -5923,12 +6382,111 @@
     },
     {
         "date": "07.04",
+        "time": "11:45",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDExOjQ1OjAwOzcxMjcx"
+    },
+    {
+        "date": "07.04",
+        "time": "11:55",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAxMTo1NTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "11:55",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAxMTo1NTowMDs3MTI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 100,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNyAxMjowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA3IDEyOjAwOjAwOzcxMjcx"
+    },
+    {
+        "date": "07.04",
+        "time": "12:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNyAxMjowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNyAxMjowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
         "time": "12:10",
         "filmId": "domovenok_kuzja_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 420,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wNyAxMjoxMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:15",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDEyOjE1OjAwOzcxNjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "12:20",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAxMjoyMDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAxMjoyMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAxMjoyMDowMDs3MTY0OQ=="
     },
     {
         "date": "07.04",
@@ -5941,12 +6499,75 @@
     },
     {
         "date": "07.04",
+        "time": "12:20",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDEyOjIwOjAwOzcxNzc2"
+    },
+    {
+        "date": "07.04",
+        "time": "12:20",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Океан IMAX",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDEyOjIwOjAwOzcyMjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "12:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDEyOjMwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "12:30",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNyAxMjozMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
         "time": "12:30",
         "filmId": "koty_ermitazha_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wNyAxMjozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:30",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Иллюзион",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA3IDEyOjMwOjAwOzcyMjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "12:40",
+        "filmId": "woodwalkers_2",
+        "theatre": "Черёмушки",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAxMjo0MDowMDs3MjI1MA=="
+    },
+    {
+        "date": "07.04",
+        "time": "12:40",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNyAxMjo0MDowMDs3MTc3Ng=="
     },
     {
         "date": "07.04",
@@ -5987,6 +6608,15 @@
     {
         "date": "07.04",
         "time": "13:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 360,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA3IDEzOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "13:10",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
@@ -6022,12 +6652,66 @@
     },
     {
         "date": "07.04",
+        "time": "13:45",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDEzOjQ1OjAwOzcxNzc2"
+    },
+    {
+        "date": "07.04",
+        "time": "13:50",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAxMzo1MDowMDs2NzIzNA=="
+    },
+    {
+        "date": "07.04",
+        "time": "13:55",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAxMzo1NTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNyAxNDowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 390,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA3IDE0OjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
         "time": "14:10",
         "filmId": "how_to_make_a_killing",
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wNyAxNDoxMDowMDs3MTE0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:20",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDE0OjIwOjAwOzcyMzI0"
     },
     {
         "date": "07.04",
@@ -6041,11 +6725,56 @@
     {
         "date": "07.04",
         "time": "14:30",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA3IDE0OjMwOjAwOzcxNzc2"
+    },
+    {
+        "date": "07.04",
+        "time": "14:30",
         "filmId": "koty_ermitazha_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wNyAxNDozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:35",
+        "filmId": "how_to_make_a_killing",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDE0OjM1OjAwOzcxMTQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "14:40",
+        "filmId": "rise_of_the_conqueror",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAxNDo0MDowMDs3MjI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:40",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAxNDo0MDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:40",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 1050,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNyAxNDo0MDowMDs3MTI3MQ=="
     },
     {
         "date": "07.04",
@@ -6058,12 +6787,57 @@
     },
     {
         "date": "07.04",
+        "time": "14:40",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAxNDo0MDowMDs3MjI0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:50",
+        "filmId": "doktor_gaf",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAxNDo1MDowMDs3MTI3MA=="
+    },
+    {
+        "date": "07.04",
+        "time": "14:50",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDE0OjUwOjAwOzcxMjcx"
+    },
+    {
+        "date": "07.04",
         "time": "14:55",
         "filmId": "koty_ermitazha_2",
         "theatre": "Владивосток",
         "cost": 350,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wNyAxNDo1NTowMDs3MTI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "15:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDE1OjAwOjAwOzcxMjc1"
+    },
+    {
+        "date": "07.04",
+        "time": "15:05",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNyAxNTowNTowMDs3MTI3MQ=="
     },
     {
         "date": "07.04",
@@ -6104,6 +6878,15 @@
     {
         "date": "07.04",
         "time": "15:20",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNyAxNToyMDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "15:20",
         "filmId": "handbok_for_superhjaltar",
         "theatre": "Владивосток",
         "cost": 800,
@@ -6121,12 +6904,30 @@
     },
     {
         "date": "07.04",
+        "time": "15:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 1150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNyAxNTo0NTowMDs2ODY0Nw=="
+    },
+    {
+        "date": "07.04",
         "time": "15:50",
         "filmId": "korolek_moej_ljubvi",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wNC0wNyAxNTo1MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "16:10",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAxNjoxMDowMDs3MTc3Ng=="
     },
     {
         "date": "07.04",
@@ -6139,12 +6940,66 @@
     },
     {
         "date": "07.04",
+        "time": "16:25",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 470,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA3IDE2OjI1OjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "16:25",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDE2OjI1OjAwOzcxNzc2"
+    },
+    {
+        "date": "07.04",
         "time": "16:30",
         "filmId": "skazka_o_care_saltane",
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wNyAxNjozMDowMDs2OTk4MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "16:35",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAxNjozNTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "16:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAxNjo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "16:40",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 1150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNyAxNjo0MDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "16:40",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDE2OjQwOjAwOzcxODQx"
     },
     {
         "date": "07.04",
@@ -6158,11 +7013,56 @@
     {
         "date": "07.04",
         "time": "16:45",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDE2OjQ1OjAwOzcxNjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "16:45",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Владивосток",
         "cost": 400,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wNyAxNjo0NTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
+        "time": "16:50",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDE2OjUwOjAwOzcxMjcx"
+    },
+    {
+        "date": "07.04",
+        "time": "16:50",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAxNjo1MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "17:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAxNzowMDowMDs3MjMyNA=="
+    },
+    {
+        "date": "07.04",
+        "time": "17:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDE3OjAwOjAwOzcxNjQ5"
     },
     {
         "date": "07.04",
@@ -6175,12 +7075,57 @@
     },
     {
         "date": "07.04",
+        "time": "17:00",
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAxNzowMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNyAxNzowNTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA3IDE3OjA1OjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNyAxNzowNTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
         "time": "17:05",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDcgMTc6MDU6MDA7NzE3NzY="
+    },
+    {
+        "date": "07.04",
+        "time": "17:10",
+        "filmId": "hoppers",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": true,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA3IDE3OjEwOjAwOzcxMjgx"
     },
     {
         "date": "07.04",
@@ -6208,6 +7153,15 @@
         "cost": 900,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wNyAxNzozMDowMDs3MjI1MA=="
+    },
+    {
+        "date": "07.04",
+        "time": "17:40",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNyAxNzo0MDowMDs3MTg0MQ=="
     },
     {
         "date": "07.04",
@@ -6247,12 +7201,39 @@
     },
     {
         "date": "07.04",
+        "time": "18:35",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAxODozNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
         "time": "18:40",
         "filmId": "korolek_moej_ljubvi",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wNyAxODo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "18:50",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDE4OjUwOjAwOzcxODQx"
+    },
+    {
+        "date": "07.04",
+        "time": "18:50",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAxODo1MDowMDs3MTc3Ng=="
     },
     {
         "date": "07.04",
@@ -6266,11 +7247,65 @@
     {
         "date": "07.04",
         "time": "19:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAxOTowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:00",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNyAxOTowMDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:00",
         "filmId": "st_margarethen_la_traviata",
         "theatre": "Океан IMAX",
         "cost": 650,
         "is3d": false,
         "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDE5OjAwOjAwOzcyMDI5"
+    },
+    {
+        "date": "07.04",
+        "time": "19:05",
+        "filmId": "rise_of_the_conqueror",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAxOTowNTowMDs3MjI3NQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:05",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDE5OjA1OjAwOzcxNzc2"
+    },
+    {
+        "date": "07.04",
+        "time": "19:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAxOToxMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDE5OjEwOjAwOzcxNjQ5"
     },
     {
         "date": "07.04",
@@ -6289,6 +7324,33 @@
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wNyAxOToyMDowMDs3MjI1MA=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:20",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAxOToyMDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDE5OjIwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "19:30",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA3IDE5OjMwOjAwOzcxNzc2"
     },
     {
         "date": "07.04",
@@ -6311,11 +7373,38 @@
     {
         "date": "07.04",
         "time": "19:40",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNyAxOTo0MDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "19:40",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA3IDE5OjQwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "19:40",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wNC0wNyAxOTo0MDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
+        "time": "20:00",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNyAyMDowMDowMDs3MTg0MQ=="
     },
     {
         "date": "07.04",
@@ -6325,6 +7414,33 @@
         "cost": 670,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNC0wNyAyMDoxMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNyAyMDoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA3IDIwOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNyAyMDoxMDowMDs3MTY0Nw=="
     },
     {
         "date": "07.04",
@@ -6382,12 +7498,75 @@
     },
     {
         "date": "07.04",
+        "time": "21:10",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDIxOjEwOjAwOzcxODQx"
+    },
+    {
+        "date": "07.04",
+        "time": "21:15",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAyMToxNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:15",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAyMToxNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAyMToyMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:25",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNyAyMToyNTowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
         "time": "21:25",
         "filmId": "guardians_of_the_galaxy_vol_3",
         "theatre": "Владивосток",
         "cost": 900,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wNyAyMToyNTowMDs0NTgxNg=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAyMTozMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDIxOjMwOjAwOzcxNjQ5"
     },
     {
         "date": "07.04",
@@ -6402,10 +7581,73 @@
         "date": "07.04",
         "time": "21:30",
         "filmId": "tensei_shitara_slime_datta_ken",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAyMTozMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:30",
+        "filmId": "tensei_shitara_slime_datta_ken",
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wNyAyMTozMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:35",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDIxOjM1OjAwOzcyMzI0"
+    },
+    {
+        "date": "07.04",
+        "time": "21:40",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAyMTo0MDowMDs3MjMyNA=="
+    },
+    {
+        "date": "07.04",
+        "time": "21:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDIxOjQwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "07.04",
+        "time": "21:45",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Океан IMAX",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDIxOjQ1OjAwOzcxODQx"
+    },
+    {
+        "date": "07.04",
+        "time": "22:10",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA3IDIyOjEwOjAwOzcxNzc2"
+    },
+    {
+        "date": "07.04",
+        "time": "22:20",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wNyAyMjoyMDowMDs3MTc3Ng=="
     },
     {
         "date": "07.04",
@@ -6463,6 +7705,51 @@
     },
     {
         "date": "07.04",
+        "time": "23:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wNyAyMzowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA3IDIzOjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wNyAyMzoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA3IDIzOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "07.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wNyAyMzoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "07.04",
         "time": "23:10",
         "filmId": "bone_keeper",
         "theatre": "Киномакс-Сапфир",
@@ -6481,12 +7768,147 @@
     },
     {
         "date": "07.04",
+        "time": "23:30",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA3IDIzOjMwOjAwOzcxODQx"
+    },
+    {
+        "date": "07.04",
+        "time": "23:35",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wNyAyMzozNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:35",
+        "filmId": "bone_keeper",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wNyAyMzozNTowMDs3MjI1MQ=="
+    },
+    {
+        "date": "07.04",
         "time": "23:40",
         "filmId": "the_mortuary_assistant",
         "theatre": "Киномакс-Сапфир",
         "cost": 220,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wNyAyMzo0MDowMDs3MTY1MA=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wNyAyMzo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:45",
+        "filmId": "scream_7",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA3IDIzOjQ1OjAwOzcwMDQ1"
+    },
+    {
+        "date": "07.04",
+        "time": "23:45",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wNyAyMzo0NTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:50",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wNyAyMzo1MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:55",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wNyAyMzo1NTowMDs3MjMyNA=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:55",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA3IDIzOjU1OjAwOzcyMzI0"
+    },
+    {
+        "date": "07.04",
+        "time": "23:55",
+        "filmId": "bone_keeper",
+        "theatre": "Черёмушки",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wNyAyMzo1NTowMDs3MjI1MQ=="
+    },
+    {
+        "date": "07.04",
+        "time": "23:59",
+        "filmId": "bone_keeper",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA3IDIzOjU5OjAwOzcyMjUx"
+    },
+    {
+        "date": "07.04",
+        "time": "23:59",
+        "filmId": "bone_keeper",
+        "theatre": "Океан IMAX",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA3IDIzOjU5OjAwOzcyMjUx"
+    },
+    {
+        "date": "08.04",
+        "time": "09:50",
+        "filmId": "doktor_gaf",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAwOTo1MDowMDs3MTI3MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "09:50",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAwOTo1MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "09:50",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA4IDA5OjUwOjAwOzcxNjQ3"
     },
     {
         "date": "08.04",
@@ -6496,6 +7918,132 @@
         "cost": 250,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDggMTA6MDA6MDA7NzEyNzU="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Черёмушки",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAxMDowMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Океан IMAX",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDEwOjAwOjAwOzcxMjc1"
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wOCAxMDowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA4IDEwOjAwOjAwOzcxMjcx"
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wOCAxMDowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAxMDowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDEwOjAwOjAwOzY3MjM0"
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Черёмушки",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAxMDowMDowMDs2NzIzNA=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Океан IMAX",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDEwOjAwOjAwOzY3MjM0"
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wOCAxMDowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAxMDowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "10:10",
+        "filmId": "hoppers",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": true,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA4IDEwOjEwOjAwOzcxMjgx"
+    },
+    {
+        "date": "08.04",
+        "time": "10:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 280,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDEwOjEwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "10:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 190,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDEwOjEwOjAwOzcxNjQ5"
     },
     {
         "date": "08.04",
@@ -6607,12 +8155,111 @@
     },
     {
         "date": "08.04",
+        "time": "11:55",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAxMTo1NTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "11:55",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDExOjU1OjAwOzcxMjcx"
+    },
+    {
+        "date": "08.04",
+        "time": "11:55",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAxMTo1NTowMDs3MTI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wOCAxMjowMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:00",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA4IDEyOjAwOjAwOzcxMjcx"
+    },
+    {
+        "date": "08.04",
+        "time": "12:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wOCAxMjowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:00",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wOCAxMjowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
         "time": "12:10",
         "filmId": "domovenok_kuzja_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 420,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wOCAxMjoxMDowMDs3MTI3MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAxMjoxMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:15",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDEyOjE1OjAwOzcxNjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "12:20",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAxMjoyMDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAxMjoyMDowMDs3MTY0OQ=="
     },
     {
         "date": "08.04",
@@ -6625,12 +8272,75 @@
     },
     {
         "date": "08.04",
+        "time": "12:20",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDEyOjIwOjAwOzcxNzc2"
+    },
+    {
+        "date": "08.04",
+        "time": "12:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDEyOjMwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "12:30",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wOCAxMjozMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
         "time": "12:30",
         "filmId": "koty_ermitazha_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 400,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wOCAxMjozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:30",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Иллюзион",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA4IDEyOjMwOjAwOzcyMjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "12:30",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDEyOjMwOjAwOzcyMjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "12:40",
+        "filmId": "woodwalkers_2",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAxMjo0MDowMDs3MjI1MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:40",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wOCAxMjo0MDowMDs3MTc3Ng=="
     },
     {
         "date": "08.04",
@@ -6649,6 +8359,15 @@
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wOCAxMjo1NTowMDs3MjI1MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "12:55",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA4IDEyOjU1OjAwOzcxNzc2"
     },
     {
         "date": "08.04",
@@ -6706,6 +8425,51 @@
     },
     {
         "date": "08.04",
+        "time": "13:50",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAxMzo1MDowMDs2NzIzNA=="
+    },
+    {
+        "date": "08.04",
+        "time": "13:55",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDEzOjU1OjAwOzcxMjcx"
+    },
+    {
+        "date": "08.04",
+        "time": "13:55",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAxMzo1NTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wOCAxNDowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 390,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA4IDE0OjAwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "08.04",
         "time": "14:10",
         "filmId": "how_to_make_a_killing",
         "theatre": "Киномакс-Сапфир",
@@ -6724,12 +8488,66 @@
     },
     {
         "date": "08.04",
+        "time": "14:25",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDE0OjI1OjAwOzcyMzI0"
+    },
+    {
+        "date": "08.04",
+        "time": "14:30",
+        "filmId": "rise_of_the_conqueror",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAxNDozMDowMDs3MjI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:30",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA4IDE0OjMwOjAwOzcxNzc2"
+    },
+    {
+        "date": "08.04",
         "time": "14:30",
         "filmId": "koty_ermitazha_2",
         "theatre": "Киномакс-Сапфир",
         "cost": 480,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNC0wOCAxNDozMDowMDs3MTI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:35",
+        "filmId": "hoppers",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": true,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDE0OjM1OjAwOzcxMjgx"
+    },
+    {
+        "date": "08.04",
+        "time": "14:40",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAxNDo0MDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:40",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Уссури",
+        "cost": 1050,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wOCAxNDo0MDowMDs3MTI3MQ=="
     },
     {
         "date": "08.04",
@@ -6742,12 +8560,57 @@
     },
     {
         "date": "08.04",
+        "time": "14:40",
+        "filmId": "handbok_for_superhjaltar",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAxNDo0MDowMDs3MjI0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:50",
+        "filmId": "doktor_gaf",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAxNDo1MDowMDs3MTI3MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "14:50",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDE0OjUwOjAwOzcxMjcx"
+    },
+    {
+        "date": "08.04",
         "time": "14:55",
         "filmId": "koty_ermitazha_2",
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wOCAxNDo1NTowMDs3MTI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "15:00",
+        "filmId": "koty_ermitazha_2",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDE1OjAwOjAwOzcxMjc1"
+    },
+    {
+        "date": "08.04",
+        "time": "15:05",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wOCAxNTowNTowMDs3MTI3MQ=="
     },
     {
         "date": "08.04",
@@ -6788,11 +8651,38 @@
     {
         "date": "08.04",
         "time": "15:20",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wOCAxNToyMDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "15:20",
         "filmId": "handbok_for_superhjaltar",
         "theatre": "Владивосток",
         "cost": 800,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNC0wOCAxNToyMDowMDs3MjI0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "15:35",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA4IDE1OjM1OjAwOzcxNjQ3"
+    },
+    {
+        "date": "08.04",
+        "time": "15:45",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Уссури",
+        "cost": 1150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wOCAxNTo0NTowMDs2ODY0Nw=="
     },
     {
         "date": "08.04",
@@ -6805,12 +8695,30 @@
     },
     {
         "date": "08.04",
+        "time": "15:55",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDE1OjU1OjAwOzcxNzc2"
+    },
+    {
+        "date": "08.04",
         "time": "16:00",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
         "cost": 620,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNC0wOCAxNjowMDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "16:10",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAxNjoxMDowMDs3MTc3Ng=="
     },
     {
         "date": "08.04",
@@ -6832,12 +8740,57 @@
     },
     {
         "date": "08.04",
+        "time": "16:35",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAxNjozNTowMDs3MTI3MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "16:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAxNjo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "16:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAxNjo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "16:40",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 1150,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wOCAxNjo0MDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
         "time": "16:40",
         "filmId": "handbok_for_superhjaltar",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wOCAxNjo0MDowMDs3MjI0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "16:45",
+        "filmId": "how_to_make_a_killing",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDE2OjQ1OjAwOzcxMTQ3"
     },
     {
         "date": "08.04",
@@ -6850,6 +8803,42 @@
     },
     {
         "date": "08.04",
+        "time": "16:50",
+        "filmId": "domovenok_kuzja_2",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDE2OjUwOjAwOzcxMjcx"
+    },
+    {
+        "date": "08.04",
+        "time": "16:50",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDE2OjUwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "17:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAxNzowMDowMDs3MjMyNA=="
+    },
+    {
+        "date": "08.04",
+        "time": "17:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDE3OjAwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "08.04",
         "time": "17:00",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
@@ -6859,12 +8848,57 @@
     },
     {
         "date": "08.04",
+        "time": "17:00",
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAxNzowMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wOCAxNzowNTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 430,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA4IDE3OjA1OjAwOzcxNjQ3"
+    },
+    {
+        "date": "08.04",
+        "time": "17:05",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wOCAxNzowNTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
         "time": "17:05",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Москва",
         "cost": 350,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDQtMDggMTc6MDU6MDA7NzE3NzY="
+    },
+    {
+        "date": "08.04",
+        "time": "17:10",
+        "filmId": "hoppers",
+        "theatre": "Иллюзион",
+        "cost": 420,
+        "is3d": true,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA4IDE3OjEwOjAwOzcxMjgx"
     },
     {
         "date": "08.04",
@@ -6895,6 +8929,15 @@
     },
     {
         "date": "08.04",
+        "time": "17:40",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wOCAxNzo0MDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
         "time": "17:50",
         "filmId": "korolek_moej_ljubvi",
         "theatre": "Киномакс-Сапфир",
@@ -6922,12 +8965,57 @@
     },
     {
         "date": "08.04",
+        "time": "18:35",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAxODozNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "18:35",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDE4OjM1OjAwOzcxNzc2"
+    },
+    {
+        "date": "08.04",
         "time": "18:40",
         "filmId": "malysh",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNC0wOCAxODo0MDowMDs3MDg3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "18:50",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDE4OjUwOjAwOzcxODQx"
+    },
+    {
+        "date": "08.04",
+        "time": "18:50",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAxODo1MDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "18:55",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDE4OjU1OjAwOzcxODQx"
     },
     {
         "date": "08.04",
@@ -6941,11 +9029,47 @@
     {
         "date": "08.04",
         "time": "19:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAxOTowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:00",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wOCAxOTowMDowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:00",
         "filmId": "inside_renzo_piano_building",
         "theatre": "Уссури",
         "cost": 490,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAxOTowMDowMDs3MjIwMA=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:05",
+        "filmId": "rise_of_the_conqueror",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAxOTowNTowMDs3MjI3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:10",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDE5OjEwOjAwOzcxNjQ5"
     },
     {
         "date": "08.04",
@@ -6959,11 +9083,29 @@
     {
         "date": "08.04",
         "time": "19:20",
+        "filmId": "hoppers",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": true,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAxOToyMDowMDs3MTI4MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:20",
         "filmId": "the_matrix_reloaded",
         "theatre": "Киномакс-Сапфир",
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNC0wOCAxOToyMDowMDsxMDIwNQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDE5OjIwOjAwOzcxNjQ5"
     },
     {
         "date": "08.04",
@@ -6973,6 +9115,15 @@
         "cost": 470,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wOCAxOTozMDowMDs3MjI1MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:30",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA4IDE5OjMwOjAwOzcxNzc2"
     },
     {
         "date": "08.04",
@@ -7004,11 +9155,29 @@
     {
         "date": "08.04",
         "time": "19:40",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wOCAxOTo0MDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "19:40",
         "filmId": "tvoe_serdce_budet_razbito",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wNC0wOCAxOTo0MDowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "20:00",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wOCAyMDowMDowMDs3MTg0MQ=="
     },
     {
         "date": "08.04",
@@ -7018,6 +9187,42 @@
         "cost": 670,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNC0wOCAyMDoxMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wOCAyMDoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA4IDIwOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "08.04",
+        "time": "20:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wOCAyMDoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "20:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAyMDozMDowMDs3MTY0OQ=="
     },
     {
         "date": "08.04",
@@ -7066,6 +9271,69 @@
     },
     {
         "date": "08.04",
+        "time": "21:10",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDIxOjEwOjAwOzcxODQx"
+    },
+    {
+        "date": "08.04",
+        "time": "21:15",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDIxOjE1OjAwOzcyMzI0"
+    },
+    {
+        "date": "08.04",
+        "time": "21:15",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAyMToxNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "21:15",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDIxOjE1OjAwOzcxODQx"
+    },
+    {
+        "date": "08.04",
+        "time": "21:15",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAyMToxNTowMDs3MTc3Ng=="
+    },
+    {
+        "date": "08.04",
+        "time": "21:20",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAyMToyMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "21:25",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 1250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wOCAyMToyNTowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
         "time": "21:25",
         "filmId": "guardians_of_the_galaxy_vol_3",
         "theatre": "Владивосток",
@@ -7076,11 +9344,47 @@
     {
         "date": "08.04",
         "time": "21:30",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDIxOjMwOjAwOzcxNjQ5"
+    },
+    {
+        "date": "08.04",
+        "time": "21:30",
         "filmId": "bone_keeper",
         "theatre": "Владивосток",
         "cost": 200,
         "is3d": false,
         "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNC0wOCAyMTozMDowMDs3MjI1MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "21:30",
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAyMTozMDowMDs3MTg0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "21:40",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAyMTo0MDowMDs3MjMyNA=="
+    },
+    {
+        "date": "08.04",
+        "time": "21:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDIxOjQwOjAwOzcxNjQ5"
     },
     {
         "date": "08.04",
@@ -7099,6 +9403,24 @@
         "cost": 550,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNC0wOCAyMjowMDowMDs3MDg3NQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "22:10",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Иллюзион",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "NjsxNDI4OTsyMDI2LTA0LTA4IDIyOjEwOjAwOzcxNzc2"
+    },
+    {
+        "date": "08.04",
+        "time": "22:20",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "theatre": "Уссури",
+        "cost": 490,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNC0wOCAyMjoyMDowMDs3MTc3Ng=="
     },
     {
         "date": "08.04",
@@ -7129,12 +9451,66 @@
     },
     {
         "date": "08.04",
+        "time": "22:30",
+        "filmId": "project_hail_mary",
+        "theatre": "Океан IMAX",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NTsyMDI2LTA0LTA4IDIyOjMwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "08.04",
         "time": "22:50",
         "filmId": "the_mortuary_assistant",
         "theatre": "Киномакс-Сапфир",
         "cost": 530,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNC0wOCAyMjo1MDowMDs3MTY1MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:00",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNC0wOCAyMzowMDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:00",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNC0wOCAyMzowMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Уссури",
+        "cost": 250,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNC0wOCAyMzoxMDowMDs3MTY0Nw=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxNDE2OTsyMDI2LTA0LTA4IDIzOjEwOjAwOzcxNjQ3"
+    },
+    {
+        "date": "08.04",
+        "time": "23:10",
+        "filmId": "project_hail_mary",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNC0wOCAyMzoxMDowMDs3MTY0Nw=="
     },
     {
         "date": "08.04",
@@ -7165,12 +9541,111 @@
     },
     {
         "date": "08.04",
+        "time": "23:30",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxMTsyMDI2LTA0LTA4IDIzOjMwOjAwOzcxODQx"
+    },
+    {
+        "date": "08.04",
+        "time": "23:35",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NzsyMDI2LTA0LTA4IDIzOjM1OjAwOzcyMzI0"
+    },
+    {
+        "date": "08.04",
+        "time": "23:35",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNC0wOCAyMzozNTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:35",
+        "filmId": "bone_keeper",
+        "theatre": "Уссури",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNC0wOCAyMzozNTowMDs3MjI1MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:35",
+        "filmId": "bone_keeper",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjIwNTsyMDI2LTA0LTA4IDIzOjM1OjAwOzcyMjUx"
+    },
+    {
+        "date": "08.04",
+        "time": "23:40",
+        "filmId": "korolek_moej_ljubvi",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNC0wOCAyMzo0MDowMDs3MTY0OQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:45",
+        "filmId": "scream_7",
+        "theatre": "Океан IMAX",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "ODsxNjA4NjsyMDI2LTA0LTA4IDIzOjQ1OjAwOzcwMDQ1"
+    },
+    {
+        "date": "08.04",
+        "time": "23:45",
+        "filmId": "peaky_blinders_immortal_man",
+        "theatre": "Уссури",
+        "cost": 850,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNC0wOCAyMzo0NTowMDs3MTg0MQ=="
+    },
+    {
+        "date": "08.04",
         "time": "23:50",
         "filmId": "the_mortuary_assistant",
         "theatre": "Киномакс-Сапфир",
         "cost": 530,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNC0wOCAyMzo1MDowMDs3MTY1MA=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:55",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNC0wOCAyMzo1NTowMDs3MjMyNA=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:55",
+        "filmId": "bone_keeper",
+        "theatre": "Черёмушки",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNC0wOCAyMzo1NTowMDs3MjI1MQ=="
+    },
+    {
+        "date": "08.04",
+        "time": "23:59",
+        "filmId": "bone_keeper",
+        "theatre": "Иллюзион",
+        "cost": 370,
+        "is3d": false,
+        "buyLink": "NjsxNDI5MDsyMDI2LTA0LTA4IDIzOjU5OjAwOzcyMjUx"
     },
     {
         "date": "10.04",
