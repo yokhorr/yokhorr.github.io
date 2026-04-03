@@ -96,7 +96,7 @@ def parse_film(elem: BeautifulSoup, film_id: str):
             break
 
     # prepare elems to obtain other data
-    rating_elem: BeautifulSoup = elem.find(class_='text-value age')
+    rating_elem: BeautifulSoup = elem.find(class_='age-restriction-value')
     genres_elem: BeautifulSoup = elem.find(class_='genre')
     trailer_elem: BeautifulSoup = elem.find(class_='film__trailer')
     picture_href_elem: BeautifulSoup = elem.find(class_='js-film-pictures-swiper-wrapper')
