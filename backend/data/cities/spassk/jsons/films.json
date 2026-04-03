@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "the_mortuary_assistant",
-        "name": "Вскрытие демона",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "koty_ermitazha_2",
         "name": "Коты Эрмитажа 2. Тайна Египетского зала",
         "rating": 6,
@@ -61,5 +52,14 @@
             "мюзикл"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_mortuary_assistant",
+        "name": "Вскрытие демона",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]

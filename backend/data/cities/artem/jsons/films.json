@@ -1,35 +1,5 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_mortuary_assistant",
-        "name": "Вскрытие демона",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "handbok_for_superhjaltar",
         "name": "Красная маска. Настольная книга супергероя",
         "rating": 6,
@@ -89,6 +59,16 @@
         "length": 105
     },
     {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -119,6 +99,17 @@
         "length": 125
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "peaky_blinders_immortal_man",
         "name": "Острые козырьки: Бессмертный человек",
         "rating": 18,
@@ -128,5 +119,14 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_mortuary_assistant",
+        "name": "Вскрытие демона",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     }
 ]

@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -96,5 +74,16 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     }
 ]
