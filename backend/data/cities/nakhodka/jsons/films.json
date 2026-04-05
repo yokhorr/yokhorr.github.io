@@ -1,56 +1,5 @@
 [
     {
-        "filmId": "71826",
-        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "name": "Космическая собака Лида",
-        "rating": 16,
-        "genres": [
-            "семейный",
-            "фантастика"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "woodwalkers_2",
         "name": "Дети леса 2",
         "rating": 12,
@@ -61,95 +10,14 @@
         "length": 100
     },
     {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "rise_of_the_conqueror",
-        "name": "Тамерлан",
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
         "rating": 16,
         "genres": [
-            "боевик",
-            "приключения",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "doktor_gaf",
-        "name": "Доктор Гаф",
-        "rating": 12,
-        "genres": [
             "комедия",
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "koty_ermitazha_2",
-        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "hateshinaki_scarlet",
-        "name": "Скарлет",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези"
+            "мюзикл"
         ],
         "length": 110
-    },
-    {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "peaky_blinders_immortal_man",
@@ -175,6 +43,58 @@
             "приключения"
         ],
         "length": 105
+    },
+    {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "rise_of_the_conqueror",
+        "name": "Тамерлан",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "приключения",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     },
     {
         "filmId": "the_bride",
@@ -206,6 +126,86 @@
             "фантастика",
             "триллер",
             "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "71826",
+        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "приключения"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "name": "Космическая собака Лида",
+        "rating": 16,
+        "genres": [
+            "семейный",
+            "фантастика"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "doktor_gaf",
+        "name": "Доктор Гаф",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "koty_ermitazha_2",
+        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "hateshinaki_scarlet",
+        "name": "Скарлет",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "handbok_for_superhjaltar",
+        "name": "Красная маска. Настольная книга супергероя",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "боевик",
+            "семейный"
         ],
         "length": 90
     }
