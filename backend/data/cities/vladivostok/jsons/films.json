@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "doktor_gaf",
+        "name": "Доктор Гаф",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "tvoe_serdce_budet_razbito",
         "name": "Твоё сердце будет разбито",
         "rating": 16,
@@ -9,36 +30,16 @@
         "length": 125
     },
     {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
+        "filmId": "koty_ermitazha_2",
+        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
+        "rating": 6,
         "genres": [
-            "криминал",
-            "драма",
-            "история"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "how_to_make_a_killing",
-        "name": "Наследник",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
+        "length": 90
     },
     {
         "filmId": "domovenok_kuzja_2",
@@ -52,85 +53,6 @@
         "length": 100
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "guardians_of_the_galaxy_vol_3",
-        "name": "Стражи Галактики. Часть 3",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "bone_keeper",
-        "name": "Хищник. Спуск в преисподнюю",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "tensei_shitara_slime_datta_ken",
-        "name": "О моём перерождении в слизь: Слёзы синего моря",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -140,57 +62,6 @@
             "драма"
         ],
         "length": 155
-    },
-    {
-        "filmId": "the_mortuary_assistant",
-        "name": "Вскрытие демона",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "novaja_tesha",
-        "name": "Новая тёща",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "scream_7",
-        "name": "Крик 7",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "детектив"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "doktor_gaf",
-        "name": "Доктор Гаф",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "koty_ermitazha_2",
-        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
     },
     {
         "filmId": "kosmicheskaja_sobaka_lida",
@@ -228,6 +99,17 @@
         "length": 90
     },
     {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "woodwalkers_2",
         "name": "Дети леса 2",
         "rating": 12,
@@ -236,6 +118,38 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "how_to_make_a_killing",
+        "name": "Наследник",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "rise_of_the_conqueror",
@@ -263,6 +177,31 @@
         "length": 190
     },
     {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "name": "О моём перерождении в слизь: Слёзы синего моря",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "27201",
         "name": "Лоуренс Аравийский. Часть 1",
         "rating": 16,
@@ -274,6 +213,67 @@
             "история"
         ],
         "length": 140
+    },
+    {
+        "filmId": "bone_keeper",
+        "name": "Хищник. Спуск в преисподнюю",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "guardians_of_the_galaxy_vol_3",
+        "name": "Стражи Галактики. Часть 3",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "комедия",
+            "приключения"
+        ],
+        "length": 160
+    },
+    {
+        "filmId": "the_mortuary_assistant",
+        "name": "Вскрытие демона",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "novaja_tesha",
+        "name": "Новая тёща",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "scream_7",
+        "name": "Крик 7",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "детектив"
+        ],
+        "length": 115
     },
     {
         "filmId": "st_margarethen_la_traviata",
@@ -569,5 +569,14 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "24913",
+        "name": "Время развлечений",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 155
     }
 ]
