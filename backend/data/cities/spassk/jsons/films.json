@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "koty_ermitazha_2",
-        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -61,5 +28,49 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "koty_ermitazha_2",
+        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "artek_kosmicheskie_prikljuchenija",
+        "name": "Артек. Космические приключения",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "семейный",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "handbok_for_superhjaltar",
+        "name": "Красная маска. Настольная книга супергероя",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "боевик",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     }
 ]
