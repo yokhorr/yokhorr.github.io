@@ -1,29 +1,5 @@
 [
     {
-        "filmId": "tensei_shitara_slime_datta_ken",
-        "name": "О моём перерождении в слизь: Слёзы синего моря",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "woodwalkers_2",
-        "name": "Дети леса 2",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "send_help",
         "name": "На помощь!",
         "rating": 18,
@@ -31,59 +7,6 @@
             "триллер"
         ],
         "length": 115
-    },
-    {
-        "filmId": "rise_of_the_conqueror",
-        "name": "Тамерлан",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "приключения",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
     },
     {
         "filmId": "the_bride",
@@ -96,6 +19,16 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
     },
     {
         "filmId": "bone_keeper",
@@ -120,6 +53,15 @@
         "length": 50
     },
     {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -139,6 +81,16 @@
             "фантастика"
         ],
         "length": 110
+    },
+    {
+        "filmId": "woodwalkers_2",
+        "name": "Дети леса 2",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "doktor_gaf",
@@ -198,5 +150,53 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "tensei_shitara_slime_datta_ken",
+        "name": "О моём перерождении в слизь: Слёзы синего моря",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "rise_of_the_conqueror",
+        "name": "Тамерлан",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "приключения",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
     }
 ]
