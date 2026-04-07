@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "the_bride",
-        "name": "Невеста!",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "драма",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -109,5 +86,28 @@
             "драма"
         ],
         "length": 155
+    },
+    {
+        "filmId": "the_bride",
+        "name": "Невеста!",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "драма",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
     }
 ]

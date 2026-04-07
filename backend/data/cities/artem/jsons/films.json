@@ -1,35 +1,5 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_mortuary_assistant",
-        "name": "Вскрытие демона",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 6,
@@ -89,6 +59,16 @@
         "length": 90
     },
     {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "skazka_o_care_saltane",
         "name": "Сказка о царе Салтане",
         "rating": 6,
@@ -98,6 +78,17 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "tvoe_serdce_budet_razbito",
@@ -128,6 +119,15 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_mortuary_assistant",
+        "name": "Вскрытие демона",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
