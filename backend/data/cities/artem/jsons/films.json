@@ -1,94 +1,13 @@
 [
     {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "koty_ermitazha_2",
-        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "doktor_gaf",
-        "name": "Доктор Гаф",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "name": "Космическая собака Лида",
         "rating": 16,
         "genres": [
-            "комедия",
-            "мюзикл"
+            "семейный",
+            "фантастика"
         ],
         "length": 110
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "tvoe_serdce_budet_razbito",
@@ -100,12 +19,12 @@
         "length": 125
     },
     {
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "name": "Космическая собака Лида",
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
         "rating": 16,
         "genres": [
-            "семейный",
-            "фантастика"
+            "комедия",
+            "мюзикл"
         ],
         "length": 110
     },
@@ -119,6 +38,17 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "the_mortuary_assistant",
@@ -149,6 +79,29 @@
             "комедия"
         ],
         "length": -1
+    },
+    {
+        "filmId": "koty_ermitazha_2",
+        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_super_mario_galaxy_movie",
