@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "the_morrigan",
+        "name": "Мумия. Возрождение зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "moja_sobaka_kosmonavt",
         "name": "Моя собака – космонавт",
         "rating": 6,
@@ -8,7 +27,7 @@
             "приключения",
             "комедия"
         ],
-        "length": -1
+        "length": 105
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -32,16 +51,6 @@
         "length": 100
     },
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "tvoe_serdce_budet_razbito",
         "name": "Твоё сердце будет разбито",
         "rating": 16,
@@ -49,15 +58,6 @@
             "мелодрама"
         ],
         "length": 125
-    },
-    {
-        "filmId": "the_morrigan",
-        "name": "Мумия. Возрождение зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     },
     {
         "filmId": "korolek_moej_ljubvi",
