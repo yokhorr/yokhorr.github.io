@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "the_morrigan",
         "name": "Мумия. Возрождение зла",
         "rating": 18,
@@ -58,6 +48,16 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "korolek_moej_ljubvi",
