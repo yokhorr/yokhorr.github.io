@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -70,5 +59,16 @@
             "мюзикл"
         ],
         "length": 110
+    },
+    {
+        "filmId": "hejter",
+        "name": "Хейтер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 85
     }
 ]
