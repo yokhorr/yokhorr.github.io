@@ -1,35 +1,12 @@
 [
     {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
+            "криминал",
+            "драма",
+            "история"
         ],
         "length": 110
     },
@@ -45,13 +22,17 @@
         "length": 105
     },
     {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
         "genres": [
-            "мелодрама"
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 125
+        "length": 100
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -64,28 +45,6 @@
         "length": 85
     },
     {
-        "filmId": "koty_ermitazha_2",
-        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "woodwalkers_2",
-        "name": "Дети леса 2",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "malysh",
         "name": "Малыш",
         "rating": 16,
@@ -94,6 +53,15 @@
             "военный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     },
     {
         "filmId": "project_hail_mary",
@@ -107,17 +75,6 @@
         "length": 155
     },
     {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_drama",
         "name": "Вот это драма!",
         "rating": 18,
@@ -126,55 +83,6 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "skazka_o_care_saltane",
-        "name": "Сказка о царе Салтане",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
     },
     {
         "filmId": "kosmicheskaja_sobaka_lida",
@@ -187,6 +95,17 @@
         "length": 110
     },
     {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "bone_keeper",
         "name": "Хищник. Спуск в преисподнюю",
         "rating": 18,
@@ -196,6 +115,16 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
     },
     {
         "filmId": "ready_or_not_here_i_come",
@@ -216,6 +145,19 @@
             "документальный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
     },
     {
         "filmId": "how_to_make_a_killing",
@@ -247,6 +189,64 @@
             "мелодрама"
         ],
         "length": 85
+    },
+    {
+        "filmId": "koty_ermitazha_2",
+        "name": "Коты Эрмитажа 2. Тайна Египетского зала",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "woodwalkers_2",
+        "name": "Дети леса 2",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "skazka_o_care_saltane",
+        "name": "Сказка о царе Салтане",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "handbok_for_superhjaltar",
+        "name": "Красная маска. Настольная книга супергероя",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "боевик",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "marja_iskusnica",
@@ -485,11 +485,14 @@
         "length": 90
     },
     {
-        "filmId": "42713",
-        "name": "Киномакс тест 4",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "filmId": "hobbit_an_unexpected_jour",
+        "name": "Хоббит: Нежданное путешествие",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "la_seconda_vita",
@@ -586,6 +589,17 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "hobbit_the_desolation_of_",
+        "name": "Хоббит: Пустошь Смауга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "приключения"
+        ],
+        "length": 160
     },
     {
         "filmId": "litvjak",
