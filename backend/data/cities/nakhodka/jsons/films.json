@@ -1,56 +1,5 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "bone_keeper",
-        "name": "Хищник. Спуск в преисподнюю",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "woodwalkers_2",
         "name": "Дети леса 2",
         "rating": 12,
@@ -106,6 +55,16 @@
         "length": 105
     },
     {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 6,
@@ -142,6 +101,16 @@
         "length": 100
     },
     {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "rise_of_the_conqueror",
         "name": "Тамерлан",
         "rating": 16,
@@ -174,6 +143,17 @@
         "length": 110
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "hejter",
         "name": "Хейтер",
         "rating": 16,
@@ -183,6 +163,15 @@
             "мелодрама"
         ],
         "length": 85
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
     },
     {
         "filmId": "peaky_blinders_immortal_man",
@@ -215,5 +204,16 @@
             "мелодрама"
         ],
         "length": 135
+    },
+    {
+        "filmId": "bone_keeper",
+        "name": "Хищник. Спуск в преисподнюю",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
