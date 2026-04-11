@@ -24,16 +24,6 @@
         "length": 100
     },
     {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "moja_sobaka_kosmonavt",
         "name": "Моя собака – космонавт",
         "rating": 6,
@@ -43,6 +33,27 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -62,6 +73,113 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "kosmicheskaja_sobaka_lida",
+        "name": "Космическая собака Лида",
+        "rating": 16,
+        "genres": [
+            "семейный",
+            "фантастика"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "bone_keeper",
+        "name": "Хищник. Спуск в преисподнюю",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "how_to_make_a_killing",
+        "name": "Наследник",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "hejter",
+        "name": "Хейтер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_morrigan",
+        "name": "Мумия. Возрождение зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "koty_ermitazha_2",
@@ -86,25 +204,15 @@
         "length": 100
     },
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
+        "filmId": "marja_iskusnica",
+        "name": "В гостях у сказки: Марья-искусница",
+        "rating": 6,
         "genres": [
-            "мелодрама",
-            "комедия"
+            "фэнтези",
+            "семейный",
+            "приключения"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
+        "length": 75
     },
     {
         "filmId": "hoppers",
@@ -143,30 +251,6 @@
         "length": 90
     },
     {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
         "filmId": "emeljanenko",
         "name": "Емельяненко",
         "rating": 18,
@@ -174,90 +258,6 @@
             "документальный"
         ],
         "length": 90
-    },
-    {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "kosmicheskaja_sobaka_lida",
-        "name": "Космическая собака Лида",
-        "rating": 16,
-        "genres": [
-            "семейный",
-            "фантастика"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "bone_keeper",
-        "name": "Хищник. Спуск в преисподнюю",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "how_to_make_a_killing",
-        "name": "Наследник",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_morrigan",
-        "name": "Мумия. Возрождение зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "marja_iskusnica",
-        "name": "В гостях у сказки: Марья-искусница",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный",
-            "приключения"
-        ],
-        "length": 75
     },
     {
         "filmId": "27204",
