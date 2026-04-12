@@ -1,77 +1,5 @@
 [
     {
-        "filmId": "crime_101",
-        "name": "Ограбление в Лос-Анжелесе",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "bone_keeper",
-        "name": "Хищник. Спуск в преисподнюю",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "woodwalkers_2",
         "name": "Дети леса 2",
         "rating": 12,
@@ -127,6 +55,16 @@
         "length": 105
     },
     {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -175,6 +113,16 @@
         "length": 105
     },
     {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "hateshinaki_scarlet",
         "name": "Скарлет",
         "rating": 18,
@@ -184,6 +132,17 @@
             "фэнтези"
         ],
         "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "tvoe_serdce_budet_razbito",
@@ -204,5 +163,25 @@
             "мелодрама"
         ],
         "length": 85
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "bone_keeper",
+        "name": "Хищник. Спуск в преисподнюю",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "ужасы"
+        ],
+        "length": 90
     }
 ]
