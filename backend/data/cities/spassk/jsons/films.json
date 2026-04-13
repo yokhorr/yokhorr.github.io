@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "hejter",
         "name": "Хейтер",
         "rating": 16,
@@ -42,6 +21,17 @@
         "length": 85
     },
     {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "tvoe_serdce_budet_razbito",
         "name": "Твоё сердце будет разбито",
         "rating": 16,
@@ -59,5 +49,15 @@
             "мюзикл"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     }
 ]

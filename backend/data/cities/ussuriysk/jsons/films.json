@@ -1,12 +1,14 @@
 [
     {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
         "rating": 16,
         "genres": [
-            "мелодрама"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 125
+        "length": 155
     },
     {
         "filmId": "ready_or_not_here_i_come",
@@ -18,16 +20,5 @@
             "комедия"
         ],
         "length": 105
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     }
 ]
