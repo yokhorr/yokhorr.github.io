@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -98,6 +77,16 @@
         "length": 125
     },
     {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "the_drama",
         "name": "Вот это драма!",
         "rating": 18,
@@ -117,5 +106,16 @@
             "драма"
         ],
         "length": 155
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
     }
 ]
