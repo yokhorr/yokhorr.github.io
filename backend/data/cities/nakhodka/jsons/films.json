@@ -1,68 +1,14 @@
 [
     {
-        "filmId": "woodwalkers_2",
-        "name": "Дети леса 2",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "handbok_for_superhjaltar",
-        "name": "Красная маска. Настольная книга супергероя",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "боевик",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "71826",
-        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
+        "filmId": "hejter",
+        "name": "Хейтер",
         "rating": 16,
         "genres": [
+            "драма",
             "комедия",
-            "мюзикл"
+            "мелодрама"
         ],
-        "length": 110
+        "length": 85
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -88,29 +34,15 @@
         "length": 100
     },
     {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "rise_of_the_conqueror",
-        "name": "Тамерлан",
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
         "rating": 16,
         "genres": [
-            "боевик",
-            "приключения",
-            "военный",
-            "история"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 105
+        "length": 155
     },
     {
         "filmId": "the_drama",
@@ -123,26 +55,14 @@
         "length": 100
     },
     {
-        "filmId": "hateshinaki_scarlet",
-        "name": "Скарлет",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
         "rating": 16,
         "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
+            "комедия",
+            "мюзикл"
         ],
-        "length": 155
+        "length": 110
     },
     {
         "filmId": "tvoe_serdce_budet_razbito",
@@ -154,15 +74,15 @@
         "length": 125
     },
     {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
         "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
+            "семейный",
+            "приключения",
+            "комедия"
         ],
-        "length": 85
+        "length": 105
     },
     {
         "filmId": "send_help",
@@ -183,5 +103,93 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "71826",
+        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "приключения"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "gourou",
+        "name": "Гуру",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     }
 ]

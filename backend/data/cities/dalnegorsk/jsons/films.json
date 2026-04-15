@@ -1,35 +1,12 @@
 [
     {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
+        "filmId": "the_morrigan",
+        "name": "Мумия. Возрождение зла",
+        "rating": 18,
         "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
+            "ужасы"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
+        "length": 95
     },
     {
         "filmId": "the_drama",
@@ -42,6 +19,68 @@
         "length": 100
     },
     {
+        "filmId": "zolushka_tajna_treh_zhelanij",
+        "name": "Золушка. Тайна трёх желаний",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "zhenih_s_marsa",
+        "name": "Жених с Марса",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "фантастика"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "tvoe_serdce_budet_razbito",
         "name": "Твоё сердце будет разбито",
         "rating": 16,
@@ -51,12 +90,13 @@
         "length": 125
     },
     {
-        "filmId": "the_morrigan",
-        "name": "Мумия. Возрождение зла",
+        "filmId": "gourou",
+        "name": "Гуру",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "триллер",
+            "драма"
         ],
-        "length": 95
+        "length": 125
     }
 ]
