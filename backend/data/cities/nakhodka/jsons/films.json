@@ -1,68 +1,12 @@
 [
     {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "petrushka",
         "name": "Петрушка",
         "rating": 6,
         "genres": [
             "комедия"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "71826",
-        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 85
+        "length": 90
     },
     {
         "filmId": "yooz",
@@ -76,6 +20,15 @@
         "length": 80
     },
     {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -85,59 +38,6 @@
             "драма"
         ],
         "length": 155
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "gourou",
-        "name": "Гуру",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
     },
     {
         "filmId": "ready_or_not_here_i_come",
@@ -161,6 +61,38 @@
         "length": 100
     },
     {
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "72702",
         "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
         "rating": 0,
@@ -171,5 +103,71 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "zolushka_tajna_treh_zhelanij",
+        "name": "Золушка. Тайна трёх желаний",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "hejter",
+        "name": "Хейтер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "gourou",
+        "name": "Гуру",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 125
     }
 ]

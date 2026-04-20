@@ -1,46 +1,53 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "petrushka",
-        "name": "Петрушка",
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
         "rating": 6,
         "genres": [
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
             "комедия",
-            "приключения",
-            "семейный"
+            "семейный",
+            "фэнтези"
         ],
         "length": 100
     },
     {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
+        "filmId": "gourou",
+        "name": "Гуру",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фэнтези"
+            "триллер",
+            "драма"
         ],
-        "length": 85
+        "length": 125
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "moja_sobaka_kosmonavt",
@@ -54,51 +61,6 @@
         "length": 105
     },
     {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "yooz",
-        "name": "Толстяк Юзи",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "xiong_mao_ji_hua_2",
         "name": "Операция «Панда»: Дикая миссия",
         "rating": 16,
@@ -110,87 +72,15 @@
         "length": 100
     },
     {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
         "rating": 16,
         "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "zhenih_s_marsa",
-        "name": "Жених с Марса",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "normal",
-        "name": "Нормал",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "gourou",
-        "name": "Гуру",
-        "rating": 18,
-        "genres": [
+            "фантастика",
             "триллер",
             "драма"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
+        "length": 155
     },
     {
         "filmId": "wuthering_heights",
@@ -201,157 +91,6 @@
             "мелодрама"
         ],
         "length": 135
-    },
-    {
-        "filmId": "sinners",
-        "name": "Обзор премии Оскар 2026: Грешники",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "italian_best_shorts_8",
-        "name": "RIFF 2026: Italian Best Shorts. Искусство быть вместе",
-        "rating": 18,
-        "genres": [
-            "короткометражный",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "oldeuboi",
-        "name": "Олдбой",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "детектив",
-            "драма",
-            "боевик",
-            "криминал"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 190
-    },
-    {
-        "filmId": "almarhum",
-        "name": "Пункт назначения. Новая кровь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "so_tutto_di_te",
-        "name": "RIFF 2026: Пароль от сердца",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "una_storia_nera",
-        "name": "RIFF 2026: Правда или ложь?",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "72702",
-        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "roberto_rossellini_piu_di_una",
-        "name": "RIFF 2026: Росселлини. Жизнь без сценария",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "71337",
-        "name": "Иммерсивный лекторий-концерт (+караоке-хор) «Грани таланта Исаака Дунаевского»",
-        "rating": 12,
-        "genres": [],
-        "length": 122
-    },
-    {
-        "filmId": "la_storia_del_frank_e_della_ni",
-        "name": "RIFF 2026: История Франка и Нины",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "un_mondo_sotto_social",
-        "name": "RIFF 2026: Любовь без фильтров",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "bernardo_bertolucci_generazion",
-        "name": "RIFF 2026: Бернардо Бертолуччи и его поколение",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "italian_best_shorts_2024",
-        "name": "RIFF 2026: Italian Best Shorts. Крутые повороты",
-        "rating": 18,
-        "genres": [
-            "короткометражный",
-            "драма",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ciao_bambino",
-        "name": "RIFF 2026: Чао, Бамбино",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 100
     },
     {
         "filmId": "berlinguer_la_grande_ambizione",
@@ -373,6 +112,163 @@
             "комедия"
         ],
         "length": 125
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "normal",
+        "name": "Нормал",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "avatar_fire_and_ash",
+        "name": "Аватар: Пламя и пепел",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 190
+    },
+    {
+        "filmId": "almarhum",
+        "name": "Пункт назначения. Новая кровь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "oldeuboi",
+        "name": "Олдбой",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "детектив",
+            "драма",
+            "боевик",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "zolushka_tajna_treh_zhelanij",
+        "name": "Золушка. Тайна трёх желаний",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "zhenih_s_marsa",
+        "name": "Жених с Марса",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "фантастика"
+        ],
+        "length": 80
     },
     {
         "filmId": "shurale",
@@ -441,14 +337,26 @@
         "length": 85
     },
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
         "rating": 12,
         "genres": [
-            "драма",
-            "история"
+            "комедия",
+            "семейный"
         ],
-        "length": -1
+        "length": 100
     },
     {
         "filmId": "kommersant",
@@ -456,6 +364,16 @@
         "rating": 18,
         "genres": [
             "драма"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
         ],
         "length": -1
     },
@@ -469,6 +387,15 @@
             "криминал"
         ],
         "length": 155
+    },
+    {
+        "filmId": "72911",
+        "name": "Мероприятие: Горы зовут",
+        "rating": 16,
+        "genres": [
+            "документальный"
+        ],
+        "length": 75
     },
     {
         "filmId": "zhdun_2",
@@ -499,6 +426,15 @@
             "драма"
         ],
         "length": 185
+    },
+    {
+        "filmId": "72910",
+        "name": "Люди большой воды",
+        "rating": 12,
+        "genres": [
+            "документальный"
+        ],
+        "length": 100
     },
     {
         "filmId": "more_than_a_museum",
@@ -539,6 +475,17 @@
         "length": 160
     },
     {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "litvjak",
         "name": "Литвяк",
         "rating": 12,
@@ -566,6 +513,16 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "36324",
+        "name": "Сны Акиры Куросавы",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "драма"
+        ],
+        "length": 119
     },
     {
         "filmId": "teatr_krasnyj_fakel_besy",

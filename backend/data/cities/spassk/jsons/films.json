@@ -1,12 +1,43 @@
 [
     {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "almarhum",
+        "name": "Пункт назначения. Новая кровь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hejter",
+        "name": "Хейтер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "petrushka",
         "name": "Петрушка",
         "rating": 6,
         "genres": [
             "комедия"
         ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -27,36 +58,5 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "almarhum",
-        "name": "Пункт назначения. Новая кровь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
     }
 ]
