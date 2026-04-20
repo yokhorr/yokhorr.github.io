@@ -1,117 +1,13 @@
 [
     {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "gourou",
-        "name": "Гуру",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
+        "filmId": "malysh",
+        "name": "Малыш",
         "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "xiong_mao_ji_hua_2",
-        "name": "Операция «Панда»: Дикая миссия",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
-        "rating": 18,
         "genres": [
             "драма",
-            "мелодрама"
+            "военный"
         ],
-        "length": 135
-    },
-    {
-        "filmId": "berlinguer_la_grande_ambizione",
-        "name": "RIFF 2026: Берлингуэр. Великие амбиции",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография",
-            "история"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "mon_oncle_damerique",
-        "name": "Мой американский дядюшка",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 125
+        "length": 115
     },
     {
         "filmId": "ready_or_not_here_i_come",
@@ -125,6 +21,16 @@
         "length": 105
     },
     {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "normal",
         "name": "Нормал",
         "rating": 18,
@@ -136,26 +42,15 @@
         "length": 90
     },
     {
-        "filmId": "petrushka",
-        "name": "Петрушка",
-        "rating": 6,
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
         "genres": [
-            "комедия"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
+        "length": 155
     },
     {
         "filmId": "peaky_blinders_immortal_man",
@@ -169,14 +64,13 @@
         "length": 110
     },
     {
-        "filmId": "malysh",
-        "name": "Малыш",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
         "rating": 16,
         "genres": [
-            "драма",
-            "военный"
+            "мелодрама"
         ],
-        "length": 115
+        "length": 125
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -214,6 +108,38 @@
         "length": 122
     },
     {
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "yooz",
         "name": "Толстяк Юзи",
         "rating": 6,
@@ -235,6 +161,17 @@
         "length": 85
     },
     {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "72702",
         "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
         "rating": 0,
@@ -245,6 +182,17 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "hoppers",
@@ -260,6 +208,17 @@
         "length": 105
     },
     {
+        "filmId": "xiong_mao_ji_hua_2",
+        "name": "Операция «Панда»: Дикая миссия",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "zhenih_s_marsa",
         "name": "Жених с Марса",
         "rating": 12,
@@ -269,6 +228,26 @@
             "фантастика"
         ],
         "length": 80
+    },
+    {
+        "filmId": "gourou",
+        "name": "Гуру",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "wuthering_heights",
+        "name": "Грозовой перевал",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 135
     },
     {
         "filmId": "shurale",

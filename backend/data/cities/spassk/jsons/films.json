@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "almarhum",
-        "name": "Пункт назначения. Новая кровь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "hejter",
         "name": "Хейтер",
         "rating": 16,
@@ -40,6 +20,17 @@
         "length": 90
     },
     {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -48,6 +39,15 @@
             "фэнтези"
         ],
         "length": 85
+    },
+    {
+        "filmId": "almarhum",
+        "name": "Пункт назначения. Новая кровь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_drama",
