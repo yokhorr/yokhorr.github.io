@@ -22,16 +22,65 @@
         "length": 90
     },
     {
-        "filmId": "72702",
-        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
-        "rating": 0,
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
         "genres": [
             "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 50
+        "length": 80
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
     },
     {
         "filmId": "korolek_moej_ljubvi",
@@ -44,6 +93,18 @@
         "length": 110
     },
     {
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "moja_sobaka_kosmonavt",
         "name": "Моя собака – космонавт",
         "rating": 6,
@@ -53,17 +114,6 @@
             "комедия"
         ],
         "length": 105
-    },
-    {
-        "filmId": "yooz",
-        "name": "Толстяк Юзи",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 80
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -85,27 +135,6 @@
             "мелодрама"
         ],
         "length": 85
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "domovenok_kuzja_2",
@@ -140,34 +169,5 @@
             "драма"
         ],
         "length": 125
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
     }
 ]
