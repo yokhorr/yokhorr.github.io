@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "moja_sobaka_kosmonavt",
         "name": "Моя собака – космонавт",
         "rating": 6,
@@ -56,6 +46,16 @@
         "rating": 18,
         "genres": [
             "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
         ],
         "length": 100
     }
