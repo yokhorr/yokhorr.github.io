@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "normal",
+        "name": "Нормал",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "almarhum",
         "name": "Пункт назначения. Новая кровь",
         "rating": 18,
@@ -18,25 +29,5 @@
             "комедия"
         ],
         "length": 105
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "normal",
-        "name": "Нормал",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 90
     }
 ]
