@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "gourou",
         "name": "Гуру",
         "rating": 18,
@@ -30,46 +8,6 @@
             "драма"
         ],
         "length": 125
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
     },
     {
         "filmId": "normal",
@@ -83,44 +21,14 @@
         "length": 90
     },
     {
-        "filmId": "wuthering_heights",
-        "name": "Грозовой перевал",
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
         "rating": 18,
         "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "forbidden_fruits",
-        "name": "Запретный плод",
-        "rating": 18,
-        "genres": [
-            "ужасы",
+            "мелодрама",
             "комедия"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "lultima_settimana_di_settembre",
-        "name": "RIFF 2026: Последняя неделя лета",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "hobbit_an_unexpected_jour",
-        "name": "Хоббит: Нежданное путешествие",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 170
+        "length": 100
     },
     {
         "filmId": "ready_or_not_here_i_come",
@@ -134,26 +42,25 @@
         "length": 105
     },
     {
-        "filmId": "petrushka",
-        "name": "Петрушка",
-        "rating": 6,
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
         "genres": [
-            "комедия"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 90
+        "length": 155
     },
     {
-        "filmId": "oldeuboi",
-        "name": "Олдбой",
-        "rating": 18,
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
         "genres": [
-            "триллер",
-            "детектив",
             "драма",
-            "боевик",
-            "криминал"
+            "военный"
         ],
-        "length": 122
+        "length": 115
     },
     {
         "filmId": "peaky_blinders_immortal_man",
@@ -167,23 +74,13 @@
         "length": 110
     },
     {
-        "filmId": "la_seconda_vita",
-        "name": "RIFF 2026: Вторая жизнь",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
         "rating": 16,
         "genres": [
-            "драма",
-            "военный"
+            "мелодрама"
         ],
-        "length": 115
+        "length": 125
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -208,6 +105,19 @@
         "length": 100
     },
     {
+        "filmId": "oldeuboi",
+        "name": "Олдбой",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "детектив",
+            "драма",
+            "боевик",
+            "криминал"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "the_super_mario_galaxy_movie",
         "name": "Супер Марио: Галактическое кино",
         "rating": 6,
@@ -219,6 +129,25 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "angely_ladogi",
@@ -253,6 +182,17 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "the_last_airbender",
@@ -311,6 +251,17 @@
         "length": 85
     },
     {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "the_mummy_2026",
         "name": "Мумия",
         "rating": 18,
@@ -329,6 +280,16 @@
             "комедия"
         ],
         "length": 80
+    },
+    {
+        "filmId": "forbidden_fruits",
+        "name": "Запретный плод",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "the_devil_wears_prada",
