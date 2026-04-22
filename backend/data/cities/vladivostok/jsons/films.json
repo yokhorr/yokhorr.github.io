@@ -11,47 +11,54 @@
         "length": 155
     },
     {
-        "filmId": "petrushka",
-        "name": "Петрушка",
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
         "rating": 6,
         "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "yooz",
-        "name": "Толстяк Юзи",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
             "комедия",
-            "приключения",
-            "семейный"
+            "семейный",
+            "фэнтези"
         ],
         "length": 100
     },
     {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
+        "filmId": "gourou",
+        "name": "Гуру",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фэнтези"
+            "триллер",
+            "драма"
         ],
-        "length": 85
+        "length": 125
+    },
+    {
+        "filmId": "korolek_moej_ljubvi",
+        "name": "Королёк моей любви",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "мюзикл"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "moja_sobaka_kosmonavt",
@@ -65,72 +72,6 @@
         "length": 105
     },
     {
-        "filmId": "72702",
-        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "xiong_mao_ji_hua_2",
-        "name": "Операция «Панда»: Дикая миссия",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "normal",
         "name": "Нормал",
         "rating": 18,
@@ -140,58 +81,6 @@
             "криминал"
         ],
         "length": 90
-    },
-    {
-        "filmId": "zhenih_s_marsa",
-        "name": "Жених с Марса",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "фантастика"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "peaky_blinders_immortal_man",
-        "name": "Острые козырьки: Бессмертный человек",
-        "rating": 18,
-        "genres": [
-            "криминал",
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "gourou",
-        "name": "Гуру",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 125
     },
     {
         "filmId": "wuthering_heights",
@@ -224,6 +113,16 @@
         "length": 90
     },
     {
+        "filmId": "hobbit_an_unexpected_jour",
+        "name": "Хоббит: Нежданное путешествие",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "ready_or_not_here_i_come",
         "name": "Я иду искать 2",
         "rating": 18,
@@ -233,6 +132,15 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "oldeuboi",
@@ -248,6 +156,17 @@
         "length": 122
     },
     {
+        "filmId": "peaky_blinders_immortal_man",
+        "name": "Острые козырьки: Бессмертный человек",
+        "rating": 18,
+        "genres": [
+            "криминал",
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "la_seconda_vita",
         "name": "RIFF 2026: Вторая жизнь",
         "rating": 18,
@@ -255,6 +174,16 @@
             "драма"
         ],
         "length": 85
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -279,6 +208,19 @@
         "length": 100
     },
     {
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -299,6 +241,18 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "the_last_airbender",
@@ -334,6 +288,29 @@
         "length": 100
     },
     {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "zolushka_tajna_treh_zhelanij",
+        "name": "Золушка. Тайна трёх желаний",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "the_mummy_2026",
         "name": "Мумия",
         "rating": 18,
@@ -341,6 +318,17 @@
             "ужасы"
         ],
         "length": 135
+    },
+    {
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 80
     },
     {
         "filmId": "the_devil_wears_prada",
@@ -361,6 +349,17 @@
             "криминал"
         ],
         "length": 130
+    },
+    {
+        "filmId": "xiong_mao_ji_hua_2",
+        "name": "Операция «Панда»: Дикая миссия",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик",
+            "приключения"
+        ],
+        "length": 100
     },
     {
         "filmId": "pulp_fiction",
@@ -454,6 +453,17 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "hobbit_the_desolation_of_",
+        "name": "Хоббит: Пустошь Смауга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "приключения"
+        ],
+        "length": 160
     },
     {
         "filmId": "gruzovichki",

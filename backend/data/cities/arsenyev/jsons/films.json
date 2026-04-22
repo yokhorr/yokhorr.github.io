@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "almarhum",
+        "name": "Пункт назначения. Новая кровь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hejter",
+        "name": "Хейтер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия",
+            "мелодрама"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -43,44 +74,43 @@
         "length": 90
     },
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
         "genres": [
-            "мелодрама",
-            "комедия"
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
         ],
-        "length": 100
+        "length": 90
     },
     {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
         "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
+            "драма",
+            "история"
         ],
-        "length": 105
+        "length": -1
     },
     {
-        "filmId": "almarhum",
-        "name": "Пункт назначения. Новая кровь",
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 100
+        "length": 135
     },
     {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
         "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
+            "драма"
         ],
-        "length": 85
+        "length": -1
     }
 ]

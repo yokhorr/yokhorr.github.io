@@ -11,36 +11,6 @@
         "length": 105
     },
     {
-        "filmId": "petrushka",
-        "name": "Петрушка",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "hejter",
-        "name": "Хейтер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "almarhum",
         "name": "Пункт назначения. Новая кровь",
         "rating": 18,
@@ -58,5 +28,45 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": -1
     }
 ]
