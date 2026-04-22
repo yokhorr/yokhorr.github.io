@@ -1,56 +1,5 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "korolek_moej_ljubvi",
-        "name": "Королёк моей любви",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "мюзикл"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "yooz",
         "name": "Толстяк Юзи",
         "rating": 6,
@@ -183,12 +132,44 @@
         "length": 125
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "vals_so_smertju",
         "name": "Вальс со смертью",
         "rating": 16,
         "genres": [
             "драма",
             "военный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
         ],
         "length": 100
     },
@@ -212,5 +193,14 @@
             "детектив"
         ],
         "length": 90
+    },
+    {
+        "filmId": "send_help",
+        "name": "На помощь!",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 115
     }
 ]
