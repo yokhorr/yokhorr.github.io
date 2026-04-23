@@ -1,5 +1,23 @@
 [
     {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -62,24 +80,6 @@
             "драма",
             "история"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": -1
+        "length": 110
     }
 ]

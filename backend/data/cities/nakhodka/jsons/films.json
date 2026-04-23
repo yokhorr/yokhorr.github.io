@@ -1,14 +1,14 @@
 [
     {
-        "filmId": "yooz",
-        "name": "Толстяк Юзи",
-        "rating": 6,
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "ужасы",
+            "триллер",
             "комедия"
         ],
-        "length": 80
+        "length": 105
     },
     {
         "filmId": "the_super_mario_galaxy_movie",
@@ -24,37 +24,14 @@
         "length": 100
     },
     {
-        "filmId": "71826",
-        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
+        "filmId": "vals_so_smertju",
+        "name": "Вальс со смертью",
+        "rating": 16,
         "genres": [
             "драма",
-            "история"
+            "военный"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "72702",
-        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
+        "length": 100
     },
     {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
@@ -77,6 +54,92 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "protector",
+        "name": "Мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "71826",
+        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "приключения"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "hoppers",
@@ -130,69 +193,6 @@
             "драма"
         ],
         "length": 125
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "vals_so_smertju",
-        "name": "Вальс со смертью",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "protector",
-        "name": "Мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 90
     },
     {
         "filmId": "send_help",
