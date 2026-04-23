@@ -1,49 +1,5 @@
 [
     {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
         "filmId": "ready_or_not_here_i_come",
         "name": "Я иду искать 2",
         "rating": 18,
@@ -62,6 +18,16 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
     },
     {
         "filmId": "petrushka",
@@ -85,6 +51,15 @@
         "length": 90
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "roditelskij_dom",
         "name": "Родительский дом",
         "rating": 12,
@@ -93,5 +68,30 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_last_airbender",
+        "name": "Легенда об Аанге: Последний маг воздуха",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     }
 ]
