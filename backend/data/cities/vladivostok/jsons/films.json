@@ -1,58 +1,5 @@
 [
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_devil_wears_prada",
-        "name": "Дьявол носит Prada",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "forbidden_fruits",
-        "name": "Запретный плод",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
         "filmId": "kommersant",
         "name": "Коммерсант",
         "rating": 18,
@@ -60,17 +7,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "pulp_fiction",
-        "name": "Криминальное чтиво",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия",
-            "криминал"
-        ],
-        "length": 155
     },
     {
         "filmId": "roditelskij_dom",
@@ -83,27 +19,14 @@
         "length": 100
     },
     {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
+            "драма",
+            "история"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
+        "length": 110
     },
     {
         "filmId": "the_drama",
@@ -116,44 +39,15 @@
         "length": 100
     },
     {
-        "filmId": "xiong_mao_ji_hua_2",
-        "name": "Операция «Панда»: Дикая миссия",
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
         "rating": 16,
         "genres": [
-            "комедия",
-            "боевик",
-            "приключения"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "72911",
-        "name": "Мероприятие: Горы зовут",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 75
+        "length": 155
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -179,12 +73,31 @@
         "length": 110
     },
     {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "ready_or_not_here_i_come",
         "name": "Я иду искать 2",
         "rating": 18,
         "genres": [
             "ужасы",
             "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "forbidden_fruits",
+        "name": "Запретный плод",
+        "rating": 18,
+        "genres": [
+            "ужасы",
             "комедия"
         ],
         "length": 105
@@ -252,6 +165,18 @@
         "length": 90
     },
     {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "72702",
         "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
         "rating": 0,
@@ -262,6 +187,31 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_last_airbender",
+        "name": "Легенда об Аанге: Последний маг воздуха",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "hoppers",
@@ -275,6 +225,15 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     },
     {
         "filmId": "zolushka_tajna_treh_zhelanij",
@@ -318,6 +277,27 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "the_devil_wears_prada",
+        "name": "Дьявол носит Prada",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "xiong_mao_ji_hua_2",
+        "name": "Операция «Панда»: Дикая миссия",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "боевик",
+            "приключения"
+        ],
+        "length": 100
     },
     {
         "filmId": "24913",

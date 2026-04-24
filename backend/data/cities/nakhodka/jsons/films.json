@@ -1,25 +1,14 @@
 [
     {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
         "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
+        "length": 155
     },
     {
         "filmId": "angely_ladogi",
@@ -32,15 +21,15 @@
         "length": 110
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
         "genres": [
-            "фантастика",
+            "ужасы",
             "триллер",
-            "драма"
+            "комедия"
         ],
-        "length": 155
+        "length": 105
     },
     {
         "filmId": "the_drama",
@@ -60,29 +49,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "protector",
-        "name": "Мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
     },
     {
         "filmId": "yooz",
@@ -145,6 +111,28 @@
         "length": 105
     },
     {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -202,5 +190,17 @@
             "триллер"
         ],
         "length": 115
+    },
+    {
+        "filmId": "protector",
+        "name": "Мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 90
     }
 ]
