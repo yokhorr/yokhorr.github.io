@@ -12,6 +12,15 @@
         "length": 90
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -31,12 +40,13 @@
         "length": 90
     },
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
+        "filmId": "vals_so_smertju",
+        "name": "Вальс со смертью",
+        "rating": 16,
         "genres": [
-            "драма"
+            "драма",
+            "военный"
         ],
-        "length": 95
+        "length": 100
     }
 ]
