@@ -1,13 +1,14 @@
 [
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
         "genres": [
-            "драма",
-            "история"
+            "ужасы",
+            "триллер",
+            "комедия"
         ],
-        "length": 110
+        "length": 105
     },
     {
         "filmId": "the_mummy_2026",
@@ -19,25 +20,14 @@
         "length": 135
     },
     {
-        "filmId": "forbidden_fruits",
-        "name": "Запретный плод",
-        "rating": 18,
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
         "genres": [
-            "ужасы",
-            "комедия"
+            "драма",
+            "история"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
+        "length": 110
     },
     {
         "filmId": "domovenok_kuzja_2",
@@ -92,5 +82,15 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "forbidden_fruits",
+        "name": "Запретный плод",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 105
     }
 ]
