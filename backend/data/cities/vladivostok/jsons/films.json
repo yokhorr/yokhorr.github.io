@@ -1,37 +1,5 @@
 [
     {
-        "filmId": "gourou",
-        "name": "Гуру",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "petrushka",
-        "name": "Петрушка",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -40,6 +8,16 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
@@ -54,27 +32,13 @@
         "length": 90
     },
     {
-        "filmId": "72702",
-        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
-        "rating": 0,
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "ужасы"
         ],
-        "length": 50
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
+        "length": 135
     },
     {
         "filmId": "the_last_airbender",
@@ -91,6 +55,15 @@
         "length": 100
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -102,55 +75,17 @@
         "length": 155
     },
     {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "фантастика",
+            "фэнтези",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 85
+        "length": 100
     },
     {
         "filmId": "the_drama",
@@ -163,57 +98,14 @@
         "length": 100
     },
     {
-        "filmId": "domovenok_kuzja_2",
-        "name": "Домовёнок Кузя 2",
-        "rating": 6,
+        "filmId": "the_devil_wears_prada",
+        "name": "Дьявол носит Prada",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "yooz",
-        "name": "Толстяк Юзи",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
+            "драма",
             "комедия"
         ],
-        "length": 80
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "normal",
-        "name": "Нормал",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 90
+        "length": 110
     },
     {
         "filmId": "forbidden_fruits",
@@ -226,14 +118,15 @@
         "length": 105
     },
     {
-        "filmId": "the_devil_wears_prada",
-        "name": "Дьявол носит Prada",
-        "rating": 16,
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
         "genres": [
-            "драма",
+            "семейный",
+            "приключения",
             "комедия"
         ],
-        "length": 110
+        "length": 105
     },
     {
         "filmId": "xiong_mao_ji_hua_2",
@@ -245,6 +138,15 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     },
     {
         "filmId": "chernyj_dvor_v_kino",
@@ -291,6 +193,17 @@
         "length": 105
     },
     {
+        "filmId": "normal",
+        "name": "Нормал",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "almarhum",
         "name": "Пункт назначения. Новая кровь",
         "rating": 18,
@@ -298,6 +211,82 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "gourou",
+        "name": "Гуру",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "petrushka",
+        "name": "Петрушка",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "hoppers",
+        "name": "Прыгуны",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "zolushka_tajna_treh_zhelanij",
+        "name": "Золушка. Тайна трёх желаний",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "domovenok_kuzja_2",
+        "name": "Домовёнок Кузя 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "yooz",
+        "name": "Толстяк Юзи",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия"
+        ],
+        "length": 80
     },
     {
         "filmId": "24913",
