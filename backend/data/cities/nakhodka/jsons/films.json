@@ -10,40 +10,6 @@
         "length": 110
     },
     {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "vals_so_smertju",
-        "name": "Вальс со смертью",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -55,35 +21,27 @@
         "length": 155
     },
     {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "send_help",
-        "name": "На помощь!",
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
         "rating": 18,
         "genres": [
-            "триллер"
+            "ужасы",
+            "триллер",
+            "комедия"
         ],
-        "length": 115
+        "length": 105
+    },
+    {
+        "filmId": "protector",
+        "name": "Мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_drama",
@@ -105,18 +63,6 @@
         "length": 95
     },
     {
-        "filmId": "protector",
-        "name": "Мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "yooz",
         "name": "Толстяк Юзи",
         "rating": 6,
@@ -126,6 +72,19 @@
             "комедия"
         ],
         "length": 80
+    },
+    {
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "71826",
@@ -149,6 +108,28 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "hoppers",
@@ -202,5 +183,15 @@
             "драма"
         ],
         "length": 125
+    },
+    {
+        "filmId": "vals_so_smertju",
+        "name": "Вальс со смертью",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 100
     }
 ]

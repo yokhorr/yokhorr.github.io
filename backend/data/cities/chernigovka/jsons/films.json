@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
         "name": "Приключения жёлтого чемоданчика",
         "rating": 6,
@@ -20,25 +40,5 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
     }
 ]
