@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "zolushka_tajna_treh_zhelanij",
         "name": "Золушка. Тайна трёх желаний",
         "rating": 6,
@@ -81,5 +72,14 @@
             "ужасы"
         ],
         "length": 135
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     }
 ]

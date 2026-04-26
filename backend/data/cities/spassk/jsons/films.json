@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "vals_so_smertju",
         "name": "Вальс со смертью",
         "rating": 16,
@@ -48,5 +39,14 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     }
 ]
