@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "filmId": "forbidden_fruits",
+        "name": "Запретный плод",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    }
+]
