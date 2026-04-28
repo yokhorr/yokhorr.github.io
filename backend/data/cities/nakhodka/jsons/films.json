@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -20,15 +10,15 @@
         "length": 110
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
         "genres": [
-            "фантастика",
+            "ужасы",
             "триллер",
-            "драма"
+            "комедия"
         ],
-        "length": 155
+        "length": 105
     },
     {
         "filmId": "the_drama",
@@ -48,29 +38,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "protector",
-        "name": "Мститель",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
     },
     {
         "filmId": "yooz",
@@ -132,6 +99,16 @@
         "length": 90
     },
     {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "hoppers",
         "name": "Прыгуны",
         "rating": 6,
@@ -185,6 +162,17 @@
         "length": 125
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "vals_so_smertju",
         "name": "Вальс со смертью",
         "rating": 16,
@@ -193,5 +181,17 @@
             "военный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "protector",
+        "name": "Мститель",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 90
     }
 ]
