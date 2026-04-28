@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "vals_so_smertju",
         "name": "Вальс со смертью",
         "rating": 16,
@@ -27,6 +18,15 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
