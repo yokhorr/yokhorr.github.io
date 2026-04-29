@@ -1,46 +1,53 @@
 [
     {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "фэнтези"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 100
+        "length": -1
     },
     {
-        "filmId": "petrushka",
-        "name": "Петрушка",
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
         "rating": 6,
         "genres": [
-            "комедия"
+            "комедия",
+            "семейный",
+            "фэнтези"
         ],
-        "length": 90
+        "length": -1
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
     },
     {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
@@ -55,31 +62,37 @@
         "length": 90
     },
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
+        "filmId": "flavia",
+        "name": "Флавия. Юный детектив",
         "rating": 12,
         "genres": [
+            "комедия",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
             "драма",
+            "военный",
             "история"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
+        "length": 100
     }
 ]

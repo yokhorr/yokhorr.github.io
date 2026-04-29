@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "zolushka_tajna_treh_zhelanij",
-        "name": "Золушка. Тайна трёх желаний",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -20,61 +10,6 @@
         "length": 110
     },
     {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "petrushka",
-        "name": "Петрушка",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "kommersant",
         "name": "Коммерсант",
         "rating": 18,
@@ -82,20 +17,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "project_hail_mary",
@@ -151,6 +72,18 @@
         "length": -1
     },
     {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "sem_verst_do_rassveta",
         "name": "Семь вёрст до рассвета",
         "rating": 16,
@@ -171,6 +104,16 @@
             "биография"
         ],
         "length": -1
+    },
+    {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "beast",
