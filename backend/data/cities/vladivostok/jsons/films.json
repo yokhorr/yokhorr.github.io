@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "the_devil_wears_prada",
-        "name": "Дьявол носит Prada",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -18,119 +8,6 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "forbidden_fruits",
-        "name": "Запретный плод",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "more_than_a_museum",
-        "name": "Больше чем музей",
-        "rating": 12,
-        "genres": [
-            "документальный"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "72323",
-        "name": "Киноклуб «Кино и Смыслы»: фильм «Сын»",
-        "rating": 18,
-        "genres": [
-            "лекция"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "72166",
-        "name": "Цикл лекций Ксении Бариновой: «Бойцовский клуб». Мужчины в мире без отцов»",
-        "rating": 18,
-        "genres": [
-            "лекция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "hobbit_the_desolation_of_",
-        "name": "Хоббит: Пустошь Смауга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "приключения"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
     },
     {
         "filmId": "the_drama",
@@ -143,36 +20,13 @@
         "length": 100
     },
     {
-        "filmId": "xiong_mao_ji_hua_2",
-        "name": "Операция «Панда»: Дикая миссия",
-        "rating": 16,
-        "genres": [
-            "комедия",
-            "боевик",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chernyj_dvor_v_kino",
-        "name": "Черный двор в кино",
+        "filmId": "kommersant",
+        "name": "Коммерсант",
         "rating": 18,
         "genres": [
-            "драма",
-            "криминал"
+            "драма"
         ],
-        "length": 130
-    },
-    {
-        "filmId": "moja_sobaka_kosmonavt",
-        "name": "Моя собака – космонавт",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения",
-            "комедия"
-        ],
-        "length": 105
+        "length": 95
     },
     {
         "filmId": "avatar_fire_and_ash",
@@ -199,6 +53,17 @@
         "length": 105
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "korolek_moej_ljubvi",
         "name": "Королёк моей любви",
         "rating": 16,
@@ -207,6 +72,15 @@
             "мюзикл"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
     },
     {
         "filmId": "tvoe_serdce_budet_razbito",
@@ -227,6 +101,26 @@
             "криминал"
         ],
         "length": 90
+    },
+    {
+        "filmId": "chernyj_dvor_v_kino",
+        "name": "Черный двор в кино",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "forbidden_fruits",
+        "name": "Запретный плод",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "almarhum",
@@ -272,6 +166,18 @@
         "length": 90
     },
     {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "zhdun_2",
         "name": "Ждун 2",
         "rating": 6,
@@ -281,6 +187,17 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "moja_sobaka_kosmonavt",
+        "name": "Моя собака – космонавт",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "sem_verst_do_rassveta",
@@ -315,6 +232,16 @@
             "спорт"
         ],
         "length": 110
+    },
+    {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "domovenok_kuzja_2",
