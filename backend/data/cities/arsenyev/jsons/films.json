@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -64,26 +84,6 @@
             "история",
             "биография"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
+        "length": 165
     }
 ]
