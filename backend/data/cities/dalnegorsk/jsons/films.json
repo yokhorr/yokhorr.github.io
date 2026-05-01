@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -52,15 +61,6 @@
             "история"
         ],
         "length": 100
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_undertone",
