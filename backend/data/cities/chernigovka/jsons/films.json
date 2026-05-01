@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
-    },
-    {
         "filmId": "the_undertone",
         "name": "Полутон",
         "rating": 18,
@@ -73,6 +62,17 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
     },
     {
         "filmId": "kommersant",
