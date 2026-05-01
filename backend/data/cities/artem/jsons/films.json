@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "bodycam",
-        "name": "Оно. Дом зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -103,5 +85,23 @@
             "спорт"
         ],
         "length": 110
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "bodycam",
+        "name": "Оно. Дом зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
     }
 ]
