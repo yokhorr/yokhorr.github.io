@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "sem_verst_do_rassveta",
         "name": "Семь вёрст до рассвета",
         "rating": 16,
@@ -31,6 +11,15 @@
         "length": 100
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -38,6 +27,17 @@
             "мультфильм",
             "приключения",
             "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
         ],
         "length": -1
     },
