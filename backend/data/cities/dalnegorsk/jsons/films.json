@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -50,6 +30,17 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
     },
     {
         "filmId": "sem_verst_do_rassveta",
