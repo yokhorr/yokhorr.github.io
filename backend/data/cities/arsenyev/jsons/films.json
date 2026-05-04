@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -8,7 +28,7 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
+        "length": 80
     },
     {
         "filmId": "zhdun_2",
@@ -19,7 +39,7 @@
             "семейный",
             "фэнтези"
         ],
-        "length": -1
+        "length": 100
     },
     {
         "filmId": "angely_ladogi",
@@ -65,25 +85,5 @@
             "биография"
         ],
         "length": 165
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
     }
 ]
