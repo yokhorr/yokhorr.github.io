@@ -1,33 +1,25 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
         "genres": [
-            "драма"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": 95
+        "length": 80
     },
     {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
         "genres": [
-            "боевик",
-            "драма",
-            "спорт"
+            "комедия",
+            "семейный",
+            "фэнтези"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "chernyj_dvor_v_kino",
-        "name": "Черный двор в кино",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 130
+        "length": 100
     },
     {
         "filmId": "litvjak",
@@ -49,89 +41,6 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "a_breed_apart",
-        "name": "Псарня",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "meikyu_no_shiori",
-        "name": "Лабиринт",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "фантастика",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "bodycam",
-        "name": "Оно. Дом зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "forbidden_fruits",
-        "name": "Запретный плод",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_undertone",
-        "name": "Полутон",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
     },
     {
         "filmId": "sem_verst_do_rassveta",
@@ -222,6 +131,26 @@
         "length": 125
     },
     {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "flavia",
         "name": "Флавия. Юный детектив",
         "rating": 12,
@@ -247,6 +176,16 @@
         "length": 75
     },
     {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "teatr_krasnyj_fakel_besy",
         "name": "Театр «‎Красный Факел»: Бесы",
         "rating": 18,
@@ -264,6 +203,67 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "a_breed_apart",
+        "name": "Псарня",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "chernyj_dvor_v_kino",
+        "name": "Черный двор в кино",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "meikyu_no_shiori",
+        "name": "Лабиринт",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фантастика",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "bodycam",
+        "name": "Оно. Дом зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "forbidden_fruits",
+        "name": "Запретный плод",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "plan_para_buenos_aires",
@@ -460,5 +460,15 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "zhenitba_2025",
+        "name": "Театр в кино: Женитьба",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 130
     }
 ]
