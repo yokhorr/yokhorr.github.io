@@ -1,77 +1,5 @@
 [
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "36324",
-        "name": "Сны Акиры Куросавы",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "драма"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "roditelskij_dom",
-        "name": "Родительский дом",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "kommersant",
         "name": "Коммерсант",
         "rating": 18,
@@ -79,36 +7,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "la_grazia",
-        "name": "Грация",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
     },
     {
         "filmId": "beast",
@@ -122,25 +20,6 @@
         "length": 110
     },
     {
-        "filmId": "a_breed_apart",
-        "name": "Псарня",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_undertone",
-        "name": "Полутон",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "chernyj_dvor_v_kino",
         "name": "Черный двор в кино",
         "rating": 18,
@@ -149,6 +28,37 @@
             "криминал"
         ],
         "length": 130
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "a_breed_apart",
+        "name": "Псарня",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик"
+        ],
+        "length": 100
     },
     {
         "filmId": "meikyu_no_shiori",
@@ -173,6 +83,16 @@
         "length": 75
     },
     {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "forbidden_fruits",
         "name": "Запретный плод",
         "rating": 18,
@@ -181,6 +101,48 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
     },
     {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
@@ -241,6 +203,25 @@
         "length": 105
     },
     {
+        "filmId": "roditelskij_dom",
+        "name": "Родительский дом",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "flavia",
         "name": "Флавия. Юный детектив",
         "rating": 12,
@@ -276,21 +257,20 @@
         "length": 185
     },
     {
+        "filmId": "la_grazia",
+        "name": "Грация",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "plan_para_buenos_aires",
         "name": "План Ле Корбюзье: Буэнос-Айрес",
         "rating": 16,
         "genres": [
             "документальный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "ruffen_sjoormen_som_ikke_kunne",
-        "name": "Несси. Чудище из Лохх-Несс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "семейный"
         ],
         "length": 80
     },
@@ -306,6 +286,16 @@
         "length": 110
     },
     {
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "name": "Несси. Чудище из Лохх-Несс",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "otec",
         "name": "Отец",
         "rating": 16,
@@ -315,6 +305,25 @@
             "история"
         ],
         "length": 105
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "shurale",
+        "name": "Театр в кино: Шурале",
+        "rating": 6,
+        "genres": [
+            "фильм-спектакль",
+            "балет"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_devil_wears_prada_2",

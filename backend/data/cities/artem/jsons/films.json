@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "bodycam",
+        "name": "Оно. Дом зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -8,57 +17,6 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
-    },
-    {
-        "filmId": "bodycam",
-        "name": "Оно. Дом зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
     },
     {
         "filmId": "gruzovichki",
@@ -95,6 +53,17 @@
         "length": 90
     },
     {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "roditelskij_dom",
         "name": "Родительский дом",
         "rating": 12,
@@ -103,5 +72,36 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
     }
 ]
