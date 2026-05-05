@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "prikljuchenija_zheltogo_chemodanchik",
+        "name": "Приключения жёлтого чемоданчика",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "zhdun_2",
         "name": "Ждун 2",
         "rating": 6,
@@ -30,26 +51,5 @@
             "семейный"
         ],
         "length": 80
-    },
-    {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
     }
 ]
