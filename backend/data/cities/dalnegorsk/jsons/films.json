@@ -1,35 +1,33 @@
 [
     {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "name": "Несси. Чудище из Лохх-Несс",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "приключения",
             "семейный"
         ],
         "length": 80
     },
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
         "rating": 6,
         "genres": [
-            "комедия",
+            "приключения",
             "семейный",
             "фэнтези"
         ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "litvjak",
@@ -43,6 +41,37 @@
         "length": 165
     },
     {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "otec",
+        "name": "Отец",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "sem_verst_do_rassveta",
         "name": "Семь вёрст до рассвета",
         "rating": 16,
@@ -54,12 +83,31 @@
         "length": 100
     },
     {
-        "filmId": "the_undertone",
-        "name": "Полутон",
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 95
+        "length": 100
+    },
+    {
+        "filmId": "bull_run",
+        "name": "Как стать миллиардером",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
