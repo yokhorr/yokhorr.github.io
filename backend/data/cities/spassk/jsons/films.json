@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -39,6 +19,17 @@
             "приключения"
         ],
         "length": 65
+    },
+    {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "zhdun_2",
