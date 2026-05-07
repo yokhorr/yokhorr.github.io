@@ -1,12 +1,13 @@
 [
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "драма",
+            "история"
         ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "zhdun_2",
@@ -18,16 +19,6 @@
             "фэнтези"
         ],
         "length": 100
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
     },
     {
         "filmId": "gruzovichki",
@@ -61,5 +52,14 @@
             "приключения"
         ],
         "length": 65
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]

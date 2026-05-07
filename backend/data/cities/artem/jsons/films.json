@@ -1,23 +1,12 @@
 [
     {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
+        "filmId": "bodycam",
+        "name": "Оно. Дом зла",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 100
+        "length": 75
     },
     {
         "filmId": "kommersant",
@@ -27,15 +16,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "bodycam",
-        "name": "Оно. Дом зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
     },
     {
         "filmId": "angely_ladogi",
@@ -110,6 +90,26 @@
             "драма",
             "военный",
             "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
     },
