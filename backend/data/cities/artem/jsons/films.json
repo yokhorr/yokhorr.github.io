@@ -1,5 +1,53 @@
 [
     {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "bodycam",
+        "name": "Оно. Дом зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "pororo_sweet_castle_adventure",
         "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
         "rating": 6,
@@ -31,16 +79,6 @@
             "семейный"
         ],
         "length": 80
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
     },
     {
         "filmId": "zhdun_2",
@@ -76,41 +114,26 @@
         "length": 100
     },
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
+        "filmId": "swapped",
+        "name": "В чужой шкуре",
+        "rating": 6,
         "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
         ],
         "length": 100
     },
     {
-        "filmId": "bodycam",
-        "name": "Оно. Дом зла",
+        "filmId": "apex",
+        "name": "Вершина",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "боевик",
+            "триллер"
         ],
-        "length": 75
+        "length": 95
     }
 ]
