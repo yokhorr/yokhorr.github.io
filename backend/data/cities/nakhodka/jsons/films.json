@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -85,6 +67,15 @@
         "length": 80
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "litvjak",
         "name": "Литвяк",
         "rating": 12,
@@ -127,6 +118,15 @@
             "история"
         ],
         "length": 105
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "ruffen_sjoormen_som_ikke_kunne",

@@ -1,43 +1,5 @@
 [
     {
-        "filmId": "solo_mio",
-        "name": "Холостяк в Италии",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shurale_2026",
-        "name": "Шурале",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "otec",
         "name": "Отец",
         "rating": 16,
@@ -47,55 +9,6 @@
             "история"
         ],
         "length": 105
-    },
-    {
-        "filmId": "the_undertone",
-        "name": "Полутон",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
     },
     {
         "filmId": "gruzovichki",
@@ -118,6 +31,16 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
     },
     {
         "filmId": "sem_verst_do_rassveta",
@@ -150,6 +73,15 @@
             "фэнтези"
         ],
         "length": 110
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_land_of_sometimes",
@@ -222,6 +154,17 @@
         "length": 90
     },
     {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "neko_no_ongaeshi",
         "name": "Возвращение кота",
         "rating": 6,
@@ -235,6 +178,26 @@
         "length": 75
     },
     {
+        "filmId": "solo_mio",
+        "name": "Холостяк в Италии",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "chernyj_dvor_v_kino",
         "name": "Черный двор в кино",
         "rating": 18,
@@ -243,6 +206,15 @@
             "криминал"
         ],
         "length": 130
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
     },
     {
         "filmId": "la_grazia",
@@ -261,6 +233,34 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "shurale_2026",
+        "name": "Шурале",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_devil_wears_prada_2",
@@ -435,5 +435,16 @@
             "лекция"
         ],
         "length": 145
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 16,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
     }
 ]
