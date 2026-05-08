@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "bodycam",
         "name": "Оно. Дом зла",
         "rating": 18,
@@ -18,6 +7,15 @@
             "ужасы"
         ],
         "length": 75
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "angely_ladogi",
@@ -30,6 +28,51 @@
         "length": 110
     },
     {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "the_land_of_sometimes",
+        "name": "Зачарованное королевство",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "sem_verst_do_rassveta",
         "name": "Семь вёрст до рассвета",
         "rating": 16,
@@ -37,15 +80,6 @@
             "драма",
             "военный",
             "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 100
     }
