@@ -1,14 +1,25 @@
 [
     {
-        "filmId": "otec",
-        "name": "Отец",
-        "rating": 16,
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
+        "rating": 6,
         "genres": [
-            "драма",
-            "военный",
-            "история"
+            "приключения",
+            "семейный",
+            "фэнтези"
         ],
-        "length": 105
+        "length": 110
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "gruzovichki",
@@ -22,13 +33,82 @@
         "length": 80
     },
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
+    },
+    {
+        "filmId": "otec",
+        "name": "Отец",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "solo_mio",
+        "name": "Холостяк в Италии",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
         ],
         "length": 100
     },
@@ -43,15 +123,52 @@
         "length": 110
     },
     {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
+        "filmId": "la_grazia",
+        "name": "Грация",
+        "rating": 18,
         "genres": [
-            "драма",
-            "военный",
-            "история"
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "bull_run",
+        "name": "Как стать миллиардером",
+        "rating": 18,
+        "genres": [
+            "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "shurale_2026",
+        "name": "Шурале",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "ruffen_sjoormen_som_ikke_kunne",
@@ -62,38 +179,6 @@
             "семейный"
         ],
         "length": 80
-    },
-    {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_land_of_sometimes",
-        "name": "Зачарованное королевство",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
     },
     {
         "filmId": "72702",
@@ -108,6 +193,18 @@
         "length": 50
     },
     {
+        "filmId": "the_land_of_sometimes",
+        "name": "Зачарованное королевство",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
         "name": "Приключения жёлтого чемоданчика",
         "rating": 6,
@@ -118,17 +215,6 @@
             "семейный"
         ],
         "length": 90
-    },
-    {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
     },
     {
         "filmId": "domovenok_kuzja_2",
@@ -154,17 +240,6 @@
         "length": 90
     },
     {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "neko_no_ongaeshi",
         "name": "Возвращение кота",
         "rating": 6,
@@ -178,26 +253,6 @@
         "length": 75
     },
     {
-        "filmId": "solo_mio",
-        "name": "Холостяк в Италии",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "chernyj_dvor_v_kino",
         "name": "Черный двор в кино",
         "rating": 18,
@@ -208,61 +263,6 @@
         "length": 130
     },
     {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "la_grazia",
-        "name": "Грация",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "bull_run",
-        "name": "Как стать миллиардером",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "shurale_2026",
-        "name": "Шурале",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_undertone",
-        "name": "Полутон",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "the_devil_wears_prada_2",
         "name": "Дьявол носит Prada 2",
         "rating": 16,
@@ -271,6 +271,17 @@
             "комедия"
         ],
         "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "46801",
@@ -309,17 +320,6 @@
             "комедия"
         ],
         "length": 105
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "shrek",

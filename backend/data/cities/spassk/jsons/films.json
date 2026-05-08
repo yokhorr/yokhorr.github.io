@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "pororo_sweet_castle_adventure",
+        "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "приключения"
+        ],
+        "length": 65
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -10,13 +21,11 @@
         "length": 110
     },
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
+            "ужасы"
         ],
         "length": 100
     },
@@ -43,22 +52,13 @@
         "length": 110
     },
     {
-        "filmId": "pororo_sweet_castle_adventure",
-        "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
+            "комедия",
+            "семейный",
+            "фэнтези"
         ],
         "length": 100
     }
