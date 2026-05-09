@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
-    },
-    {
         "filmId": "hokum",
         "name": "Хокум",
         "rating": 18,
@@ -83,6 +72,17 @@
             "фэнтези"
         ],
         "length": 110
+    },
+    {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
     },
     {
         "filmId": "swapped",

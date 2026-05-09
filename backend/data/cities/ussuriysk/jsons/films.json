@@ -1,37 +1,5 @@
 [
     {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "hokum",
         "name": "Хокум",
         "rating": 18,
@@ -73,6 +41,27 @@
         "length": 90
     },
     {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "zhdun_2",
         "name": "Ждун 2",
         "rating": 6,
@@ -80,6 +69,17 @@
             "комедия",
             "семейный",
             "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
         ],
         "length": 100
     }
