@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bodycam",
-        "name": "Оно. Дом зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -80,6 +62,24 @@
             "драма",
             "военный",
             "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "bodycam",
+        "name": "Оно. Дом зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
     }
