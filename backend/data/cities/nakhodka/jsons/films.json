@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -10,46 +19,13 @@
         "length": 110
     },
     {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "beast",
-        "name": "Бой со зверем",
+        "filmId": "the_undertone",
+        "name": "Полутон",
         "rating": 18,
         "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
+            "ужасы"
         ],
         "length": 95
-    },
-    {
-        "filmId": "otec",
-        "name": "Отец",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
     },
     {
         "filmId": "sem_verst_do_rassveta",
@@ -63,13 +39,15 @@
         "length": 100
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
+        "filmId": "beast",
+        "name": "Бой со зверем",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "боевик",
+            "драма",
+            "спорт"
         ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "zhdun_2",
@@ -83,11 +61,33 @@
         "length": 100
     },
     {
-        "filmId": "the_undertone",
-        "name": "Полутон",
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "otec",
+        "name": "Отец",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "драма"
         ],
         "length": 95
     },

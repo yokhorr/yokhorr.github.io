@@ -1,54 +1,12 @@
 [
     {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "la_grazia",
-        "name": "Грация",
+        "filmId": "hokum",
+        "name": "Хокум",
         "rating": 18,
         "genres": [
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
+            "ужасы"
         ],
         "length": 100
-    },
-    {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
     },
     {
         "filmId": "the_drama",
@@ -57,25 +15,6 @@
         "genres": [
             "мелодрама",
             "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "solo_mio",
-        "name": "Холостяк в Италии",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 100
     },
@@ -89,6 +28,16 @@
         "length": 95
     },
     {
+        "filmId": "shurale_2026",
+        "name": "Шурале",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -99,10 +48,11 @@
         "length": 110
     },
     {
-        "filmId": "bull_run",
-        "name": "Как стать миллиардером",
+        "filmId": "solo_mio",
+        "name": "Холостяк в Италии",
         "rating": 18,
         "genres": [
+            "мелодрама",
             "комедия"
         ],
         "length": 100
@@ -119,14 +69,15 @@
         "length": 105
     },
     {
-        "filmId": "shurale_2026",
-        "name": "Шурале",
-        "rating": 18,
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
         "genres": [
-            "триллер",
-            "фэнтези"
+            "военный",
+            "история",
+            "биография"
         ],
-        "length": 90
+        "length": 165
     },
     {
         "filmId": "the_undertone",
@@ -138,6 +89,15 @@
         "length": 95
     },
     {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "beast",
         "name": "Бой со зверем",
         "rating": 18,
@@ -147,6 +107,15 @@
             "спорт"
         ],
         "length": 110
+    },
+    {
+        "filmId": "bull_run",
+        "name": "Как стать миллиардером",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "gruzovichki",
@@ -213,6 +182,28 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "prikljuchenija_zheltogo_chemodanchik",
@@ -282,6 +273,15 @@
             "фэнтези"
         ],
         "length": 100
+    },
+    {
+        "filmId": "la_grazia",
+        "name": "Грация",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "46801",

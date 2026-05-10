@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bull_run",
-        "name": "Как стать миллиардером",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ruffen_sjoormen_som_ikke_kunne",
         "name": "Несси. Чудище из Лохх-Несс",
         "rating": 6,
@@ -100,5 +82,23 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "bull_run",
+        "name": "Как стать миллиардером",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
