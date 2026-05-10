@@ -1,23 +1,21 @@
 [
     {
-        "filmId": "pororo_sweet_castle_adventure",
-        "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
-        "rating": 6,
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
+            "ужасы"
         ],
-        "length": 65
+        "length": 100
     },
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
+            "драма",
+            "военный",
+            "история"
         ],
         "length": 100
     },
@@ -33,6 +31,17 @@
         "length": 80
     },
     {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -41,28 +50,6 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
     },
     {
         "filmId": "litvjak",
@@ -76,13 +63,15 @@
         "length": 165
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
+        "filmId": "pororo_sweet_castle_adventure",
+        "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "детский",
+            "приключения"
         ],
-        "length": 100
+        "length": 65
     },
     {
         "filmId": "swapped",
@@ -106,5 +95,16 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 110
     }
 ]

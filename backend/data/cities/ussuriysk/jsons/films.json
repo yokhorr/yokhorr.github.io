@@ -1,26 +1,14 @@
 [
     {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
+            "драма",
+            "военный",
+            "история"
         ],
-        "length": 80
-    },
-    {
-        "filmId": "the_land_of_sometimes",
-        "name": "Зачарованное королевство",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "angely_ladogi",
@@ -44,24 +32,11 @@
         "length": 110
     },
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
+            "ужасы"
         ],
         "length": 100
     },
@@ -75,11 +50,36 @@
         "length": 75
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "the_land_of_sometimes",
+        "name": "Зачарованное королевство",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
         ],
         "length": 100
     }

@@ -1,14 +1,22 @@
 [
     {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
+            "ужасы"
         ],
-        "length": 80
+        "length": 100
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
     },
     {
         "filmId": "pororo_sweet_castle_adventure",
@@ -22,25 +30,15 @@
         "length": 65
     },
     {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
         "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "семейный",
-            "фэнтези"
+            "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
+        "length": 80
     },
     {
         "filmId": "zhdun_2",
@@ -54,12 +52,14 @@
         "length": 100
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "приключения",
+            "семейный",
+            "фэнтези"
         ],
-        "length": 100
+        "length": 110
     }
 ]
