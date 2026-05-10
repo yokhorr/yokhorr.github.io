@@ -1,419 +1,5 @@
 [
     {
-        "date": "10.05",
-        "time": "21:00",
-        "filmId": "hokum",
-        "theatre": "Океан IMAX",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA1LTEwIDIxOjAwOjAwOzczMDE4"
-    },
-    {
-        "date": "10.05",
-        "time": "21:00",
-        "filmId": "hokum",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wNS0xMCAyMTowMDowMDs3MzAxOA=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:00",
-        "filmId": "the_drama",
-        "theatre": "Уссури",
-        "cost": 1450,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNS0xMCAyMTowMDowMDs3MTY5Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:05",
-        "filmId": "kommersant",
-        "theatre": "Иллюзион",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA1LTEwIDIxOjA1OjAwOzcyMjU1"
-    },
-    {
-        "date": "10.05",
-        "time": "21:10",
-        "filmId": "shurale_2026",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xMCAyMToxMDowMDs3MzA1NA=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:10",
-        "filmId": "kommersant",
-        "theatre": "Уссури",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNS0xMCAyMToxMDowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:15",
-        "filmId": "angely_ladogi",
-        "theatre": "Иллюзион",
-        "cost": 530,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA1LTEwIDIxOjE1OjAwOzcxODg3"
-    },
-    {
-        "date": "10.05",
-        "time": "21:15",
-        "filmId": "solo_mio",
-        "theatre": "Иллюзион",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA1LTEwIDIxOjE1OjAwOzczMTA5"
-    },
-    {
-        "date": "10.05",
-        "time": "21:25",
-        "filmId": "otec",
-        "theatre": "Владивосток",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xMCAyMToyNTowMDs3MzA3MQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:30",
-        "filmId": "kommersant",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNS0xMCAyMTozMDowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:35",
-        "filmId": "kommersant",
-        "theatre": "Владивосток",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xMCAyMTozNTowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:40",
-        "filmId": "litvjak",
-        "theatre": "Владивосток",
-        "cost": 550,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xMCAyMTo0MDowMDs3MjI1OQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:40",
-        "filmId": "kommersant",
-        "theatre": "Океан IMAX",
-        "cost": 570,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA1LTEwIDIxOjQwOjAwOzcyMjU1"
-    },
-    {
-        "date": "10.05",
-        "time": "21:40",
-        "filmId": "angely_ladogi",
-        "theatre": "Уссури",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNS0xMCAyMTo0MDowMDs3MTg4Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:40",
-        "filmId": "the_drama",
-        "theatre": "Черёмушки",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNS0xMCAyMTo0MDowMDs3MTY5Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:50",
-        "filmId": "shurale_2026",
-        "theatre": "Черёмушки",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNS0xMCAyMTo1MDowMDs3MzA1NA=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:50",
-        "filmId": "solo_mio",
-        "theatre": "Черёмушки",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNS0xMCAyMTo1MDowMDs3MzEwOQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "21:55",
-        "filmId": "kommersant",
-        "theatre": "Черёмушки",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNS0xMCAyMTo1NTowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "22:05",
-        "filmId": "hokum",
-        "theatre": "Москва",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDUtMTAgMjI6MDU6MDA7NzMwMTg="
-    },
-    {
-        "date": "10.05",
-        "time": "22:15",
-        "filmId": "kommersant",
-        "theatre": "Уссури",
-        "cost": 1450,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wNS0xMCAyMjoxNTowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "22:20",
-        "filmId": "otec",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 580,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wNS0xMCAyMjoyMDowMDs3MzA3MQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "22:35",
-        "filmId": "the_undertone",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wNS0xMCAyMjozNTowMDs3Mjc0Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "22:40",
-        "filmId": "angely_ladogi",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wNS0xMCAyMjo0MDowMDs3MTg4Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "22:45",
-        "filmId": "kommersant",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wNS0xMCAyMjo0NTowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "22:50",
-        "filmId": "tvoe_serdce_budet_razbito",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wNS0xMCAyMjo1MDowMDs3MTc3Ng=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:00",
-        "filmId": "shurale_2026",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wNS0xMCAyMzowMDowMDs3MzA1NA=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:00",
-        "filmId": "beast",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA1LTEwIDIzOjAwOjAwOzcyOTc2"
-    },
-    {
-        "date": "10.05",
-        "time": "23:00",
-        "filmId": "the_drama",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA1LTEwIDIzOjAwOjAwOzcxNjk3"
-    },
-    {
-        "date": "10.05",
-        "time": "23:00",
-        "filmId": "solo_mio",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wNS0xMCAyMzowMDowMDs3MzEwOQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:00",
-        "filmId": "solo_mio",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA1LTEwIDIzOjAwOjAwOzczMTA5"
-    },
-    {
-        "date": "10.05",
-        "time": "23:05",
-        "filmId": "kommersant",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA1LTEwIDIzOjA1OjAwOzcyMjU1"
-    },
-    {
-        "date": "10.05",
-        "time": "23:10",
-        "filmId": "beast",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wNS0xMCAyMzoxMDowMDs3Mjk3Ng=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:10",
-        "filmId": "the_drama",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wNS0xMCAyMzoxMDowMDs3MTY5Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:10",
-        "filmId": "the_drama",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xMCAyMzoxMDowMDs3MTY5Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:15",
-        "filmId": "beast",
-        "theatre": "Океан IMAX",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA1LTEwIDIzOjE1OjAwOzcyOTc2"
-    },
-    {
-        "date": "10.05",
-        "time": "23:15",
-        "filmId": "the_drama",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA1LTEwIDIzOjE1OjAwOzcxNjk3"
-    },
-    {
-        "date": "10.05",
-        "time": "23:15",
-        "filmId": "bull_run",
-        "theatre": "Уссури",
-        "cost": 1050,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wNS0xMCAyMzoxNTowMDs3MzExMA=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:20",
-        "filmId": "hokum",
-        "theatre": "Киномакс-Сапфир",
-        "cost": -1,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wNS0xMCAyMzoyMDowMDs3MzAxOA=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:30",
-        "filmId": "kommersant",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wNS0xMCAyMzozMDowMDs3MjI1NQ=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:35",
-        "filmId": "hokum",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA1LTEwIDIzOjM1OjAwOzczMDE4"
-    },
-    {
-        "date": "10.05",
-        "time": "23:45",
-        "filmId": "kommersant",
-        "theatre": "Океан IMAX",
-        "cost": 410,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA1LTEwIDIzOjQ1OjAwOzcyMjU1"
-    },
-    {
-        "date": "10.05",
-        "time": "23:45",
-        "filmId": "beast",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wNS0xMCAyMzo0NTowMDs3Mjk3Ng=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:50",
-        "filmId": "angely_ladogi",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wNS0xMCAyMzo1MDowMDs3MTg4Nw=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:55",
-        "filmId": "hokum",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wNS0xMCAyMzo1NTowMDs3MzAxOA=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:59",
-        "filmId": "hokum",
-        "theatre": "Уссури",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wNS0xMCAyMzo1OTowMDs3MzAxOA=="
-    },
-    {
-        "date": "10.05",
-        "time": "23:59",
-        "filmId": "kommersant",
-        "theatre": "Черёмушки",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wNS0xMCAyMzo1OTowMDs3MjI1NQ=="
-    },
-    {
         "date": "11.05",
         "time": "10:00",
         "filmId": "otec",
@@ -5842,12 +5428,39 @@
     },
     {
         "date": "14.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNCAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "14.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNCAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "14.05",
         "time": "12:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNCAxMjo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "14.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNCAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "14.05",
@@ -5860,12 +5473,57 @@
     },
     {
         "date": "14.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNCAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "14.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNCAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "14.05",
         "time": "15:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNCAxNToyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "14.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNCAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "14.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNCAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "14.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNCAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "14.05",
@@ -5887,6 +5545,15 @@
     },
     {
         "date": "14.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNCAxODo0NTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "14.05",
         "time": "20:00",
         "filmId": "ready_or_not_here_i_come",
         "theatre": "Москва",
@@ -5902,6 +5569,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNCAyMDoyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "14.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNCAyMTowMDowMDs3MjMyNA=="
     },
     {
         "date": "14.05",
@@ -5941,12 +5617,39 @@
     },
     {
         "date": "15.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNSAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "15.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNSAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "15.05",
         "time": "12:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNSAxMjo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "15.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNSAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "15.05",
@@ -5959,12 +5662,57 @@
     },
     {
         "date": "15.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNSAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "15.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNSAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "15.05",
         "time": "15:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNSAxNToyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "15.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNSAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "15.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNSAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "15.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNSAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "15.05",
@@ -5983,6 +5731,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNSAxNzo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "15.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNSAxODo0NTowMDs3MTY0Nw=="
     },
     {
         "date": "15.05",
@@ -6010,6 +5767,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNSAyMDoyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "15.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNSAyMTowMDowMDs3MjMyNA=="
     },
     {
         "date": "15.05",
@@ -6049,12 +5815,39 @@
     },
     {
         "date": "16.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNiAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "16.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNiAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "16.05",
         "time": "12:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNiAxMjo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "16.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNiAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "16.05",
@@ -6067,12 +5860,57 @@
     },
     {
         "date": "16.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNiAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "16.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNiAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "16.05",
         "time": "15:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNiAxNToyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "16.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNiAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "16.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNiAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "16.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNiAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "16.05",
@@ -6094,6 +5932,15 @@
     },
     {
         "date": "16.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNiAxODo0NTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "16.05",
         "time": "20:00",
         "filmId": "ready_or_not_here_i_come",
         "theatre": "Москва",
@@ -6109,6 +5956,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNiAyMDoyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "16.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNiAyMTowMDowMDs3MjMyNA=="
     },
     {
         "date": "16.05",
@@ -6148,12 +6004,39 @@
     },
     {
         "date": "17.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNyAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "17.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNyAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "17.05",
         "time": "12:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNyAxMjo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "17.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNyAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "17.05",
@@ -6166,12 +6049,57 @@
     },
     {
         "date": "17.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNyAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "17.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNyAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "17.05",
         "time": "15:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNyAxNToyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "17.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNyAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "17.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xNyAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "17.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNyAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "17.05",
@@ -6193,6 +6121,15 @@
     },
     {
         "date": "17.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xNyAxODo0NTowMDs3MTY0Nw=="
+    },
+    {
+        "date": "17.05",
         "time": "20:00",
         "filmId": "ready_or_not_here_i_come",
         "theatre": "Москва",
@@ -6208,6 +6145,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xNyAyMDoyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "17.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 1000,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xNyAyMTowMDowMDs3MjMyNA=="
     },
     {
         "date": "17.05",
@@ -6247,12 +6193,39 @@
     },
     {
         "date": "18.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOCAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "18.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xOCAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "18.05",
         "time": "12:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOCAxMjo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "18.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOCAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "18.05",
@@ -6265,12 +6238,57 @@
     },
     {
         "date": "18.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xOCAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "18.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xOCAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "18.05",
         "time": "15:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOCAxNToyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "18.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOCAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "18.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xOCAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "18.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xOCAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "18.05",
@@ -6289,6 +6307,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOCAxNzo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "18.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xOCAxODo0NTowMDs3MTY0Nw=="
     },
     {
         "date": "18.05",
@@ -6316,6 +6343,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOCAyMDoyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "18.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOCAyMTowMDowMDs3MjMyNA=="
     },
     {
         "date": "18.05",
@@ -6355,12 +6391,39 @@
     },
     {
         "date": "19.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOSAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "19.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xOSAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "19.05",
         "time": "12:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOSAxMjo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "19.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOSAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "19.05",
@@ -6373,12 +6436,57 @@
     },
     {
         "date": "19.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xOSAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "19.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xOSAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "19.05",
         "time": "15:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOSAxNToyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "19.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOSAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "19.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0xOSAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "19.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xOSAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "19.05",
@@ -6397,6 +6505,15 @@
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0xOSAxNzo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "19.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0xOSAxODo0NTowMDs3MTY0Nw=="
     },
     {
         "date": "19.05",
@@ -6436,6 +6553,15 @@
     },
     {
         "date": "19.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0xOSAyMTowMDowMDs3MjMyNA=="
+    },
+    {
+        "date": "19.05",
         "time": "22:20",
         "filmId": "ready_or_not_here_i_come",
         "theatre": "Москва",
@@ -6463,12 +6589,39 @@
     },
     {
         "date": "20.05",
+        "time": "11:15",
+        "filmId": "hoppers",
+        "theatre": "Владивосток",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0yMCAxMToxNTowMDs3MTI4MQ=="
+    },
+    {
+        "date": "20.05",
         "time": "11:50",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0yMCAxMTo1MDowMDs3MjI2MA=="
+    },
+    {
+        "date": "20.05",
+        "time": "12:25",
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0yMCAxMjoyNTowMDs3MzA2OQ=="
+    },
+    {
+        "date": "20.05",
+        "time": "13:20",
+        "filmId": "the_super_mario_galaxy_movie",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0yMCAxMzoyMDowMDs3MTY0OA=="
     },
     {
         "date": "20.05",
@@ -6481,12 +6634,57 @@
     },
     {
         "date": "20.05",
+        "time": "14:10",
+        "filmId": "zhdun_2",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0yMCAxNDoxMDowMDs3MjIxMw=="
+    },
+    {
+        "date": "20.05",
         "time": "14:20",
         "filmId": "the_devil_wears_prada_2",
         "theatre": "Киномакс-Сапфир",
         "cost": -1,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wNS0yMCAxNDoyMDowMDs3MjI2MA=="
+    },
+    {
+        "date": "20.05",
+        "time": "14:25",
+        "filmId": "the_magic_faraway_tree",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0yMCAxNDoyNTowMDs3MzAxNw=="
+    },
+    {
+        "date": "20.05",
+        "time": "15:20",
+        "filmId": "avatar_fire_and_ash",
+        "theatre": "Владивосток",
+        "cost": 700,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0yMCAxNToyMDowMDs2ODY0Nw=="
+    },
+    {
+        "date": "20.05",
+        "time": "16:10",
+        "filmId": "litvjak",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wNS0yMCAxNjoxMDowMDs3MjI1OQ=="
+    },
+    {
+        "date": "20.05",
+        "time": "16:35",
+        "filmId": "otec",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0yMCAxNjozNTowMDs3MzA3MQ=="
     },
     {
         "date": "20.05",
@@ -6505,6 +6703,15 @@
         "cost": 350,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDUtMjAgMTc6NDA6MDA7NzIzMjQ="
+    },
+    {
+        "date": "20.05",
+        "time": "18:45",
+        "filmId": "project_hail_mary",
+        "theatre": "Владивосток",
+        "cost": 200,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wNS0yMCAxODo0NTowMDs3MTY0Nw=="
     },
     {
         "date": "20.05",
@@ -6532,6 +6739,15 @@
         "cost": 400,
         "is3d": false,
         "buyLink": "NTE3Njs5NzAzOzIwMjYtMDUtMjAgMjA6MDA6MDA7NzIzMjQ="
+    },
+    {
+        "date": "20.05",
+        "time": "21:00",
+        "filmId": "ready_or_not_here_i_come",
+        "theatre": "Владивосток",
+        "cost": 800,
+        "is3d": false,
+        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wNS0yMCAyMTowMDowMDs3MjMyNA=="
     },
     {
         "date": "20.05",
