@@ -1,15 +1,12 @@
 [
     {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
-        "rating": 6,
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
         "genres": [
-            "приключения",
-            "фэнтези",
-            "комедия",
-            "семейный"
+            "ужасы"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "gruzovichki",
@@ -45,17 +42,6 @@
         "length": 165
     },
     {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -66,11 +52,13 @@
         "length": 110
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
         "genres": [
-            "ужасы"
+            "драма",
+            "военный",
+            "история"
         ],
         "length": 100
     }
