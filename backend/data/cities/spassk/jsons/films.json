@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "zhdun_2",
         "name": "Ждун 2",
         "rating": 6,
@@ -61,5 +52,14 @@
             "приключения"
         ],
         "length": 65
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     }
 ]
