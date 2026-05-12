@@ -1,61 +1,13 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
+        "filmId": "ruffen_sjoormen_som_ikke_kunne",
+        "name": "Несси. Чудище из Лохх-Несс",
+        "rating": 6,
         "genres": [
-            "драма"
+            "мультфильм",
+            "семейный"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tvoe_serdce_budet_razbito",
-        "name": "Твоё сердце будет разбито",
-        "rating": 16,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "shurale_2026",
-        "name": "Шурале",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "beast",
-        "name": "Бой со зверем",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "спорт"
-        ],
-        "length": 110
+        "length": 80
     },
     {
         "filmId": "otec",
@@ -69,44 +21,6 @@
         "length": 105
     },
     {
-        "filmId": "la_grazia",
-        "name": "Грация",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "solo_mio",
-        "name": "Холостяк в Италии",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_undertone",
-        "name": "Полутон",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "ruffen_sjoormen_som_ikke_kunne",
-        "name": "Несси. Чудище из Лохх-Несс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "gruzovichki",
         "name": "Грузовички",
         "rating": 6,
@@ -116,6 +30,16 @@
             "семейный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "angely_ladogi",
@@ -185,6 +109,15 @@
         "length": 100
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "litvjak",
         "name": "Литвяк",
         "rating": 12,
@@ -194,6 +127,16 @@
             "биография"
         ],
         "length": 165
+    },
+    {
+        "filmId": "solo_mio",
+        "name": "Холостяк в Италии",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "project_hail_mary",
@@ -254,6 +197,15 @@
         "length": 130
     },
     {
+        "filmId": "tvoe_serdce_budet_razbito",
+        "name": "Твоё сердце будет разбито",
+        "rating": 16,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "domovenok_kuzja_2",
         "name": "Домовёнок Кузя 2",
         "rating": 6,
@@ -261,6 +213,15 @@
             "комедия",
             "семейный",
             "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
     },
@@ -305,6 +266,45 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "shurale_2026",
+        "name": "Шурале",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "la_grazia",
+        "name": "Грация",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "svoja_v_dosku",
@@ -592,5 +592,18 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "shrek_forever_after",
+        "name": "Шрэк навсегда",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный",
+            "мультфильм"
+        ],
+        "length": 90
     }
 ]
