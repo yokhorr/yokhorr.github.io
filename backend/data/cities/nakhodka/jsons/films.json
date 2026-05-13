@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -10,48 +21,24 @@
         "length": 110
     },
     {
-        "filmId": "71826",
-        "name": "Мульт в кино. Выпуск №193. Навстречу приключениям",
-        "rating": 0,
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 50
+        "length": 155
     },
     {
-        "filmId": "flavia",
-        "name": "Флавия. Юный детектив",
-        "rating": 12,
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "72702",
-        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
+            "драма",
+            "военный",
+            "история"
         ],
         "length": 100
     },
@@ -66,70 +53,81 @@
         "length": 110
     },
     {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
-        "rating": 6,
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
         "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_undertone",
+        "name": "Полутон",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "beast",
+        "name": "Бой со зверем",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "спорт"
         ],
         "length": 110
     },
     {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
         "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "leo_i_tig_doroga_na_bajkal",
+        "name": "Лео и Тиг. Дорога на Байкал",
+        "rating": 0,
         "genres": [
             "мультфильм",
             "приключения",
-            "семейный"
+            "комедия",
+            "фэнтези"
         ],
-        "length": 80
+        "length": 65
     },
     {
-        "filmId": "prikljuchenija_zheltogo_chemodanchik",
-        "name": "Приключения жёлтого чемоданчика",
+        "filmId": "swapped",
+        "name": "В чужой шкуре",
         "rating": 6,
         "genres": [
-            "приключения",
+            "мультфильм",
             "фэнтези",
             "комедия",
+            "приключения",
             "семейный"
         ],
-        "length": 90
+        "length": 100
     },
     {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
+        "filmId": "72702",
+        "name": "МУЛЬТ в кино. Выпуск №194. Весенний переполох",
+        "rating": 0,
         "genres": [
-            "военный",
-            "история",
-            "биография"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 165
-    },
-    {
-        "filmId": "nasledniki_pobedy",
-        "name": "Наследники победы",
-        "rating": 6,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 61
-    },
-    {
-        "filmId": "otec",
-        "name": "Отец",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
+        "length": 50
     },
     {
         "filmId": "ruffen_sjoormen_som_ikke_kunne",
@@ -168,54 +166,46 @@
         "length": 100
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "триллер",
+            "приключения",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
             "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_undertone",
-        "name": "Полутон",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 95
     },
     {
-        "filmId": "beast",
-        "name": "Бой со зверем",
+        "filmId": "73113",
+        "name": "МУЛЬТ в кино. Выпуск №195. Билеты в лето",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
         "rating": 18,
         "genres": [
+            "фэнтези",
             "боевик",
-            "драма",
-            "спорт"
+            "фантастика"
         ],
-        "length": 110
+        "length": 115
     }
 ]

@@ -10,15 +10,22 @@
         "length": 110
     },
     {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
         "rating": 6,
         "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 110
+        "length": 100
     },
     {
         "filmId": "gruzovichki",
@@ -32,6 +39,18 @@
         "length": 80
     },
     {
+        "filmId": "leo_i_tig_doroga_na_bajkal",
+        "name": "Лео и Тиг. Дорога на Байкал",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 65
+    },
+    {
         "filmId": "pororo_sweet_castle_adventure",
         "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
         "rating": 6,
@@ -43,23 +62,14 @@
         "length": 65
     },
     {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
         "rating": 6,
         "genres": [
-            "комедия",
+            "приключения",
             "семейный",
             "фэнтези"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
+        "length": 110
     }
 ]
