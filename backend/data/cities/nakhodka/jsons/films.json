@@ -1,5 +1,65 @@
 [
     {
+        "filmId": "apex",
+        "name": "Вершина",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "leo_i_tig_doroga_na_bajkal",
         "name": "Лео и Тиг. Дорога на Байкал",
         "rating": 0,
@@ -12,6 +72,17 @@
         "length": 65
     },
     {
+        "filmId": "litvjak",
+        "name": "Литвяк",
+        "rating": 12,
+        "genres": [
+            "военный",
+            "история",
+            "биография"
+        ],
+        "length": 165
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -20,17 +91,6 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
     },
     {
         "filmId": "swapped",
@@ -80,17 +140,6 @@
         "length": 110
     },
     {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
-    },
-    {
         "filmId": "svoja_v_dosku",
         "name": "Своя в доску",
         "rating": 6,
@@ -123,16 +172,6 @@
         "length": 105
     },
     {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_super_mario_galaxy_movie",
         "name": "Супер Марио: Галактическое кино",
         "rating": 6,
@@ -146,25 +185,15 @@
         "length": 100
     },
     {
-        "filmId": "apex",
-        "name": "Вершина",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
         "rating": 16,
         "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
+            "драма",
+            "военный",
+            "история"
         ],
-        "length": 155
+        "length": 100
     },
     {
         "filmId": "otec",
@@ -178,24 +207,6 @@
         "length": 105
     },
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "73113",
         "name": "МУЛЬТ в кино. Выпуск №195. Билеты в лето",
         "rating": 0,
@@ -206,16 +217,5 @@
             "фэнтези"
         ],
         "length": 50
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
     }
 ]
