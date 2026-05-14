@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "apex",
-        "name": "Вершина",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "kommersant",
         "name": "Коммерсант",
         "rating": 18,
@@ -17,37 +7,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "the_devil_wears_prada_2",
@@ -172,6 +131,27 @@
         "length": 105
     },
     {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "apex",
+        "name": "Вершина",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "the_super_mario_galaxy_movie",
         "name": "Супер Марио: Галактическое кино",
         "rating": 6,
@@ -196,6 +176,17 @@
         "length": 100
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "otec",
         "name": "Отец",
         "rating": 16,
@@ -205,6 +196,15 @@
             "история"
         ],
         "length": 105
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "73113",
