@@ -1,23 +1,14 @@
 [
     {
-        "filmId": "over_your_dead_body",
-        "name": "Опасные отношения",
-        "rating": 18,
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
         "genres": [
-            "боевик",
-            "триллер",
-            "комедия"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "homkaem",
-        "name": "Паранормальное явление. Сеул",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
+        "length": 80
     },
     {
         "filmId": "the_devil_wears_prada_2",
@@ -30,39 +21,6 @@
         "length": 110
     },
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "kommersant",
         "name": "Коммерсант",
         "rating": 18,
@@ -70,45 +28,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "cocorico_2",
-        "name": "Неожиданные связи 2",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "solo_mio",
-        "name": "Холостяк в Италии",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 80
     },
     {
         "filmId": "svoja_v_dosku",
@@ -151,6 +70,15 @@
             "фэнтези"
         ],
         "length": 65
+    },
+    {
+        "filmId": "cocorico_2",
+        "name": "Неожиданные связи 2",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 90
     },
     {
         "filmId": "otec",
@@ -236,6 +164,27 @@
         "length": 100
     },
     {
+        "filmId": "over_your_dead_body",
+        "name": "Опасные отношения",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "solo_mio",
+        "name": "Холостяк в Италии",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "litvjak",
         "name": "Литвяк",
         "rating": 12,
@@ -254,6 +203,20 @@
             "мультфильм",
             "фэнтези",
             "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_last_airbender",
+        "name": "Легенда об Аанге: Последний маг воздуха",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "детектив",
             "приключения",
             "семейный"
         ],
@@ -306,6 +269,34 @@
         "length": 122
     },
     {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "ready_or_not_here_i_come",
         "name": "Я иду искать 2",
         "rating": 18,
@@ -315,6 +306,15 @@
             "комедия"
         ],
         "length": 105
+    },
+    {
+        "filmId": "homkaem",
+        "name": "Паранормальное явление. Сеул",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "mortal_kombat_2",
