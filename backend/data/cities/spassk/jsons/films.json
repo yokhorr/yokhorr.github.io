@@ -1,12 +1,34 @@
 [
     {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
         "rating": 6,
         "genres": [
-            "комедия"
+            "приключения",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "pororo_sweet_castle_adventure",
@@ -20,15 +42,13 @@
         "length": 65
     },
     {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
+            "комедия"
         ],
-        "length": 80
+        "length": 100
     },
     {
         "filmId": "leo_i_tig_doroga_na_bajkal",
@@ -43,23 +63,15 @@
         "length": 65
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
+        "filmId": "blokadnye_sudby",
+        "name": "Блокадные судьбы",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "драма",
+            "история",
+            "военный"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 110
+        "length": 80
     }
 ]

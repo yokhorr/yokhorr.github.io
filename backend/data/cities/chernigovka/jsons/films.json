@@ -1,5 +1,23 @@
 [
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "homkaem",
+        "name": "Паранормальное явление. Сеул",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "zhdun_2",
         "name": "Ждун 2",
         "rating": 6,
@@ -51,23 +69,5 @@
             "история"
         ],
         "length": 110
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "homkaem",
-        "name": "Паранормальное явление. Сеул",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     }
 ]
