@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "homkaem",
         "name": "Паранормальное явление. Сеул",
         "rating": 18,
@@ -69,5 +60,14 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]

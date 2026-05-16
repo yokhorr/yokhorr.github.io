@@ -1,23 +1,5 @@
 [
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "the_devil_wears_prada_2",
         "name": "Дьявол носит Prada 2",
         "rating": 16,
@@ -28,22 +10,11 @@
         "length": 110
     },
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "apex",
-        "name": "Вершина",
+        "filmId": "kommersant",
+        "name": "Коммерсант",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер"
+            "драма"
         ],
         "length": 95
     },
@@ -113,5 +84,34 @@
             "фэнтези"
         ],
         "length": 110
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "apex",
+        "name": "Вершина",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     }
 ]
