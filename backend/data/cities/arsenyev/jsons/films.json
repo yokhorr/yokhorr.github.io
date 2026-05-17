@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "apex",
-        "name": "Вершина",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "leo_i_tig_doroga_na_bajkal",
         "name": "Лео и Тиг. Дорога на Байкал",
         "rating": 0,
@@ -85,6 +75,16 @@
             "комедия"
         ],
         "length": 110
+    },
+    {
+        "filmId": "apex",
+        "name": "Вершина",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "hokum",
