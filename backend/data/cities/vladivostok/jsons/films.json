@@ -10,37 +10,6 @@
         "length": 110
     },
     {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
         "filmId": "over_your_dead_body",
         "name": "Опасные отношения",
         "rating": 18,
@@ -52,15 +21,14 @@
         "length": 105
     },
     {
-        "filmId": "stealing_beauty",
-        "name": "Ускользающая красота",
+        "filmId": "solo_mio",
+        "name": "Холостяк в Италии",
         "rating": 18,
         "genres": [
-            "драма",
             "мелодрама",
-            "детектив"
+            "комедия"
         ],
-        "length": 122
+        "length": 100
     },
     {
         "filmId": "angely_ladogi",
@@ -71,6 +39,24 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "homkaem",
+        "name": "Паранормальное явление. Сеул",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "svoja_v_dosku",
@@ -93,25 +79,12 @@
         "length": 115
     },
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
         "rating": 18,
         "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
+            "мелодрама",
+            "комедия"
         ],
         "length": 100
     },
@@ -125,44 +98,13 @@
         "length": 100
     },
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "solo_mio",
-        "name": "Холостяк в Италии",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "homkaem",
-        "name": "Паранормальное явление. Сеул",
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 95
+        "length": 135
     },
     {
         "filmId": "otec",
@@ -219,6 +161,17 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "sem_verst_do_rassveta",
+        "name": "Семь вёрст до рассвета",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 100
     },
     {
         "filmId": "goat",
@@ -307,6 +260,20 @@
         "length": 100
     },
     {
+        "filmId": "the_last_airbender",
+        "name": "Легенда об Аанге: Последний маг воздуха",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "детектив",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "avatar_fire_and_ash",
         "name": "Аватар: Пламя и пепел",
         "rating": 12,
@@ -331,6 +298,28 @@
         "length": 100
     },
     {
+        "filmId": "stealing_beauty",
+        "name": "Ускользающая красота",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "детектив"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "58688",
         "name": "Метрополис",
         "rating": 12,
@@ -349,6 +338,17 @@
             "комедия"
         ],
         "length": 90
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "teatr_mjuzikla_princessa_cirka",
