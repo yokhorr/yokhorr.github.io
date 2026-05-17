@@ -1,53 +1,10 @@
 [
     {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "leo_i_tig_doroga_na_bajkal",
-        "name": "Лео и Тиг. Дорога на Байкал",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "pororo_sweet_castle_adventure",
-        "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "приключения"
-        ],
-        "length": 65
-    },
-    {
         "filmId": "svoja_v_dosku",
         "name": "Своя в доску",
         "rating": 6,
         "genres": [
             "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 100
     },
@@ -63,6 +20,15 @@
         "length": 110
     },
     {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "blokadnye_sudby",
         "name": "Блокадные судьбы",
         "rating": 12,
@@ -73,5 +39,39 @@
             "военный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "gruzovichki",
+        "name": "Грузовички",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "pororo_sweet_castle_adventure",
+        "name": "Пингвинёнок Пороро: Приключения в мире сладостей",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "приключения"
+        ],
+        "length": 65
+    },
+    {
+        "filmId": "leo_i_tig_doroga_na_bajkal",
+        "name": "Лео и Тиг. Дорога на Байкал",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 65
     }
 ]
