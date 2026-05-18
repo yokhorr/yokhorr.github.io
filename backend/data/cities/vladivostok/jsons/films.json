@@ -1,70 +1,10 @@
 [
     {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "cocorico_2",
-        "name": "Неожиданные связи 2",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "over_your_dead_body",
         "name": "Опасные отношения",
         "rating": 18,
         "genres": [
             "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
-        "rating": 18,
-        "genres": [
-            "ужасы",
             "триллер",
             "комедия"
         ],
@@ -81,50 +21,22 @@
         "length": 100
     },
     {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "homkaem",
-        "name": "Паранормальное явление. Сеул",
+        "filmId": "hokum",
+        "name": "Хокум",
         "rating": 18,
         "genres": [
             "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
         ],
         "length": 100
     },
     {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
+        "filmId": "cocorico_2",
+        "name": "Неожиданные связи 2",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "комедия"
         ],
-        "length": 135
+        "length": 90
     },
     {
         "filmId": "ruffen_sjoormen_som_ikke_kunne",
@@ -159,6 +71,26 @@
         "length": 80
     },
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "leo_i_tig_doroga_na_bajkal",
         "name": "Лео и Тиг. Дорога на Байкал",
         "rating": 0,
@@ -181,6 +113,16 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "sem_verst_do_rassveta",
@@ -232,6 +174,16 @@
         "length": 105
     },
     {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "swapped",
         "name": "В чужой шкуре",
         "rating": 6,
@@ -265,6 +217,15 @@
             "биография"
         ],
         "length": 165
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_super_mario_galaxy_movie",
@@ -318,6 +279,15 @@
         "length": 100
     },
     {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -357,6 +327,36 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "homkaem",
+        "name": "Паранормальное явление. Сеул",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "best_in_the_world",
