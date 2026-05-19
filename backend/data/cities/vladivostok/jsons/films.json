@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "the_devil_wears_prada_2",
         "name": "Дьявол носит Prada 2",
         "rating": 16,
@@ -10,38 +19,13 @@
         "length": 110
     },
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
+        "filmId": "homkaem",
+        "name": "Паранормальное явление. Сеул",
         "rating": 18,
         "genres": [
-            "драма"
+            "ужасы"
         ],
         "length": 95
-    },
-    {
-        "filmId": "the_last_airbender",
-        "name": "Легенда об Аанге: Последний маг воздуха",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "боевик",
-            "детектив",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "over_your_dead_body",
-        "name": "Опасные отношения",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
     },
     {
         "filmId": "mortal_kombat_2",
@@ -55,30 +39,29 @@
         "length": 115
     },
     {
-        "filmId": "hokum",
-        "name": "Хокум",
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 100
+        "length": 135
     },
     {
-        "filmId": "the_drama",
-        "name": "Вот это драма!",
+        "filmId": "kommersant",
+        "name": "Коммерсант",
         "rating": 18,
         "genres": [
-            "мелодрама",
-            "комедия"
+            "драма"
         ],
-        "length": 100
+        "length": 95
     },
     {
-        "filmId": "ready_or_not_here_i_come",
-        "name": "Я иду искать 2",
+        "filmId": "over_your_dead_body",
+        "name": "Опасные отношения",
         "rating": 18,
         "genres": [
-            "ужасы",
+            "боевик",
             "триллер",
             "комедия"
         ],
@@ -93,43 +76,6 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "homkaem",
-        "name": "Паранормальное явление. Сеул",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
     },
     {
         "filmId": "otec",
@@ -152,6 +98,15 @@
             "семейный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "ruffen_sjoormen_som_ikke_kunne",
@@ -237,6 +192,16 @@
         "length": 100
     },
     {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "swapped",
         "name": "В чужой шкуре",
         "rating": 6,
@@ -279,6 +244,20 @@
             "мультфильм",
             "фэнтези",
             "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_last_airbender",
+        "name": "Легенда об Аанге: Последний маг воздуха",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "боевик",
+            "детектив",
             "приключения",
             "семейный"
         ],
@@ -359,6 +338,27 @@
             "фэнтези"
         ],
         "length": 95
+    },
+    {
+        "filmId": "the_drama",
+        "name": "Вот это драма!",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ready_or_not_here_i_come",
+        "name": "Я иду искать 2",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "bogatyri",
