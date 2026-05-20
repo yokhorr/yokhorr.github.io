@@ -1,185 +1,5 @@
 [
     {
-        "filmId": "otec",
-        "name": "Отец",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "gruzovichki",
-        "name": "Грузовички",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "ruffen_sjoormen_som_ikke_kunne",
-        "name": "Несси. Чудище из Лохх-Несс",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "leo_i_tig_doroga_na_bajkal",
-        "name": "Лео и Тиг. Дорога на Байкал",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "73113",
-        "name": "МУЛЬТ в кино. Выпуск №195. Билеты в лето",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "sem_verst_do_rassveta",
-        "name": "Семь вёрст до рассвета",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "goat",
-        "name": "Goat: Мечтай по-крупному",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный",
-            "спорт"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hoppers",
-        "name": "Прыгуны",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "angely_ladogi",
-        "name": "Ангелы Ладоги",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "swapped",
-        "name": "В чужой шкуре",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_magic_faraway_tree",
-        "name": "Вверх по волшебному дереву",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "litvjak",
-        "name": "Литвяк",
-        "rating": 12,
-        "genres": [
-            "военный",
-            "история",
-            "биография"
-        ],
-        "length": 165
-    },
-    {
         "filmId": "kommersant",
         "name": "Коммерсант",
         "rating": 18,
@@ -187,19 +7,6 @@
             "драма"
         ],
         "length": 95
-    },
-    {
-        "filmId": "the_super_mario_galaxy_movie",
-        "name": "Супер Марио: Галактическое кино",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "the_last_airbender",
@@ -216,6 +23,16 @@
         "length": 100
     },
     {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "over_your_dead_body",
         "name": "Опасные отношения",
         "rating": 18,
@@ -227,89 +44,15 @@
         "length": 105
     },
     {
-        "filmId": "avatar_fire_and_ash",
-        "name": "Аватар: Пламя и пепел",
-        "rating": 12,
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
         "genres": [
-            "фантастика",
             "фэнтези",
             "боевик",
-            "триллер",
-            "приключения"
+            "фантастика"
         ],
-        "length": 190
-    },
-    {
-        "filmId": "io_non_ti_lascio_solo",
-        "name": "Пропала собака",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "семейный",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "cocorico_2",
-        "name": "Неожиданные связи 2",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_mummy_2026",
-        "name": "Мумия",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "stealing_beauty",
-        "name": "Ускользающая красота",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "детектив"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "best_in_the_world",
-        "name": "Лучший в мире",
-        "rating": 12,
-        "genres": [
-            "документальный"
-        ],
-        "length": 61
-    },
-    {
-        "filmId": "shrek_2",
-        "name": "Шрэк 2",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 95
+        "length": 115
     },
     {
         "filmId": "hokum",
@@ -352,6 +95,16 @@
         "length": 100
     },
     {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "homkaem",
         "name": "Паранормальное явление. Сеул",
         "rating": 18,
@@ -359,6 +112,28 @@
             "ужасы"
         ],
         "length": 95
+    },
+    {
+        "filmId": "the_mummy_2026",
+        "name": "Мумия",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "swapped",
+        "name": "В чужой шкуре",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "bogatyri",
@@ -372,6 +147,26 @@
         "length": -1
     },
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "ne_odna_doma_3_vypusknoj",
         "name": "Не одна дома 3. Выпускной",
         "rating": 6,
@@ -383,6 +178,18 @@
         "length": 110
     },
     {
+        "filmId": "leo_i_tig_doroga_na_bajkal",
+        "name": "Лео и Тиг. Дорога на Байкал",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 65
+    },
+    {
         "filmId": "in_the_grey",
         "name": "Грязные деньги",
         "rating": 18,
@@ -391,6 +198,17 @@
             "триллер"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_magic_faraway_tree",
+        "name": "Вверх по волшебному дереву",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 110
     },
     {
         "filmId": "heisei_tanuki_gassen_pompoko",
@@ -436,6 +254,19 @@
         "length": 116
     },
     {
+        "filmId": "the_super_mario_galaxy_movie",
+        "name": "Супер Марио: Галактическое кино",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "poka_nebo_smotrit",
         "name": "Пока небо смотрит",
         "rating": 18,
@@ -443,6 +274,17 @@
             "драма"
         ],
         "length": 75
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_huntsman",
@@ -566,6 +408,13 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "73698",
+        "name": "День рождения",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "30714",
