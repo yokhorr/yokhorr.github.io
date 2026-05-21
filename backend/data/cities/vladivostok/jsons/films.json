@@ -1,34 +1,5 @@
 [
     {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "obsession",
         "name": "Обсессия",
         "rating": 18,
@@ -37,6 +8,16 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
     },
     {
         "filmId": "mortal_kombat_2",
@@ -50,35 +31,14 @@
         "length": 115
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
         "rating": 16,
         "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
+            "драма",
+            "комедия"
         ],
-        "length": 155
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "over_your_dead_body",
@@ -100,6 +60,15 @@
             "детектив"
         ],
         "length": 105
+    },
+    {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "svoja_v_dosku",
@@ -222,6 +191,37 @@
             "драма"
         ],
         "length": 75
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "73113",
