@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "scotty",
         "name": "Тень",
         "rating": 6,
@@ -22,16 +42,6 @@
         "length": 65
     },
     {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "ne_odna_doma_3_vypusknoj",
         "name": "Не одна дома 3. Выпускной",
         "rating": 6,
@@ -52,15 +62,5 @@
             "приключения"
         ],
         "length": 90
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
     }
 ]
