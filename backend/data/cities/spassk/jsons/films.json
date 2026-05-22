@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "svoja_v_dosku",
         "name": "Своя в доску",
         "rating": 6,
@@ -62,5 +52,15 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
     }
 ]

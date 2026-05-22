@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "scotty",
         "name": "Тень",
         "rating": 6,
@@ -70,6 +60,16 @@
         "genres": [
             "драма",
             "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
         ],
         "length": 110
     }

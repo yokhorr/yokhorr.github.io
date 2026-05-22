@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "apex",
-        "name": "Вершина",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "in_the_grey",
         "name": "Грязные деньги",
         "rating": 18,
@@ -28,16 +8,6 @@
             "триллер"
         ],
         "length": 100
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
     },
     {
         "filmId": "leo_i_tig_doroga_na_bajkal",
@@ -108,6 +78,16 @@
         "length": 100
     },
     {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "angely_ladogi",
         "name": "Ангелы Ладоги",
         "rating": 12,
@@ -116,5 +96,25 @@
             "история"
         ],
         "length": 110
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "apex",
+        "name": "Вершина",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     }
 ]

@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "in_the_grey",
         "name": "Грязные деньги",
         "rating": 18,
@@ -39,16 +8,6 @@
             "триллер"
         ],
         "length": 100
-    },
-    {
-        "filmId": "apex",
-        "name": "Вершина",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "leo_i_tig_doroga_na_bajkal",
@@ -108,6 +67,16 @@
         "length": 50
     },
     {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "svoja_v_dosku",
         "name": "Своя в доску",
         "rating": 6,
@@ -130,6 +99,16 @@
         "length": 100
     },
     {
+        "filmId": "apex",
+        "name": "Вершина",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "heisei_tanuki_gassen_pompoko",
         "name": "Помпоко: Война тануки в период Хэйсэй",
         "rating": 12,
@@ -141,5 +120,26 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
     }
 ]
