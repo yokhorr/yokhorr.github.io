@@ -1,101 +1,20 @@
 [
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "in_the_grey",
         "name": "Грязные деньги",
         "rating": 18,
         "genres": [
             "боевик",
             "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "over_your_dead_body",
-        "name": "Опасные отношения",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_huntsman",
-        "name": "Американский маньяк",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "детектив"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
         ],
         "length": 100
     },
@@ -168,6 +87,17 @@
         "length": 110
     },
     {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "73113",
         "name": "МУЛЬТ в кино. Выпуск №195. Билеты в лето",
         "rating": 0,
@@ -178,6 +108,16 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "heisei_tanuki_gassen_pompoko",
@@ -203,6 +143,16 @@
         "length": 80
     },
     {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "the_super_mario_galaxy_movie",
         "name": "Супер Марио: Галактическое кино",
         "rating": 6,
@@ -216,6 +166,15 @@
         "length": 100
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "poka_nebo_smotrit",
         "name": "Пока небо смотрит",
         "rating": 18,
@@ -223,6 +182,17 @@
             "драма"
         ],
         "length": 75
+    },
+    {
+        "filmId": "over_your_dead_body",
+        "name": "Опасные отношения",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
     },
     {
         "filmId": "project_hail_mary",
@@ -234,6 +204,36 @@
             "драма"
         ],
         "length": 155
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_huntsman",
+        "name": "Американский маньяк",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "детектив"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "dr_strangelove",
