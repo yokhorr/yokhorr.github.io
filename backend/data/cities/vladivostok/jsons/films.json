@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "in_the_grey",
         "name": "Грязные деньги",
         "rating": 18,
@@ -31,24 +21,15 @@
         "length": 115
     },
     {
-        "filmId": "bogatyri",
-        "name": "Богатыри",
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
         "rating": 6,
         "genres": [
-            "семейный",
             "комедия",
-            "приключения"
+            "семейный",
+            "фэнтези"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "poka_nebo_smotrit",
-        "name": "Пока небо смотрит",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 75
+        "length": 100
     },
     {
         "filmId": "obsession",
@@ -61,24 +42,23 @@
         "length": 110
     },
     {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
         "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "ne_odna_doma_3_vypusknoj",
-        "name": "Не одна дома 3. Выпускной",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
+            "драма",
+            "комедия"
         ],
         "length": 110
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "over_your_dead_body",
@@ -92,35 +72,13 @@
         "length": 105
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
+        "filmId": "kommersant",
+        "name": "Коммерсант",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "драма"
         ],
-        "length": 100
+        "length": 95
     },
     {
         "filmId": "the_huntsman",
@@ -153,6 +111,28 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "bogatyri",
+        "name": "Богатыри",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "ne_odna_doma_3_vypusknoj",
+        "name": "Не одна дома 3. Выпускной",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
     },
     {
         "filmId": "the_magic_faraway_tree",
@@ -234,6 +214,26 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "poka_nebo_smotrit",
+        "name": "Пока небо смотрит",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "dr_strangelove",
