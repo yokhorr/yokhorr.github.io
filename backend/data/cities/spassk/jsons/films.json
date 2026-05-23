@@ -1,5 +1,35 @@
 [
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ne_odna_doma_3_vypusknoj",
+        "name": "Не одна дома 3. Выпускной",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "odnim_dyhaniem_s_pobedoj_",
         "name": "Одним дыханием с Победой",
         "rating": 12,
@@ -32,35 +62,5 @@
             "приключения"
         ],
         "length": 90
-    },
-    {
-        "filmId": "ne_odna_doma_3_vypusknoj",
-        "name": "Не одна дома 3. Выпускной",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
     }
 ]
