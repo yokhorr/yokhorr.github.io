@@ -1,11 +1,11 @@
 [
     {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
         "genres": [
-            "драма",
-            "комедия"
+            "ужасы",
+            "триллер"
         ],
         "length": 110
     },
@@ -18,16 +18,6 @@
             "триллер"
         ],
         "length": 100
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
     },
     {
         "filmId": "leo_i_tig_doroga_na_bajkal",
@@ -83,5 +73,15 @@
             "приключения"
         ],
         "length": 90
+    },
+    {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
     }
 ]

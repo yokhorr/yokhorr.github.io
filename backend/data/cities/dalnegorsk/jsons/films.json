@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "scotty",
         "name": "Тень",
         "rating": 6,
@@ -28,6 +8,16 @@
             "семейный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
     },
     {
         "filmId": "leo_i_tig_doroga_na_bajkal",
@@ -70,6 +60,16 @@
         "genres": [
             "драма",
             "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
         ],
         "length": 110
     }
