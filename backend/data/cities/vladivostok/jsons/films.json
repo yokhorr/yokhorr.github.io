@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "obsession",
         "name": "Обсессия",
         "rating": 18,
@@ -20,25 +30,14 @@
         "length": 110
     },
     {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
+        "filmId": "the_huntsman",
+        "name": "Американский маньяк",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
             "триллер",
-            "драма"
+            "детектив"
         ],
-        "length": 155
+        "length": 105
     },
     {
         "filmId": "mortal_kombat_2",
@@ -50,47 +49,6 @@
             "фантастика"
         ],
         "length": 115
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "over_your_dead_body",
-        "name": "Опасные отношения",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_huntsman",
-        "name": "Американский маньяк",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "детектив"
-        ],
-        "length": 105
     },
     {
         "filmId": "hokum",
@@ -215,6 +173,15 @@
         "length": 100
     },
     {
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "zhenitba_2025",
         "name": "Театр в кино: Женитьба",
         "rating": 16,
@@ -232,6 +199,39 @@
             "драма"
         ],
         "length": 75
+    },
+    {
+        "filmId": "over_your_dead_body",
+        "name": "Опасные отношения",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 100
     },
     {
         "filmId": "michael",
