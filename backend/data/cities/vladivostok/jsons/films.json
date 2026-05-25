@@ -1,70 +1,20 @@
 [
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "in_the_grey",
         "name": "Грязные деньги",
         "rating": 18,
         "genres": [
             "боевик",
             "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_huntsman",
-        "name": "Американский маньяк",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "детектив"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
         ],
         "length": 100
     },
@@ -126,6 +76,16 @@
         "length": 110
     },
     {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "the_magic_faraway_tree",
         "name": "Вверх по волшебному дереву",
         "rating": 6,
@@ -158,6 +118,27 @@
             "семейный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
     },
     {
         "filmId": "the_super_mario_galaxy_movie",
@@ -234,6 +215,25 @@
         "length": 100
     },
     {
+        "filmId": "the_huntsman",
+        "name": "Американский маньяк",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "детектив"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "michael",
         "name": "Майкл",
         "rating": 18,
@@ -285,6 +285,39 @@
             "лекция"
         ],
         "length": 145
+    },
+    {
+        "filmId": "le_reve_americain",
+        "name": "Мечтать не вредно",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "спорт"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "borley_rectory_the_awakening",
+        "name": "Монахиня из Борли. Возвращение",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "73783",
+        "name": "Момо",
+        "rating": 0,
+        "genres": [],
+        "length": -1
+    },
+    {
+        "filmId": "73782",
+        "name": "Космическая Машка",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "14019",
@@ -412,5 +445,15 @@
             "драма"
         ],
         "length": 115
+    },
+    {
+        "filmId": "st_margarethen_nabucco",
+        "name": "Оперный фестиваль в Санкт-Маргаретен: Набукко",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "опера"
+        ],
+        "length": 125
     }
 ]
