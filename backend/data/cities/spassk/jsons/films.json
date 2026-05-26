@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "odnim_dyhaniem_s_pobedoj_",
         "name": "Одним дыханием с Победой",
         "rating": 12,
@@ -9,17 +28,6 @@
             "военный"
         ],
         "length": 61
-    },
-    {
-        "filmId": "bogatyri",
-        "name": "Богатыри",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
     },
     {
         "filmId": "ne_odna_doma_3_vypusknoj",
@@ -45,22 +53,14 @@
         "length": 65
     },
     {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
+        "filmId": "bogatyri",
+        "name": "Богатыри",
         "rating": 6,
         "genres": [
-            "комедия"
+            "семейный",
+            "комедия",
+            "приключения"
         ],
-        "length": 100
+        "length": 90
     }
 ]

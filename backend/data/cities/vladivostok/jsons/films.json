@@ -1,12 +1,33 @@
 [
     {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
+        "filmId": "kommersant",
+        "name": "Коммерсант",
+        "rating": 18,
         "genres": [
+            "драма"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "mortal_kombat_2",
+        "name": "Мортал Комбат 2",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "фантастика"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_devil_wears_prada_2",
+        "name": "Дьявол носит Prada 2",
+        "rating": 16,
+        "genres": [
+            "драма",
             "комедия"
         ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "in_the_grey",
@@ -19,15 +40,87 @@
         "length": 100
     },
     {
-        "filmId": "ne_odna_doma_3_vypusknoj",
-        "name": "Не одна дома 3. Выпускной",
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "zhdun_2",
+        "name": "Ждун 2",
         "rating": 6,
         "genres": [
             "комедия",
-            "приключения",
-            "семейный"
+            "семейный",
+            "фэнтези"
         ],
-        "length": 110
+        "length": 100
+    },
+    {
+        "filmId": "over_your_dead_body",
+        "name": "Опасные отношения",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_huntsman",
+        "name": "Американский маньяк",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "детектив"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "hokum",
+        "name": "Хокум",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "leo_i_tig_doroga_na_bajkal",
+        "name": "Лео и Тиг. Дорога на Байкал",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 65
     },
     {
         "filmId": "swapped",
@@ -54,16 +147,15 @@
         "length": 90
     },
     {
-        "filmId": "leo_i_tig_doroga_na_bajkal",
-        "name": "Лео и Тиг. Дорога на Байкал",
-        "rating": 0,
+        "filmId": "ne_odna_doma_3_vypusknoj",
+        "name": "Не одна дома 3. Выпускной",
+        "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
             "комедия",
-            "фэнтези"
+            "приключения",
+            "семейный"
         ],
-        "length": 65
+        "length": 110
     },
     {
         "filmId": "angely_ladogi",
@@ -72,16 +164,6 @@
         "genres": [
             "драма",
             "история"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
         ],
         "length": 110
     },
@@ -120,27 +202,6 @@
         "length": 80
     },
     {
-        "filmId": "mortal_kombat_2",
-        "name": "Мортал Комбат 2",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "фантастика"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_super_mario_galaxy_movie",
         "name": "Супер Марио: Галактическое кино",
         "rating": 6,
@@ -150,86 +211,6 @@
             "комедия",
             "приключения",
             "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "kommersant",
-        "name": "Коммерсант",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "zhenitba_2025",
-        "name": "Театр в кино: Женитьба",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "poka_nebo_smotrit",
-        "name": "Пока небо смотрит",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "over_your_dead_body",
-        "name": "Опасные отношения",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "zhdun_2",
-        "name": "Ждун 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "фэнтези"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_huntsman",
-        "name": "Американский маньяк",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "детектив"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "hokum",
-        "name": "Хокум",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 100
     },
@@ -245,9 +226,18 @@
         "length": 130
     },
     {
+        "filmId": "poka_nebo_smotrit",
+        "name": "Пока небо смотрит",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "shrek_the_third",
-        "name": "Шрек 3",
-        "rating": 6,
+        "name": "Шрэк 3",
+        "rating": 12,
         "genres": [
             "мультфильм",
             "приключения",
@@ -278,6 +268,21 @@
         "length": -1
     },
     {
+        "filmId": "zombieland_saga_movie",
+        "name": "Зомбилэнд-Сага. Фильм",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "фэнтези",
+            "фантастика",
+            "комедия",
+            "боевик",
+            "музыка"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "73092",
         "name": "Цикл лекций Ксении Бариновой: «‎Зелёная миля»: Природа чуда",
         "rating": 18,
@@ -306,18 +311,24 @@
         "length": 90
     },
     {
-        "filmId": "73783",
+        "filmId": "momo",
         "name": "Момо",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 90
     },
     {
-        "filmId": "73782",
+        "filmId": "kosmicheskaja_mashka",
         "name": "Космическая Машка",
-        "rating": 0,
-        "genres": [],
-        "length": -1
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "14019",
@@ -360,7 +371,7 @@
     {
         "filmId": "shrek_forever_after",
         "name": "Шрэк навсегда",
-        "rating": 6,
+        "rating": 12,
         "genres": [
             "фэнтези",
             "комедия",
