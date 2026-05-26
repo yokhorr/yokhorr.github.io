@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "odnim_dyhaniem_s_pobedoj_",
         "name": "Одним дыханием с Победой",
         "rating": 12,
@@ -39,6 +20,16 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "in_the_grey",
+        "name": "Грязные деньги",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
     },
     {
         "filmId": "leo_i_tig_doroga_na_bajkal",
@@ -62,5 +53,14 @@
             "приключения"
         ],
         "length": 90
+    },
+    {
+        "filmId": "svoja_v_dosku",
+        "name": "Своя в доску",
+        "rating": 6,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     }
 ]
