@@ -1,56 +1,45 @@
 [
     {
-        "filmId": "leo_i_tig_doroga_na_bajkal",
-        "name": "Лео и Тиг. Дорога на Байкал",
-        "rating": 0,
+        "filmId": "papa_kupi_pesika",
+        "name": "Папа, купи пёсика",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "семейный",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "spiked",
+        "name": "Колючая и Ушастый",
+        "rating": 6,
         "genres": [
             "мультфильм",
             "приключения",
             "комедия",
             "фэнтези"
         ],
-        "length": 65
+        "length": 85
     },
     {
-        "filmId": "scotty",
-        "name": "Тень",
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
         "rating": 6,
         "genres": [
-            "приключения",
+            "комедия",
             "семейный"
         ],
-        "length": 80
+        "length": -1
     },
     {
-        "filmId": "bogatyri",
-        "name": "Богатыри",
-        "rating": 6,
+        "filmId": "holop_3",
+        "name": "Холоп 3",
+        "rating": 12,
         "genres": [
-            "семейный",
             "комедия",
             "приключения"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_odna_doma_3_vypusknoj",
-        "name": "Не одна дома 3. Выпускной",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
+        "length": 125
     }
 ]

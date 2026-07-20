@@ -1,30 +1,43 @@
 [
     {
-        "filmId": "leo_i_tig_doroga_na_bajkal",
-        "name": "Лео и Тиг. Дорога на Байкал",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 65
-    },
-    {
-        "filmId": "ne_odna_doma_3_vypusknoj",
-        "name": "Не одна дома 3. Выпускной",
+        "filmId": "toy_story_5",
+        "name": "История игрушек 5",
         "rating": 6,
         "genres": [
+            "мультфильм",
+            "фэнтези",
+            "драма",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 110
+        "length": 100
     },
     {
-        "filmId": "shrek",
-        "name": "Шрэк",
+        "filmId": "spiked",
+        "name": "Колючая и Ушастый",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
         "rating": 6,
         "genres": [
             "мультфильм",
@@ -35,53 +48,33 @@
         "length": 90
     },
     {
-        "filmId": "svoja_v_dosku",
-        "name": "Своя в доску",
-        "rating": 6,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "bogatyri",
-        "name": "Богатыри",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "in_the_grey",
-        "name": "Грязные деньги",
+        "filmId": "in_the_hand_of_dante",
+        "name": "Кодекс Данте",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_devil_wears_prada_2",
-        "name": "Дьявол носит Prada 2",
-        "rating": 16,
-        "genres": [
+            "триллер",
             "драма",
-            "комедия"
+            "криминал",
+            "детектив"
         ],
-        "length": 110
+        "length": 150
     },
     {
-        "filmId": "obsession",
-        "name": "Обсессия",
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "триллер"
+            "ужасы"
         ],
-        "length": 110
+        "length": 122
+    },
+    {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
