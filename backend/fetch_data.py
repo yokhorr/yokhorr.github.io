@@ -156,7 +156,7 @@ def parse_seance_details(ref: str, theatre: str, date: str, film_time: str, city
     if new_film:
         parse_film(soup, film_id)
 
-    # Note: for every seanse we need to loop through the table
+    # Note: for every seance we need to loop through the table
     # of all particular film seances, which is not optimal
     # actually, a better way would be not to loop through the table of all seances
     # but the table of films and then loop through the table of seances for a specific film
@@ -172,7 +172,7 @@ def parse_seance_details(ref: str, theatre: str, date: str, film_time: str, city
     while i < len(date_headings):
         elem = date_headings[i]
         if (elem != '\n' and elem.string != 'Нет сеансов'
-                and elem['class'][0] == 'day-title' and date in elem['data-ga-label']):  # right date found
+                and elem['class'][0] == 'day-title' and date in elem.contents[1].string):  # right date found
             # save seances and exit
             rows = (date_headings[i + 2].find_next().find_all(class_='film_list seances-table__data-row') +
                     date_headings[i + 2].find_next()
