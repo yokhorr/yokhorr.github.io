@@ -9,67 +9,6 @@
         "length": 122
     },
     {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "otpusk_na_vsju_golovu",
-        "name": "Отпуск на всю голову",
-        "rating": 16,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "holop_3",
-        "name": "Холоп 3",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "приключения"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "supergirl",
         "name": "Супергёрл",
         "rating": 12,
@@ -91,6 +30,27 @@
             "мелодрама"
         ],
         "length": 85
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "74273",
@@ -117,6 +77,16 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
     },
     {
         "filmId": "74788",
@@ -153,6 +123,15 @@
         "length": 105
     },
     {
+        "filmId": "otpusk_na_vsju_golovu",
+        "name": "Отпуск на всю голову",
+        "rating": 16,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "the_sheep_detectives",
         "name": "Cледствие ведут овечки",
         "rating": 12,
@@ -173,5 +152,26 @@
             "детектив"
         ],
         "length": 150
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "holop_3",
+        "name": "Холоп 3",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "приключения"
+        ],
+        "length": 125
     }
 ]
