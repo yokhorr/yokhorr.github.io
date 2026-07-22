@@ -1,13 +1,15 @@
 [
     {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
         "rating": 6,
         "genres": [
+            "мультфильм",
+            "приключения",
             "комедия",
-            "семейный"
+            "фэнтези"
         ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "evil_dead_burn",
@@ -17,6 +19,16 @@
             "ужасы"
         ],
         "length": 122
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
     },
     {
         "filmId": "michael",
@@ -30,16 +42,16 @@
         "length": 130
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
+        "filmId": "in_the_hand_of_dante",
+        "name": "Кодекс Данте",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
-        "length": 90
+        "length": 150
     },
     {
         "filmId": "holop_3",
@@ -63,86 +75,6 @@
         "length": 100
     },
     {
-        "filmId": "spider_man_homecoming",
-        "name": "Человек-паук: Возвращение домой",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "this_is_it",
-        "name": "Майкл Джексон: Вот и всё",
-        "rating": 12,
-        "genres": [
-            "документальный",
-            "музыка"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "toy_story_5",
-        "name": "История игрушек 5",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "драма",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "75229",
-        "name": "Инициал Ди: Стадия третья",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "боевик",
-            "мелодрама"
-        ],
-        "length": 104
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "in_the_hand_of_dante",
-        "name": "Кодекс Данте",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "scary_movie",
         "name": "Очень страшное кино 6",
         "rating": 18,
@@ -162,15 +94,14 @@
         "length": 110
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
+            "ужасы",
+            "триллер"
         ],
-        "length": 155
+        "length": 110
     },
     {
         "filmId": "trassa_more_more",
@@ -182,6 +113,32 @@
             "мелодрама"
         ],
         "length": 85
+    },
+    {
+        "filmId": "75229",
+        "name": "Инициал Ди: Стадия третья",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "боевик",
+            "мелодрама"
+        ],
+        "length": 104
+    },
+    {
+        "filmId": "toy_story_5",
+        "name": "История игрушек 5",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "драма",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "moj_dikij_drug_vozvrashenie",
@@ -228,6 +185,17 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "disclosure_day",
+        "name": "День разоблачения",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 145
     },
     {
         "filmId": "otpusk_na_vsju_golovu",
@@ -297,6 +265,16 @@
         "length": 95
     },
     {
+        "filmId": "this_is_it",
+        "name": "Майкл Джексон: Вот и всё",
+        "rating": 12,
+        "genres": [
+            "документальный",
+            "музыка"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "sakamoto_deizu",
         "name": "Дни Сакамото",
         "rating": 18,
@@ -305,6 +283,17 @@
             "комедия"
         ],
         "length": 130
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "75368",
