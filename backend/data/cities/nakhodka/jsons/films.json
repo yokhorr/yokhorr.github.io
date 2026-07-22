@@ -1,58 +1,5 @@
 [
     {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "supergirl",
-        "name": "Супергёрл",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "trassa_more_more",
-        "name": "Трасса «Море — море»",
-        "rating": 16,
-        "genres": [
-            "приключения",
-            "комедия",
-            "мелодрама"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "toy_story_5",
         "name": "История игрушек 5",
         "rating": 6,
@@ -89,6 +36,30 @@
         "length": 100
     },
     {
+        "filmId": "supergirl",
+        "name": "Супергёрл",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "spiked",
         "name": "Колючая и Ушастый",
         "rating": 6,
@@ -109,6 +80,15 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_sheep_detectives",
@@ -152,6 +132,15 @@
             "криминал"
         ],
         "length": 125
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     },
     {
         "filmId": "scary_movie",
