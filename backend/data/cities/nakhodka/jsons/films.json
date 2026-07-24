@@ -1,45 +1,5 @@
 [
     {
-        "filmId": "diabolik_chi_sei",
-        "name": "Фантом. Кто ты?",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "scary_movie",
-        "name": "Очень страшное кино 6",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "toy_story_5",
         "name": "История игрушек 5",
         "rating": 6,
@@ -141,6 +101,24 @@
         "length": 105
     },
     {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "michael",
         "name": "Майкл",
         "rating": 18,
@@ -179,5 +157,27 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "diabolik_chi_sei",
+        "name": "Фантом. Кто ты?",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "scary_movie",
+        "name": "Очень страшное кино 6",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
