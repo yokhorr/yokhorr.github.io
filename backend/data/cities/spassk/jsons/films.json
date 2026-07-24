@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "moj_dikij_drug_vozvrashenie",
-        "name": "Мой дикий друг. Возвращение домой",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "na_derevnju_dedushke_2",
         "name": "На деревню дедушке 2",
         "rating": 6,
@@ -18,6 +8,15 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     },
     {
         "filmId": "spiked",
@@ -32,12 +31,13 @@
         "length": 85
     },
     {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
+        "filmId": "moj_dikij_drug_vozvrashenie",
+        "name": "Мой дикий друг. Возвращение домой",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "семейный",
+            "приключения"
         ],
-        "length": 122
+        "length": 100
     }
 ]
