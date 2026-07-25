@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "her_private_hell",
-        "name": "Её личный ад",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "evil_dead_burn",
         "name": "Зловещие мертвецы: Пекло",
         "rating": 18,
@@ -70,5 +61,14 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "her_private_hell",
+        "name": "Её личный ад",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     }
 ]
