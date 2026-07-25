@@ -1,25 +1,12 @@
 [
     {
-        "filmId": "spiked",
-        "name": "Колючая и Ушастый",
-        "rating": 6,
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "ужасы"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": -1
+        "length": 122
     },
     {
         "filmId": "moj_dikij_drug_vozvrashenie",
@@ -32,12 +19,25 @@
         "length": 100
     },
     {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "комедия",
+            "семейный"
         ],
-        "length": 122
+        "length": -1
+    },
+    {
+        "filmId": "spiked",
+        "name": "Колючая и Ушастый",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 85
     }
 ]
