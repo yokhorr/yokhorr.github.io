@@ -1,97 +1,5 @@
 [
     {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "backrooms",
-        "name": "Закулисье реальности",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "scary_movie",
-        "name": "Очень страшное кино 6",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "her_private_hell",
-        "name": "Её личный ад",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "sakamoto_deizu",
-        "name": "Дни Сакамото",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "in_the_hand_of_dante",
-        "name": "Кодекс Данте",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "toy_story_5",
         "name": "История игрушек 5",
         "rating": 6,
@@ -124,6 +32,18 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "74788",
@@ -181,6 +101,17 @@
         "length": 65
     },
     {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "supergirl",
         "name": "Супергёрл",
         "rating": 12,
@@ -211,6 +142,18 @@
             "драма"
         ],
         "length": 145
+    },
+    {
+        "filmId": "in_the_hand_of_dante",
+        "name": "Кодекс Данте",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 150
     },
     {
         "filmId": "otpusk_na_vsju_golovu",
@@ -245,6 +188,15 @@
         "length": 100
     },
     {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "75367",
         "name": "Человек и море 2026. На глубине и выше облаков. Невероятные встречи с царями Северных просторов",
         "rating": 6,
@@ -252,6 +204,25 @@
             "документальный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "backrooms",
+        "name": "Закулисье реальности",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "scary_movie",
+        "name": "Очень страшное кино 6",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_mandalorian_and_grogu",
@@ -290,6 +261,25 @@
         "length": 85
     },
     {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "her_private_hell",
+        "name": "Её личный ад",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "lame_ideale",
         "name": "Между небом и землей",
         "rating": 18,
@@ -317,6 +307,16 @@
             "музыка"
         ],
         "length": 110
+    },
+    {
+        "filmId": "sakamoto_deizu",
+        "name": "Дни Сакамото",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия"
+        ],
+        "length": 130
     },
     {
         "filmId": "project_hail_mary",
