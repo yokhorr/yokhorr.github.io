@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -19,15 +9,6 @@
             "приключения"
         ],
         "length": 170
-    },
-    {
-        "filmId": "todo_lo_que_nunca_fuimos",
-        "name": "Всё, что мы потеряли",
-        "rating": 18,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 105
     },
     {
         "filmId": "michael",
@@ -41,35 +22,6 @@
         "length": 130
     },
     {
-        "filmId": "sengkolo_petaka_satu_suro",
-        "name": "Могильный ритуал. Зло вернулось",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "hantu_dalam_sel",
-        "name": "Призрак в клетке",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -80,66 +32,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "inbijiburu_hafu",
-        "name": "Школа призраков",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "backrooms",
-        "name": "Закулисье реальности",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "nepokoj",
-        "name": "Непокой",
-        "rating": 18,
-        "genres": [
-            "мультфильм",
-            "триллер",
-            "фантастика"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "scary_movie",
-        "name": "Очень страшное кино 6",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "fuze",
-        "name": "Ограбить Лондон",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал",
-            "детектив"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "pinocchio_unstrung",
-        "name": "Пиноккио: Раскрепощённый",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
     },
     {
         "filmId": "david_2025",
@@ -182,6 +74,16 @@
             "приключения"
         ],
         "length": 125
+    },
+    {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "toy_story_5",
@@ -233,6 +135,15 @@
         "length": 150
     },
     {
+        "filmId": "todo_lo_que_nunca_fuimos",
+        "name": "Всё, что мы потеряли",
+        "rating": 18,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "obsession",
         "name": "Обсессия",
         "rating": 18,
@@ -256,6 +167,15 @@
         "length": 140
     },
     {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -265,6 +185,17 @@
             "драма"
         ],
         "length": 155
+    },
+    {
+        "filmId": "nepokoj",
+        "name": "Непокой",
+        "rating": 18,
+        "genres": [
+            "мультфильм",
+            "триллер",
+            "фантастика"
+        ],
+        "length": 85
     },
     {
         "filmId": "disclosure_day",
@@ -288,6 +219,18 @@
         "length": 165
     },
     {
+        "filmId": "fuze",
+        "name": "Ограбить Лондон",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "this_is_it",
         "name": "Майкл Джексон: Вот и всё",
         "rating": 12,
@@ -298,6 +241,15 @@
         "length": 110
     },
     {
+        "filmId": "inbijiburu_hafu",
+        "name": "Школа призраков",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "her_private_hell",
         "name": "Её личный ад",
         "rating": 18,
@@ -305,6 +257,54 @@
             "ужасы"
         ],
         "length": 110
+    },
+    {
+        "filmId": "sengkolo_petaka_satu_suro",
+        "name": "Могильный ритуал. Зло вернулось",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "backrooms",
+        "name": "Закулисье реальности",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "hantu_dalam_sel",
+        "name": "Призрак в клетке",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "scary_movie",
+        "name": "Очень страшное кино 6",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "pinocchio_unstrung",
+        "name": "Пиноккио: Раскрепощённый",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
     },
     {
         "filmId": "sunset_blvd",
@@ -458,5 +458,16 @@
             "детектив"
         ],
         "length": 140
+    },
+    {
+        "filmId": "hanarokushou_ga_akeru_hi_ni",
+        "name": "И наступит рассвет",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "драма"
+        ],
+        "length": 75
     }
 ]
