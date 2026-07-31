@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "za_ljubov",
-        "name": "За любовь",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "moj_dikij_drug_vozvrashenie",
         "name": "Мой дикий друг. Возвращение домой",
         "rating": 6,
@@ -40,5 +20,25 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "za_ljubov",
+        "name": "За любовь",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]

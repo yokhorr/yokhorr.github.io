@@ -1,86 +1,5 @@
 [
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "za_ljubov",
-        "name": "За любовь",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "todo_lo_que_nunca_fuimos",
-        "name": "Всё, что мы потеряли",
-        "rating": 18,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "her_private_hell",
-        "name": "Её личный ад",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "inbijiburu_hafu",
-        "name": "Школа призраков",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "supergirl",
         "name": "Супергёрл",
         "rating": 12,
@@ -98,6 +17,15 @@
         "rating": 18,
         "genres": [
             "комедия",
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
             "ужасы"
         ],
         "length": 95
@@ -125,6 +53,29 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "74788",
@@ -171,6 +122,35 @@
         "length": 125
     },
     {
+        "filmId": "inbijiburu_hafu",
+        "name": "Школа призраков",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "za_ljubov",
+        "name": "За любовь",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "todo_lo_que_nunca_fuimos",
+        "name": "Всё, что мы потеряли",
+        "rating": 18,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "michael",
         "name": "Майкл",
         "rating": 18,
@@ -180,5 +160,25 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "disclosure_day",
+        "name": "День разоблачения",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "her_private_hell",
+        "name": "Её личный ад",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
     }
 ]

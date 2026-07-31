@@ -1,14 +1,12 @@
 [
     {
-        "filmId": "michael",
-        "name": "Майкл",
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
         "rating": 18,
         "genres": [
-            "биография",
-            "музыка",
-            "драма"
+            "ужасы"
         ],
-        "length": 130
+        "length": 122
     },
     {
         "filmId": "the_odyssey",
@@ -20,14 +18,5 @@
             "приключения"
         ],
         "length": 170
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
     }
 ]
