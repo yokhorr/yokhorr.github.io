@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "hantu_dalam_sel",
+        "name": "Призрак в клетке",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "moj_dikij_drug_vozvrashenie",
         "name": "Мой дикий друг. Возвращение домой",
         "rating": 6,
@@ -50,27 +71,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "hantu_dalam_sel",
-        "name": "Призрак в клетке",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
     },
     {
         "filmId": "evil_dead_burn",
