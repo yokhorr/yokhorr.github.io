@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "supergirl",
-        "name": "Супергёрл",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "scary_movie",
-        "name": "Очень страшное кино 6",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "toy_story_5",
         "name": "История игрушек 5",
         "rating": 6,
@@ -110,6 +79,18 @@
         "length": 100
     },
     {
+        "filmId": "supergirl",
+        "name": "Супергёрл",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "diabolik_chi_sei",
         "name": "Фантом. Кто ты?",
         "rating": 18,
@@ -173,6 +154,15 @@
         "length": 145
     },
     {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "her_private_hell",
         "name": "Её личный ад",
         "rating": 18,
@@ -180,5 +170,15 @@
             "ужасы"
         ],
         "length": 110
+    },
+    {
+        "filmId": "scary_movie",
+        "name": "Очень страшное кино 6",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "ужасы"
+        ],
+        "length": 95
     }
 ]
