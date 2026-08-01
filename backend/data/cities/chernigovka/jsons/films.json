@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "moj_dikij_drug_vozvrashenie",
         "name": "Мой дикий друг. Возвращение домой",
         "rating": 6,
@@ -69,5 +60,14 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]
