@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "hantu_dalam_sel",
-        "name": "Призрак в клетке",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "david_2025",
         "name": "Храбрый Давид",
         "rating": 6,
@@ -43,6 +22,16 @@
             "фэнтези"
         ],
         "length": 85
+    },
+    {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "moj_dikij_drug_vozvrashenie",
@@ -92,5 +81,16 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "hantu_dalam_sel",
+        "name": "Призрак в клетке",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 105
     }
 ]
