@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "time_hoppers_the_silk_road",
-        "name": "Патруль времени",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "moj_dikij_drug_vozvrashenie",
-        "name": "Мой дикий друг. Возвращение домой",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "za_ljubov",
         "name": "За любовь",
         "rating": 16,
@@ -40,5 +18,27 @@
             "ужасы"
         ],
         "length": 122
+    },
+    {
+        "filmId": "moj_dikij_drug_vozvrashenie",
+        "name": "Мой дикий друг. Возвращение домой",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "time_hoppers_the_silk_road",
+        "name": "Патруль времени",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": -1
     }
 ]
