@@ -1,25 +1,12 @@
 [
     {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "ужасы"
         ],
-        "length": 170
+        "length": 122
     },
     {
         "filmId": "minions_and_monsters",
@@ -32,35 +19,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "za_ljubov",
-        "name": "За любовь",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "todo_lo_que_nunca_fuimos",
-        "name": "Всё, что мы потеряли",
-        "rating": 18,
-        "genres": [
-            "мелодрама"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
     },
     {
         "filmId": "toy_story_5",
@@ -97,6 +55,17 @@
         "length": -1
     },
     {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "staryj_orel",
         "name": "Старый орёл",
         "rating": 12,
@@ -116,6 +85,37 @@
             "приключения"
         ],
         "length": 130
+    },
+    {
+        "filmId": "disclosure_day",
+        "name": "День разоблачения",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "za_ljubov",
+        "name": "За любовь",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "todo_lo_que_nunca_fuimos",
+        "name": "Всё, что мы потеряли",
+        "rating": 18,
+        "genres": [
+            "мелодрама"
+        ],
+        "length": 105
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",

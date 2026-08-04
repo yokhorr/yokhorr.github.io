@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "moj_dikij_drug_vozvrashenie",
+        "name": "Мой дикий друг. Возвращение домой",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "za_ljubov",
         "name": "За любовь",
         "rating": 16,
@@ -9,25 +19,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "moj_dikij_drug_vozvrashenie",
-        "name": "Мой дикий друг. Возвращение домой",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
     },
     {
         "filmId": "time_hoppers_the_silk_road",
@@ -40,5 +31,14 @@
             "фэнтези"
         ],
         "length": -1
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]
