@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "za_ljubov",
-        "name": "За любовь",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -63,6 +32,17 @@
             "приключения"
         ],
         "length": -1
+    },
+    {
+        "filmId": "za_ljubov",
+        "name": "За любовь",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_odyssey",

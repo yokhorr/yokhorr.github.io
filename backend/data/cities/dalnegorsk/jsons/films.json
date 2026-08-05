@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "moj_dikij_drug_vozvrashenie",
         "name": "Мой дикий друг. Возвращение домой",
         "rating": 6,
@@ -40,6 +30,16 @@
             "приключения"
         ],
         "length": -1
+    },
+    {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "na_derevnju_dedushke_2",
