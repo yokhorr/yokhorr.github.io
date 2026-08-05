@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -64,6 +44,17 @@
         "length": -1
     },
     {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "michael",
         "name": "Майкл",
         "rating": 18,
@@ -83,5 +74,14 @@
             "триллер"
         ],
         "length": 100
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]
