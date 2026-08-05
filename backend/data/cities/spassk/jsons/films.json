@@ -1,13 +1,12 @@
 [
     {
-        "filmId": "moj_dikij_drug_vozvrashenie",
-        "name": "Мой дикий друг. Возвращение домой",
-        "rating": 6,
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
         "genres": [
-            "семейный",
-            "приключения"
+            "ужасы"
         ],
-        "length": 100
+        "length": 122
     },
     {
         "filmId": "za_ljubov",
@@ -21,24 +20,34 @@
         "length": 90
     },
     {
-        "filmId": "time_hoppers_the_silk_road",
-        "name": "Патруль времени",
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "фантастика",
             "комедия",
-            "фэнтези"
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
         ],
         "length": -1
     },
     {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 122
+        "length": 85
     }
 ]

@@ -1,38 +1,5 @@
 [
     {
-        "filmId": "david_2025",
-        "name": "Храбрый Давид",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "za_ljubov",
-        "name": "За любовь",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "staryj_orel",
         "name": "Старый орёл",
         "rating": 12,
@@ -50,5 +17,46 @@
             "мелодрама"
         ],
         "length": 105
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     }
 ]
