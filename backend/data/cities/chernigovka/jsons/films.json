@@ -1,5 +1,25 @@
 [
     {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "staryj_orel",
         "name": "Старый орёл",
         "rating": 12,
@@ -17,7 +37,7 @@
             "комедия",
             "семейный"
         ],
-        "length": -1
+        "length": 95
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -29,25 +49,5 @@
             "приключения"
         ],
         "length": 105
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "feed_2026",
-        "name": "Корни: Сага о вампирах",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
     }
 ]
