@@ -1,14 +1,12 @@
 [
     {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
+            "ужасы"
         ],
-        "length": 105
+        "length": 85
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",
@@ -22,15 +20,6 @@
         "length": 110
     },
     {
-        "filmId": "feed_2026",
-        "name": "Корни: Сага о вампирах",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "za_ljubov",
         "name": "За любовь",
         "rating": 16,
@@ -40,5 +29,16 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
     }
 ]
