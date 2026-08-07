@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "soulm8te",
-        "name": "Соулм8йт",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -83,5 +64,24 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "soulm8te",
+        "name": "Соулм8йт",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер"
+        ],
+        "length": 100
     }
 ]
