@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "feed_2026",
-        "name": "Корни: Сага о вампирах",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -41,6 +20,18 @@
             "приключения"
         ],
         "length": 105
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_odyssey",
@@ -93,5 +84,14 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     }
 ]

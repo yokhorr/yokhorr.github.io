@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
         "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
+            "семейный",
+            "комедия"
         ],
-        "length": 110
+        "length": 95
     },
     {
         "filmId": "the_odyssey",
@@ -20,79 +19,6 @@
             "приключения"
         ],
         "length": 170
-    },
-    {
-        "filmId": "holop_3",
-        "name": "Холоп 3",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "приключения"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "feed_2026",
-        "name": "Корни: Сага о вампирах",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "evil_dead_burn",
-        "name": "Зловещие мертвецы: Пекло",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "fuze",
-        "name": "Ограбить Лондон",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал",
-            "детектив"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
     },
     {
         "filmId": "na_derevnju_dedushke_2",
@@ -114,6 +40,39 @@
             "приключения"
         ],
         "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "holop_3",
+        "name": "Холоп 3",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "приключения"
+        ],
+        "length": 125
     },
     {
         "filmId": "david_2025",
@@ -174,6 +133,17 @@
         "length": 155
     },
     {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "obsession",
         "name": "Обсессия",
         "rating": 18,
@@ -184,6 +154,27 @@
         "length": 110
     },
     {
+        "filmId": "fuze",
+        "name": "Ограбить Лондон",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал",
+            "детектив"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "evil_dead_burn",
+        "name": "Зловещие мертвецы: Пекло",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "todo_lo_que_nunca_fuimos",
         "name": "Всё, что мы потеряли",
         "rating": 18,
@@ -191,6 +182,15 @@
             "мелодрама"
         ],
         "length": 105
+    },
+    {
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "76008",
