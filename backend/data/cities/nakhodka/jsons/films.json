@@ -1,76 +1,5 @@
 [
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "inbijiburu_hafu",
-        "name": "Школа призраков",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "supergirl",
-        "name": "Супергёрл",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "scary_movie",
-        "name": "Очень страшное кино 6",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "feed_2026",
-        "name": "Корни: Сага о вампирах",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "toy_story_5",
         "name": "История игрушек 5",
         "rating": 6,
@@ -95,6 +24,28 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "staryj_orel",
@@ -152,6 +103,15 @@
         "length": 105
     },
     {
+        "filmId": "inbijiburu_hafu",
+        "name": "Школа призраков",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "disclosure_day",
         "name": "День разоблачения",
         "rating": 16,
@@ -161,6 +121,46 @@
             "драма"
         ],
         "length": 145
+    },
+    {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "supergirl",
+        "name": "Супергёрл",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "scary_movie",
+        "name": "Очень страшное кино 6",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "evil_dead_burn",
