@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -32,40 +11,6 @@
         "length": 110
     },
     {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "inbijiburu_hafu",
         "name": "Школа призраков",
         "rating": 18,
@@ -73,26 +18,6 @@
             "ужасы"
         ],
         "length": 105
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "74306",
-        "name": "Пассажир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
     },
     {
         "filmId": "supergirl",
@@ -105,6 +30,26 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "74306",
+        "name": "Пассажир",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "scary_movie",
@@ -140,6 +85,28 @@
         "length": 100
     },
     {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "76008",
         "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
         "rating": 0,
@@ -152,6 +119,17 @@
         "length": 45
     },
     {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "za_ljubov",
         "name": "За любовь",
         "rating": 16,
@@ -161,6 +139,28 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "disclosure_day",
+        "name": "День разоблачения",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 145
     },
     {
         "filmId": "evil_dead_burn",
