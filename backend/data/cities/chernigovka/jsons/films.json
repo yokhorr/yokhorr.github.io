@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -49,5 +29,15 @@
             "ужасы"
         ],
         "length": 85
+    },
+    {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
     }
 ]
