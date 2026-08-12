@@ -11,16 +11,6 @@
         "length": 170
     },
     {
-        "filmId": "staryj_orel",
-        "name": "Старый орёл",
-        "rating": 12,
-        "genres": [
-            "семейный",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -43,18 +33,6 @@
         "length": 110
     },
     {
-        "filmId": "76008",
-        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 45
-    },
-    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -65,95 +43,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "holop_3",
-        "name": "Холоп 3",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "приключения"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "david_2025",
-        "name": "Храбрый Давид",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "toy_story_5",
-        "name": "История игрушек 5",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "драма",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "za_ljubov",
-        "name": "За любовь",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "moj_dikij_drug_vozvrashenie",
-        "name": "Мой дикий друг. Возвращение домой",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "nepokoj",
-        "name": "Непокой",
-        "rating": 18,
-        "genres": [
-            "мультфильм",
-            "триллер",
-            "фантастика"
-        ],
-        "length": 85
     },
     {
         "filmId": "project_hail_mary",
@@ -167,6 +56,37 @@
         "length": 155
     },
     {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "holop_3",
+        "name": "Холоп 3",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "приключения"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "linconnu_de_la_grande_arche_7",
         "name": "ЛАФ: Летний архитектурный фестиваль: Большая Арка",
         "rating": 18,
@@ -175,6 +95,27 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "za_ljubov",
+        "name": "За любовь",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "staryj_orel",
+        "name": "Старый орёл",
+        "rating": 12,
+        "genres": [
+            "семейный",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "fuze",
@@ -226,6 +167,18 @@
         "length": 85
     },
     {
+        "filmId": "76008",
+        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 45
+    },
+    {
         "filmId": "deep_water",
         "name": "Крушение рейса",
         "rating": 18,
@@ -247,6 +200,20 @@
             "криминал"
         ],
         "length": 95
+    },
+    {
+        "filmId": "toy_story_5",
+        "name": "История игрушек 5",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "драма",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "mimi_wo_sumaseba",
@@ -379,6 +346,18 @@
             "документальный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "histoires_paralleles",
