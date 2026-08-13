@@ -1,47 +1,13 @@
 [
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "obsession",
+        "name": "Обсессия",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
+            "ужасы",
+            "триллер"
         ],
         "length": 110
-    },
-    {
-        "filmId": "lucky_strike",
-        "name": "Последний рубеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "40_dates_and_40_nights",
-        "name": "40 свиданий, 40 ночей",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
     },
     {
         "filmId": "above_and_below",
@@ -53,93 +19,6 @@
             "криминал"
         ],
         "length": 95
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "kokurojo",
-        "name": "Самурай и пленник",
-        "rating": 18,
-        "genres": [
-            "детектив",
-            "военный",
-            "история"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "75604",
-        "name": "Айвазовский: художник, превративший стихию в легенду — Лекция Ю.Климко",
-        "rating": 16,
-        "genres": [
-            "лекция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
     },
     {
         "filmId": "disclosure_day",
@@ -162,6 +41,18 @@
         "length": 105
     },
     {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "saccharine",
         "name": "Ешь. Молись. Худей",
         "rating": 18,
@@ -169,6 +60,50 @@
             "ужасы"
         ],
         "length": 115
+    },
+    {
+        "filmId": "lucky_strike",
+        "name": "Последний рубеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "40_dates_and_40_nights",
+        "name": "40 свиданий, 40 ночей",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "soulm8te",
@@ -191,6 +126,29 @@
         "length": 125
     },
     {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "evil_dead_burn",
         "name": "Зловещие мертвецы: Пекло",
         "rating": 18,
@@ -198,6 +156,17 @@
             "ужасы"
         ],
         "length": 122
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
     },
     {
         "filmId": "76008",
@@ -256,6 +225,28 @@
             "мелодрама"
         ],
         "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "kokurojo",
+        "name": "Самурай и пленник",
+        "rating": 18,
+        "genres": [
+            "детектив",
+            "военный",
+            "история"
+        ],
+        "length": 150
     },
     {
         "filmId": "un_singe_en_hiver",
