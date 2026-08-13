@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "soulm8te",
-        "name": "Соулм8йт",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -75,6 +54,17 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
     },
     {
         "filmId": "evil_dead_burn",

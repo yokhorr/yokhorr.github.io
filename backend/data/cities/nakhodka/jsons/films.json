@@ -1,70 +1,5 @@
 [
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "lucky_strike",
-        "name": "Последний рубеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "soulm8te",
-        "name": "Соулм8йт",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "feed_2026",
-        "name": "Корни: Сага о вампирах",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "toy_story_5",
         "name": "История игрушек 5",
         "rating": 6,
@@ -102,6 +37,18 @@
         "length": 45
     },
     {
+        "filmId": "lucky_strike",
+        "name": "Последний рубеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -112,6 +59,28 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -144,6 +113,37 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "soulm8te",
+        "name": "Соулм8йт",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "feed_2026",
+        "name": "Корни: Сага о вампирах",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 85
     },
     {
         "filmId": "supergirl",

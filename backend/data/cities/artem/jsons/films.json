@@ -1,36 +1,5 @@
 [
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "saccharine",
-        "name": "Ешь. Молись. Худей",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -40,6 +9,17 @@
             "приключения"
         ],
         "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "minions_and_monsters",
@@ -98,5 +78,25 @@
             "драма"
         ],
         "length": 105
+    },
+    {
+        "filmId": "saccharine",
+        "name": "Ешь. Молись. Худей",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
     }
 ]
