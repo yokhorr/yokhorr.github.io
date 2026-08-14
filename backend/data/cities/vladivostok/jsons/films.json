@@ -11,29 +11,6 @@
         "length": 170
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -43,108 +20,6 @@
             "приключения"
         ],
         "length": 110
-    },
-    {
-        "filmId": "76008",
-        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 45
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "toy_story_5",
-        "name": "История игрушек 5",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "драма",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "waindeueop_deo_mubi",
-        "name": "Время сиять",
-        "rating": 12,
-        "genres": [
-            "спорт",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "mimi_wo_sumaseba",
-        "name": "Шёпот сердца",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "драма",
-            "мелодрама"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "holop_3",
-        "name": "Холоп 3",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "приключения"
-        ],
-        "length": 125
     },
     {
         "filmId": "lucky_strike",
@@ -169,6 +44,29 @@
         "length": 100
     },
     {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "project_hail_mary",
         "name": "Проект «Конец света»",
         "rating": 16,
@@ -178,6 +76,52 @@
             "драма"
         ],
         "length": 155
+    },
+    {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "mimi_wo_sumaseba",
+        "name": "Шёпот сердца",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "драма",
+            "мелодрама"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "disclosure_day",
@@ -247,6 +191,62 @@
             "ужасы"
         ],
         "length": 122
+    },
+    {
+        "filmId": "76008",
+        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 45
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "toy_story_5",
+        "name": "История игрушек 5",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "драма",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "waindeueop_deo_mubi",
+        "name": "Время сиять",
+        "rating": 12,
+        "genres": [
+            "спорт",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "holop_3",
+        "name": "Холоп 3",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "приключения"
+        ],
+        "length": 125
     },
     {
         "filmId": "un_singe_en_hiver",
