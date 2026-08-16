@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "saccharine",
-        "name": "Ешь. Молись. Худей",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "76146",
         "name": "Материя времени",
         "rating": 16,
@@ -40,6 +20,17 @@
             "приключения"
         ],
         "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "lucky_strike",
@@ -64,5 +55,14 @@
             "драма"
         ],
         "length": 105
+    },
+    {
+        "filmId": "saccharine",
+        "name": "Ешь. Молись. Худей",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
     }
 ]
