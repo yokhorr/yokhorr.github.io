@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -9,6 +20,27 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "kuncen",
+        "name": "Демоны Чёрной горы",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "приключения"
+        ],
+        "length": -1
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -44,37 +76,5 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "kuncen",
-        "name": "Демоны Чёрной горы",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "приключения"
-        ],
-        "length": -1
     }
 ]
