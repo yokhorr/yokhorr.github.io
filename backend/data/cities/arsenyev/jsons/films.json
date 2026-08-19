@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "kuncen",
+        "name": "Демоны Чёрной горы",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
+            "ужасы",
             "приключения"
         ],
-        "length": 170
+        "length": -1
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",
@@ -22,6 +21,31 @@
         "length": 110
     },
     {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "above_and_below",
         "name": "Во власти страха",
         "rating": 18,
@@ -33,13 +57,38 @@
         "length": 95
     },
     {
-        "filmId": "kuncen",
-        "name": "Демоны Чёрной горы",
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
         "rating": 18,
         "genres": [
             "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
             "приключения"
         ],
-        "length": -1
+        "length": 150
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     }
 ]
