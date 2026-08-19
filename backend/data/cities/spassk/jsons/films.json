@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -55,6 +32,18 @@
         "length": 90
     },
     {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "never_after_dark",
         "name": "Демонолог",
         "rating": 18,
@@ -62,5 +51,16 @@
             "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
     }
 ]
