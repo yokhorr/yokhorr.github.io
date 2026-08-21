@@ -1,46 +1,19 @@
 [
     {
         "date": "21.08",
-        "time": "10:00",
-        "filmId": "poslednij_bogatyr_kolobok",
-        "theatre": "Россия",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "21.08",
-        "time": "11:55",
-        "filmId": "smeshariki_skvoz_vselennye",
-        "theatre": "Россия",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "21.08",
-        "time": "13:45",
-        "filmId": "minions_and_monsters",
-        "theatre": "Россия",
-        "cost": 350,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "21.08",
-        "time": "15:20",
-        "filmId": "poslednij_bogatyr_kolobok",
-        "theatre": "Россия",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": null
-    },
-    {
-        "date": "21.08",
         "time": "17:15",
         "filmId": "minions_and_monsters",
         "theatre": "Россия",
         "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "21.08",
+        "time": "18:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 550,
         "is3d": false,
         "buyLink": null
     },
@@ -55,6 +28,15 @@
     },
     {
         "date": "21.08",
+        "time": "20:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "21.08",
         "time": "21:55",
         "filmId": "above_and_below",
         "theatre": "Россия",
@@ -64,10 +46,397 @@
     },
     {
         "date": "21.08",
+        "time": "23:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "21.08",
         "time": "23:35",
         "filmId": "the_odyssey",
         "theatre": "Россия",
         "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "10:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "10:00",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "theatre": "Россия",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "11:55",
+        "filmId": "smeshariki_skvoz_vselennye",
+        "theatre": "Россия",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "12:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "13:45",
+        "filmId": "minions_and_monsters",
+        "theatre": "Россия",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "15:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "15:20",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "17:15",
+        "filmId": "minions_and_monsters",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "18:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "18:55",
+        "filmId": "the_odyssey",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "20:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "21:55",
+        "filmId": "above_and_below",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "23:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "22.08",
+        "time": "23:35",
+        "filmId": "the_odyssey",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "10:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "10:00",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "theatre": "Россия",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "11:55",
+        "filmId": "smeshariki_skvoz_vselennye",
+        "theatre": "Россия",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "12:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "13:45",
+        "filmId": "minions_and_monsters",
+        "theatre": "Россия",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "15:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "15:20",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "17:15",
+        "filmId": "minions_and_monsters",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "18:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "18:55",
+        "filmId": "the_odyssey",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "20:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "21:55",
+        "filmId": "above_and_below",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "23:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "23.08",
+        "time": "23:35",
+        "filmId": "the_odyssey",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "10:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "10:00",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "theatre": "Россия",
+        "cost": 300,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "11:55",
+        "filmId": "smeshariki_skvoz_vselennye",
+        "theatre": "Россия",
+        "cost": 320,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "12:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": true,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "13:45",
+        "filmId": "minions_and_monsters",
+        "theatre": "Россия",
+        "cost": 350,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "15:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "15:20",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "theatre": "Россия",
+        "cost": 400,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "17:15",
+        "filmId": "minions_and_monsters",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "18:00",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 550,
+        "is3d": true,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "18:55",
+        "filmId": "the_odyssey",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "20:40",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 580,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "21:55",
+        "filmId": "above_and_below",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "23:20",
+        "filmId": "spider_man_brand_new_day",
+        "theatre": "Россия",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": null
+    },
+    {
+        "date": "24.08",
+        "time": "23:35",
+        "filmId": "the_odyssey",
+        "theatre": "Россия",
+        "cost": 300,
         "is3d": false,
         "buyLink": null
     }

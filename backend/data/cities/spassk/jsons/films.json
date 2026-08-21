@@ -1,15 +1,33 @@
 [
     {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
+        "filmId": "never_after_dark",
+        "name": "Демонолог",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
+            "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "waindeueop_deo_mubi",
+        "name": "Время сиять",
+        "rating": 12,
+        "genres": [
+            "спорт",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -34,33 +52,15 @@
         "length": 110
     },
     {
-        "filmId": "waindeueop_deo_mubi",
-        "name": "Время сиять",
-        "rating": 12,
-        "genres": [
-            "спорт",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "never_after_dark",
-        "name": "Демонолог",
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
         "rating": 18,
         "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
+            "ужасы",
             "боевик",
             "триллер",
-            "криминал"
+            "драма"
         ],
-        "length": 95
+        "length": 105
     }
 ]
