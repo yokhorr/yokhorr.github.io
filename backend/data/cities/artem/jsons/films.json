@@ -1,29 +1,14 @@
 [
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
             "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
-        "genres": [
-            "мюзикл",
             "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
+            "приключения"
         ],
-        "length": 115
+        "length": 110
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -38,28 +23,6 @@
         "length": 150
     },
     {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -69,6 +32,20 @@
             "приключения"
         ],
         "length": 170
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
     },
     {
         "filmId": "deep_water",
@@ -92,5 +69,28 @@
             "криминал"
         ],
         "length": 95
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
     }
 ]
