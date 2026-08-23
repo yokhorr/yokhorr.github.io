@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -34,48 +12,27 @@
         "length": 150
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
         "rating": 6,
         "genres": [
+            "мультфильм",
+            "приключения",
             "комедия",
-            "фэнтези",
-            "приключения"
+            "фэнтези"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "sacrifice",
-        "name": "Жертва обстоятельств",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
+        "length": 90
     },
     {
         "filmId": "moana_2026",
@@ -92,68 +49,15 @@
         "length": 115
     },
     {
-        "filmId": "idiots",
-        "name": "Придурки",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "криминал"
-        ],
-        "length": 98
-    },
-    {
-        "filmId": "76168",
-        "name": "Пункт назначения: Мост №13",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 106
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
+        "filmId": "sacrifice",
+        "name": "Жертва обстоятельств",
         "rating": 18,
         "genres": [
             "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "lucky_strike",
-        "name": "Последний рубеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "saccharine",
-        "name": "Ешь. Молись. Худей",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
             "комедия",
-            "фэнтези"
+            "приключения"
         ],
-        "length": 90
+        "length": 103
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -165,6 +69,17 @@
             "приключения"
         ],
         "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "76143",
@@ -262,6 +177,17 @@
         "length": 125
     },
     {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "motor_city",
         "name": "Мотор Сити",
         "rating": 18,
@@ -275,6 +201,29 @@
         "length": 103
     },
     {
+        "filmId": "disclosure_day",
+        "name": "День разоблачения",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "histoires_paralleles",
         "name": "Параллельные истории",
         "rating": 18,
@@ -284,6 +233,57 @@
             "детектив"
         ],
         "length": 140
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "idiots",
+        "name": "Придурки",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "криминал"
+        ],
+        "length": 98
+    },
+    {
+        "filmId": "76168",
+        "name": "Пункт назначения: Мост №13",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 106
+    },
+    {
+        "filmId": "saccharine",
+        "name": "Ешь. Молись. Худей",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "lucky_strike",
+        "name": "Последний рубеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 105
     },
     {
         "filmId": "32635",
@@ -490,5 +490,23 @@
             "документальный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "24912",
+        "name": "Киноклуб: Царь Эдип",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 104
+    },
+    {
+        "filmId": "goldenspurtle",
+        "name": "Овсянка для чемпионов (Beat Weekend — 2026)",
+        "rating": 18,
+        "genres": [
+            "документальный"
+        ],
+        "length": 75
     }
 ]
