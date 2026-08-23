@@ -11,27 +11,15 @@
         "length": 170
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "mimi_wo_sumaseba",
-        "name": "Шёпот сердца",
+        "filmId": "disclosure_day",
+        "name": "День разоблачения",
         "rating": 16,
         "genres": [
-            "аниме",
-            "мультфильм",
-            "драма",
-            "мелодрама"
+            "фантастика",
+            "триллер",
+            "драма"
         ],
-        "length": 110
+        "length": 145
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -46,120 +34,15 @@
         "length": 150
     },
     {
-        "filmId": "moana_2026",
-        "name": "Моана",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
         "rating": 6,
         "genres": [
-            "мюзикл",
+            "комедия",
             "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
             "приключения"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "motor_city",
-        "name": "Мотор Сити",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "histoires_paralleles",
-        "name": "Параллельные истории",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "sacrifice",
-        "name": "Жертва обстоятельств",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
+        "length": 110
     },
     {
         "filmId": "deep_water",
@@ -174,6 +57,17 @@
         "length": 105
     },
     {
+        "filmId": "sacrifice",
+        "name": "Жертва обстоятельств",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "комедия",
+            "приключения"
+        ],
+        "length": 103
+    },
+    {
         "filmId": "obsession",
         "name": "Обсессия",
         "rating": 18,
@@ -182,6 +76,20 @@
             "триллер"
         ],
         "length": 110
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
     },
     {
         "filmId": "idiots",
@@ -204,6 +112,17 @@
         "length": 106
     },
     {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "lucky_strike",
         "name": "Последний рубеж",
         "rating": 18,
@@ -223,6 +142,29 @@
             "ужасы"
         ],
         "length": 115
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
     },
     {
         "filmId": "76143",
@@ -265,6 +207,17 @@
         "length": 95
     },
     {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "76144",
         "name": "Легенда о Золоте Скифов",
         "rating": 6,
@@ -276,6 +229,29 @@
         "length": 107
     },
     {
+        "filmId": "mimi_wo_sumaseba",
+        "name": "Шёпот сердца",
+        "rating": 16,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "драма",
+            "мелодрама"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "26284",
         "name": "Кабаре",
         "rating": 16,
@@ -284,6 +260,30 @@
             "мюзикл"
         ],
         "length": 125
+    },
+    {
+        "filmId": "motor_city",
+        "name": "Мотор Сити",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 103
+    },
+    {
+        "filmId": "histoires_paralleles",
+        "name": "Параллельные истории",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 140
     },
     {
         "filmId": "32635",
