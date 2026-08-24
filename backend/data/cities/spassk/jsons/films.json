@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "never_after_dark",
+        "name": "Демонолог",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "waindeueop_deo_mubi",
+        "name": "Время сиять",
+        "rating": 12,
+        "genres": [
+            "спорт",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -9,17 +40,6 @@
             "приключения"
         ],
         "length": 105
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
     },
     {
         "filmId": "above_and_below",
@@ -33,34 +53,14 @@
         "length": 95
     },
     {
-        "filmId": "waindeueop_deo_mubi",
-        "name": "Время сиять",
-        "rating": 12,
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
         "genres": [
-            "спорт",
-            "фэнтези"
+            "комедия",
+            "фэнтези",
+            "приключения"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "never_after_dark",
-        "name": "Демонолог",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
+        "length": 110
     }
 ]
