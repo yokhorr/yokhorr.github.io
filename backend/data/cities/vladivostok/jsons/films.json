@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -23,27 +11,39 @@
         "length": 170
     },
     {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
         "rating": 6,
         "genres": [
-            "фантастика",
             "комедия",
+            "фэнтези",
             "приключения"
         ],
-        "length": 105
+        "length": 110
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
+        "filmId": "mimi_wo_sumaseba",
+        "name": "Шёпот сердца",
+        "rating": 16,
         "genres": [
+            "аниме",
             "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "драма",
+            "мелодрама"
         ],
-        "length": 90
+        "length": 110
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "moana_2026",
@@ -60,89 +60,16 @@
         "length": 115
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "76143",
-        "name": "Лидия и Всадник Тумана",
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 79
-    },
-    {
-        "filmId": "holop_3",
-        "name": "Холоп 3",
-        "rating": 12,
-        "genres": [
+            "приключения",
             "комедия",
-            "приключения"
+            "фэнтези"
         ],
-        "length": 125
-    },
-    {
-        "filmId": "zoopark",
-        "name": "Зоопарк",
-        "rating": 6,
-        "genres": [
-            "документальный"
-        ],
-        "length": 69
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "76144",
-        "name": "Легенда о Золоте Скифов",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "детектив"
-        ],
-        "length": 107
-    },
-    {
-        "filmId": "mimi_wo_sumaseba",
-        "name": "Шёпот сердца",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "драма",
-            "мелодрама"
-        ],
-        "length": 110
+        "length": 90
     },
     {
         "filmId": "project_hail_mary",
@@ -154,6 +81,17 @@
             "драма"
         ],
         "length": 155
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
     },
     {
         "filmId": "76110",
@@ -214,6 +152,17 @@
             "приключения"
         ],
         "length": 103
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "disclosure_day",
@@ -302,6 +251,16 @@
         "length": 80
     },
     {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "mutiny",
         "name": "Мятеж",
         "rating": 18,
@@ -324,6 +283,17 @@
         "length": 85
     },
     {
+        "filmId": "76143",
+        "name": "Лидия и Всадник Тумана",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 79
+    },
+    {
         "filmId": "hanarokushou_ga_akeru_hi_ni",
         "name": "И наступит рассвет",
         "rating": 16,
@@ -333,6 +303,17 @@
             "драма"
         ],
         "length": 75
+    },
+    {
+        "filmId": "76144",
+        "name": "Легенда о Золоте Скифов",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "детектив"
+        ],
+        "length": 107
     },
     {
         "filmId": "76189",
@@ -403,6 +384,19 @@
             "приключения"
         ],
         "length": 170
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
     },
     {
         "filmId": "adaptation",

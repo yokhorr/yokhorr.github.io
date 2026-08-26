@@ -1,38 +1,15 @@
 [
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
+        "filmId": "lucky_strike",
+        "name": "Последний рубеж",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "боевик",
+            "драма",
+            "военный",
+            "история"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "76008",
-        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 45
+        "length": 105
     },
     {
         "filmId": "the_odyssey",
@@ -44,6 +21,27 @@
             "приключения"
         ],
         "length": 170
+    },
+    {
+        "filmId": "soulm8te",
+        "name": "Соулм8йт",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -69,18 +67,6 @@
         "length": 103
     },
     {
-        "filmId": "lucky_strike",
-        "name": "Последний рубеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "motor_city",
         "name": "Мотор Сити",
         "rating": 18,
@@ -92,38 +78,6 @@
             "детектив"
         ],
         "length": 103
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "soulm8te",
-        "name": "Соулм8йт",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер"
-        ],
-        "length": 100
     },
     {
         "filmId": "deep_water",
