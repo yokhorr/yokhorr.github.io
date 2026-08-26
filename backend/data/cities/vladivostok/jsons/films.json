@@ -1,5 +1,28 @@
 [
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "histoires_paralleles",
+        "name": "Параллельные истории",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -22,28 +45,27 @@
         "length": 110
     },
     {
-        "filmId": "mimi_wo_sumaseba",
-        "name": "Шёпот сердца",
-        "rating": 16,
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
         "genres": [
-            "аниме",
-            "мультфильм",
-            "драма",
-            "мелодрама"
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
         ],
-        "length": 110
+        "length": 105
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
+        "filmId": "sacrifice",
+        "name": "Жертва обстоятельств",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "фэнтези",
             "боевик",
+            "комедия",
             "приключения"
         ],
-        "length": 150
+        "length": 103
     },
     {
         "filmId": "moana_2026",
@@ -58,145 +80,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "76110",
-        "name": "Киноклуб «Кино и Смыслы»: фильм «Лето»",
-        "rating": 18,
-        "genres": [],
-        "length": 122
-    },
-    {
-        "filmId": "il_padiglione_sullacqua",
-        "name": "ЛАФ: Летний архитектурный фестиваль: Павильон на воде",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "above_and_below",
-        "name": "Во власти страха",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "криминал"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "75786",
-        "name": "Queens of fashion! Лекция о самых влиятельных моделях в истории моды — Ярослав Михеев",
-        "rating": 16,
-        "genres": [
-            "лекция"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "motor_city",
-        "name": "Мотор Сити",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "sacrifice",
-        "name": "Жертва обстоятельств",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
-            "приключения"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "disclosure_day",
-        "name": "День разоблачения",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "histoires_paralleles",
-        "name": "Параллельные истории",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
     },
     {
         "filmId": "idiots",
@@ -217,6 +100,30 @@
             "триллер"
         ],
         "length": 106
+    },
+    {
+        "filmId": "motor_city",
+        "name": "Мотор Сити",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 103
+    },
+    {
+        "filmId": "above_and_below",
+        "name": "Во власти страха",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "криминал"
+        ],
+        "length": 95
     },
     {
         "filmId": "lucky_strike",
@@ -251,6 +158,17 @@
         "length": 80
     },
     {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "na_derevnju_dedushke_2",
         "name": "На деревню дедушке 2",
         "rating": 6,
@@ -259,6 +177,18 @@
             "семейный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "mutiny",
@@ -347,6 +277,17 @@
         "length": 96
     },
     {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "hive",
         "name": "Кошмар на улице Корал-Гроув",
         "rating": 18,
@@ -363,6 +304,17 @@
             "ужасы"
         ],
         "length": 71
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
     },
     {
         "filmId": "obsession",

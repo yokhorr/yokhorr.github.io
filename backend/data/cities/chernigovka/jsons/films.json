@@ -1,5 +1,50 @@
 [
     {
+        "filmId": "76143",
+        "name": "Лидия и Всадник Тумана",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 79
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "almaz",
+        "name": "Алмаз «Сердце Персии»",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения",
+            "криминал"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -11,16 +56,64 @@
         "length": 110
     },
     {
-        "filmId": "motor_city",
-        "name": "Мотор Сити",
+        "filmId": "mutiny",
+        "name": "Мятеж",
         "rating": 18,
         "genres": [
             "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
+            "триллер"
         ],
-        "length": 103
+        "length": 95
+    },
+    {
+        "filmId": "the_summoning",
+        "name": "Крипипаста: Синий малыш",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 71
+    },
+    {
+        "filmId": "cheburashka_2",
+        "name": "Чебурашка 2",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "buratino",
+        "name": "Буратино",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "angely_ladogi",
+        "name": "Ангелы Ладоги",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "история"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "malysh",
+        "name": "Малыш",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 115
     }
 ]
