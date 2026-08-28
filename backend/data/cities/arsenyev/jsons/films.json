@@ -24,16 +24,15 @@
         "length": 80
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
         "genres": [
-            "фантастика",
+            "комедия",
             "фэнтези",
-            "боевик",
             "приключения"
         ],
-        "length": 150
+        "length": 110
     },
     {
         "filmId": "moana_2026",
@@ -48,6 +47,18 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "mutiny",
@@ -67,16 +78,5 @@
             "ужасы"
         ],
         "length": 91
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
     }
 ]

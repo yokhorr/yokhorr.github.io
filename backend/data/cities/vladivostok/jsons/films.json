@@ -1,5 +1,41 @@
 [
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -25,6 +61,38 @@
         "length": 80
     },
     {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -37,17 +105,6 @@
         "length": 90
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "mutiny",
         "name": "Мятеж",
         "rating": 18,
@@ -56,18 +113,6 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
     },
     {
         "filmId": "almaz",
@@ -82,17 +127,6 @@
         "length": 85
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
         "filmId": "76143",
         "name": "Лидия и Всадник Тумана",
         "rating": 6,
@@ -102,28 +136,6 @@
             "приключения"
         ],
         "length": 79
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "hanarokushou_ga_akeru_hi_ni",
-        "name": "И наступит рассвет",
-        "rating": 16,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "драма"
-        ],
-        "length": 75
     },
     {
         "filmId": "histoires_paralleles",
@@ -148,15 +160,15 @@
         "length": 107
     },
     {
-        "filmId": "interstellar",
-        "name": "Интерстеллар",
+        "filmId": "april_x",
+        "name": "Код сна",
         "rating": 18,
         "genres": [
             "фантастика",
-            "детектив",
-            "приключения"
+            "триллер",
+            "драма"
         ],
-        "length": 170
+        "length": 96
     },
     {
         "filmId": "76396",
@@ -169,15 +181,15 @@
         "length": 102
     },
     {
-        "filmId": "april_x",
-        "name": "Код сна",
-        "rating": 18,
+        "filmId": "hanarokushou_ga_akeru_hi_ni",
+        "name": "И наступит рассвет",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "триллер",
+            "аниме",
+            "мультфильм",
             "драма"
         ],
-        "length": 96
+        "length": 75
     },
     {
         "filmId": "project_hail_mary",
@@ -232,16 +244,6 @@
         "length": 105
     },
     {
-        "filmId": "76168",
-        "name": "Пункт назначения: Мост №13",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 106
-    },
-    {
         "filmId": "obsession",
         "name": "Обсессия",
         "rating": 18,
@@ -252,27 +254,14 @@
         "length": 110
     },
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "76168",
+        "name": "Пункт назначения: Мост №13",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "ужасы",
+            "триллер"
         ],
-        "length": 88
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
+        "length": 106
     },
     {
         "filmId": "adaptation",
@@ -314,6 +303,17 @@
             "документальный"
         ],
         "length": 70
+    },
+    {
+        "filmId": "interstellar",
+        "name": "Интерстеллар",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "детектив",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "76214",
