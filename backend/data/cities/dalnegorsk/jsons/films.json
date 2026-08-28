@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "luntik_obratnaja_storona_luny",
         "name": "Лунтик. Обратная сторона Луны",
         "rating": 0,
@@ -73,5 +62,16 @@
             "ужасы"
         ],
         "length": 71
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
     }
 ]

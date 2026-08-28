@@ -1,5 +1,17 @@
 [
     {
+        "filmId": "76008",
+        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 45
+    },
+    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -14,27 +26,27 @@
         "length": 115
     },
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "76008",
-        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
-        "rating": 0,
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
         "genres": [
             "мультфильм",
             "приключения",
             "комедия",
             "фэнтези"
         ],
-        "length": 45
+        "length": 90
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -49,15 +61,26 @@
         "length": 150
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
         "rating": 6,
         "genres": [
+            "фантастика",
             "комедия",
-            "фэнтези",
             "приключения"
         ],
-        "length": 110
+        "length": 105
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
     },
     {
         "filmId": "mutiny",
@@ -68,29 +91,6 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
     },
     {
         "filmId": "the_odyssey",
