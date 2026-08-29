@@ -1,14 +1,27 @@
 [
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
         "rating": 6,
         "genres": [
-            "комедия",
+            "мюзикл",
             "фэнтези",
-            "приключения"
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 110
+        "length": 115
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -34,29 +47,26 @@
         "length": 90
     },
     {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
+        "filmId": "the_end_of_oak_street",
+        "name": "На краю Оук-стрит",
+        "rating": 12,
         "genres": [
-            "мюзикл",
-            "фэнтези",
+            "фантастика",
             "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
+            "приключения"
         ],
-        "length": 115
+        "length": 99
     },
     {
-        "filmId": "cheburashka_2",
-        "name": "Чебурашка 2",
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
         "rating": 6,
         "genres": [
-            "семейный",
             "комедия",
-            "фэнтези"
+            "фэнтези",
+            "приключения"
         ],
-        "length": 105
+        "length": 110
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -69,37 +79,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "malysh",
-        "name": "Малыш",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_end_of_oak_street",
-        "name": "На краю Оук-стрит",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 99
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_odyssey",

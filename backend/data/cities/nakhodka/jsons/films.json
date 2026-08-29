@@ -1,5 +1,28 @@
 [
     {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "motor_city",
+        "name": "Мотор Сити",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 103
+    },
+    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -58,16 +81,6 @@
             "приключения"
         ],
         "length": 110
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "minions_and_monsters",
@@ -135,19 +148,6 @@
             "драма"
         ],
         "length": 96
-    },
-    {
-        "filmId": "motor_city",
-        "name": "Мотор Сити",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 103
     },
     {
         "filmId": "the_summoning",
