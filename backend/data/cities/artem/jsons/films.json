@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -79,6 +69,16 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_odyssey",
