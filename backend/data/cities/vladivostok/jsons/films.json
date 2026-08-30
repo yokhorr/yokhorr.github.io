@@ -12,28 +12,35 @@
         "length": 150
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "hive",
+        "name": "Кошмар на улице Корал-Гроув",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "ужасы"
         ],
-        "length": 170
+        "length": 91
     },
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "детский",
-            "комедия",
             "приключения",
-            "фантастика"
+            "комедия",
+            "фэнтези"
         ],
-        "length": 88
+        "length": 90
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "moana_2026",
@@ -50,137 +57,6 @@
         "length": 115
     },
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "na_derevnju_dedushke_2",
-        "name": "На деревню дедушке 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "almaz",
-        "name": "Алмаз «Сердце Персии»",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "76143",
-        "name": "Лидия и Всадник Тумана",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 79
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "histoires_paralleles",
-        "name": "Параллельные истории",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "детектив"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "76144",
-        "name": "Легенда о Золоте Скифов",
-        "rating": 6,
-        "genres": [
-            "семейный",
-            "комедия",
-            "детектив"
-        ],
-        "length": 107
-    },
-    {
-        "filmId": "april_x",
-        "name": "Код сна",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 96
-    },
-    {
-        "filmId": "76396",
-        "name": "Пентхаус",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 102
-    },
-    {
         "filmId": "hanarokushou_ga_akeru_hi_ni",
         "name": "И наступит рассвет",
         "rating": 16,
@@ -192,24 +68,15 @@
         "length": 75
     },
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "hive",
-        "name": "Кошмар на улице Корал-Гроув",
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "фэнтези",
+            "боевик",
+            "приключения"
         ],
-        "length": 91
+        "length": 170
     },
     {
         "filmId": "the_summoning",
@@ -264,6 +131,107 @@
         "length": 110
     },
     {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "almaz",
+        "name": "Алмаз «Сердце Персии»",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный",
+            "приключения",
+            "криминал"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "na_derevnju_dedushke_2",
+        "name": "На деревню дедушке 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "76143",
+        "name": "Лидия и Всадник Тумана",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 79
+    },
+    {
+        "filmId": "histoires_paralleles",
+        "name": "Параллельные истории",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "детектив"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "76144",
+        "name": "Легенда о Золоте Скифов",
+        "rating": 6,
+        "genres": [
+            "семейный",
+            "комедия",
+            "детектив"
+        ],
+        "length": 107
+    },
+    {
         "filmId": "adaptation",
         "name": "Адаптация",
         "rating": 18,
@@ -272,6 +240,38 @@
             "комедия"
         ],
         "length": 115
+    },
+    {
+        "filmId": "april_x",
+        "name": "Код сна",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 96
+    },
+    {
+        "filmId": "76396",
+        "name": "Пентхаус",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 102
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
     },
     {
         "filmId": "monster_mia",
@@ -314,6 +314,37 @@
             "приключения"
         ],
         "length": 170
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "76189",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 96
+    },
+    {
+        "filmId": "eight_below",
+        "name": "Белый плен",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения",
+            "семейный"
+        ],
+        "length": 122
     },
     {
         "filmId": "76214",
