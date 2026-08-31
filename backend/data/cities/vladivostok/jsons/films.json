@@ -12,28 +12,75 @@
         "length": 150
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
         "genres": [
-            "комедия",
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
             "фэнтези",
+            "боевик",
             "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "hive",
+        "name": "Кошмар на улице Корал-Гроув",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 91
+    },
+    {
+        "filmId": "76168",
+        "name": "Пункт назначения: Мост №13",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 106
+    },
+    {
+        "filmId": "obsession",
+        "name": "Обсессия",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
         ],
         "length": 110
     },
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "the_summoning",
+        "name": "Крипипаста: Синий малыш",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "ужасы"
         ],
-        "length": 88
+        "length": 71
     },
     {
         "filmId": "moana_2026",
@@ -61,6 +108,30 @@
         "length": 80
     },
     {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
         "filmId": "almaz",
         "name": "Алмаз «Сердце Персии»",
         "rating": 6,
@@ -83,16 +154,16 @@
         "length": 95
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
+        "filmId": "monster_mia",
+        "name": "Миа и монстры",
         "rating": 6,
         "genres": [
             "мультфильм",
+            "фэнтези",
             "приключения",
-            "комедия",
-            "фэнтези"
+            "комедия"
         ],
-        "length": 90
+        "length": 81
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -106,15 +177,16 @@
         "length": 105
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
-        "length": 170
+        "length": 90
     },
     {
         "filmId": "76143",
@@ -128,16 +200,6 @@
         "length": 79
     },
     {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "histoires_paralleles",
         "name": "Параллельные истории",
         "rating": 18,
@@ -149,6 +211,16 @@
         "length": 140
     },
     {
+        "filmId": "teatr_mjuzikla_princessa_cirka",
+        "name": "Московский театр мюзикла: Принцесса цирка",
+        "rating": 6,
+        "genres": [
+            "фильм-спектакль",
+            "мюзикл"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "76144",
         "name": "Легенда о Золоте Скифов",
         "rating": 6,
@@ -158,16 +230,6 @@
             "детектив"
         ],
         "length": 107
-    },
-    {
-        "filmId": "adaptation",
-        "name": "Адаптация",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 115
     },
     {
         "filmId": "april_x",
@@ -193,7 +255,7 @@
     {
         "filmId": "hanarokushou_ga_akeru_hi_ni",
         "name": "И наступит рассвет",
-        "rating": 16,
+        "rating": 18,
         "genres": [
             "аниме",
             "мультфильм",
@@ -213,24 +275,6 @@
         "length": 155
     },
     {
-        "filmId": "hive",
-        "name": "Кошмар на улице Корал-Гроув",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 91
-    },
-    {
-        "filmId": "the_summoning",
-        "name": "Крипипаста: Синий малыш",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 71
-    },
-    {
         "filmId": "michael",
         "name": "Майкл",
         "rating": 18,
@@ -240,60 +284,6 @@
             "драма"
         ],
         "length": 130
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "76168",
-        "name": "Пункт назначения: Мост №13",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 106
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "monster_mia",
-        "name": "Миа и монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 81
-    },
-    {
-        "filmId": "teatr_mjuzikla_princessa_cirka",
-        "name": "Московский театр мюзикла: Принцесса цирка",
-        "rating": 6,
-        "genres": [
-            "фильм-спектакль",
-            "мюзикл"
-        ],
-        "length": 145
     },
     {
         "filmId": "lewerentz_divine_darkness",
@@ -307,7 +297,7 @@
     {
         "filmId": "interstellar",
         "name": "Интерстеллар",
-        "rating": 18,
+        "rating": 16,
         "genres": [
             "фантастика",
             "детектив",
@@ -326,14 +316,14 @@
         "length": -1
     },
     {
-        "filmId": "76189",
+        "filmId": "ne_po_detski",
         "name": "Не по-детски",
         "rating": 16,
         "genres": [
             "мелодрама",
             "комедия"
         ],
-        "length": 96
+        "length": 95
     },
     {
         "filmId": "eight_below",
@@ -357,6 +347,27 @@
         "length": 122
     },
     {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "just_play_dead",
+        "name": "Сыграть в ящик",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "76213",
         "name": "Тони",
         "rating": 18,
@@ -365,6 +376,18 @@
             "драма"
         ],
         "length": 106
+    },
+    {
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "avanti",
@@ -405,7 +428,7 @@
             "фантастика",
             "приключения"
         ],
-        "length": 137
+        "length": 140
     },
     {
         "filmId": "twiggy",
@@ -417,7 +440,7 @@
         "length": 94
     },
     {
-        "filmId": "28638",
+        "filmId": "bohemian_rhapsody",
         "name": "Богемская рапсодия",
         "rating": 18,
         "genres": [
@@ -425,7 +448,7 @@
             "биография",
             "музыка"
         ],
-        "length": 134
+        "length": 135
     },
     {
         "filmId": "bowie",
@@ -531,7 +554,7 @@
         "length": 74
     },
     {
-        "filmId": "76511",
+        "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
         "genres": [
@@ -539,7 +562,7 @@
             "приключения",
             "комедия"
         ],
-        "length": 90
+        "length": 110
     },
     {
         "filmId": "twilight",
