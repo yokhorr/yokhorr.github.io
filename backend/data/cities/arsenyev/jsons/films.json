@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "hive",
-        "name": "Кошмар на улице Корал-Гроув",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 91
-    },
-    {
         "filmId": "paw_patrol_dino",
         "name": "Щенячий патруль: Динофильм",
         "rating": 6,
@@ -70,6 +49,18 @@
         "length": 115
     },
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "mutiny",
         "name": "Мятеж",
         "rating": 18,
@@ -78,5 +69,14 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "hive",
+        "name": "Кошмар на улице Корал-Гроув",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 91
     }
 ]

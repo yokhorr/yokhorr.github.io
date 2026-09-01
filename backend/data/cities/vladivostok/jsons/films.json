@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -33,47 +12,17 @@
         "length": 150
     },
     {
-        "filmId": "hive",
-        "name": "Кошмар на улице Корал-Гроув",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 91
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "приключения",
+            "детский",
             "комедия",
-            "фэнтези"
+            "приключения",
+            "фантастика"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "hanarokushou_ga_akeru_hi_ni",
-        "name": "И наступит рассвет",
-        "rating": 18,
-        "genres": [
-            "аниме",
-            "мультфильм",
-            "драма"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
+        "length": 88
     },
     {
         "filmId": "moana_2026",
@@ -88,71 +37,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "michael",
-        "name": "Майкл",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "музыка",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "the_summoning",
-        "name": "Крипипаста: Синий малыш",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 71
-    },
-    {
-        "filmId": "deep_water",
-        "name": "Крушение рейса",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "боевик",
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "obsession",
-        "name": "Обсессия",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "76168",
-        "name": "Пункт назначения: Мост №13",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 106
-    },
-    {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 88
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -222,6 +106,29 @@
         "length": 81
     },
     {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "76143",
         "name": "Лидия и Всадник Тумана",
         "rating": 6,
@@ -231,6 +138,16 @@
             "приключения"
         ],
         "length": 79
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "histoires_paralleles",
@@ -286,6 +203,17 @@
         "length": 170
     },
     {
+        "filmId": "hanarokushou_ga_akeru_hi_ni",
+        "name": "И наступит рассвет",
+        "rating": 18,
+        "genres": [
+            "аниме",
+            "мультфильм",
+            "драма"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "76396",
         "name": "Пентхаус",
         "rating": 18,
@@ -294,6 +222,68 @@
             "драма"
         ],
         "length": 102
+    },
+    {
+        "filmId": "hive",
+        "name": "Кошмар на улице Корал-Гроув",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 91
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "michael",
+        "name": "Майкл",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "музыка",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_summoning",
+        "name": "Крипипаста: Синий малыш",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 71
+    },
+    {
+        "filmId": "deep_water",
+        "name": "Крушение рейса",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "боевик",
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "76168",
+        "name": "Пункт назначения: Мост №13",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 106
     },
     {
         "filmId": "moi_papa_medved_2",
@@ -594,5 +584,15 @@
             "фильм-концерт"
         ],
         "length": 150
+    },
+    {
+        "filmId": "dios_lo_ve",
+        "name": "ЛАФ: Летний архитектурный фестиваль: Видит бог",
+        "rating": 18,
+        "genres": [
+            "документальный",
+            "биография"
+        ],
+        "length": 90
     }
 ]
