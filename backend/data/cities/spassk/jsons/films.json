@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "mutiny",
         "name": "Мятеж",
         "rating": 18,
@@ -39,5 +17,45 @@
             "ужасы"
         ],
         "length": 91
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "nanay_tatay",
+        "name": "Проклятие Малены",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]

@@ -1,16 +1,24 @@
 [
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
         ],
-        "length": 88
+        "length": 150
+    },
+    {
+        "filmId": "hive",
+        "name": "Кошмар на улице Корал-Гроув",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 91
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -49,16 +57,48 @@
         "length": 115
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
         ],
-        "length": 150
+        "length": 88
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": -1
     },
     {
         "filmId": "mutiny",
@@ -69,14 +109,5 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "hive",
-        "name": "Кошмар на улице Корал-Гроув",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 91
     }
 ]

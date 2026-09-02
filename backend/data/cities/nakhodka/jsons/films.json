@@ -1,17 +1,89 @@
 [
     {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
+        "filmId": "april_x",
+        "name": "Код сна",
+        "rating": 18,
         "genres": [
-            "мюзикл",
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 96
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
             "фэнтези",
             "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "sacrifice",
+        "name": "Жертва обстоятельств",
+        "rating": 18,
+        "genres": [
+            "боевик",
             "комедия",
-            "приключения",
+            "приключения"
+        ],
+        "length": 103
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_end_of_oak_street",
+        "name": "На краю Оук-стрит",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 99
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
             "семейный"
         ],
-        "length": 115
+        "length": -1
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_whisper_man",
+        "name": "Шёпот за окном",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 110
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -37,16 +109,29 @@
         "length": 45
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
         "genres": [
-            "фантастика",
+            "мюзикл",
             "фэнтези",
             "боевик",
-            "приключения"
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 150
+        "length": 115
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": -1
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",
@@ -58,50 +143,6 @@
             "приключения"
         ],
         "length": 110
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
     },
     {
         "filmId": "almaz",
@@ -116,47 +157,24 @@
         "length": 85
     },
     {
-        "filmId": "april_x",
-        "name": "Код сна",
+        "filmId": "tony",
+        "name": "Тони",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "триллер",
+            "биография",
             "драма"
         ],
-        "length": 96
+        "length": 105
     },
     {
-        "filmId": "motor_city",
-        "name": "Мотор Сити",
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
         "rating": 18,
         "genres": [
+            "фэнтези",
             "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 103
-    },
-    {
-        "filmId": "the_summoning",
-        "name": "Крипипаста: Синий малыш",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 71
-    },
-    {
-        "filmId": "sacrifice",
-        "name": "Жертва обстоятельств",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "комедия",
             "приключения"
         ],
-        "length": 103
+        "length": 170
     }
 ]
