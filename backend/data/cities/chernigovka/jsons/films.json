@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "the_summoning",
+        "name": "Крипипаста: Синий малыш",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 71
+    },
+    {
         "filmId": "monster_mia",
         "name": "Миа и монстры",
         "rating": 6,
@@ -30,7 +39,7 @@
             "комедия",
             "семейный"
         ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",
@@ -62,14 +71,5 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "the_summoning",
-        "name": "Крипипаста: Синий малыш",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 71
     }
 ]

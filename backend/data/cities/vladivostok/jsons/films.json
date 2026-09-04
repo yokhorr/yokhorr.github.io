@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "just_play_dead",
+        "name": "Сыграть в ящик",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -10,6 +31,84 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "moana_2026",
@@ -33,18 +132,7 @@
             "комедия",
             "семейный"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
+        "length": 90
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",
@@ -56,6 +144,18 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -81,84 +181,16 @@
         "length": 81
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "ужасы"
         ],
-        "length": 170
+        "length": 105
     },
     {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 88
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "just_play_dead",
-        "name": "Сыграть в ящик",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "76214",
+        "filmId": "la_venus_electrique",
         "name": "Электрический поцелуй",
         "rating": 18,
         "genres": [
@@ -187,38 +219,6 @@
             "семейный"
         ],
         "length": 122
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
     },
     {
         "filmId": "almaz",
