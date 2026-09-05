@@ -1,34 +1,12 @@
 [
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
+        "filmId": "nanay_tatay",
+        "name": "Проклятие Малены",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
+            "ужасы"
         ],
-        "length": 80
-    },
-    {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
+        "length": 122
     },
     {
         "filmId": "mutiny",
@@ -41,12 +19,34 @@
         "length": 95
     },
     {
-        "filmId": "nanay_tatay",
-        "name": "Проклятие Малены",
-        "rating": 18,
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "комедия",
+            "семейный"
         ],
-        "length": 122
+        "length": 90
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
     }
 ]
