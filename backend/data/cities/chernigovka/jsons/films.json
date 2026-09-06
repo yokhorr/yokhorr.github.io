@@ -1,15 +1,12 @@
 [
     {
-        "filmId": "monster_mia",
-        "name": "Миа и монстры",
-        "rating": 6,
+        "filmId": "the_summoning",
+        "name": "Крипипаста: Синий малыш",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения",
-            "комедия"
+            "ужасы"
         ],
-        "length": 81
+        "length": 71
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -21,6 +18,18 @@
             "приключения"
         ],
         "length": 80
+    },
+    {
+        "filmId": "monster_mia",
+        "name": "Миа и монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения",
+            "комедия"
+        ],
+        "length": 81
     },
     {
         "filmId": "moi_papa_medved_2",
@@ -52,24 +61,5 @@
             "комедия"
         ],
         "length": 95
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_summoning",
-        "name": "Крипипаста: Синий малыш",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 71
     }
 ]

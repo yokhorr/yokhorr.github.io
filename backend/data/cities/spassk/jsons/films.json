@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "nanay_tatay",
+        "name": "Проклятие Малены",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "moi_papa_medved_2",
         "name": "Мой папа – медведь 2",
         "rating": 6,
@@ -27,25 +46,6 @@
         "genres": [
             "мелодрама",
             "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "nanay_tatay",
-        "name": "Проклятие Малены",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
         ],
         "length": 95
     }
