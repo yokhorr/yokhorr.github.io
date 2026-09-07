@@ -1,5 +1,67 @@
 [
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "just_play_dead",
+        "name": "Сыграть в ящик",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "tony",
+        "name": "Тони",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "paw_patrol_dino",
         "name": "Щенячий патруль: Динофильм",
         "rating": 6,
@@ -11,18 +73,6 @@
             "фантастика"
         ],
         "length": 88
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -149,48 +199,19 @@
         "length": 122
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "just_play_dead",
-        "name": "Сыграть в ящик",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
+        "filmId": "cyrano_de_bergerac_2022",
+        "name": "МХТ им. А. П. Чехова: Сирано де Бержерак",
         "rating": 16,
         "genres": [
-            "боевик",
+            "фильм-спектакль",
             "драма",
-            "триллер"
+            "комедия"
         ],
-        "length": 85
+        "length": -1
     },
     {
         "filmId": "in_time",
-        "name": "Время 2011",
+        "name": "Время",
         "rating": 16,
         "genres": [
             "фантастика",
@@ -198,26 +219,6 @@
             "криминал"
         ],
         "length": 110
-    },
-    {
-        "filmId": "avanti",
-        "name": "Аванти!",
-        "rating": 12,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "tony",
-        "name": "Тони",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 105
     },
     {
         "filmId": "almaz",
@@ -243,17 +244,6 @@
         "length": 155
     },
     {
-        "filmId": "cyrano_de_bergerac_2022",
-        "name": "МХТ им. А. П. Чехова: Сирано де Бержерак",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "miralles",
         "name": "ЛАФ: Летний архитектурный фестиваль: Миральес",
         "rating": 18,
@@ -272,6 +262,40 @@
             "приключения"
         ],
         "length": 140
+    },
+    {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
     },
     {
         "filmId": "twiggy",
