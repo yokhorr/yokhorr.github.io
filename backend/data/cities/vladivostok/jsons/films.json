@@ -1,67 +1,5 @@
 [
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "just_play_dead",
-        "name": "Сыграть в ящик",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "tony",
-        "name": "Тони",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "paw_patrol_dino",
         "name": "Щенячий патруль: Динофильм",
         "rating": 6,
@@ -73,6 +11,18 @@
             "фантастика"
         ],
         "length": 88
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -189,6 +139,25 @@
         "length": 95
     },
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "la_venus_electrique",
         "name": "Электрический поцелуй",
         "rating": 18,
@@ -197,6 +166,37 @@
             "комедия"
         ],
         "length": 122
+    },
+    {
+        "filmId": "just_play_dead",
+        "name": "Сыграть в ящик",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "tony",
+        "name": "Тони",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "cyrano_de_bergerac_2022",
@@ -264,14 +264,15 @@
         "length": 140
     },
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "приключения"
+            "драма",
+            "приключения",
+            "история"
         ],
-        "length": 85
+        "length": -1
     },
     {
         "filmId": "coyote_vs_acme",
@@ -287,15 +288,33 @@
         "length": 100
     },
     {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ko_hang_hawc305_ko_hom",
+        "name": "Мой пёс Гохан",
         "rating": 12,
         "genres": [
-            "драма",
-            "приключения",
-            "история"
+            "драма"
         ],
-        "length": -1
+        "length": 140
+    },
+    {
+        "filmId": "soavtory",
+        "name": "Соавторы",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 85
     },
     {
         "filmId": "twiggy",
@@ -305,6 +324,25 @@
             "документальный"
         ],
         "length": 94
+    },
+    {
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "hopeu",
+        "name": "Надежда",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 155
     },
     {
         "filmId": "bohemian_rhapsody",
@@ -511,5 +549,15 @@
             "семейный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "ravel_by_cherkaoui_verbruggen",
+        "name": "Равель: балеты Шеркауи и Вербрюггена",
+        "rating": 16,
+        "genres": [
+            "балет",
+            "спектакль"
+        ],
+        "length": 80
     }
 ]
