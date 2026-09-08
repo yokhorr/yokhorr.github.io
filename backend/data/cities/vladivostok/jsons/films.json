@@ -1,16 +1,33 @@
 [
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "боевик",
+            "триллер"
         ],
-        "length": 88
+        "length": 95
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -25,27 +42,69 @@
         "length": 150
     },
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
+        "filmId": "tony",
+        "name": "Тони",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
+            "биография",
+            "драма"
         ],
-        "length": 80
+        "length": 105
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "project_hail_mary",
+        "name": "Проект «Конец света»",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "триллер",
+            "драма"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "just_play_dead",
+        "name": "Сыграть в ящик",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
         "rating": 6,
         "genres": [
             "мультфильм",
-            "приключения",
+            "детский",
             "комедия",
-            "фэнтези"
+            "приключения",
+            "фантастика"
         ],
-        "length": 90
+        "length": 88
     },
     {
         "filmId": "moana_2026",
@@ -72,6 +131,17 @@
         "length": 90
     },
     {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -83,16 +153,15 @@
         "length": 110
     },
     {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
-        "rating": 0,
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
         "genres": [
-            "мультфильм",
-            "приключения",
+            "фантастика",
             "комедия",
-            "фэнтези"
+            "приключения"
         ],
-        "length": 50
+        "length": 105
     },
     {
         "filmId": "monster_mia",
@@ -107,55 +176,16 @@
         "length": 81
     },
     {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
         "rating": 6,
         "genres": [
-            "фантастика",
+            "мультфильм",
+            "приключения",
             "комедия",
-            "приключения"
+            "фэнтези"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
+        "length": 90
     },
     {
         "filmId": "la_venus_electrique",
@@ -168,48 +198,6 @@
         "length": 122
     },
     {
-        "filmId": "just_play_dead",
-        "name": "Сыграть в ящик",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "tony",
-        "name": "Тони",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "cyrano_de_bergerac_2022",
-        "name": "МХТ им. А. П. Чехова: Сирано де Бержерак",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "in_time",
         "name": "Время",
         "rating": 16,
@@ -219,29 +207,6 @@
             "криминал"
         ],
         "length": 110
-    },
-    {
-        "filmId": "almaz",
-        "name": "Алмаз «Сердце Персии»",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "miralles",
@@ -264,15 +229,26 @@
         "length": 140
     },
     {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 12,
+        "filmId": "almaz",
+        "name": "Алмаз «Сердце Персии»",
+        "rating": 6,
         "genres": [
-            "драма",
+            "комедия",
+            "семейный",
             "приключения",
-            "история"
+            "криминал"
         ],
-        "length": -1
+        "length": 85
+    },
+    {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
     },
     {
         "filmId": "coyote_vs_acme",
@@ -288,14 +264,15 @@
         "length": 100
     },
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "приключения"
+            "драма",
+            "приключения",
+            "история"
         ],
-        "length": 85
+        "length": -1
     },
     {
         "filmId": "ko_hang_hawc305_ko_hom",
@@ -305,6 +282,27 @@
             "драма"
         ],
         "length": 140
+    },
+    {
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_uprising",
+        "name": "Восставший",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 125
     },
     {
         "filmId": "soavtory",
@@ -324,15 +322,6 @@
             "документальный"
         ],
         "length": 94
-    },
-    {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
     },
     {
         "filmId": "hopeu",
