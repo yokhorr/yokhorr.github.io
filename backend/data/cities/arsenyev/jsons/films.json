@@ -1,5 +1,61 @@
 [
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
         "filmId": "luntik_obratnaja_storona_luny",
         "name": "Лунтик. Обратная сторона Луны",
         "rating": 0,
@@ -11,15 +67,27 @@
         "length": 80
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
         "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
+            "мелодрама",
+            "комедия"
         ],
-        "length": 110
+        "length": 95
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "moana_2026",
@@ -36,69 +104,23 @@
         "length": 115
     },
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 88
-    },
-    {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
         "rating": 12,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "драма",
+            "приключения",
+            "история"
         ],
-        "length": 150
+        "length": -1
     },
     {
-        "filmId": "mutiny",
-        "name": "Мятеж",
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер"
+            "ужасы"
         ],
-        "length": 95
+        "length": 105
     }
 ]

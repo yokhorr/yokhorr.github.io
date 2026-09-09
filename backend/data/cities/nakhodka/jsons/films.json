@@ -1,52 +1,5 @@
 [
     {
-        "filmId": "the_end_of_oak_street",
-        "name": "На краю Оук-стрит",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 99
-    },
-    {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
         "filmId": "ne_po_detski",
         "name": "Не по-детски",
         "rating": 16,
@@ -55,29 +8,6 @@
             "комедия"
         ],
         "length": 95
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
     },
     {
         "filmId": "the_whisper_man",
@@ -89,6 +19,28 @@
             "криминал"
         ],
         "length": 110
+    },
+    {
+        "filmId": "the_end_of_oak_street",
+        "name": "На краю Оук-стрит",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 99
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -103,19 +55,42 @@
         "length": 150
     },
     {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
         "genres": [
-            "боевик",
-            "драма",
-            "триллер"
+            "мультфильм",
+            "приключения"
         ],
         "length": 85
     },
     {
-        "filmId": "76008",
-        "name": "МУЛЬТ в кино. Выпуск №198. Некогда скучать",
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
         "rating": 0,
         "genres": [
             "мультфильм",
@@ -123,58 +98,17 @@
             "комедия",
             "фэнтези"
         ],
-        "length": 45
+        "length": 50
     },
     {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
         "rating": 6,
         "genres": [
             "комедия",
-            "фэнтези",
-            "приключения"
+            "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "molt_lluny",
-        "name": "Изгой",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "just_play_dead",
-        "name": "Сыграть в ящик",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "криминал"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "almaz",
-        "name": "Алмаз «Сердце Персии»",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный",
-            "приключения",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_summoning",
-        "name": "Крипипаста: Синий малыш",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 71
+        "length": 90
     },
     {
         "filmId": "mutiny",
@@ -187,15 +121,18 @@
         "length": 95
     },
     {
-        "filmId": "april_x",
-        "name": "Код сна",
-        "rating": 18,
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 96
+        "length": 115
     },
     {
         "filmId": "tony",
@@ -217,5 +154,34 @@
             "приключения"
         ],
         "length": 170
+    },
+    {
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     }
 ]

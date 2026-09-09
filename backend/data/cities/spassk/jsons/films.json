@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "nanay_tatay",
+        "name": "Проклятие Малены",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "moi_papa_medved_2",
         "name": "Мой папа – медведь 2",
         "rating": 6,
@@ -8,6 +17,17 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -21,14 +41,27 @@
         "length": 80
     },
     {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
         "genres": [
-            "боевик",
-            "триллер"
+            "мультфильм",
+            "приключения"
         ],
-        "length": 95
+        "length": 85
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "ne_po_detski",
@@ -39,14 +72,5 @@
             "комедия"
         ],
         "length": 95
-    },
-    {
-        "filmId": "nanay_tatay",
-        "name": "Проклятие Малены",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
     }
 ]
