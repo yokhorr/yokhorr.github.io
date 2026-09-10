@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "kraj_chudes",
         "name": "Край чудес",
         "rating": 6,
@@ -83,7 +104,7 @@
     {
         "filmId": "ohota_na_imperatora",
         "name": "Охота на Императора",
-        "rating": 12,
+        "rating": 16,
         "genres": [
             "драма",
             "приключения",
@@ -101,26 +122,5 @@
             "триллер"
         ],
         "length": 85
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
     }
 ]

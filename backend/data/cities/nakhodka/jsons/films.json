@@ -1,5 +1,57 @@
 [
     {
+        "filmId": "the_end_of_oak_street",
+        "name": "На краю Оук-стрит",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 99
+    },
+    {
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_whisper_man",
+        "name": "Шёпот за окном",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "kraj_chudes",
         "name": "Край чудес",
         "rating": 6,
@@ -12,7 +64,7 @@
     {
         "filmId": "ohota_na_imperatora",
         "name": "Охота на Императора",
-        "rating": 12,
+        "rating": 16,
         "genres": [
             "драма",
             "приключения",
@@ -34,28 +86,6 @@
         "length": 100
     },
     {
-        "filmId": "the_whisper_man",
-        "name": "Шёпот за окном",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_end_of_oak_street",
-        "name": "На краю Оук-стрит",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 99
-    },
-    {
         "filmId": "76588",
         "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
         "rating": 0,
@@ -66,6 +96,30 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "the_runner",
@@ -89,28 +143,6 @@
         "length": 95
     },
     {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "mutiny",
         "name": "Мятеж",
         "rating": 18,
@@ -119,20 +151,6 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
     },
     {
         "filmId": "tony",
@@ -156,22 +174,14 @@
         "length": 170
     },
     {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
+        "filmId": "hopeu",
+        "name": "Надежда",
         "rating": 18,
         "genres": [
-            "комедия"
+            "фантастика",
+            "боевик"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
+        "length": 155
     },
     {
         "filmId": "poslednij_bogatyr_kolobok",
@@ -183,5 +193,24 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "just_play_dead",
+        "name": "Сыграть в ящик",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "molt_lluny",
+        "name": "Изгой",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 100
     }
 ]
