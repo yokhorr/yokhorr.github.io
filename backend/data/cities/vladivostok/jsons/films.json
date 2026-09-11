@@ -1,16 +1,14 @@
 [
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "фэнтези",
+            "боевик",
+            "приключения"
         ],
-        "length": 88
+        "length": 170
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -23,6 +21,101 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_uprising",
+        "name": "Восставший",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "hopeu",
+        "name": "Надежда",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "moana_2026",
@@ -49,30 +142,6 @@
         "length": 85
     },
     {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "luntik_obratnaja_storona_luny",
         "name": "Лунтик. Обратная сторона Луны",
         "rating": 0,
@@ -84,55 +153,16 @@
         "length": 80
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "rating": 0,
         "genres": [
             "мультфильм",
             "приключения",
             "комедия",
             "фэнтези"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "ko_hang_hawc305_ko_hom",
-        "name": "Мой пёс Гохан",
-        "rating": 12,
-        "genres": [
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
+        "length": 50
     },
     {
         "filmId": "moi_papa_medved_2",
@@ -141,6 +171,18 @@
         "genres": [
             "комедия",
             "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
         "length": 90
     },
@@ -156,27 +198,26 @@
         "length": 110
     },
     {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
         "genres": [
-            "боевик",
-            "драма",
-            "триллер"
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
         ],
-        "length": 85
+        "length": 88
     },
     {
-        "filmId": "the_uprising",
-        "name": "Восставший",
-        "rating": 18,
+        "filmId": "ko_hang_hawc305_ko_hom",
+        "name": "Мой пёс Гохан",
+        "rating": 12,
         "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
+            "драма"
         ],
-        "length": 125
+        "length": 140
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -186,15 +227,6 @@
             "фантастика",
             "комедия",
             "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 105
     },
@@ -211,27 +243,6 @@
         "length": 81
     },
     {
-        "filmId": "soavtory",
-        "name": "Соавторы",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "bohemian_rhapsody",
-        "name": "Богемская рапсодия",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография",
-            "музыка"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "bowie",
         "name": "Боуи: Последняя глава (Beat Weekend — 2026)",
         "rating": 18,
@@ -243,38 +254,6 @@
         "length": 90
     },
     {
-        "filmId": "hopeu",
-        "name": "Надежда",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
         "filmId": "kanyewest",
         "name": "Канье Уэст: Во имя кого? (Beat Weekend — 2026)",
         "rating": 18,
@@ -282,6 +261,16 @@
             "документальный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "soavtory",
+        "name": "Соавторы",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 85
     },
     {
         "filmId": "54143",
