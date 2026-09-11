@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -21,101 +10,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_uprising",
-        "name": "Восставший",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "hopeu",
-        "name": "Надежда",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
     },
     {
         "filmId": "moana_2026",
@@ -140,6 +34,30 @@
             "приключения"
         ],
         "length": 85
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -187,6 +105,17 @@
         "length": 90
     },
     {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -196,6 +125,16 @@
             "приключения"
         ],
         "length": 110
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "paw_patrol_dino",
@@ -211,6 +150,26 @@
         "length": 88
     },
     {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "ko_hang_hawc305_ko_hom",
         "name": "Мой пёс Гохан",
         "rating": 12,
@@ -218,6 +177,27 @@
             "драма"
         ],
         "length": 140
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_uprising",
+        "name": "Восставший",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 125
     },
     {
         "filmId": "smeshariki_skvoz_vselennye",
@@ -263,6 +243,16 @@
         "length": 105
     },
     {
+        "filmId": "hopeu",
+        "name": "Надежда",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 155
+    },
+    {
         "filmId": "soavtory",
         "name": "Соавторы",
         "rating": 16,
@@ -271,6 +261,16 @@
             "комедия"
         ],
         "length": 85
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "54143",

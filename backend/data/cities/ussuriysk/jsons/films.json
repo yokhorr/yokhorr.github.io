@@ -1,24 +1,13 @@
 [
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
         "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
+            "мультфильм",
             "приключения"
         ],
-        "length": 150
+        "length": 85
     },
     {
         "filmId": "luntik_obratnaja_storona_luny",
@@ -32,14 +21,16 @@
         "length": 80
     },
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
         "genres": [
-            "мультфильм",
+            "фантастика",
+            "фэнтези",
+            "боевик",
             "приключения"
         ],
-        "length": 85
+        "length": 150
     },
     {
         "filmId": "paw_patrol_dino",
@@ -77,6 +68,15 @@
             "история"
         ],
         "length": -1
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "the_odyssey",
