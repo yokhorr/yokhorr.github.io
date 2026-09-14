@@ -1,16 +1,14 @@
 [
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "фэнтези",
+            "боевик",
+            "приключения"
         ],
-        "length": 88
+        "length": 170
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -23,6 +21,84 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "hopeu",
+        "name": "Надежда",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "mutiny",
+        "name": "Мятеж",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_uprising",
+        "name": "Восставший",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "драма",
+            "военный",
+            "история"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
     },
     {
         "filmId": "moana_2026",
@@ -47,19 +123,6 @@
             "приключения"
         ],
         "length": 85
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "ohota_na_imperatora",
@@ -106,17 +169,6 @@
         "length": 90
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -156,29 +208,6 @@
         "length": 85
     },
     {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_uprising",
-        "name": "Восставший",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "smeshariki_skvoz_vselennye",
         "name": "Смешарики сквозь вселенные",
         "rating": 6,
@@ -186,15 +215,6 @@
             "фантастика",
             "комедия",
             "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 105
     },
@@ -211,16 +231,6 @@
         "length": 81
     },
     {
-        "filmId": "hopeu",
-        "name": "Надежда",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 155
-    },
-    {
         "filmId": "soavtory",
         "name": "Соавторы",
         "rating": 16,
@@ -229,34 +239,6 @@
             "комедия"
         ],
         "length": 85
-    },
-    {
-        "filmId": "24912",
-        "name": "Царь Эдип",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 104
-    },
-    {
-        "filmId": "goldenspurtle",
-        "name": "Овсянка для чемпионов (Beat Weekend — 2026)",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "mutiny",
-        "name": "Мятеж",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "76162",
@@ -328,6 +310,16 @@
         "length": 110
     },
     {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "twilight",
         "name": "Сумерки",
         "rating": 18,
@@ -338,11 +330,52 @@
         "length": 122
     },
     {
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "onslaught",
+        "name": "Натиск",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "76413",
         "name": "Givenchy: история элегантности — Лекция Ярослава Михеева",
         "rating": 16,
         "genres": [
             "лекция"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "33643",
+        "name": "Дюна: Часть первая",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "драма",
+            "приключения"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 122
     },
@@ -367,6 +400,13 @@
             "фильм-концерт"
         ],
         "length": 150
+    },
+    {
+        "filmId": "42713",
+        "name": "Киномакс тест 4",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "dios_lo_ve",
