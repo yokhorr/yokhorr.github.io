@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "kraj_chudes",
         "name": "Край чудес",
         "rating": 6,
@@ -103,24 +124,24 @@
         "length": 85
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "фэнтези",
+            "приключения",
+            "комедия"
         ],
-        "length": 105
+        "length": 110
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "фэнтези",
             "боевик",
-            "приключения"
+            "триллер"
         ],
-        "length": 150
+        "length": 95
     }
 ]
