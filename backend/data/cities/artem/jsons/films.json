@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "paw_patrol_dino",
         "name": "Щенячий патруль: Динофильм",
         "rating": 6,
@@ -109,5 +89,14 @@
             "триллер"
         ],
         "length": 90
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]
