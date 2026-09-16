@@ -1,16 +1,21 @@
 [
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "76212",
+        "name": "Биостанция Анива: дело длинной воли (Beat Weekend — 2026)",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "документальный"
         ],
-        "length": 88
+        "length": 74
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -25,26 +30,66 @@
         "length": 150
     },
     {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
+        "filmId": "the_uprising",
+        "name": "Восставший",
+        "rating": 18,
         "genres": [
-            "мюзикл",
-            "фэнтези",
             "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
+            "драма",
+            "военный",
+            "история"
         ],
-        "length": 115
+        "length": 125
     },
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
+        "rating": 18,
         "genres": [
-            "мультфильм",
+            "комедия"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ne_po_detski",
+        "name": "Не по-детски",
+        "rating": 16,
+        "genres": [
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
             "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "the_runner",
+        "name": "Бегущая",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "драма",
+            "триллер"
         ],
         "length": 85
     },
@@ -60,194 +105,6 @@
             "семейный"
         ],
         "length": 100
-    },
-    {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "ko_hang_hawc305_ko_hom",
-        "name": "Мой пёс Гохан",
-        "rating": 12,
-        "genres": [
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_uprising",
-        "name": "Восставший",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "драма",
-            "военный",
-            "история"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "monster_mia",
-        "name": "Миа и монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 81
-    },
-    {
-        "filmId": "soavtory",
-        "name": "Соавторы",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "green_over_gray_emilio_ambasz",
-        "name": "ЛАФ: Летний архитектурный фестиваль: Зелёное на сером",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 55
-    },
-    {
-        "filmId": "76212",
-        "name": "Биостанция Анива: дело длинной воли (Beat Weekend — 2026)",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 74
-    },
-    {
-        "filmId": "project_hail_mary",
-        "name": "Проект «Конец света»",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "триллер",
-            "драма"
-        ],
-        "length": 155
     },
     {
         "filmId": "hopeu",
@@ -281,6 +138,33 @@
         "length": 110
     },
     {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
         "filmId": "76588",
         "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
         "rating": 0,
@@ -293,6 +177,27 @@
         "length": 50
     },
     {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "runner",
         "name": "Курьер",
         "rating": 16,
@@ -301,6 +206,27 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
     },
     {
         "filmId": "twilight",
@@ -313,6 +239,17 @@
         "length": 122
     },
     {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "onslaught",
         "name": "Натиск",
         "rating": 18,
@@ -321,6 +258,18 @@
             "фантастика",
             "боевик",
             "триллер"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
         ],
         "length": 90
     },
@@ -404,6 +353,16 @@
             "биография"
         ],
         "length": 90
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": -1
     },
     {
         "filmId": "fall_2_deadpoint",

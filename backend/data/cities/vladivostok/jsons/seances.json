@@ -1,1311 +1,6 @@
 [
     {
         "date": "16.09",
-        "time": "09:50",
-        "filmId": "paw_patrol_dino",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA5LTE2IDA5OjUwOjAwOzc2NDQ0"
-    },
-    {
-        "date": "16.09",
-        "time": "09:50",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 150,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wOS0xNiAwOTo1MDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "09:50",
-        "filmId": "moana_2026",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": true,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA5LTE2IDA5OjUwOjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA5LTE2IDEwOjAwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": true,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA5LTE2IDEwOjAwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "moana_2026",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wOS0xNiAxMDowMDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "moana_2026",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wOS0xNiAxMDowMDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "moana_2026",
-        "theatre": "Океан IMAX",
-        "cost": 190,
-        "is3d": true,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA5LTE2IDEwOjAwOjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "kraj_chudes",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wOS0xNiAxMDowMDowMDs3NjYxNw=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "kraj_chudes",
-        "theatre": "Океан IMAX",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA5LTE2IDEwOjAwOjAwOzc2NjE3"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wOS0xNiAxMDowMDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Океан IMAX",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA5LTE2IDEwOjAwOjAwOzc2NTg2"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNiAxMDowMDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA5LTE2IDEwOjAwOjAwOzc2NjE4"
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wOS0xNiAxMDowMDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:00",
-        "filmId": "luntik_obratnaja_storona_luny",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDktMTYgMTA6MDA6MDA7NzU3ODg="
-    },
-    {
-        "date": "16.09",
-        "time": "10:10",
-        "filmId": "luntik_obratnaja_storona_luny",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0xNiAxMDoxMDowMDs3NTc4OA=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:15",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 500,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wOS0xNiAxMDoxNTowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:20",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 760,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xNiAxMDoyMDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:25",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 360,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0xNiAxMDoyNTowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Черёмушки",
-        "cost": 190,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wOS0xNiAxMDozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:30",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Уссури",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wOS0xNiAxMDozMDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "10:30",
-        "filmId": "moi_papa_medved_2",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wOS0xNiAxMDozMDowMDs3NjU3MQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:00",
-        "filmId": "minions_and_monsters",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wOS0xNiAxMTowMDowMDs3NDU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:10",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 540,
-        "is3d": true,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wOS0xNiAxMToxMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:30",
-        "filmId": "kraj_chudes",
-        "theatre": "Москва",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDktMTYgMTE6MzA6MDA7NzY2MTc="
-    },
-    {
-        "date": "16.09",
-        "time": "11:30",
-        "filmId": "kraj_chudes",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNiAxMTozMDowMDs3NjYxNw=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:30",
-        "filmId": "the_odyssey",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 520,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wOS0xNiAxMTozMDowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:30",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wOS0xNiAxMTozMDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:40",
-        "filmId": "minions_and_monsters",
-        "theatre": "Иллюзион",
-        "cost": 280,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA5LTE2IDExOjQwOjAwOzc0NTg2"
-    },
-    {
-        "date": "16.09",
-        "time": "11:50",
-        "filmId": "poslednij_bogatyr_kolobok",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 320,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0xNiAxMTo1MDowMDs3NDYxNA=="
-    },
-    {
-        "date": "16.09",
-        "time": "11:55",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA5LTE2IDExOjU1OjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "11:55",
-        "filmId": "ko_hang_hawc305_ko_hom",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wOS0xNiAxMTo1NTowMDs3NjYzMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:00",
-        "filmId": "moana_2026",
-        "theatre": "Уссури",
-        "cost": 850,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wOS0xNiAxMjowMDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:00",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 860,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wOS0xNiAxMjowMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:10",
-        "filmId": "moana_2026",
-        "theatre": "Иллюзион",
-        "cost": 330,
-        "is3d": true,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA5LTE2IDEyOjEwOjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "12:10",
-        "filmId": "ne_po_detski",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wOS0xNiAxMjoxMDowMDs3NjE4OQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:10",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA5LTE2IDEyOjEwOjAwOzc2NjE4"
-    },
-    {
-        "date": "16.09",
-        "time": "12:20",
-        "filmId": "paw_patrol_dino",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wOS0xNiAxMjoyMDowMDs3NjQ0NA=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:20",
-        "filmId": "moana_2026",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wOS0xNiAxMjoyMDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:20",
-        "filmId": "moana_2026",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA5LTE2IDEyOjIwOjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "12:20",
-        "filmId": "kraj_chudes",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wOS0xNiAxMjoyMDowMDs3NjYxNw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:20",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Иллюзион",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA5LTE2IDEyOjIwOjAwOzc2NTg2"
-    },
-    {
-        "date": "16.09",
-        "time": "12:20",
-        "filmId": "mezhdu_nami_devochkami",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNiAxMjoyMDowMDs3NjYxNA=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 850,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wOS0xNiAxMjozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:30",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wOS0xNiAxMjozMDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:35",
-        "filmId": "kraj_chudes",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0xNiAxMjozNTowMDs3NjYxNw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:40",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 250,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wOS0xNiAxMjo0MDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:40",
-        "filmId": "ne_po_detski",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 740,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xNiAxMjo0MDowMDs3NjE4OQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:50",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wOS0xNiAxMjo1MDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:50",
-        "filmId": "the_odyssey",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wOS0xNiAxMjo1MDowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "12:55",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Иллюзион",
-        "cost": 350,
-        "is3d": true,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA5LTE2IDEyOjU1OjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "13:00",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA5LTE2IDEzOjAwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "13:10",
-        "filmId": "moi_papa_medved_2",
-        "theatre": "Москва",
-        "cost": 300,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDktMTYgMTM6MTA6MDA7NzY1NzE="
-    },
-    {
-        "date": "16.09",
-        "time": "13:20",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wOS0xNiAxMzoyMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "13:20",
-        "filmId": "luntik_obratnaja_storona_luny",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNiAxMzoyMDowMDs3NTc4OA=="
-    },
-    {
-        "date": "16.09",
-        "time": "13:30",
-        "filmId": "luntik_obratnaja_storona_luny",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA5LTE2IDEzOjMwOjAwOzc1Nzg4"
-    },
-    {
-        "date": "16.09",
-        "time": "13:35",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wOS0xNiAxMzozNTowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "13:35",
-        "filmId": "kraj_chudes",
-        "theatre": "Владивосток",
-        "cost": 700,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wOS0xNiAxMzozNTowMDs3NjYxNw=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:10",
-        "filmId": "the_runner",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNiAxNDoxMDowMDs3NjA3Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:10",
-        "filmId": "luntik_obratnaja_storona_luny",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0xNiAxNDoxMDowMDs3NTc4OA=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:15",
-        "filmId": "moana_2026",
-        "theatre": "Уссури",
-        "cost": 370,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wOS0xNiAxNDoxNTowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:15",
-        "filmId": "the_uprising",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wOS0xNiAxNDoxNTowMDs3NjcwMg=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:20",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": true,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wOS0xNiAxNDoyMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:20",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wOS0xNiAxNDoyMDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:25",
-        "filmId": "moana_2026",
-        "theatre": "Уссури",
-        "cost": 1050,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wOS0xNiAxNDoyNTowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:30",
-        "filmId": "moana_2026",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": true,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA5LTE2IDE0OjMwOjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "14:30",
-        "filmId": "kraj_chudes",
-        "theatre": "Иллюзион",
-        "cost": 370,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA5LTE2IDE0OjMwOjAwOzc2NjE3"
-    },
-    {
-        "date": "16.09",
-        "time": "14:30",
-        "filmId": "ne_po_detski",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA5LTE2IDE0OjMwOjAwOzc2MTg5"
-    },
-    {
-        "date": "16.09",
-        "time": "14:30",
-        "filmId": "smeshariki_skvoz_vselennye",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0xNiAxNDozMDowMDs3NDYyNA=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:40",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1000,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xNiAxNDo0MDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:40",
-        "filmId": "the_odyssey",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wOS0xNiAxNDo0MDowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:40",
-        "filmId": "mezhdu_nami_devochkami",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wOS0xNiAxNDo0MDowMDs3NjYxNA=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:45",
-        "filmId": "moana_2026",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA5LTE2IDE0OjQ1OjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "14:50",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA5LTE2IDE0OjUwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "14:50",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wOS0xNiAxNDo1MDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "14:55",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wOS0xNiAxNDo1NTowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:00",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Москва",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDktMTYgMTU6MDA6MDA7NzY2MTg="
-    },
-    {
-        "date": "16.09",
-        "time": "15:05",
-        "filmId": "paw_patrol_dino",
-        "theatre": "Иллюзион",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA5LTE2IDE1OjA1OjAwOzc2NDQ0"
-    },
-    {
-        "date": "16.09",
-        "time": "15:05",
-        "filmId": "insidious_out_of_the_further",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wOS0xNiAxNTowNTowMDs3NjU4NQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:10",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wOS0xNiAxNToxMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:10",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNiAxNToxMDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:25",
-        "filmId": "monster_mia",
-        "theatre": "Владивосток",
-        "cost": 800,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wOS0xNiAxNToyNTowMDs3NjIzMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 350,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wOS0xNiAxNTozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 350,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wOS0xNiAxNTozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "15:50",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Иллюзион",
-        "cost": 430,
-        "is3d": true,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA5LTE2IDE1OjUwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "15:50",
-        "filmId": "poslednij_bogatyr_kolobok",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0xNiAxNTo1MDowMDs3NDYxNA=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:00",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA5LTE2IDE2OjAwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "16:05",
-        "filmId": "insidious_out_of_the_further",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNiAxNjowNTowMDs3NjU4NQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:20",
-        "filmId": "the_odyssey",
-        "theatre": "Иллюзион",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA5LTE2IDE2OjIwOjAwOzc0NTg3"
-    },
-    {
-        "date": "16.09",
-        "time": "16:25",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wOS0xNiAxNjoyNTowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:30",
-        "filmId": "moana_2026",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wOS0xNiAxNjozMDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wOS0xNiAxNjozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:35",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA5LTE2IDE2OjM1OjAwOzc2NTg2"
-    },
-    {
-        "date": "16.09",
-        "time": "16:40",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wOS0xNiAxNjo0MDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:40",
-        "filmId": "minions_and_monsters",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wOS0xNiAxNjo0MDowMDs3NDU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:40",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Уссури",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wOS0xNiAxNjo0MDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:50",
-        "filmId": "moana_2026",
-        "theatre": "Иллюзион",
-        "cost": 420,
-        "is3d": true,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA5LTE2IDE2OjUwOjAwOzc0ODEx"
-    },
-    {
-        "date": "16.09",
-        "time": "16:50",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 480,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0xNiAxNjo1MDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:50",
-        "filmId": "the_odyssey",
-        "theatre": "Уссури",
-        "cost": 1150,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wOS0xNiAxNjo1MDowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:55",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wOS0xNiAxNjo1NTowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "16:55",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Иллюзион",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA5LTE2IDE2OjU1OjAwOzc2NjE4"
-    },
-    {
-        "date": "16.09",
-        "time": "17:00",
-        "filmId": "luntik_obratnaja_storona_luny",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 900,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xNiAxNzowMDowMDs3NTc4OA=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:10",
-        "filmId": "ko_hang_hawc305_ko_hom",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 420,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wOS0xNiAxNzoxMDowMDs3NjYzMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:10",
-        "filmId": "moana_2026",
-        "theatre": "Владивосток",
-        "cost": 900,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wOS0xNiAxNzoxMDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:10",
-        "filmId": "the_odyssey",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA5LTE2IDE3OjEwOjAwOzc0NTg3"
-    },
-    {
-        "date": "16.09",
-        "time": "17:15",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Москва",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDktMTYgMTc6MTU6MDA7NzY1ODY="
-    },
-    {
-        "date": "16.09",
-        "time": "17:15",
-        "filmId": "kraj_chudes",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNiAxNzoxNTowMDs3NjYxNw=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:20",
-        "filmId": "the_odyssey",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 600,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wOS0xNiAxNzoyMDowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 620,
-        "is3d": true,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wOS0xNiAxNzozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:45",
-        "filmId": "the_odyssey",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wOS0xNiAxNzo0NTowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "17:50",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA5LTE2IDE3OjUwOjAwOzc2NjE4"
-    },
-    {
-        "date": "16.09",
-        "time": "18:05",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 530,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0xNiAxODowNTowMDs3NjU4Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:10",
-        "filmId": "the_odyssey",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzE7MjAyNi0wOS0xNiAxODoxMDowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:20",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 400,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MjcyMjY7MjAyNi0wOS0xNiAxODoyMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:20",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1120,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjk7MjAyNi0wOS0xNiAxODoyMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:30",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Уссури",
-        "cost": 1250,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MzIxODQ7MjAyNi0wOS0xNiAxODozMDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:35",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzA7MjAyNi0wOS0xNiAxODozNTowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:40",
-        "filmId": "soavtory",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1020,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xNiAxODo0MDowMDs3NjcwMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:45",
-        "filmId": "the_uprising",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NzsyMDI2LTA5LTE2IDE4OjQ1OjAwOzc2NzAy"
-    },
-    {
-        "date": "16.09",
-        "time": "18:50",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Иллюзион",
-        "cost": 500,
-        "is3d": true,
-        "buyLink": "NjsxNDE2OTsyMDI2LTA5LTE2IDE4OjUwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "18:50",
-        "filmId": "moana_2026",
-        "theatre": "Уссури",
-        "cost": 490,
-        "is3d": true,
-        "buyLink": "MTE3NTE7MTE3NjQ7MjAyNi0wOS0xNiAxODo1MDowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "18:55",
-        "filmId": "moana_2026",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzI7MjAyNi0wOS0xNiAxODo1NTowMDs3NDgxMQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:00",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "ODsxNjA4NTsyMDI2LTA5LTE2IDE5OjAwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "19:00",
-        "filmId": "green_over_gray_emilio_ambasz",
-        "theatre": "Уссури",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNiAxOTowMDowMDs3NTQ5Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:00",
-        "filmId": "76212",
-        "theatre": "Уссури",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wOS0xNiAxOTowMDowMDs3NjIxMg=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:05",
-        "filmId": "the_runner",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wOS0xNiAxOTowNTowMDs3NjA3Ng=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:05",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Владивосток",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNiAxOTowNTowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:10",
-        "filmId": "coyote_vs_acme",
-        "theatre": "Иллюзион",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "NjsxNDI4OTsyMDI2LTA5LTE2IDE5OjEwOjAwOzc2NTg2"
-    },
-    {
-        "date": "16.09",
-        "time": "19:10",
-        "filmId": "project_hail_mary",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 450,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0xNiAxOToxMDowMDs3MTY0Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:15",
-        "filmId": "insidious_out_of_the_further",
-        "theatre": "Иллюзион",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "NjsxNDI5MDsyMDI2LTA5LTE2IDE5OjE1OjAwOzc2NTg1"
-    },
-    {
-        "date": "16.09",
-        "time": "19:15",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Москва",
-        "cost": 400,
-        "is3d": false,
-        "buyLink": "NTE3Njs5NzAzOzIwMjYtMDktMTYgMTk6MTU6MDA7NzQ2MjM="
-    },
-    {
-        "date": "16.09",
-        "time": "19:30",
-        "filmId": "moi_papa_medved_2",
-        "theatre": "Владивосток",
-        "cost": 900,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzk7MjAyNi0wOS0xNiAxOTozMDowMDs3NjU3MQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:40",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyODM7MjAyNi0wOS0xNiAxOTo0MDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:45",
-        "filmId": "the_odyssey",
-        "theatre": "Иллюзион",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "NjsxMTsyMDI2LTA5LTE2IDE5OjQ1OjAwOzc0NTg3"
-    },
-    {
-        "date": "16.09",
-        "time": "19:50",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Черёмушки",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "MjE3Mjk7MjE3MzM7MjAyNi0wOS0xNiAxOTo1MDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "19:50",
-        "filmId": "ohota_na_imperatora",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 530,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wOS0xNiAxOTo1MDowMDs3NjYxOA=="
-    },
-    {
-        "date": "16.09",
-        "time": "20:10",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": true,
-        "buyLink": "ODsxNjA4NjsyMDI2LTA5LTE2IDIwOjEwOjAwOzc0NjIz"
-    },
-    {
-        "date": "16.09",
-        "time": "20:15",
-        "filmId": "the_odyssey",
-        "theatre": "Уссури",
-        "cost": 1250,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE4NjU7MjAyNi0wOS0xNiAyMDoxNTowMDs3NDU4Nw=="
-    },
-    {
-        "date": "16.09",
-        "time": "20:15",
-        "filmId": "mezhdu_nami_devochkami",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 530,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0xNiAyMDoxNTowMDs3NjYxNA=="
-    },
-    {
-        "date": "16.09",
-        "time": "20:30",
-        "filmId": "hopeu",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 1100,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xNiAyMDozMDowMDs3NjYyMg=="
-    },
-    {
-        "date": "16.09",
-        "time": "20:35",
-        "filmId": "insidious_out_of_the_further",
-        "theatre": "Уссури",
-        "cost": 490,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNiAyMDozNTowMDs3NjU4NQ=="
-    },
-    {
-        "date": "16.09",
-        "time": "20:35",
-        "filmId": "the_odyssey",
-        "theatre": "Океан IMAX",
-        "cost": 200,
-        "is3d": false,
-        "buyLink": "ODsxNjIwNTsyMDI2LTA5LTE2IDIwOjM1OjAwOzc0NTg3"
-    },
-    {
-        "date": "16.09",
-        "time": "20:40",
-        "filmId": "spider_man_brand_new_day",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": true,
-        "buyLink": "MzAyMjQ7MzAyMjY7MjAyNi0wOS0xNiAyMDo0MDowMDs3NDYyMw=="
-    },
-    {
-        "date": "16.09",
-        "time": "20:50",
-        "filmId": "insidious_out_of_the_further",
-        "theatre": "Киномакс-Сапфир",
-        "cost": 670,
-        "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjU7MjAyNi0wOS0xNiAyMDo1MDowMDs3NjU4NQ=="
-    },
-    {
-        "date": "16.09",
         "time": "20:50",
         "filmId": "76212",
         "theatre": "Уссури",
@@ -1883,11 +578,11 @@
     {
         "date": "17.09",
         "time": "11:00",
-        "filmId": "kraj_chudes",
+        "filmId": "moi_papa_medved_2",
         "theatre": "Владивосток",
         "cost": 250,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNyAxMTowMDowMDs3NjYxNw=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNyAxMTowMDowMDs3NjU3MQ=="
     },
     {
         "date": "17.09",
@@ -2315,11 +1010,11 @@
     {
         "date": "17.09",
         "time": "14:55",
-        "filmId": "moi_papa_medved_2",
+        "filmId": "kraj_chudes",
         "theatre": "Владивосток",
-        "cost": 400,
+        "cost": 350,
         "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNyAxNDo1NTowMDs3NjU3MQ=="
+        "buyLink": "MTM4MzY7MTM4Mzg7MjAyNi0wOS0xNyAxNDo1NTowMDs3NjYxNw=="
     },
     {
         "date": "17.09",
@@ -2713,7 +1408,7 @@
         "time": "18:30",
         "filmId": "twilight",
         "theatre": "Уссури",
-        "cost": 490,
+        "cost": 590,
         "is3d": false,
         "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xNyAxODozMDowMDsxMjEyOQ=="
     },
@@ -3487,7 +2182,7 @@
         "time": "10:20",
         "filmId": "kak_ivan_v_skazku__popal",
         "theatre": "Киномакс-Сапфир",
-        "cost": 370,
+        "cost": 390,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0xOCAxMDoyMDowMDs3NjUxMQ=="
     },
@@ -3535,15 +2230,6 @@
         "cost": 840,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAzMjk7MjAyNi0wOS0xOCAxMToyMDowMDs3NjUxMQ=="
-    },
-    {
-        "date": "18.09",
-        "time": "11:30",
-        "filmId": "moana_2026",
-        "theatre": "Владивосток",
-        "cost": 250,
-        "is3d": false,
-        "buyLink": "MTM4MzY7MTM4Mzc7MjAyNi0wOS0xOCAxMTozMDowMDs3NDgxMQ=="
     },
     {
         "date": "18.09",
@@ -3637,6 +2323,15 @@
     },
     {
         "date": "18.09",
+        "time": "12:10",
+        "filmId": "kak_ivan_v_skazku__popal",
+        "theatre": "Уссури",
+        "cost": 330,
+        "is3d": false,
+        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xOCAxMjoxMDowMDs3NjUxMQ=="
+    },
+    {
+        "date": "18.09",
         "time": "12:15",
         "filmId": "moana_2026",
         "theatre": "Океан IMAX",
@@ -3670,15 +2365,6 @@
         "cost": 330,
         "is3d": false,
         "buyLink": "MjE3Mjk7MjE3MzQ7MjAyNi0wOS0xOCAxMjoyMDowMDs3NjU4Ng=="
-    },
-    {
-        "date": "18.09",
-        "time": "12:20",
-        "filmId": "kak_ivan_v_skazku__popal",
-        "theatre": "Уссури",
-        "cost": 330,
-        "is3d": false,
-        "buyLink": "MTE3NTE7MTE3NjU7MjAyNi0wOS0xOCAxMjoyMDowMDs3NjUxMQ=="
     },
     {
         "date": "18.09",
@@ -8227,6 +6913,42 @@
     },
     {
         "date": "24.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "24.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "24.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "24.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAxNjo1NTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "24.09",
         "time": "19:00",
         "filmId": "fall_2_deadpoint",
         "theatre": "Киномакс-Сапфир",
@@ -8235,13 +6957,76 @@
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0yNCAxOTowMDowMDs3NjU0OQ=="
     },
     {
+        "date": "24.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "24.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "24.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNCAyMzo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "25.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "25.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "25.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "25.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAxNjo1NTowMDs3NjU4Nw=="
+    },
+    {
         "date": "25.09",
         "time": "19:00",
         "filmId": "76521",
         "theatre": "Киномакс-Сапфир",
         "cost": 520,
         "is3d": false,
-        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAxOTowMDowMDs3NjUyMQ=="
+        "buyLink": "MzAyMjQ7MzAzMzA7MjAyNi0wOS0yNSAxOTowMDowMDs3NjUyMQ=="
     },
     {
         "date": "25.09",
@@ -8253,6 +7038,69 @@
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0yNSAxOToxMDowMDs3NjU0OQ=="
     },
     {
+        "date": "25.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "25.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "25.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNSAyMzo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "26.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "26.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "26.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "26.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAxNjo1NTowMDs3NjU4Nw=="
+    },
+    {
         "date": "26.09",
         "time": "19:00",
         "filmId": "fall_2_deadpoint",
@@ -8262,6 +7110,69 @@
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0yNiAxOTowMDowMDs3NjU0OQ=="
     },
     {
+        "date": "26.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "26.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "26.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNiAyMzo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "27.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 450,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "27.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "27.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "27.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAxNjo1NTowMDs3NjU4Nw=="
+    },
+    {
         "date": "27.09",
         "time": "19:00",
         "filmId": "fall_2_deadpoint",
@@ -8269,6 +7180,69 @@
         "cost": 600,
         "is3d": false,
         "buyLink": "MzAyMjQ7MzAyMjg7MjAyNi0wOS0yNyAxOTowMDowMDs3NjU0OQ=="
+    },
+    {
+        "date": "27.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "27.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "27.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 600,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yNyAyMzo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "28.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "28.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "28.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "28.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAxNjo1NTowMDs3NjU4Nw=="
     },
     {
         "date": "28.09",
@@ -8289,6 +7263,69 @@
         "buyLink": "MTE3NTE7MTE3NTg7MjAyNi0wOS0yOCAxOTowMDowMDs3NjE2MQ=="
     },
     {
+        "date": "28.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "28.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "28.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOCAyMzo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "29.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "29.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "29.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "29.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAxNjo1NTowMDs3NjU4Nw=="
+    },
+    {
         "date": "29.09",
         "time": "19:00",
         "filmId": "fall_2_deadpoint",
@@ -8307,6 +7344,69 @@
         "buyLink": "ODsxNjA4NzsyMDI2LTA5LTI5IDE5OjAwOjAwOzc2MTY0"
     },
     {
+        "date": "29.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "29.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "29.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0yOSAyMzo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "30.09",
+        "time": "10:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 380,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAxMDoxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "30.09",
+        "time": "12:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 420,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAxMjoyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "30.09",
+        "time": "14:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAxNDo0MDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "30.09",
+        "time": "16:55",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 500,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAxNjo1NTowMDs3NjU4Nw=="
+    },
+    {
         "date": "30.09",
         "time": "19:00",
         "filmId": "avengers_age_of_ultron",
@@ -8323,6 +7423,33 @@
         "cost": 450,
         "is3d": false,
         "buyLink": "NjsxMTsyMDI2LTA5LTMwIDE5OjAwOjAwOzc2NzQz"
+    },
+    {
+        "date": "30.09",
+        "time": "19:10",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAxOToxMDowMDs3NjU4Nw=="
+    },
+    {
+        "date": "30.09",
+        "time": "21:25",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAyMToyNTowMDs3NjU4Nw=="
+    },
+    {
+        "date": "30.09",
+        "time": "23:40",
+        "filmId": "devjataja_planeta",
+        "theatre": "Киномакс-Сапфир",
+        "cost": 550,
+        "is3d": false,
+        "buyLink": "MzAyMjQ7MzAyMjc7MjAyNi0wOS0zMCAyMzo0MDowMDs3NjU4Nw=="
     },
     {
         "date": "07.10",

@@ -1,23 +1,37 @@
 [
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
         "genres": [
-            "мультфильм",
+            "фантастика",
+            "фэнтези",
+            "боевик",
             "приключения"
         ],
-        "length": 85
+        "length": 150
     },
     {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
         "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
             "комедия",
+            "приключения",
             "семейный"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "paw_patrol_dino",
@@ -33,38 +47,25 @@
         "length": 88
     },
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
         "genres": [
             "мультфильм",
-            "фантастика",
             "приключения"
         ],
-        "length": 80
+        "length": 85
     },
     {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
-        "rating": 16,
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
         "genres": [
-            "мелодрама",
+            "фэнтези",
+            "приключения",
             "комедия"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "moana_2026",
@@ -90,49 +91,6 @@
             "история"
         ],
         "length": -1
-    },
-    {
-        "filmId": "the_runner",
-        "name": "Бегущая",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "драма",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
     },
     {
         "filmId": "runner",

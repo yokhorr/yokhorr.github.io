@@ -11,25 +11,15 @@
         "length": -1
     },
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
         "rating": 6,
         "genres": [
-            "комедия",
-            "семейный"
+            "фэнтези",
+            "приключения",
+            "комедия"
         ],
-        "length": 90
+        "length": 110
     },
     {
         "filmId": "kraj_chudes",
@@ -55,13 +45,22 @@
         "length": 100
     },
     {
-        "filmId": "ne_po_detski",
-        "name": "Не по-детски",
+        "filmId": "runner",
+        "name": "Курьер",
         "rating": 16,
         "genres": [
-            "мелодрама",
-            "комедия"
+            "боевик",
+            "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     }
 ]
