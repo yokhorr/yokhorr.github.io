@@ -1,41 +1,13 @@
 [
     {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 16,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
             "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
+            "триллер"
         ],
-        "length": 115
-    },
-    {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 88
+        "length": 95
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -50,48 +22,25 @@
         "length": 150
     },
     {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "twilight",
+        "name": "Сумерки",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "мелодрама",
+            "мистика"
         ],
-        "length": 170
+        "length": 122
+    },
+    {
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "coyote_vs_acme",
@@ -107,69 +56,6 @@
         "length": 100
     },
     {
-        "filmId": "luntik_obratnaja_storona_luny",
-        "name": "Лунтик. Обратная сторона Луны",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "moi_papa_medved_2",
-        "name": "Мой папа – медведь 2",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "poslednij_bogatyr_kolobok",
-        "name": "Последний богатырь. Колобок",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "smeshariki_skvoz_vselennye",
-        "name": "Смешарики сквозь вселенные",
-        "rating": 6,
-        "genres": [
-            "фантастика",
-            "комедия",
-            "приключения"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "onslaught",
         "name": "Натиск",
         "rating": 18,
@@ -182,37 +68,18 @@
         "length": 90
     },
     {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "фэнтези",
+            "боевик",
+            "приключения"
         ],
-        "length": 110
+        "length": 170
     },
     {
-        "filmId": "76413",
-        "name": "Givenchy: история элегантности — Лекция Ярослава Михеева",
-        "rating": 16,
-        "genres": [
-            "лекция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "33643",
+        "filmId": "dune_part_one",
         "name": "Дюна: Часть первая",
         "rating": 12,
         "genres": [
@@ -249,6 +116,142 @@
             "ужасы"
         ],
         "length": 122
+    },
+    {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
+            "боевик",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "luntik_obratnaja_storona_luny",
+        "name": "Лунтик. Обратная сторона Луны",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "poslednij_bogatyr_kolobok",
+        "name": "Последний богатырь. Колобок",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "smeshariki_skvoz_vselennye",
+        "name": "Смешарики сквозь вселенные",
+        "rating": 6,
+        "genres": [
+            "фантастика",
+            "комедия",
+            "приключения"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "moi_papa_medved_2",
+        "name": "Мой папа – медведь 2",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "practical_magic_2",
+        "name": "Практическая магия 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 130
     },
     {
         "filmId": "the_general",

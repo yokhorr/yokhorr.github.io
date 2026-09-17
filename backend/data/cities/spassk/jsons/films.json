@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -9,16 +18,6 @@
             "комедия"
         ],
         "length": 110
-    },
-    {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
     },
     {
         "filmId": "ohota_na_imperatora",
@@ -32,17 +31,14 @@
         "length": -1
     },
     {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
         "genres": [
             "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
+            "приключения"
         ],
-        "length": 100
+        "length": 85
     },
     {
         "filmId": "runner",
@@ -55,12 +51,16 @@
         "length": 95
     },
     {
-        "filmId": "khang_ban",
-        "name": "Дом мертвых",
-        "rating": 18,
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 122
+        "length": 100
     }
 ]

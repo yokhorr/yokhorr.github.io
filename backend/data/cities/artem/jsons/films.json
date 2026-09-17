@@ -1,16 +1,24 @@
 [
     {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
+        "filmId": "onslaught",
+        "name": "Натиск",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер"
         ],
-        "length": 88
+        "length": 90
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "kak_ivan_v_skazku__popal",
@@ -24,6 +32,19 @@
         "length": 110
     },
     {
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
+        ],
+        "length": 88
+    },
+    {
         "filmId": "luntik_obratnaja_storona_luny",
         "name": "Лунтик. Обратная сторона Луны",
         "rating": 0,
@@ -33,19 +54,6 @@
             "приключения"
         ],
         "length": 80
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -79,24 +87,16 @@
         "length": 95
     },
     {
-        "filmId": "onslaught",
-        "name": "Натиск",
-        "rating": 18,
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
         "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер"
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
+        "length": 100
     }
 ]
