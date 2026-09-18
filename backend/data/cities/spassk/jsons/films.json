@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "coyote_vs_acme",
         "name": "Хитрый койот",
         "rating": 12,
@@ -11,16 +21,6 @@
             "семейный"
         ],
         "length": 100
-    },
-    {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
     },
     {
         "filmId": "kak_ivan_v_skazku__popal",
