@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -11,51 +20,23 @@
         "length": 110
     },
     {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
-        "rating": 0,
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "mayday",
-        "name": "МэйДэй",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "комедия",
-            "приключения"
+            "ужасы"
         ],
         "length": 110
     },
     {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
         "genres": [
-            "мюзикл",
-            "фэнтези",
             "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
+            "триллер"
         ],
-        "length": 115
+        "length": 95
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -81,24 +62,16 @@
         "length": 99
     },
     {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
-        "rating": 18,
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "rating": 0,
         "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
+            "мультфильм",
             "приключения",
-            "история"
+            "комедия",
+            "фэнтези"
         ],
-        "length": -1
+        "length": 50
     },
     {
         "filmId": "paw_patrol_dino",
@@ -114,24 +87,25 @@
         "length": 88
     },
     {
-        "filmId": "runner",
-        "name": "Курьер",
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "mayday",
+        "name": "МэйДэй",
         "rating": 16,
         "genres": [
             "боевик",
-            "триллер"
+            "комедия",
+            "приключения"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
+        "length": 110
     },
     {
         "filmId": "coyote_vs_acme",
@@ -147,25 +121,27 @@
         "length": 100
     },
     {
-        "filmId": "onslaught",
-        "name": "Натиск",
-        "rating": 18,
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "фантастика",
+            "мюзикл",
+            "фэнтези",
             "боевик",
-            "триллер"
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 90
+        "length": 115
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
+        "filmId": "mezhdu_nami_devochkami",
+        "name": "Между нами, девочками",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "комедия"
         ],
-        "length": 105
+        "length": 85
     },
     {
         "filmId": "the_odyssey",
@@ -179,6 +155,39 @@
         "length": 170
     },
     {
+        "filmId": "ohota_na_imperatora",
+        "name": "Охота на Императора",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "приключения",
+            "история"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "onslaught",
+        "name": "Натиск",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "poslednij_bogatyr_kolobok",
         "name": "Последний богатырь. Колобок",
         "rating": 6,
@@ -186,15 +195,6 @@
             "комедия",
             "фэнтези",
             "приключения"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
-        "rating": 18,
-        "genres": [
-            "ужасы"
         ],
         "length": 110
     },

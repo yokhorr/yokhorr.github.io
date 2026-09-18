@@ -1,14 +1,24 @@
 [
     {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
+        "filmId": "onslaught",
+        "name": "Натиск",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер"
         ],
-        "length": 110
+        "length": 90
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "paw_patrol_dino",
@@ -24,6 +34,17 @@
         "length": 88
     },
     {
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "luntik_obratnaja_storona_luny",
         "name": "Лунтик. Обратная сторона Луны",
         "rating": 0,
@@ -33,6 +54,19 @@
             "приключения"
         ],
         "length": 80
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -58,7 +92,7 @@
     {
         "filmId": "runner",
         "name": "Курьер",
-        "rating": 16,
+        "rating": 18,
         "genres": [
             "боевик",
             "триллер"
@@ -66,37 +100,17 @@
         "length": 95
     },
     {
-        "filmId": "onslaught",
-        "name": "Натиск",
-        "rating": 18,
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
+            "мюзикл",
             "фэнтези",
+            "боевик",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 100
+        "length": 115
     }
 ]
