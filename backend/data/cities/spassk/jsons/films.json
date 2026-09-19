@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "khang_ban",
-        "name": "Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "kraj_chudes",
         "name": "Край чудес",
         "rating": 6,
@@ -49,6 +30,25 @@
             "комедия"
         ],
         "length": 110
+    },
+    {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
     },
     {
         "filmId": "coyote_vs_acme",

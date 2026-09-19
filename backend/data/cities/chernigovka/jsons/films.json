@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "hopeu",
-        "name": "Надежда",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 155
-    },
-    {
         "filmId": "kraj_chudes",
         "name": "Край чудес",
         "rating": 6,
@@ -63,5 +53,15 @@
             "мистика"
         ],
         "length": 122
+    },
+    {
+        "filmId": "hopeu",
+        "name": "Надежда",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 155
     }
 ]
