@@ -1,5 +1,38 @@
 [
     {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "комедия"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "kraj_chudes",
         "name": "Край чудес",
         "rating": 6,
@@ -21,17 +54,6 @@
         "length": -1
     },
     {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "runner",
         "name": "Курьер",
         "rating": 18,
@@ -40,27 +62,5 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "khang_ban",
-        "name": "Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
     }
 ]
