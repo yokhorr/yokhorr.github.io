@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "paw_patrol_dino",
         "name": "Щенячий патруль: Динофильм",
         "rating": 6,
@@ -92,12 +101,33 @@
         "length": 90
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "мелодрама",
+            "мистика"
         ],
-        "length": 105
+        "length": 122
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": -1
     }
 ]

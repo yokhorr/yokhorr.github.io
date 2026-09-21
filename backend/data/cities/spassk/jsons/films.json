@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -11,16 +20,6 @@
         "length": 110
     },
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "ohota_na_imperatora",
         "name": "Охота на Императора",
         "rating": 16,
@@ -30,6 +29,16 @@
             "история"
         ],
         "length": -1
+    },
+    {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
     },
     {
         "filmId": "runner",
@@ -53,14 +62,5 @@
             "семейный"
         ],
         "length": 100
-    },
-    {
-        "filmId": "khang_ban",
-        "name": "Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
     }
 ]
