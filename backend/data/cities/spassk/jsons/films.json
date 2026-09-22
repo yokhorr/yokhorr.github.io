@@ -1,5 +1,18 @@
 [
     {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -11,6 +24,16 @@
         "length": 110
     },
     {
+        "filmId": "kraj_chudes",
+        "name": "Край чудес",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "ohota_na_imperatora",
         "name": "Охота на Императора",
         "rating": 16,
@@ -20,16 +43,6 @@
             "история"
         ],
         "length": -1
-    },
-    {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
     },
     {
         "filmId": "runner",
@@ -51,16 +64,35 @@
         "length": 122
     },
     {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
+        "filmId": "kapitan_nevelskoj",
+        "name": "Капитан Невельской и земли Чёрного дракона",
         "rating": 12,
         "genres": [
             "мультфильм",
-            "фэнтези",
-            "комедия",
             "приключения",
-            "семейный"
+            "семейный",
+            "фэнтези"
         ],
-        "length": 100
+        "length": 90
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": -1
     }
 ]
