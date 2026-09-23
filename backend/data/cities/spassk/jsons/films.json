@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "khang_ban",
+        "name": "Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -9,59 +18,6 @@
             "комедия"
         ],
         "length": 110
-    },
-    {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "khang_ban",
-        "name": "Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
     },
     {
         "filmId": "kapitan_nevelskoj",
@@ -84,6 +40,16 @@
             "боевик"
         ],
         "length": -1
+    },
+    {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "fall_2_deadpoint",

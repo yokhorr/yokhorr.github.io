@@ -11,6 +11,57 @@
         "length": 110
     },
     {
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_end_of_oak_street",
+        "name": "На краю Оук-стрит",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "приключения"
+        ],
+        "length": 99
+    },
+    {
         "filmId": "76588",
         "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
         "rating": 0,
@@ -21,6 +72,16 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": -1
     },
     {
         "filmId": "paw_patrol_dino",
@@ -36,36 +97,37 @@
         "length": 88
     },
     {
-        "filmId": "the_end_of_oak_street",
-        "name": "На краю Оук-стрит",
-        "rating": 12,
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
+            "триллер",
+            "драма"
         ],
-        "length": 99
+        "length": -1
     },
     {
-        "filmId": "kraj_chudes",
-        "name": "Край чудес",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "mayday",
-        "name": "МэйДэй",
+        "filmId": "romanovy_predannost",
+        "name": "Романовы: Преданность и предательство",
         "rating": 16,
         "genres": [
-            "боевик",
-            "комедия",
-            "приключения"
+            "драма",
+            "история",
+            "биография"
         ],
-        "length": 110
+        "length": 122
+    },
+    {
+        "filmId": "kapitan_nevelskoj",
+        "name": "Капитан Невельской и земли Чёрного дракона",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фэнтези"
+        ],
+        "length": 90
     },
     {
         "filmId": "moana_2026",
@@ -82,36 +144,6 @@
         "length": 115
     },
     {
-        "filmId": "mezhdu_nami_devochkami",
-        "name": "Между нами, девочками",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ohota_na_imperatora",
-        "name": "Охота на Императора",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "приключения",
-            "история"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "coyote_vs_acme",
         "name": "Хитрый койот",
         "rating": 12,
@@ -123,16 +155,6 @@
             "семейный"
         ],
         "length": 100
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
     },
     {
         "filmId": "onslaught",
@@ -147,16 +169,15 @@
         "length": 90
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
+        "filmId": "mayday",
+        "name": "МэйДэй",
+        "rating": 16,
         "genres": [
-            "фантастика",
-            "фэнтези",
             "боевик",
+            "комедия",
             "приключения"
         ],
-        "length": 150
+        "length": 110
     },
     {
         "filmId": "the_odyssey",
@@ -170,52 +191,13 @@
         "length": 170
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
+        "filmId": "twilight",
+        "name": "Сумерки",
         "rating": 18,
         "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "история",
-            "биография"
+            "мелодрама",
+            "мистика"
         ],
         "length": 122
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": -1
     }
 ]
