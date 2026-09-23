@@ -1,13 +1,16 @@
 [
     {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
         "genres": [
-            "мелодрама",
-            "мистика"
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
         ],
-        "length": 122
+        "length": 88
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -20,114 +23,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "practical_magic_2",
-        "name": "Практическая магия 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "onslaught",
-        "name": "Натиск",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "dune_part_one",
-        "name": "Дюна: Часть первая",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "драма",
-            "приключения"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "hopeu",
-        "name": "Надежда",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "khang_ban",
-        "name": "Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 88
     },
     {
         "filmId": "fall_2_deadpoint",
@@ -148,6 +43,17 @@
             "боевик"
         ],
         "length": -1
+    },
+    {
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "romanovy_predannost",
@@ -195,6 +101,17 @@
         "length": 110
     },
     {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
         "filmId": "coyote_vs_acme",
         "name": "Хитрый койот",
         "rating": 12,
@@ -222,6 +139,28 @@
         "length": 115
     },
     {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "practical_magic_2",
+        "name": "Практическая магия 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -230,6 +169,28 @@
             "приключения",
             "комедия",
             "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "onslaught",
+        "name": "Натиск",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик",
+            "триллер"
         ],
         "length": 90
     },
@@ -252,6 +213,26 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "dune_part_one",
+        "name": "Дюна: Часть первая",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "драма",
+            "приключения"
+        ],
+        "length": 155
     },
     {
         "filmId": "77004",
