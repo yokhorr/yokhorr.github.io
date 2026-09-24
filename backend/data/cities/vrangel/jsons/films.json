@@ -1,63 +1,16 @@
 [
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
+        "filmId": "paw_patrol_dino",
+        "name": "Щенячий патруль: Динофильм",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "драма"
+            "мультфильм",
+            "детский",
+            "комедия",
+            "приключения",
+            "фантастика"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "dune_part_one",
-        "name": "Дюна: Часть первая",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "драма",
-            "приключения"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "the_florist",
-        "name": "Флорист",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
+        "length": 88
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -72,61 +25,24 @@
         "length": 150
     },
     {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
         "rating": 18,
         "genres": [
-            "боевик",
-            "триллер"
+            "триллер",
+            "драма"
         ],
-        "length": 95
+        "length": -1
     },
     {
-        "filmId": "practical_magic_2",
-        "name": "Практическая магия 2",
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
         "rating": 16,
         "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
+            "фантастика",
+            "боевик"
         ],
-        "length": 130
-    },
-    {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "paw_patrol_dino",
-        "name": "Щенячий патруль: Динофильм",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "комедия",
-            "приключения",
-            "фантастика"
-        ],
-        "length": 88
+        "length": -1
     },
     {
         "filmId": "kak_ivan_v_skazku__popal",
@@ -196,6 +112,19 @@
         "length": 170
     },
     {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -210,6 +139,28 @@
         "length": 115
     },
     {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "practical_magic_2",
+        "name": "Практическая магия 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -220,6 +171,16 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
     },
     {
         "filmId": "onslaught",
@@ -250,6 +211,56 @@
         "rating": 18,
         "genres": [
             "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "50368",
+        "name": "Проект «Номинанты Оскара»: Дюна: Часть вторая",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 165
+    },
+    {
+        "filmId": "dune_part_one",
+        "name": "Дюна: Часть первая",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "драма",
+            "приключения"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "the_florist",
+        "name": "Флорист",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 110
     },
@@ -388,5 +399,14 @@
             "приключения"
         ],
         "length": 181
+    },
+    {
+        "filmId": "el_ser_querido",
+        "name": "Любовь моя",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 135
     }
 ]
