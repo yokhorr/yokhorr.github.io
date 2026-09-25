@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "devjataja_planeta",
         "name": "Девятая планета",
         "rating": 16,
@@ -65,6 +46,16 @@
         "length": 150
     },
     {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "fall_2_deadpoint",
         "name": "Вышка 2",
         "rating": 18,
@@ -82,5 +73,14 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]
