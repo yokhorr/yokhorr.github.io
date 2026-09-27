@@ -1,17 +1,136 @@
 [
     {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
+        "filmId": "dune_part_one",
+        "name": "Дюна: Часть первая",
+        "rating": 12,
         "genres": [
-            "мюзикл",
+            "фантастика",
+            "драма",
+            "приключения"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_florist",
+        "name": "Флорист",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
             "фэнтези",
             "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 115
+        "length": 100
+    },
+    {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "42488",
+        "name": "Вышка",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 107
+    },
+    {
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "комедия"
+        ],
+        "length": 110
     },
     {
         "filmId": "paw_patrol_dino",
@@ -27,58 +146,6 @@
         "length": 88
     },
     {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "karigurashi_no_arietti",
         "name": "Ариэтти из страны лилипутов",
         "rating": 6,
@@ -88,6 +155,17 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "romanovy_predannost",
+        "name": "Романовы: Преданность и предательство",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "история",
+            "биография"
+        ],
+        "length": 122
     },
     {
         "filmId": "kapitan_nevelskoj",
@@ -135,60 +213,18 @@
         "length": 170
     },
     {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
         "genres": [
-            "мультфильм",
+            "мюзикл",
             "фэнтези",
+            "боевик",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "история",
-            "биография"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "practical_magic_2",
-        "name": "Практическая магия 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 130
+        "length": 115
     },
     {
         "filmId": "minions_and_monsters",
@@ -201,6 +237,18 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "practical_magic_2",
+        "name": "Практическая магия 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 130
     },
     {
         "filmId": "onslaught",
@@ -224,13 +272,15 @@
         "length": 110
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
+        "filmId": "l_ours",
+        "name": "Киноклуб: Медведь",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "драма",
+            "приключения",
+            "семейный"
         ],
-        "length": 105
+        "length": 95
     },
     {
         "filmId": "dune_part_two",
@@ -242,56 +292,6 @@
             "драма"
         ],
         "length": 165
-    },
-    {
-        "filmId": "dune_part_one",
-        "name": "Дюна: Часть первая",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "драма",
-            "приключения"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "the_florist",
-        "name": "Флорист",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "42488",
-        "name": "Вышка",
-        "rating": 18,
-        "genres": [
-            "триллер"
-        ],
-        "length": 107
-    },
-    {
-        "filmId": "l_ours",
-        "name": "Киноклуб: Медведь",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "приключения",
-            "семейный"
-        ],
-        "length": 95
     },
     {
         "filmId": "ravel_by_cherkaoui_verbruggen",
