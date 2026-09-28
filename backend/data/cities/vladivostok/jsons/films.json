@@ -1,5 +1,75 @@
 [
     {
+        "filmId": "si_wang_zhi_wo",
+        "name": "Пункт назначения. Рука смерти",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "coyote_vs_acme",
+        "name": "Хитрый койот",
+        "rating": 12,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "devjataja_planeta",
         "name": "Девятая планета",
         "rating": 16,
@@ -34,16 +104,6 @@
         "length": 88
     },
     {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -54,15 +114,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "karigurashi_no_arietti",
@@ -132,29 +183,6 @@
         "length": 170
     },
     {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -167,16 +195,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
     },
     {
         "filmId": "minions_and_monsters",
@@ -224,24 +242,14 @@
         "length": 110
     },
     {
-        "filmId": "l_ours",
-        "name": "Киноклуб: Медведь",
-        "rating": 12,
+        "filmId": "ravel_by_cherkaoui_verbruggen",
+        "name": "Равель: балеты Шеркауи и Вербрюггена",
+        "rating": 16,
         "genres": [
-            "драма",
-            "приключения",
-            "семейный"
+            "балет",
+            "спектакль"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
+        "length": 80
     },
     {
         "filmId": "dune_part_two",
@@ -276,25 +284,6 @@
         "length": 100
     },
     {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "ravel_by_cherkaoui_verbruggen",
-        "name": "Равель: балеты Шеркауи и Вербрюггена",
-        "rating": 16,
-        "genres": [
-            "балет",
-            "спектакль"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "avengers_age_of_ultron",
         "name": "Мстители: Эра Альтрона",
         "rating": 12,
@@ -314,6 +303,17 @@
         "length": 122
     },
     {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "carevna_nesmejana",
         "name": "Царевна Несмеяна",
         "rating": 6,
@@ -325,6 +325,39 @@
         "length": -1
     },
     {
+        "filmId": "osobyj_pacient",
+        "name": "Особый пациент",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "триллер",
+            "военный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "bez_ogljadki",
+        "name": "Без оглядки",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "77237",
+        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "77143",
         "name": "СКА — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2026/2027)",
         "rating": 6,
@@ -332,6 +365,16 @@
             "прямая трансляция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "currentzis_carmen",
+        "name": "Курентзис: Кармен",
+        "rating": 18,
+        "genres": [
+            "фильм-спектакль",
+            "опера"
+        ],
+        "length": 183
     },
     {
         "filmId": "avengers_infinity_war",
@@ -378,6 +421,16 @@
             "драма"
         ],
         "length": 140
+    },
+    {
+        "filmId": "john_neumeier_ghost_light",
+        "name": "Ноймайер: Призрачный свет",
+        "rating": 18,
+        "genres": [
+            "фильм-спектакль",
+            "балет"
+        ],
+        "length": 110
     },
     {
         "filmId": "avengers_endgame",
