@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -58,22 +77,56 @@
         "length": 122
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "драма"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
         "length": -1
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 105
+        "length": 90
+    },
+    {
+        "filmId": "avengers_endgame_encore",
+        "name": "Мстители: Финал — Расширенная версия",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     }
 ]

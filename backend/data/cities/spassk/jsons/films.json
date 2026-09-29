@@ -1,15 +1,13 @@
 [
     {
-        "filmId": "kapitan_nevelskoj",
-        "name": "Капитан Невельской и земли Чёрного дракона",
-        "rating": 12,
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный",
-            "фэнтези"
+            "фантастика",
+            "боевик"
         ],
-        "length": 90
+        "length": -1
     },
     {
         "filmId": "kak_ivan_v_skazku__popal",
@@ -23,24 +21,16 @@
         "length": 110
     },
     {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
+        "filmId": "kapitan_nevelskoj",
+        "name": "Капитан Невельской и земли Чёрного дракона",
+        "rating": 12,
         "genres": [
-            "боевик",
-            "триллер"
+            "мультфильм",
+            "приключения",
+            "семейный",
+            "фэнтези"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "fall_2_deadpoint",
@@ -51,5 +41,15 @@
             "драма"
         ],
         "length": -1
+    },
+    {
+        "filmId": "runner",
+        "name": "Курьер",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер"
+        ],
+        "length": 95
     }
 ]
