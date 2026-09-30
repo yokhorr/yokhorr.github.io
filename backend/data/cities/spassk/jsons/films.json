@@ -11,16 +11,15 @@
         "length": 110
     },
     {
-        "filmId": "kapitan_nevelskoj",
-        "name": "Капитан Невельской и земли Чёрного дракона",
-        "rating": 12,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
             "мультфильм",
             "приключения",
-            "семейный",
-            "фэнтези"
+            "семейный"
         ],
-        "length": 90
+        "length": 75
     },
     {
         "filmId": "devjataja_planeta",
@@ -30,7 +29,28 @@
             "фантастика",
             "боевик"
         ],
-        "length": -1
+        "length": 105
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "fall_2_deadpoint",
@@ -40,16 +60,6 @@
             "триллер",
             "драма"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
+        "length": 100
     }
 ]

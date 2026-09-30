@@ -1,5 +1,35 @@
 [
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "76588",
         "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
         "rating": 0,
@@ -12,25 +42,15 @@
         "length": 50
     },
     {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
         "genres": [
-            "фэнтези",
+            "мультфильм",
             "приключения",
-            "комедия"
+            "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": -1
+        "length": 75
     },
     {
         "filmId": "paw_patrol_dino",
@@ -46,36 +66,15 @@
         "length": 88
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "драма"
+            "фэнтези",
+            "приключения",
+            "комедия"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "the_end_of_oak_street",
-        "name": "На краю Оук-стрит",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "приключения"
-        ],
-        "length": 99
-    },
-    {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "история",
-            "биография"
-        ],
-        "length": 122
+        "length": 110
     },
     {
         "filmId": "kapitan_nevelskoj",
@@ -86,55 +85,6 @@
             "приключения",
             "семейный",
             "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "moana_2026",
-        "name": "Моана",
-        "rating": 6,
-        "genres": [
-            "мюзикл",
-            "фэнтези",
-            "боевик",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "coyote_vs_acme",
-        "name": "Хитрый койот",
-        "rating": 12,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "runner",
-        "name": "Курьер",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "onslaught",
-        "name": "Натиск",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик",
-            "триллер"
         ],
         "length": 90
     },
@@ -151,15 +101,70 @@
         "length": 150
     },
     {
-        "filmId": "mayday",
-        "name": "МэйДэй",
+        "filmId": "77280",
+        "name": "Унабомбер",
         "rating": 16,
         "genres": [
+            "триллер",
+            "детектив",
+            "криминал",
+            "биография"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "moana_2026",
+        "name": "Моана",
+        "rating": 6,
+        "genres": [
+            "мюзикл",
+            "фэнтези",
             "боевик",
             "комедия",
-            "приключения"
+            "приключения",
+            "семейный"
         ],
-        "length": 110
+        "length": 115
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "romanovy_predannost",
+        "name": "Романовы: Преданность и предательство",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "история",
+            "биография"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_odyssey",
@@ -173,21 +178,48 @@
         "length": 170
     },
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
+        "filmId": "osobyj_pacient",
+        "name": "Особый пациент",
+        "rating": 16,
         "genres": [
-            "ужасы"
+            "драма",
+            "триллер",
+            "военный"
         ],
-        "length": 105
+        "length": 100
     },
     {
-        "filmId": "si_wang_zhi_wo",
-        "name": "Пункт назначения. Рука смерти",
+        "filmId": "avengers_endgame_encore",
+        "name": "Мстители: Финал — Расширенная версия",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "77237",
+        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "мелодрама",
+            "мистика"
         ],
-        "length": 110
+        "length": 122
     }
 ]
