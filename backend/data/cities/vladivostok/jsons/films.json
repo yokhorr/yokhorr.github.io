@@ -1,14 +1,34 @@
 [
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
+            "фантастика",
+            "боевик"
         ],
-        "length": 75
+        "length": 105
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "resident_evil",
@@ -20,14 +40,44 @@
         "length": 90
     },
     {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик"
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 75
     },
     {
         "filmId": "carevna_nesmejana",
@@ -123,26 +173,6 @@
         "length": 115
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "bez_ogljadki",
         "name": "Без оглядки",
         "rating": 18,
@@ -165,36 +195,6 @@
         "length": 90
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "charlie_harper",
-        "name": "Чарли и Харпер",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "avengers_endgame_encore",
         "name": "Мстители: Финал — Расширенная версия",
         "rating": 16,
@@ -207,14 +207,14 @@
         "length": 183
     },
     {
-        "filmId": "crawlers",
-        "name": "Арахнид",
+        "filmId": "charlie_harper",
+        "name": "Чарли и Харпер",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "триллер"
+            "мелодрама",
+            "комедия"
         ],
-        "length": 85
+        "length": 100
     },
     {
         "filmId": "dune_part_two",
@@ -249,6 +249,18 @@
             "фэнтези"
         ],
         "length": 50
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
     },
     {
         "filmId": "77143",
@@ -333,6 +345,16 @@
             "балет"
         ],
         "length": 110
+    },
+    {
+        "filmId": "hako_no_naka_no_hitsuji",
+        "name": "Барашек в ящике",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 125
     },
     {
         "filmId": "avengers_endgame",
