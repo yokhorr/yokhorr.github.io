@@ -1,13 +1,14 @@
 [
     {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "триллер"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": 85
+        "length": 75
     },
     {
         "filmId": "resident_evil",
@@ -19,26 +20,6 @@
         "length": 90
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "devjataja_planeta",
         "name": "Девятая планета",
         "rating": 16,
@@ -47,26 +28,6 @@
             "боевик"
         ],
         "length": 105
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
     },
     {
         "filmId": "carevna_nesmejana",
@@ -162,6 +123,26 @@
         "length": 115
     },
     {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "bez_ogljadki",
         "name": "Без оглядки",
         "rating": 18,
@@ -195,6 +176,15 @@
         "length": 170
     },
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "avengers_endgame_encore",
         "name": "Мстители: Финал — Расширенная версия",
         "rating": 16,
@@ -215,6 +205,16 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "dune_part_two",
