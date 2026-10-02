@@ -1,5 +1,35 @@
 [
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "77280",
+        "name": "Унабомбер",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "детектив",
+            "криминал",
+            "биография"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "carevna_nesmejana",
         "name": "Царевна Несмеяна",
         "rating": 6,
@@ -11,8 +41,8 @@
         "length": 95
     },
     {
-        "filmId": "76588",
-        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "filmId": "77237",
+        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
         "rating": 0,
         "genres": [
             "мультфильм",
@@ -42,6 +72,18 @@
             "семейный"
         ],
         "length": 75
+    },
+    {
+        "filmId": "76588",
+        "name": "МУЛЬТ в кино. Выпуск №199. Сказочный патруль. Дорога домой",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "paw_patrol_dino",
@@ -92,16 +134,26 @@
         "length": 150
     },
     {
-        "filmId": "77280",
-        "name": "Унабомбер",
+        "filmId": "osobyj_pacient",
+        "name": "Особый пациент",
         "rating": 16,
         "genres": [
+            "драма",
             "триллер",
-            "детектив",
-            "криминал",
-            "биография"
+            "военный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "moana_2026",
@@ -116,15 +168,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "romanovy_predannost",
@@ -158,26 +201,14 @@
         "length": 100
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
+        "filmId": "twilight",
+        "name": "Сумерки",
         "rating": 18,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "мелодрама",
+            "мистика"
         ],
-        "length": 170
-    },
-    {
-        "filmId": "osobyj_pacient",
-        "name": "Особый пациент",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "триллер",
-            "военный"
-        ],
-        "length": 100
+        "length": 122
     },
     {
         "filmId": "avengers_endgame_encore",
@@ -189,37 +220,6 @@
             "боевик",
             "приключения"
         ],
-        "length": 183
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "77237",
-        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
+        "length": 186
     }
 ]

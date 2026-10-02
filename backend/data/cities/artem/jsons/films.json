@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -43,13 +53,15 @@
         "length": 105
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
+        "filmId": "osobyj_pacient",
+        "name": "Особый пациент",
+        "rating": 16,
         "genres": [
-            "ужасы"
+            "драма",
+            "триллер",
+            "военный"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "avengers_endgame_encore",
@@ -61,7 +73,16 @@
             "боевик",
             "приключения"
         ],
-        "length": 183
+        "length": 186
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "fall_2_deadpoint",
@@ -72,15 +93,5 @@
             "драма"
         ],
         "length": 100
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
     }
 ]
