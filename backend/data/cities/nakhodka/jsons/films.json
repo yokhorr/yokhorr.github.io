@@ -1,66 +1,5 @@
 [
     {
-        "filmId": "osobyj_pacient",
-        "name": "Особый пациент",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "триллер",
-            "военный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "77280",
-        "name": "Унабомбер",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "детектив",
-            "криминал",
-            "биография"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "carevna_nesmejana",
         "name": "Царевна Несмеяна",
         "rating": 6,
@@ -165,6 +104,29 @@
         "length": 150
     },
     {
+        "filmId": "osobyj_pacient",
+        "name": "Особый пациент",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "триллер",
+            "военный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "77280",
+        "name": "Унабомбер",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "детектив",
+            "криминал",
+            "биография"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -190,6 +152,15 @@
         "length": 115
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "romanovy_predannost",
         "name": "Романовы: Преданность и предательство",
         "rating": 18,
@@ -199,6 +170,26 @@
             "биография"
         ],
         "length": 122
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "twilight",
@@ -221,5 +212,14 @@
             "приключения"
         ],
         "length": 186
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]

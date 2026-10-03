@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -73,6 +63,16 @@
             "триллер",
             "драма",
             "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
         ],
         "length": 100
     }

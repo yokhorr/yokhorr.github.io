@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -51,6 +31,26 @@
             "семейный"
         ],
         "length": 95
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "crawlers",
