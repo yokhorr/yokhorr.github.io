@@ -1,14 +1,14 @@
 [
     {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 18,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
-            "драма",
-            "история",
-            "биография"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": 122
+        "length": 75
     },
     {
         "filmId": "kak_ivan_v_skazku__popal",
@@ -22,23 +22,13 @@
         "length": 110
     },
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
+        "filmId": "romanovy_predannost",
+        "name": "Романовы: Преданность и предательство",
         "rating": 18,
         "genres": [
-            "мелодрама",
-            "мистика"
+            "драма",
+            "история",
+            "биография"
         ],
         "length": 122
     },
@@ -62,15 +52,5 @@
             "боевик"
         ],
         "length": 105
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
     }
 ]
