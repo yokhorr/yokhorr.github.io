@@ -1,35 +1,5 @@
 [
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "77280",
-        "name": "Унабомбер",
-        "rating": 16,
-        "genres": [
-            "триллер",
-            "детектив",
-            "криминал",
-            "биография"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "carevna_nesmejana",
         "name": "Царевна Несмеяна",
         "rating": 6,
@@ -134,6 +104,18 @@
         "length": 150
     },
     {
+        "filmId": "77280",
+        "name": "Унабомбер",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "детектив",
+            "криминал",
+            "биография"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -146,6 +128,15 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "romanovy_predannost",
@@ -211,5 +202,14 @@
             "приключения"
         ],
         "length": 186
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]

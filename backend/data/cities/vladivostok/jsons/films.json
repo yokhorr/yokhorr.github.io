@@ -1,77 +1,14 @@
 [
     {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "триллер"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": 85
-    },
-    {
-        "filmId": "bez_ogljadki",
-        "name": "Без оглядки",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "osobyj_pacient",
-        "name": "Особый пациент",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "триллер",
-            "военный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
+        "length": 75
     },
     {
         "filmId": "resident_evil",
@@ -83,46 +20,14 @@
         "length": 90
     },
     {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
         "rating": 16,
         "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
+            "фантастика",
+            "боевик"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
+        "length": 105
     },
     {
         "filmId": "carevna_nesmejana",
@@ -193,6 +98,16 @@
         "length": 90
     },
     {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -207,6 +122,28 @@
         "length": 115
     },
     {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -217,6 +154,38 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "bez_ogljadki",
+        "name": "Без оглядки",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "osobyj_pacient",
+        "name": "Особый пациент",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "триллер",
+            "военный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "avengers_endgame_encore",
@@ -231,6 +200,27 @@
         "length": 186
     },
     {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "dune_part_two",
         "name": "Дюна: Часть вторая",
         "rating": 12,
@@ -240,6 +230,16 @@
             "драма"
         ],
         "length": 165
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "dune_part_one",
