@@ -11,17 +11,6 @@
         "length": 95
     },
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -33,14 +22,15 @@
         "length": 110
     },
     {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "триллер"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": 85
+        "length": 75
     },
     {
         "filmId": "devjataja_planeta",
@@ -51,6 +41,16 @@
             "боевик"
         ],
         "length": 105
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "fall_2_deadpoint",
