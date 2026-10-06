@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "crawlers",
         "name": "Арахнид",
         "rating": 18,
@@ -17,15 +8,6 @@
             "триллер"
         ],
         "length": 85
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
     },
     {
         "filmId": "fall_2_deadpoint",
@@ -38,6 +20,25 @@
         "length": 100
     },
     {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "devjataja_planeta",
         "name": "Девятая планета",
         "rating": 16,
@@ -46,6 +47,15 @@
             "боевик"
         ],
         "length": 105
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "heart_of_the_beast",
@@ -60,15 +70,15 @@
         "length": 100
     },
     {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
+        "filmId": "romanovy_predannost",
+        "name": "Романовы: Преданность и предательство",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
+            "драма",
+            "история",
+            "биография"
         ],
-        "length": 110
+        "length": 122
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -93,15 +103,15 @@
         "length": 95
     },
     {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 18,
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
         "genres": [
-            "драма",
-            "история",
-            "биография"
+            "фэнтези",
+            "приключения",
+            "комедия"
         ],
-        "length": 122
+        "length": 110
     },
     {
         "filmId": "77237",
@@ -137,16 +147,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
     },
     {
         "filmId": "moana_2026",
@@ -231,14 +231,25 @@
         "length": 186
     },
     {
-        "filmId": "currentzis_carmen",
-        "name": "Курентзис: Кармен",
+        "filmId": "emergent_city",
+        "name": "Борьба за Бруклин",
         "rating": 18,
         "genres": [
-            "фильм-спектакль",
-            "опера"
+            "документальный"
         ],
-        "length": 183
+        "length": 95
+    },
+    {
+        "filmId": "avengers_infinity_war",
+        "name": "Мстители: Война бесконечности",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "dune_part_two",
@@ -273,27 +284,6 @@
         "length": 100
     },
     {
-        "filmId": "emergent_city",
-        "name": "Борьба за Бруклин",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "avengers_infinity_war",
-        "name": "Мстители: Война бесконечности",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "la_fille_dans_les_nuages",
         "name": "Волшебное перо",
         "rating": 6,
@@ -305,18 +295,6 @@
         "length": 90
     },
     {
-        "filmId": "barboskiny_15_let_vmeste",
-        "name": "Барбоскины 15 лет вместе, Вупс Пупс и Рогапульта",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 61
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -326,17 +304,6 @@
             "спорт"
         ],
         "length": -1
-    },
-    {
-        "filmId": "the_boss_baby",
-        "name": "Босс-молокосос",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
     },
     {
         "filmId": "the_twilight_saga_new_moon",
@@ -352,6 +319,39 @@
         "length": 130
     },
     {
+        "filmId": "barboskiny_15_let_vmeste",
+        "name": "Барбоскины 15 лет вместе, Вупс Пупс и Рогапульта",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 61
+    },
+    {
+        "filmId": "the_boss_baby",
+        "name": "Босс-молокосос",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "digger",
+        "name": "Диггер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "eto_vse_ona",
         "name": "Это всё она!",
         "rating": 18,
@@ -363,6 +363,16 @@
         "length": -1
     },
     {
+        "filmId": "hako_no_naka_no_hitsuji",
+        "name": "Барашек в ящике",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "it_ends",
         "name": "Всё закончится",
         "rating": 18,
@@ -371,6 +381,15 @@
             "драма"
         ],
         "length": -1
+    },
+    {
+        "filmId": "sparta_2_goplity",
+        "name": "Спарта 2. Гоплиты",
+        "rating": 16,
+        "genres": [
+            "спорт"
+        ],
+        "length": 110
     },
     {
         "filmId": "pitch_black",
@@ -411,16 +430,6 @@
             "балет"
         ],
         "length": 110
-    },
-    {
-        "filmId": "hako_no_naka_no_hitsuji",
-        "name": "Барашек в ящике",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "фантастика"
-        ],
-        "length": 125
     },
     {
         "filmId": "avengers_endgame",
@@ -488,5 +497,14 @@
             "прямая трансляция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "de_la_comedie_francaise",
+        "name": "Безумный день в Комеди Франсез",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 70
     }
 ]

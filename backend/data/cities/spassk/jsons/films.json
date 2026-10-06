@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "carevna_nesmejana",
         "name": "Царевна Несмеяна",
         "rating": 6,
@@ -9,17 +19,6 @@
             "семейный"
         ],
         "length": 95
-    },
-    {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -33,14 +32,15 @@
         "length": 75
     },
     {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
+        "filmId": "kak_ivan_v_skazku__popal",
+        "name": "Как Иван в сказку попал",
+        "rating": 6,
         "genres": [
-            "фантастика",
-            "боевик"
+            "фэнтези",
+            "приключения",
+            "комедия"
         ],
-        "length": 105
+        "length": 110
     },
     {
         "filmId": "crawlers",
@@ -53,13 +53,13 @@
         "length": 85
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
         "genres": [
-            "триллер",
-            "драма"
+            "фантастика",
+            "боевик"
         ],
-        "length": 100
+        "length": 105
     }
 ]
