@@ -1,14 +1,47 @@
 [
     {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 18,
+        "filmId": "la_fille_dans_les_nuages",
+        "name": "Волшебное перо",
+        "rating": 6,
         "genres": [
-            "драма",
-            "история",
-            "биография"
+            "мультфильм",
+            "фэнтези",
+            "приключения"
         ],
-        "length": 122
+        "length": 90
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "barboskiny_15_let_vmeste",
+        "name": "Барбоскины 15 лет вместе, Вупс Пупс и Рогапульта",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 61
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -22,17 +55,6 @@
         "length": 75
     },
     {
-        "filmId": "kak_ivan_v_skazku__popal",
-        "name": "Как Иван в сказку попал",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "комедия"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "carevna_nesmejana",
         "name": "Царевна Несмеяна",
         "rating": 6,
@@ -44,26 +66,6 @@
         "length": 95
     },
     {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "fall_2_deadpoint",
         "name": "Вышка 2",
         "rating": 18,
@@ -72,5 +74,18 @@
             "драма"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_twilight_saga_new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 130
     }
 ]
