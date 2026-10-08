@@ -1,14 +1,14 @@
 [
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "приключения",
+            "фэнтези",
             "семейный"
         ],
-        "length": 75
+        "length": 95
     },
     {
         "filmId": "bitva_motorov",
@@ -32,15 +32,15 @@
         "length": 105
     },
     {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "фэнтези",
             "семейный"
         ],
-        "length": 95
+        "length": 75
     },
     {
         "filmId": "77237",
@@ -109,16 +109,6 @@
         "length": 100
     },
     {
-        "filmId": "digger",
-        "name": "Диггер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "avengers_endgame_encore",
         "name": "Мстители: Финал — Расширенная версия",
         "rating": 16,
@@ -139,5 +129,15 @@
             "триллер"
         ],
         "length": 85
+    },
+    {
+        "filmId": "digger",
+        "name": "Диггер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
     }
 ]

@@ -1,1 +1,56 @@
-[]
+[
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "la_fille_dans_les_nuages",
+        "name": "Волшебное перо",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    }
+]

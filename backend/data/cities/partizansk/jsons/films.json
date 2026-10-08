@@ -1,5 +1,48 @@
 [
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_twilight_saga_new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "devjataja_planeta",
         "name": "Девятая планета",
         "rating": 16,
@@ -8,6 +51,53 @@
             "боевик"
         ],
         "length": 105
+    },
+    {
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "sparta_2_goplity",
+        "name": "Спарта 2. Гоплиты",
+        "rating": 16,
+        "genres": [
+            "спорт"
+        ],
+        "length": 110
     },
     {
         "filmId": "carevna_nesmejana",
@@ -55,30 +145,6 @@
         "length": 90
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "the_twilight_saga_new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "romanovy_predannost",
         "name": "Романовы: Преданность и предательство",
         "rating": 18,
@@ -124,16 +190,6 @@
         "length": 85
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -146,15 +202,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "minions_and_monsters",
@@ -181,17 +228,6 @@
         "length": 100
     },
     {
-        "filmId": "eto_vse_ona",
-        "name": "Это всё она!",
-        "rating": 18,
-        "genres": [
-            "комедия",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "avengers_endgame_encore",
         "name": "Мстители: Финал — Расширенная версия",
         "rating": 16,
@@ -202,6 +238,17 @@
             "приключения"
         ],
         "length": 186
+    },
+    {
+        "filmId": "eto_vse_ona",
+        "name": "Это всё она!",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 95
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -226,6 +273,27 @@
         "length": 125
     },
     {
+        "filmId": "dune_part_two",
+        "name": "Дюна: Часть вторая",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 165
+    },
+    {
+        "filmId": "hamlet_collage",
+        "name": "Гамлет | Коллаж (Спектакль). Творческая встреча с Евгением Мироновым",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -235,16 +303,6 @@
             "приключения"
         ],
         "length": 170
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
     },
     {
         "filmId": "dune_part_one",
@@ -268,17 +326,8 @@
         "length": 90
     },
     {
-        "filmId": "sparta_2_goplity",
-        "name": "Спарта 2. Гоплиты",
-        "rating": 16,
-        "genres": [
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "pitch_black",
-        "name": "Чёрная дыра",
+        "name": "Чёрная дыра: Риддик",
         "rating": 18,
         "genres": [
             "ужасы",
@@ -286,34 +335,6 @@
             "боевик"
         ],
         "length": 110
-    },
-    {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
     },
     {
         "filmId": "digger",
@@ -324,27 +345,6 @@
             "комедия"
         ],
         "length": 130
-    },
-    {
-        "filmId": "dune_part_two",
-        "name": "Дюна: Часть вторая",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 165
-    },
-    {
-        "filmId": "hamlet_collage",
-        "name": "Гамлет | Коллаж (Спектакль). Творческая встреча с Евгением Мироновым",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма"
-        ],
-        "length": 140
     },
     {
         "filmId": "john_neumeier_ghost_light",
@@ -413,6 +413,17 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
     },
     {
         "filmId": "77144",
