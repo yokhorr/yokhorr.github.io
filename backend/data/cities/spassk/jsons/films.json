@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
-        "rating": 6,
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
         "genres": [
-            "приключения",
-            "фэнтези",
-            "семейный"
+            "ужасы",
+            "триллер"
         ],
-        "length": 95
+        "length": 85
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -22,17 +21,6 @@
         "length": 75
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "la_fille_dans_les_nuages",
         "name": "Волшебное перо",
         "rating": 6,
@@ -44,13 +32,25 @@
         "length": 90
     },
     {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
         "genres": [
-            "ужасы",
-            "триллер"
+            "приключения",
+            "фэнтези",
+            "семейный"
         ],
-        "length": 85
+        "length": 95
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     }
 ]
