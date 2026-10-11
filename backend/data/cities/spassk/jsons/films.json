@@ -1,14 +1,24 @@
 [
     {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
         "rating": 6,
         "genres": [
-            "мультфильм",
+            "приключения",
             "фэнтези",
-            "приключения"
+            "семейный"
         ],
-        "length": 90
+        "length": 95
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -33,24 +43,14 @@
         "length": 145
     },
     {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
+        "filmId": "la_fille_dans_les_nuages",
+        "name": "Волшебное перо",
         "rating": 6,
         "genres": [
-            "приключения",
+            "мультфильм",
             "фэнтези",
-            "семейный"
+            "приключения"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
+        "length": 90
     }
 ]

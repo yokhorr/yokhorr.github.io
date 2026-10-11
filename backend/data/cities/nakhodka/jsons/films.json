@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -77,16 +96,6 @@
         "length": 95
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "la_fille_dans_les_nuages",
         "name": "Волшебное перо",
         "rating": 6,
@@ -110,15 +119,6 @@
         "length": 100
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "77280",
         "name": "Унабомбер",
         "rating": 16,
@@ -127,6 +127,16 @@
             "детектив",
             "криминал",
             "биография"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
         ],
         "length": 100
     },
@@ -164,26 +174,5 @@
             "приключения"
         ],
         "length": 186
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
     }
 ]

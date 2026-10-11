@@ -1,5 +1,38 @@
 [
     {
+        "filmId": "the_twilight_saga_new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "pitch_black",
+        "name": "Чёрная дыра: Риддик",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -11,15 +44,71 @@
         "length": 145
     },
     {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
-        "rating": 6,
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
+            "триллер",
+            "драма"
         ],
-        "length": 90
+        "length": 100
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "digger",
+        "name": "Диггер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "sparta_2_goplity",
+        "name": "Спарта 2. Гоплиты",
+        "rating": 16,
+        "genres": [
+            "спорт"
+        ],
+        "length": 110
     },
     {
         "filmId": "carevna_nesmejana",
@@ -44,31 +133,6 @@
         "length": 75
     },
     {
-        "filmId": "the_twilight_saga_new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "77237",
-        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
         "filmId": "barboskiny_15_let_vmeste",
         "name": "Барбоскины 15 лет вместе, Вупс Пупс и Рогапульта",
         "rating": 6,
@@ -81,6 +145,17 @@
         "length": 61
     },
     {
+        "filmId": "la_fille_dans_les_nuages",
+        "name": "Волшебное перо",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -90,16 +165,6 @@
             "комедия"
         ],
         "length": 110
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 105
     },
     {
         "filmId": "the_boss_baby",
@@ -125,22 +190,14 @@
         "length": 150
     },
     {
-        "filmId": "digger",
-        "name": "Диггер",
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
         "rating": 16,
         "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
+            "боевик",
             "триллер",
-            "драма"
+            "драма",
+            "приключения"
         ],
         "length": 100
     },
@@ -156,15 +213,6 @@
         "length": 95
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "moana_2026",
         "name": "Моана",
         "rating": 6,
@@ -177,18 +225,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
     },
     {
         "filmId": "minions_and_monsters",
@@ -289,54 +325,6 @@
         "length": 90
     },
     {
-        "filmId": "pitch_black",
-        "name": "Чёрная дыра: Риддик",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "sparta_2_goplity",
-        "name": "Спарта 2. Гоплиты",
-        "rating": 16,
-        "genres": [
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "john_neumeier_ghost_light",
         "name": "Ноймайер: Призрачный свет",
         "rating": 18,
@@ -357,6 +345,37 @@
             "приключения"
         ],
         "length": 183
+    },
+    {
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 6,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "hroniki_riddika",
+        "name": "Хроники Риддика",
+        "rating": 0,
+        "genres": [
+            "Боевик / Приключения / Триллер / Фантастика"
+        ],
+        "length": -1
     },
     {
         "filmId": "el_ser_querido",
