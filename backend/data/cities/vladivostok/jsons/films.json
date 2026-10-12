@@ -90,17 +90,6 @@
         "length": 110
     },
     {
-        "filmId": "the_boss_baby",
-        "name": "Босс-молокосос",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -214,14 +203,14 @@
         "length": 186
     },
     {
-        "filmId": "hako_no_naka_no_hitsuji",
-        "name": "Барашек в ящике",
+        "filmId": "it_ends",
+        "name": "Всё закончится",
         "rating": 18,
         "genres": [
-            "драма",
-            "фантастика"
+            "ужасы",
+            "драма"
         ],
-        "length": 125
+        "length": 90
     },
     {
         "filmId": "the_odyssey",
@@ -235,6 +224,16 @@
         "length": 170
     },
     {
+        "filmId": "john_neumeier_ghost_light",
+        "name": "Ноймайер: Призрачный свет",
+        "rating": 18,
+        "genres": [
+            "фильм-спектакль",
+            "балет"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "dune_part_two",
         "name": "Дюна: Часть вторая",
         "rating": 12,
@@ -244,6 +243,16 @@
             "драма"
         ],
         "length": 165
+    },
+    {
+        "filmId": "hako_no_naka_no_hitsuji",
+        "name": "Барашек в ящике",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "фантастика"
+        ],
+        "length": 125
     },
     {
         "filmId": "twilight",
@@ -265,16 +274,6 @@
             "приключения"
         ],
         "length": 155
-    },
-    {
-        "filmId": "it_ends",
-        "name": "Всё закончится",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "драма"
-        ],
-        "length": 90
     },
     {
         "filmId": "pitch_black",
@@ -325,14 +324,15 @@
         "length": 85
     },
     {
-        "filmId": "john_neumeier_ghost_light",
-        "name": "Ноймайер: Призрачный свет",
-        "rating": 18,
+        "filmId": "the_boss_baby",
+        "name": "Босс-молокосос",
+        "rating": 6,
         "genres": [
-            "фильм-спектакль",
-            "балет"
+            "мультфильм",
+            "комедия",
+            "семейный"
         ],
-        "length": 110
+        "length": 85
     },
     {
         "filmId": "avengers_endgame",
@@ -347,17 +347,6 @@
         "length": 183
     },
     {
-        "filmId": "der_letzte_walsanger",
-        "name": "Подводная братва. На страже рифа",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "ruki_vverh_2",
         "name": "Руки Вверх! 2",
         "rating": 6,
@@ -369,13 +358,15 @@
         "length": -1
     },
     {
-        "filmId": "hroniki_riddika",
-        "name": "Хроники Риддика",
-        "rating": 0,
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
+        "rating": 6,
         "genres": [
-            "Боевик / Приключения / Триллер / Фантастика"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": -1
+        "length": 90
     },
     {
         "filmId": "el_ser_querido",
@@ -385,6 +376,27 @@
             "драма"
         ],
         "length": 135
+    },
+    {
+        "filmId": "the_chronicles_of_riddick",
+        "name": "Хроники Риддика",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "chirudo",
+        "name": "Вкускилл",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "nord_ost",
@@ -416,7 +428,7 @@
     },
     {
         "filmId": "77112",
-        "name": "Одиссея. Вечный сюжет Кристофера Нолана — Лекция Ксении Бариновой",
+        "name": "Вечный сюжет Кристофера Нолана — Лекция Ксении Бариновой",
         "rating": 16,
         "genres": [
             "лекция"
@@ -487,5 +499,16 @@
             "документальный"
         ],
         "length": 116
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     }
 ]
