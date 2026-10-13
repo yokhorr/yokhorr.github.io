@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "la_fille_dans_les_nuages",
         "name": "Волшебное перо",
         "rating": 6,
@@ -9,17 +20,6 @@
             "приключения"
         ],
         "length": 90
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
     },
     {
         "filmId": "carevna_nesmejana",
@@ -33,15 +33,15 @@
         "length": 95
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "драма",
-            "спорт"
+            "семейный"
         ],
-        "length": 145
+        "length": 75
     },
     {
         "filmId": "crawlers",
