@@ -1,71 +1,5 @@
 [
     {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "digger",
-        "name": "Диггер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "sparta_2_goplity",
-        "name": "Спарта 2. Гоплиты",
-        "rating": 16,
-        "genres": [
-            "спорт"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "crawlers",
-        "name": "Арахнид",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -179,6 +113,16 @@
         "length": 150
     },
     {
+        "filmId": "digger",
+        "name": "Диггер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "heart_of_the_beast",
         "name": "Сердце зверя",
         "rating": 16,
@@ -187,6 +131,16 @@
             "триллер",
             "драма",
             "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
         ],
         "length": 100
     },
@@ -200,6 +154,15 @@
             "мелодрама"
         ],
         "length": 95
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "moana_2026",
@@ -335,6 +298,43 @@
             "мистика"
         ],
         "length": 122
+    },
+    {
+        "filmId": "sparta_2_goplity",
+        "name": "Спарта 2. Гоплиты",
+        "rating": 16,
+        "genres": [
+            "спорт"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "crawlers",
+        "name": "Арахнид",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 85
     },
     {
         "filmId": "ruki_vverh_2",
@@ -522,5 +522,14 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "78470",
+        "name": "GUCCI — Лекция Ярослава Михеева",
+        "rating": 16,
+        "genres": [
+            "лекция"
+        ],
+        "length": 122
     }
 ]
