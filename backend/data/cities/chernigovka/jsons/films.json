@@ -1,37 +1,46 @@
 [
     {
-        "filmId": "barboskiny_15_let_vmeste",
-        "name": "Барбоскины 15 лет вместе, Вупс Пупс и Рогапульта",
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
         "rating": 6,
         "genres": [
             "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 61
-    },
-    {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
+            "семейный"
         ],
         "length": 90
     },
     {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "фэнтези",
             "семейный"
         ],
-        "length": 95
+        "length": 75
+    },
+    {
+        "filmId": "sintetika",
+        "name": "Синтетика",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
     },
     {
         "filmId": "bitva_motorov",
@@ -56,5 +65,16 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 95
     }
 ]
