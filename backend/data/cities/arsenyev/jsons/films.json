@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "digger",
-        "name": "Диггер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -118,6 +99,16 @@
             "фэнтези",
             "мелодрама",
             "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "digger",
+        "name": "Диггер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
         ],
         "length": 130
     },
