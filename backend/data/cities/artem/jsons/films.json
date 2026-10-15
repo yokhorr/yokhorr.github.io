@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -43,12 +52,44 @@
         "length": 105
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
+        "filmId": "podvodnaja_bratva",
+        "name": "Подводная братва",
+        "rating": 0,
+        "genres": [
+            "Анимация / Комедия"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "tormento",
+        "name": "Ассистент в морге",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 90
+        "length": -1
     }
 ]
