@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -44,6 +53,18 @@
         "length": 75
     },
     {
+        "filmId": "avengers_endgame",
+        "name": "Мстители: Финал",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 183
+    },
+    {
         "filmId": "ruki_vverh_2",
         "name": "Руки Вверх! 2",
         "rating": 16,
@@ -55,18 +76,6 @@
         "length": -1
     },
     {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -76,18 +85,6 @@
             "спорт"
         ],
         "length": 145
-    },
-    {
-        "filmId": "avengers_endgame",
-        "name": "Мстители: Финал",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 183
     },
     {
         "filmId": "the_twilight_saga_new_moon",
@@ -111,15 +108,6 @@
             "комедия"
         ],
         "length": 130
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "verity",
