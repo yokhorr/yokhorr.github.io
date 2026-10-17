@@ -1,35 +1,5 @@
 [
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tormento",
-        "name": "Ассистент в морге",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -83,6 +53,18 @@
         "length": -1
     },
     {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "devjataja_planeta",
         "name": "Девятая планета",
         "rating": 16,
@@ -91,5 +73,23 @@
             "боевик"
         ],
         "length": 105
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "tormento",
+        "name": "Ассистент в морге",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": -1
     }
 ]
