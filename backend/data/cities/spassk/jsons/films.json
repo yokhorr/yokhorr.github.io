@@ -1,14 +1,23 @@
 [
     {
-        "filmId": "der_letzte_walsanger",
-        "name": "Подводная братва. На страже рифа",
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "приключения",
+            "фэнтези",
             "семейный"
         ],
-        "length": 90
+        "length": 95
     },
     {
         "filmId": "la_fille_dans_les_nuages",
@@ -44,23 +53,14 @@
         "length": 145
     },
     {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
         "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "фэнтези",
             "семейный"
         ],
-        "length": 95
+        "length": 90
     }
 ]

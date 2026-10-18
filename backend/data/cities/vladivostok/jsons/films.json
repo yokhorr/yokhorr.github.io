@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -33,16 +11,27 @@
         "length": 145
     },
     {
-        "filmId": "avengers_endgame_encore",
-        "name": "Мстители: Финал — Расширенная версия",
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
         "rating": 16,
         "genres": [
-            "фантастика",
-            "фэнтези",
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
             "боевик",
+            "триллер",
+            "драма",
             "приключения"
         ],
-        "length": 186
+        "length": 100
     },
     {
         "filmId": "the_twilight_saga_new_moon",
@@ -56,6 +45,129 @@
             "драма"
         ],
         "length": 130
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "digger",
+        "name": "Диггер",
+        "rating": 16,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_chronicles_of_riddick",
+        "name": "Хроники Риддика",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "триллер",
+            "приключения"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "chirudo",
+        "name": "Вкускилл",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "el_ser_querido",
+        "name": "Любовь моя",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "la_fille_dans_les_nuages",
+        "name": "Волшебное перо",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "avengers_endgame_encore",
+        "name": "Мстители: Финал — Расширенная версия",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 186
     },
     {
         "filmId": "der_letzte_walsanger",
@@ -78,16 +190,6 @@
             "семейный"
         ],
         "length": 75
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 105
     },
     {
         "filmId": "carevna_nesmejana",
@@ -158,46 +260,6 @@
         "length": 150
     },
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "el_ser_querido",
-        "name": "Любовь моя",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 135
-    },
-    {
         "filmId": "the_weight",
         "name": "До последнего грамма",
         "rating": 18,
@@ -209,18 +271,6 @@
             "приключения"
         ],
         "length": 115
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
     },
     {
         "filmId": "minions_and_monsters",
@@ -235,25 +285,6 @@
         "length": 90
     },
     {
-        "filmId": "digger",
-        "name": "Диггер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "el_talento",
-        "name": "Непристойное предложение",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -265,42 +296,11 @@
         "length": 170
     },
     {
-        "filmId": "the_chronicles_of_riddick",
-        "name": "Хроники Риддика",
+        "filmId": "el_talento",
+        "name": "Непристойное предложение",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "chirudo",
-        "name": "Вкускилл",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
+            "драма"
         ],
         "length": 105
     },
