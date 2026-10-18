@@ -1,25 +1,5 @@
 [
     {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "la_fille_dans_les_nuages",
         "name": "Волшебное перо",
         "rating": 6,
@@ -62,5 +42,25 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "carevna_nesmejana",
+        "name": "Царевна Несмеяна",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
     }
 ]
