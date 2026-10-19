@@ -1,36 +1,12 @@
 [
     {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
-        "rating": 6,
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
+            "ужасы"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
+        "length": 80
     },
     {
         "filmId": "der_letzte_walsanger",
@@ -40,6 +16,17 @@
             "мультфильм",
             "приключения",
             "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "la_fille_dans_les_nuages",
+        "name": "Волшебное перо",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "приключения"
         ],
         "length": 90
     },
@@ -55,12 +42,25 @@
         "length": 95
     },
     {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "приключения",
+            "драма",
+            "спорт"
         ],
-        "length": 80
+        "length": 145
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
     }
 ]
