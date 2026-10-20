@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tormento",
-        "name": "Ассистент в морге",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "romanovy_predannost",
         "name": "Романовы: Преданность и предательство",
         "rating": 18,
@@ -63,6 +42,18 @@
         "length": 145
     },
     {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -92,6 +83,15 @@
             "ужасы"
         ],
         "length": 90
+    },
+    {
+        "filmId": "tormento",
+        "name": "Ассистент в морге",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": -1
     },
     {
         "filmId": "morozko_2026",
