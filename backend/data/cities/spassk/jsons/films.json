@@ -1,5 +1,14 @@
 [
     {
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -33,17 +42,6 @@
         "length": 95
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "ruki_vverh_2",
         "name": "Руки Вверх! 2",
         "rating": 16,
@@ -55,12 +53,14 @@
         "length": -1
     },
     {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
-        "rating": 18,
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
         "genres": [
-            "ужасы"
+            "приключения",
+            "драма",
+            "спорт"
         ],
-        "length": 80
+        "length": 145
     }
 ]
