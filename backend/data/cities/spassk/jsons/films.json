@@ -1,5 +1,24 @@
 [
     {
+        "filmId": "geomeun_ryeong",
+        "name": "Астрал. Шёпот призрака",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "78626",
+        "name": "Свинцовые небеса",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -11,26 +30,35 @@
         "length": 90
     },
     {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "фэнтези",
-            "приключения"
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
         ],
         "length": 90
     },
     {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
+        "filmId": "morozko_2026",
+        "name": "Морозко",
         "rating": 6,
         "genres": [
-            "приключения",
             "фэнтези",
             "семейный"
         ],
-        "length": 95
+        "length": -1
     },
     {
         "filmId": "ruki_vverh_2",
@@ -44,23 +72,12 @@
         "length": -1
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "geomeun_ryeong",
-        "name": "Астрал. Шёпот призрака",
+        "filmId": "77277",
+        "name": "Последнее проклятие",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 80
+        "length": 95
     }
 ]

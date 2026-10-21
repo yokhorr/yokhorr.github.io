@@ -1,5 +1,36 @@
 [
     {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "ruki_vverh_2",
         "name": "Руки Вверх! 2",
         "rating": 16,
@@ -11,17 +42,6 @@
         "length": -1
     },
     {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -31,50 +51,5 @@
             "спорт"
         ],
         "length": 145
-    },
-    {
-        "filmId": "der_letzte_walsanger",
-        "name": "Подводная братва. На страже рифа",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "carevna_nesmejana",
-        "name": "Царевна Несмеяна",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "sintetika",
-        "name": "Синтетика",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "комедия"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "the_twilight_saga_new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
     }
 ]

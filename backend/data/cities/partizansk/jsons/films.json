@@ -1,25 +1,13 @@
 [
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
+        "filmId": "digger",
+        "name": "Диггер",
         "rating": 16,
         "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
+            "драма",
+            "комедия"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "la_fille_dans_les_nuages",
-        "name": "Волшебное перо",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "приключения"
-        ],
-        "length": 90
+        "length": 130
     },
     {
         "filmId": "bitva_motorov",
@@ -33,26 +21,67 @@
         "length": 145
     },
     {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик"
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
-        "length": 105
+        "length": 110
     },
     {
-        "filmId": "avengers_endgame_encore",
-        "name": "Мстители: Финал — Расширенная версия",
-        "rating": 16,
+        "filmId": "the_chronicles_of_riddick",
+        "name": "Хроники Риддика",
+        "rating": 18,
         "genres": [
             "фантастика",
-            "фэнтези",
             "боевик",
+            "триллер",
             "приключения"
         ],
-        "length": 186
+        "length": 122
+    },
+    {
+        "filmId": "chirudo",
+        "name": "Вкускилл",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
     },
     {
         "filmId": "heart_of_the_beast",
@@ -65,6 +94,88 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "twilight",
+        "name": "Сумерки",
+        "rating": 18,
+        "genres": [
+            "мелодрама",
+            "мистика"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "el_ser_querido",
+        "name": "Любовь моя",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "insidious_out_of_the_further",
+        "name": "Астрал 6: Они уже здесь",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_twilight_saga_new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
     },
     {
         "filmId": "der_letzte_walsanger",
@@ -100,6 +211,17 @@
         "length": 95
     },
     {
+        "filmId": "chudoyudo",
+        "name": "Чудо-Юдо 2018",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -109,106 +231,6 @@
             "комедия"
         ],
         "length": 110
-    },
-    {
-        "filmId": "romanovy_predannost",
-        "name": "Романовы: Преданность и предательство",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "история",
-            "биография"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "the_boss_baby",
-        "name": "Босс-молокосос",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "barboskiny_15_let_vmeste",
-        "name": "Барбоскины 15 лет вместе, Вупс Пупс и Рогапульта",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 61
-    },
-    {
-        "filmId": "the_twilight_saga_new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "el_ser_querido",
-        "name": "Любовь моя",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "the_weight",
-        "name": "До последнего грамма",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал",
-            "приключения"
-        ],
-        "length": 115
     },
     {
         "filmId": "minions_and_monsters",
@@ -221,159 +243,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "digger",
-        "name": "Диггер",
-        "rating": 16,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 170
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "il_padiglione_sullacqua",
-        "name": "Павильон на воде",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "77112",
-        "name": "Вечный сюжет Кристофера Нолана — Лекция Ксении Бариновой",
-        "rating": 16,
-        "genres": [
-            "лекция"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "dune_part_one",
-        "name": "Дюна: Часть первая",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "драма",
-            "приключения"
-        ],
-        "length": 155
-    },
-    {
-        "filmId": "el_talento",
-        "name": "Непристойное предложение",
-        "rating": 18,
-        "genres": [
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_chronicles_of_riddick",
-        "name": "Хроники Риддика",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "триллер",
-            "приключения"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "chirudo",
-        "name": "Вкускилл",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "twilight",
-        "name": "Сумерки",
-        "rating": 18,
-        "genres": [
-            "мелодрама",
-            "мистика"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "insidious_out_of_the_further",
-        "name": "Астрал 6: Они уже здесь",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "chudoyudo",
-        "name": "Чудо-Юдо 2018",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения"
-        ],
-        "length": 75
     },
     {
         "filmId": "agami",
@@ -396,6 +265,18 @@
         "length": 125
     },
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "chetyre_zhizni_petra_mamonova",
         "name": "Четыре жизни Петра Мамонова",
         "rating": 16,
@@ -404,6 +285,17 @@
             "биография"
         ],
         "length": 125
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "avengers_endgame",
@@ -436,6 +328,29 @@
             "криминал"
         ],
         "length": 110
+    },
+    {
+        "filmId": "dune_part_one",
+        "name": "Дюна: Часть первая",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "драма",
+            "приключения"
+        ],
+        "length": 155
+    },
+    {
+        "filmId": "77237",
+        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "77144",
@@ -512,6 +427,17 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "it_2017",
+        "name": "Оно",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "everybodys_everything",
