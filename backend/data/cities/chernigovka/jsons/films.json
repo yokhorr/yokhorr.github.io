@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -51,5 +40,16 @@
             "мелодрама"
         ],
         "length": -1
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     }
 ]

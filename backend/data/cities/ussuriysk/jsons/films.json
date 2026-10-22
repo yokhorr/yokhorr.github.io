@@ -1,27 +1,5 @@
 [
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -41,6 +19,17 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -82,5 +71,16 @@
             "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
     }
 ]
