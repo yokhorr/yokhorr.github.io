@@ -1,24 +1,12 @@
 [
     {
-        "filmId": "78626",
-        "name": "Свинцовые небеса",
-        "rating": 12,
+        "filmId": "the_curse",
+        "name": "Последнее проклятие",
+        "rating": 18,
         "genres": [
-            "драма",
-            "военный"
+            "ужасы"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
+        "length": 95
     },
     {
         "filmId": "der_letzte_walsanger",
@@ -63,12 +51,24 @@
         "length": -1
     },
     {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
-        "rating": 18,
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
         "genres": [
-            "ужасы"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 95
+        "length": -1
+    },
+    {
+        "filmId": "78626",
+        "name": "Свинцовые небеса",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 110
     }
 ]

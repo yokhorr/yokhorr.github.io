@@ -1,12 +1,35 @@
 [
     {
-        "filmId": "podvodnaja_bratva",
-        "name": "Подводная братва",
-        "rating": 0,
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
         "genres": [
-            "Анимация / Комедия"
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
         ],
-        "length": -1
+        "length": 100
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "morozko_2026",
@@ -72,26 +95,5 @@
             "спорт"
         ],
         "length": 145
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     }
 ]

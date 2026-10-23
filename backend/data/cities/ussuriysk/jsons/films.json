@@ -1,5 +1,27 @@
 [
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -21,28 +43,6 @@
         "length": -1
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "resident_evil",
         "name": "Обитель зла",
         "rating": 18,
@@ -61,6 +61,16 @@
         "length": 125
     },
     {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "verity",
         "name": "Тайный дневник Верити",
         "rating": 18,
@@ -73,14 +83,34 @@
         "length": 110
     },
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
+            "мультфильм",
+            "приключения",
+            "семейный"
         ],
-        "length": -1
+        "length": 75
+    },
+    {
+        "filmId": "77144",
+        "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2026/2027)",
+        "rating": 6,
+        "genres": [
+            "прямая трансляция"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
     }
 ]
