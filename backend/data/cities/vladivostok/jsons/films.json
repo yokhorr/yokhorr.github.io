@@ -1,15 +1,57 @@
 [
     {
-        "filmId": "77237",
-        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
-        "rating": 0,
+        "filmId": "street_fighter",
+        "name": "Уличный боец",
+        "rating": 16,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
+            "боевик"
         ],
-        "length": 50
+        "length": 125
+    },
+    {
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "avengers_endgame",
+        "name": "Мстители: Финал",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     },
     {
         "filmId": "morozko_2026",
@@ -18,6 +60,29 @@
         "genres": [
             "фэнтези",
             "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
         ],
         "length": -1
     },
@@ -33,15 +98,68 @@
         "length": -1
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
+        "filmId": "the_twilight_saga_new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
         "genres": [
-            "приключения",
-            "драма",
-            "спорт"
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
         ],
-        "length": 145
+        "length": 130
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_curse",
+        "name": "Последнее проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_cycle",
+        "name": "Цикл зверя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "криминал"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "77237",
+        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "der_letzte_walsanger",
@@ -87,17 +205,6 @@
         "length": 95
     },
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "kak_ivan_v_skazku__popal",
         "name": "Как Иван в сказку попал",
         "rating": 6,
@@ -107,19 +214,6 @@
             "комедия"
         ],
         "length": 110
-    },
-    {
-        "filmId": "the_twilight_saga_new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
     },
     {
         "filmId": "chetyre_zhizni_petra_mamonova",
@@ -144,27 +238,6 @@
         "length": 90
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "agami",
         "name": "Дитя воды",
         "rating": 18,
@@ -172,37 +245,6 @@
             "мультфильм",
             "фэнтези",
             "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
-        "rating": 16,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
         ],
         "length": 105
     },
@@ -218,6 +260,15 @@
         "length": 170
     },
     {
+        "filmId": "77144",
+        "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2026/2027)",
+        "rating": 6,
+        "genres": [
+            "прямая трансляция"
+        ],
+        "length": 122
+    },
+    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -228,57 +279,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "avengers_endgame",
-        "name": "Мстители: Финал",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 183
-    },
-    {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_cycle",
-        "name": "Цикл зверя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "криминал"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "77144",
-        "name": "Амур — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2026/2027)",
-        "rating": 6,
-        "genres": [
-            "прямая трансляция"
-        ],
-        "length": 122
     },
     {
         "filmId": "de_la_comedie_francaise",

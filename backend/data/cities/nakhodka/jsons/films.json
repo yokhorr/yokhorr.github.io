@@ -1,48 +1,5 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "77237",
-        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -54,17 +11,6 @@
         "length": 145
     },
     {
-        "filmId": "der_letzte_walsanger",
-        "name": "Подводная братва. На страже рифа",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "ruki_vverh_2",
         "name": "Руки Вверх! 2",
         "rating": 16,
@@ -74,30 +20,6 @@
             "мелодрама"
         ],
         "length": -1
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "practical_magic_2",
-        "name": "Практическая магия 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 130
     },
     {
         "filmId": "verity",
@@ -112,24 +34,26 @@
         "length": 110
     },
     {
-        "filmId": "animals",
-        "name": "Животные",
-        "rating": 16,
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
         "genres": [
-            "триллер",
-            "драма",
-            "криминал"
+            "фэнтези",
+            "семейный"
         ],
-        "length": 105
+        "length": -1
     },
     {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
         "rating": 16,
         "genres": [
-            "боевик"
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
         ],
-        "length": 125
+        "length": 100
     },
     {
         "filmId": "resident_evil",
@@ -160,5 +84,81 @@
             "криминал"
         ],
         "length": 110
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "77237",
+        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "der_letzte_walsanger",
+        "name": "Подводная братва. На страже рифа",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "practical_magic_2",
+        "name": "Практическая магия 2",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "animals",
+        "name": "Животные",
+        "rating": 16,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "street_fighter",
+        "name": "Уличный боец",
+        "rating": 16,
+        "genres": [
+            "боевик"
+        ],
+        "length": 125
     }
 ]

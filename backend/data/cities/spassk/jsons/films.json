@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "78626",
+        "name": "Свинцовые небеса",
+        "rating": 12,
+        "genres": [
+            "драма",
+            "военный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -11,16 +21,6 @@
         "length": 90
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -29,17 +29,6 @@
             "детский"
         ],
         "length": 90
-    },
-    {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": -1
     },
     {
         "filmId": "chudojudo",
@@ -53,6 +42,27 @@
         "length": -1
     },
     {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "the_curse",
         "name": "Последнее проклятие",
         "rating": 18,
@@ -60,15 +70,5 @@
             "ужасы"
         ],
         "length": 95
-    },
-    {
-        "filmId": "78626",
-        "name": "Свинцовые небеса",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 110
     }
 ]
