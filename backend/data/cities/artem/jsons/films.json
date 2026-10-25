@@ -1,12 +1,32 @@
 [
     {
-        "filmId": "der_letzte_walsanger",
-        "name": "Подводная братва. На страже рифа",
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "приключения",
-            "семейный"
+            "детский"
         ],
         "length": 90
     },
@@ -19,16 +39,6 @@
             "семейный"
         ],
         "length": -1
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
     },
     {
         "filmId": "chudojudo",
@@ -53,18 +63,6 @@
         "length": -1
     },
     {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -76,24 +74,15 @@
         "length": 145
     },
     {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
-        "length": 90
+        "length": 110
     }
 ]
