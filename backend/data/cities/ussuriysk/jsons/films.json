@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -64,6 +43,15 @@
         "length": 145
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "street_fighter",
         "name": "Уличный боец",
         "rating": 16,
@@ -81,5 +69,17 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 110
     }
 ]
