@@ -1,122 +1,5 @@
 [
     {
-        "filmId": "fall_2_deadpoint",
-        "name": "Вышка 2",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
-        "rating": 16,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_cycle",
-        "name": "Цикл зверя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "криминал"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_twilight_saga_new_moon",
-        "name": "Сумерки. Сага. Новолуние",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "devjataja_planeta",
-        "name": "Девятая планета",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "77237",
         "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
         "rating": 0,
@@ -150,6 +33,17 @@
         "length": 110
     },
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "der_letzte_walsanger",
         "name": "Подводная братва. На страже рифа",
         "rating": 6,
@@ -169,6 +63,17 @@
             "детский"
         ],
         "length": 90
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": 95
     },
     {
         "filmId": "prikljuchenija_mamontenka",
@@ -204,6 +109,19 @@
         "length": 110
     },
     {
+        "filmId": "the_twilight_saga_new_moon",
+        "name": "Сумерки. Сага. Новолуние",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -214,6 +132,27 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "street_fighter",
+        "name": "Уличный боец",
+        "rating": 16,
+        "genres": [
+            "боевик"
+        ],
+        "length": 125
     },
     {
         "filmId": "chetyre_zhizni_petra_mamonova",
@@ -235,6 +174,28 @@
             "драма"
         ],
         "length": 105
+    },
+    {
+        "filmId": "devjataja_planeta",
+        "name": "Девятая планета",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 110
     },
     {
         "filmId": "the_odyssey",
@@ -260,6 +221,15 @@
         "length": 150
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "de_la_comedie_francaise",
         "name": "Безумный день в Комеди Франсез",
         "rating": 18,
@@ -278,6 +248,16 @@
         "length": 160
     },
     {
+        "filmId": "fall_2_deadpoint",
+        "name": "Вышка 2",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "avengers_endgame",
         "name": "Мстители: Финал",
         "rating": 16,
@@ -288,6 +268,26 @@
             "приключения"
         ],
         "length": 183
+    },
+    {
+        "filmId": "the_curse",
+        "name": "Последнее проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_cycle",
+        "name": "Цикл зверя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "криминал"
+        ],
+        "length": 110
     },
     {
         "filmId": "kraft_der_utopieleben_mit",
@@ -413,6 +413,13 @@
         "length": 100
     },
     {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
+        "genres": [],
+        "length": -1
+    },
+    {
         "filmId": "everybodys_everything",
         "name": "Lil Peep: всё для всех",
         "rating": 18,
@@ -497,6 +504,15 @@
         "length": 122
     },
     {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -505,6 +521,13 @@
             "мелодрама"
         ],
         "length": 183
+    },
+    {
+        "filmId": "78698",
+        "name": "Шкатулка проклятия. Зло внутри",
+        "rating": 0,
+        "genres": [],
+        "length": -1
     },
     {
         "filmId": "leto_v_badene",
@@ -579,5 +602,15 @@
             "драма"
         ],
         "length": 110
+    },
+    {
+        "filmId": "hamlet_collage",
+        "name": "Гамлет | Коллаж (Спектакль)",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 140
     }
 ]
