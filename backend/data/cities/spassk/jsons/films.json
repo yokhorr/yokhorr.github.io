@@ -1,14 +1,5 @@
 [
     {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -58,6 +49,15 @@
             "музыка",
             "биография",
             "мелодрама"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_curse",
+        "name": "Последнее проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 95
     },
