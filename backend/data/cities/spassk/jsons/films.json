@@ -1,14 +1,24 @@
 [
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
         "rating": 6,
         "genres": [
-            "фэнтези",
             "приключения",
-            "семейный"
+            "детский"
         ],
-        "length": 110
+        "length": 90
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": -1
     },
     {
         "filmId": "morozko_2026",
@@ -21,54 +31,23 @@
         "length": 100
     },
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "der_letzte_walsanger",
-        "name": "Подводная братва. На страже рифа",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
+            "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 90
+        "length": 110
     },
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
         "rating": 18,
         "genres": [
             "ужасы"
         ],
-        "length": 95
-    },
-    {
-        "filmId": "78626",
-        "name": "Свинцовые небеса",
-        "rating": 12,
-        "genres": [
-            "драма",
-            "военный"
-        ],
-        "length": 110
+        "length": 105
     }
 ]
