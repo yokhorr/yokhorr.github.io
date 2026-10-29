@@ -1,14 +1,23 @@
 [
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
+            "фантастика",
+            "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
     },
     {
         "filmId": "77237",
@@ -33,14 +42,15 @@
         "length": 100
     },
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
+            "фэнтези",
             "приключения",
-            "детский"
+            "семейный"
         ],
-        "length": 90
+        "length": 110
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -51,7 +61,7 @@
             "биография",
             "драма"
         ],
-        "length": -1
+        "length": 140
     },
     {
         "filmId": "shaun_the_sheep_the_beast",
@@ -63,16 +73,6 @@
             "семейный"
         ],
         "length": 90
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
     },
     {
         "filmId": "ruki_vverh_2",

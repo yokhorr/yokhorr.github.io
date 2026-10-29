@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "rozhdenie_imperii",
         "name": "Рождение империи",
         "rating": 12,
@@ -18,17 +8,7 @@
             "биография",
             "драма"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
+        "length": 140
     },
     {
         "filmId": "chudojudo",
@@ -40,6 +20,26 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "cerita_lila",
