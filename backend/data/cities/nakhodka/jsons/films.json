@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -73,6 +63,16 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "ruki_vverh_2",
