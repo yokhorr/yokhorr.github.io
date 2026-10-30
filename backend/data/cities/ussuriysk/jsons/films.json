@@ -1,24 +1,5 @@
 [
     {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -82,6 +63,16 @@
         "length": 125
     },
     {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "other_mommy",
         "name": "Чужая мама",
         "rating": 18,
@@ -90,5 +81,14 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]
