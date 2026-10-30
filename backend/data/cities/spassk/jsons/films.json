@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "rozhdenie_imperii",
         "name": "Рождение империи",
         "rating": 12,
@@ -22,14 +11,15 @@
         "length": 140
     },
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
+            "фэнтези",
             "приключения",
-            "детский"
+            "семейный"
         ],
-        "length": 90
+        "length": 110
     },
     {
         "filmId": "morozko_2026",
@@ -40,6 +30,16 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
     },
     {
         "filmId": "cerita_lila",

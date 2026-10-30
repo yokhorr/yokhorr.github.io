@@ -1,17 +1,51 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
         "genres": [
-            "приключения",
-            "детский"
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
-        "length": 90
+        "length": 110
     },
     {
-        "filmId": "77237",
-        "name": "Мульт в кино. Выпуск №200. Весёлый листопад",
+        "filmId": "the_cycle",
+        "name": "Цикл зверя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "криминал"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
         "rating": 0,
         "genres": [
             "мультфильм",
@@ -32,15 +66,14 @@
         "length": 100
     },
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
         "rating": 6,
         "genres": [
-            "фэнтези",
             "приключения",
-            "семейный"
+            "детский"
         ],
-        "length": 110
+        "length": 90
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -65,14 +98,15 @@
         "length": 90
     },
     {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
         "genres": [
-            "фантастика",
-            "боевик"
+            "приключения",
+            "драма",
+            "спорт"
         ],
-        "length": 110
+        "length": 145
     },
     {
         "filmId": "ruki_vverh_2",
@@ -108,17 +142,6 @@
         "length": 130
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "practical_magic_2",
         "name": "Практическая магия 2",
         "rating": 16,
@@ -140,18 +163,6 @@
         "length": 125
     },
     {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "cerita_lila",
         "name": "Синистер. Дом мертвых",
         "rating": 18,
@@ -159,29 +170,6 @@
             "ужасы"
         ],
         "length": 105
-    },
-    {
-        "filmId": "the_cycle",
-        "name": "Цикл зверя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "криминал"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "78697",
-        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
     },
     {
         "filmId": "zhivaja_kniga",
