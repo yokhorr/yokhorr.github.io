@@ -1,15 +1,5 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "shaun_the_sheep_the_beast",
         "name": "Барашек Шон и Чудище Лохматое",
         "rating": 6,
@@ -17,6 +7,16 @@
             "мультфильм",
             "комедия",
             "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
         ],
         "length": 90
     },
@@ -53,15 +53,14 @@
         "length": 140
     },
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
+        "filmId": "54670",
+        "name": "Руки Вверх!",
+        "rating": 12,
         "genres": [
             "музыка",
-            "биография",
-            "мелодрама"
+            "биография"
         ],
-        "length": 95
+        "length": 105
     },
     {
         "filmId": "street_fighter",
@@ -116,15 +115,5 @@
             "детектив"
         ],
         "length": 110
-    },
-    {
-        "filmId": "54670",
-        "name": "Руки Вверх!",
-        "rating": 12,
-        "genres": [
-            "музыка",
-            "биография"
-        ],
-        "length": 105
     }
 ]

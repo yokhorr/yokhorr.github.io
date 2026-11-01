@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
+        "filmId": "morozko_2026",
+        "name": "Морозко",
         "rating": 6,
         "genres": [
             "фэнтези",
-            "приключения",
             "семейный"
         ],
-        "length": 110
+        "length": 100
     },
     {
         "filmId": "shaun_the_sheep_the_beast",
@@ -22,25 +21,15 @@
         "length": 90
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
             "фэнтези",
+            "приключения",
             "семейный"
         ],
-        "length": 100
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
+        "length": 110
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -52,6 +41,17 @@
             "драма"
         ],
         "length": 140
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     },
     {
         "filmId": "street_fighter",

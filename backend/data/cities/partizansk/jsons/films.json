@@ -11,15 +11,84 @@
         "length": 140
     },
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
         "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
+            "ужасы"
         ],
-        "length": 75
+        "length": 105
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "the_cycle",
+        "name": "Цикл зверя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "криминал"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_curse",
+        "name": "Последнее проклятие",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "forgotten_island",
@@ -56,6 +125,17 @@
         "length": 110
     },
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -77,38 +157,15 @@
         "length": 90
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "78697",
-        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
-        "rating": 0,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
             "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
+            "семейный"
         ],
-        "length": 50
-    },
-    {
-        "filmId": "lang_lang_shan_xiao_yao_guai",
-        "name": "Маленькие демоны путешествуют на Запад",
-        "rating": 16,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия"
-        ],
-        "length": 122
+        "length": 75
     },
     {
         "filmId": "minions_and_monsters",
@@ -123,47 +180,15 @@
         "length": 90
     },
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
+        "filmId": "lang_lang_shan_xiao_yao_guai",
+        "name": "Маленькие демоны путешествуют на Запад",
         "rating": 16,
         "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "everybodys_everything",
-        "name": "Lil Peep: всё для всех",
-        "rating": 18,
-        "genres": [
-            "документальный"
-        ],
-        "length": 116
-    },
-    {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
-        "genres": [
+            "мультфильм",
             "фэнтези",
-            "боевик",
-            "приключения"
+            "комедия"
         ],
-        "length": 170
+        "length": 122
     },
     {
         "filmId": "fjord",
@@ -173,16 +198,6 @@
             "драма"
         ],
         "length": 145
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -195,6 +210,17 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "the_odyssey",
+        "name": "Одиссея",
+        "rating": 18,
+        "genres": [
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 170
     },
     {
         "filmId": "street_fighter",
@@ -218,13 +244,13 @@
         "length": 100
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
+        "filmId": "78548",
+        "name": "Телесеть",
+        "rating": 16,
         "genres": [
-            "ужасы"
+            "драма"
         ],
-        "length": 90
+        "length": 122
     },
     {
         "filmId": "the_twilight_saga_new_moon",
@@ -293,53 +319,6 @@
         "length": 95
     },
     {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_cycle",
-        "name": "Цикл зверя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "криминал"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "78548",
-        "name": "Телесеть",
-        "rating": 16,
-        "genres": [
-            "драма"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "la_cenerentola",
         "name": "Жан-Пьер Поннель: Золушка",
         "rating": 12,
@@ -358,6 +337,18 @@
             "семейный"
         ],
         "length": 140
+    },
+    {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "zhivaja_kniga",
@@ -425,6 +416,18 @@
         "length": 100
     },
     {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
         "filmId": "leto_v_badene",
         "name": "Лето в Бадене",
         "rating": 18,
@@ -483,18 +486,6 @@
             "семейный"
         ],
         "length": 160
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
     },
     {
         "filmId": "78427",
