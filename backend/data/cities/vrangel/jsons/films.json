@@ -1,62 +1,5 @@
 [
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_cycle",
-        "name": "Цикл зверя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "криминал"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_curse",
-        "name": "Последнее проклятие",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "rozhdenie_imperii",
         "name": "Рождение империи",
         "rating": 12,
@@ -211,6 +154,16 @@
         "length": 145
     },
     {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "spider_man_brand_new_day",
         "name": "Человек-паук: Новый день",
         "rating": 12,
@@ -282,6 +235,15 @@
         "length": 100
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "78470",
         "name": "GUCCI — Лекция Ярослава Михеева",
         "rating": 16,
@@ -325,6 +287,15 @@
         "length": 105
     },
     {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -345,6 +316,15 @@
         "length": 95
     },
     {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "fall_2_deadpoint",
         "name": "Вышка 2",
         "rating": 18,
@@ -353,6 +333,17 @@
             "драма"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_cycle",
+        "name": "Цикл зверя",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "криминал"
+        ],
+        "length": 110
     },
     {
         "filmId": "paket_santet",
@@ -579,5 +570,16 @@
             "балет"
         ],
         "length": 122
+    },
+    {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
     }
 ]
