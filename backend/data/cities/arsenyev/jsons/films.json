@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "rozhdenie_imperii",
         "name": "Рождение империи",
         "rating": 12,
@@ -42,6 +21,27 @@
         "length": 100
     },
     {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "forgotten_island",
         "name": "Остров забвения",
         "rating": 6,
@@ -55,15 +55,15 @@
         "length": 110
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
         "rating": 12,
         "genres": [
+            "фэнтези",
             "приключения",
-            "драма",
-            "спорт"
+            "семейный"
         ],
-        "length": 145
+        "length": -1
     },
     {
         "filmId": "other_mommy",
@@ -76,16 +76,15 @@
         "length": 95
     },
     {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
         "genres": [
-            "триллер",
+            "приключения",
             "драма",
-            "криминал",
-            "детектив"
+            "спорт"
         ],
-        "length": 110
+        "length": 145
     },
     {
         "filmId": "ruki_vverh_2",
@@ -97,16 +96,5 @@
             "мелодрама"
         ],
         "length": 95
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
     }
 ]

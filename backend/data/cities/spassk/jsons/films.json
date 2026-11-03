@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -9,16 +20,6 @@
             "семейный"
         ],
         "length": 110
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "skazka_o_poterjannom_vremeni",
@@ -31,24 +32,14 @@
         "length": 90
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "семейный"
         ],
-        "length": 140
-    },
-    {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
+        "length": 100
     },
     {
         "filmId": "zhivaja_kniga",
@@ -60,5 +51,14 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     }
 ]
