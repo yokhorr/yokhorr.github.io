@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
+        "filmId": "morozko_2026",
+        "name": "Морозко",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "комедия",
+            "фэнтези",
             "семейный"
         ],
-        "length": 90
+        "length": 100
     },
     {
         "filmId": "skazka_o_poterjannom_vremeni",
@@ -19,16 +18,6 @@
             "детский"
         ],
         "length": 90
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "chudojudo",
@@ -116,5 +105,16 @@
             "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "shaun_the_sheep_the_beast",
+        "name": "Барашек Шон и Чудище Лохматое",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     }
 ]
