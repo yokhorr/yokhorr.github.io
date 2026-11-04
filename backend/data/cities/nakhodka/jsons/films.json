@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -9,6 +30,17 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
     },
     {
         "filmId": "78697",
@@ -23,48 +55,6 @@
         "length": 50
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "shaun_the_sheep_the_beast",
         "name": "Барашек Шон и Чудище Лохматое",
         "rating": 6,
@@ -76,48 +66,82 @@
         "length": 90
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
+        "filmId": "forgotten_island",
+        "name": "Остров забвения",
+        "rating": 6,
         "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
             "приключения",
-            "драма",
-            "спорт"
+            "семейный"
         ],
-        "length": 145
+        "length": 110
     },
     {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
         "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
+            "триллер",
+            "драма"
         ],
-        "length": 95
+        "length": 105
     },
     {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
         "genres": [
-            "боевик",
             "триллер",
             "драма",
-            "приключения"
+            "криминал",
+            "детектив"
         ],
-        "length": 100
+        "length": 110
     },
     {
-        "filmId": "digger",
-        "name": "Диггер",
-        "rating": 16,
+        "filmId": "les_miserables",
+        "name": "Отверженные",
+        "rating": 18,
         "genres": [
             "драма",
-            "комедия"
+            "мелодрама"
         ],
-        "length": 130
+        "length": 183
+    },
+    {
+        "filmId": "wicker",
+        "name": "Плетёный муж",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_dog_stars",
+        "name": "Собачьи звёзды",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "драма"
+        ],
+        "length": 122
+    },
+    {
+        "filmId": "street_fighter",
+        "name": "Уличный боец",
+        "rating": 16,
+        "genres": [
+            "боевик"
+        ],
+        "length": 125
     },
     {
         "filmId": "clayface",
@@ -130,47 +154,13 @@
         "length": 110
     },
     {
-        "filmId": "practical_magic_2",
-        "name": "Практическая магия 2",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
+        "filmId": "the_cycle",
+        "name": "Цикл зверя",
         "rating": 18,
         "genres": [
-            "боевик",
+            "ужасы",
             "триллер",
-            "драма",
             "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
-        "rating": 16,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
         ],
         "length": 110
     }
