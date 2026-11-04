@@ -1,53 +1,5 @@
 [
     {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "paket_santet",
-        "name": "Шкатулка проклятия. Зло внутри",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -190,6 +142,18 @@
         "length": 95
     },
     {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "tuner",
         "name": "Настройщик",
         "rating": 18,
@@ -302,6 +266,15 @@
         "length": 105
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "other_mommy",
         "name": "Чужая мама",
         "rating": 18,
@@ -310,6 +283,24 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "paket_santet",
+        "name": "Шкатулка проклятия. Зло внутри",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 100
     },
     {
         "filmId": "inglourious_basterds",
@@ -462,6 +453,20 @@
             "фэнтези",
             "приключения",
             "семейный"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "the_hunger_games_sunrise",
+        "name": "Голодные игры: Рассвет жатвы",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
         ],
         "length": 150
     }
