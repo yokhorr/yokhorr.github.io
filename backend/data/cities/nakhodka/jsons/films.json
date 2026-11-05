@@ -8,7 +8,7 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
+        "length": 105
     },
     {
         "filmId": "morozko_2026",
@@ -19,6 +19,18 @@
             "семейный"
         ],
         "length": 100
+    },
+    {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "chudojudo",
@@ -43,16 +55,14 @@
         "length": 140
     },
     {
-        "filmId": "78697",
-        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
-        "rating": 0,
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
         "genres": [
-            "мультфильм",
             "приключения",
-            "комедия",
-            "фэнтези"
+            "детский"
         ],
-        "length": 50
+        "length": 90
     },
     {
         "filmId": "shaun_the_sheep_the_beast",
@@ -101,6 +111,51 @@
         "length": 110
     },
     {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "tuner",
+        "name": "Настройщик",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "криминал",
+            "музыка"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -125,6 +180,18 @@
         "length": 105
     },
     {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "the_dog_stars",
         "name": "Собачьи звёзды",
         "rating": 16,
@@ -133,6 +200,17 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": 95
     },
     {
         "filmId": "street_fighter",
@@ -144,14 +222,13 @@
         "length": 125
     },
     {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик"
+            "ужасы"
         ],
-        "length": 110
+        "length": 105
     },
     {
         "filmId": "the_cycle",

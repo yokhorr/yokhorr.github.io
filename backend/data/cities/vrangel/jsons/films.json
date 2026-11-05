@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -52,18 +62,7 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
+        "length": 105
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -88,14 +87,26 @@
         "length": 90
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
         "genres": [
-            "фэнтези",
+            "мультфильм",
+            "приключения",
             "семейный"
         ],
-        "length": 100
+        "length": 75
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -108,17 +119,6 @@
             "мелодрама"
         ],
         "length": 125
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
     },
     {
         "filmId": "minions_and_monsters",
@@ -178,6 +178,18 @@
         "length": 110
     },
     {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -203,16 +215,6 @@
         "length": 105
     },
     {
-        "filmId": "navar",
-        "name": "Навар",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "clayface",
         "name": "Клэйфейс",
         "rating": 18,
@@ -235,25 +237,35 @@
         "length": 100
     },
     {
-        "filmId": "leto_v_badene",
-        "name": "Лето в Бадене",
+        "filmId": "inglourious_basterds",
+        "name": "Бесславные ублюдки",
         "rating": 18,
         "genres": [
-            "драма"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
             "боевик",
-            "приключения"
+            "приключения",
+            "военный"
         ],
         "length": 150
+    },
+    {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "navar",
+        "name": "Навар",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "length": 85
     },
     {
         "filmId": "whalefall",
@@ -275,16 +287,6 @@
         "length": 90
     },
     {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "salmokji",
         "name": "Проклятие Сальмокджи",
         "rating": 18,
@@ -303,15 +305,16 @@
         "length": 100
     },
     {
-        "filmId": "inglourious_basterds",
-        "name": "Бесславные ублюдки",
-        "rating": 18,
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
         "genres": [
-            "боевик",
+            "мультфильм",
             "приключения",
-            "военный"
+            "комедия",
+            "фэнтези"
         ],
-        "length": 150
+        "length": 50
     },
     {
         "filmId": "78978",
@@ -469,5 +472,12 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "78650",
+        "name": "Премьера! «Ночь пожирателей рекламы 2026: Эра искусственного интеллекта»",
+        "rating": 18,
+        "genres": [],
+        "length": -1
     }
 ]

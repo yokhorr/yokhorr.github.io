@@ -21,6 +21,17 @@
         "length": 100
     },
     {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "rozhdenie_imperii",
         "name": "Рождение империи",
         "rating": 12,
@@ -32,27 +43,6 @@
         "length": 140
     },
     {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -61,15 +51,6 @@
             "детский"
         ],
         "length": 90
-    },
-    {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
-        "rating": 16,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -124,6 +105,16 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "wicker",

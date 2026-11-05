@@ -1,5 +1,15 @@
 [
     {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -29,7 +39,7 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
+        "length": 105
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -62,16 +72,6 @@
             "ужасы"
         ],
         "length": 95
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
     },
     {
         "filmId": "wicker",

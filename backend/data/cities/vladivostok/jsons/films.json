@@ -1,5 +1,54 @@
 [
     {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "rolling_loud",
+        "name": "Роллинг Лауд. Дикое веселье",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -52,18 +101,7 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
+        "length": 105
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -88,14 +126,26 @@
         "length": 90
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
         "genres": [
-            "фэнтези",
+            "мультфильм",
+            "приключения",
             "семейный"
         ],
-        "length": 100
+        "length": 75
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -110,17 +160,6 @@
         "length": 125
     },
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -131,27 +170,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "rolling_loud",
-        "name": "Роллинг Лауд. Дикое веселье",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
     },
     {
         "filmId": "tuner",
@@ -176,6 +194,18 @@
             "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "the_odyssey",
@@ -203,16 +233,6 @@
         "length": 105
     },
     {
-        "filmId": "navar",
-        "name": "Навар",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "clayface",
         "name": "Клэйфейс",
         "rating": 18,
@@ -235,44 +255,15 @@
         "length": 100
     },
     {
-        "filmId": "leto_v_badene",
-        "name": "Лето в Бадене",
+        "filmId": "inglourious_basterds",
+        "name": "Бесславные ублюдки",
         "rating": 18,
         "genres": [
-            "драма"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
             "боевик",
-            "приключения"
+            "приключения",
+            "военный"
         ],
         "length": 150
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "other_mommy",
@@ -285,13 +276,24 @@
         "length": 95
     },
     {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
+        "filmId": "navar",
+        "name": "Навар",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "драма",
+            "криминал"
         ],
-        "length": 95
+        "length": 85
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "paket_santet",
@@ -303,15 +305,16 @@
         "length": 100
     },
     {
-        "filmId": "inglourious_basterds",
-        "name": "Бесславные ублюдки",
-        "rating": 18,
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
         "genres": [
-            "боевик",
+            "мультфильм",
             "приключения",
-            "военный"
+            "комедия",
+            "фэнтези"
         ],
-        "length": 150
+        "length": 50
     },
     {
         "filmId": "78978",
