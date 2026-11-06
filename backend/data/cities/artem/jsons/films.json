@@ -11,16 +11,6 @@
         "length": 90
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "zhivaja_kniga",
         "name": "Живая книга",
         "rating": 12,
@@ -32,15 +22,14 @@
         "length": 105
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "семейный"
         ],
-        "length": 140
+        "length": 100
     },
     {
         "filmId": "skazka_o_poterjannom_vremeni",
@@ -51,6 +40,17 @@
             "детский"
         ],
         "length": 90
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -65,25 +65,15 @@
         "length": 125
     },
     {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
         "genres": [
-            "триллер",
+            "история",
+            "биография",
             "драма"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
+        "length": 140
     },
     {
         "filmId": "bitva_motorov",
@@ -105,6 +95,16 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "clayface",

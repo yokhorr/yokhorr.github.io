@@ -1,5 +1,64 @@
 [
     {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "rolling_loud",
+        "name": "Роллинг Лауд. Дикое веселье",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -10,24 +69,15 @@
         "length": 100
     },
     {
-        "filmId": "les_miserables",
-        "name": "Отверженные",
-        "rating": 18,
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
         "genres": [
-            "драма",
-            "мелодрама"
+            "история",
+            "биография",
+            "драма"
         ],
-        "length": 183
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
+        "length": 140
     },
     {
         "filmId": "forgotten_island",
@@ -65,28 +115,6 @@
         "length": 105
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -98,15 +126,26 @@
         "length": 145
     },
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
         "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
         "genres": [
             "мультфильм",
             "приключения",
-            "семейный"
+            "комедия",
+            "фэнтези"
         ],
-        "length": 75
+        "length": 50
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -121,6 +160,42 @@
         "length": 125
     },
     {
+        "filmId": "shaun_the_sheep_the_beast",
+        "name": "Барашек Шон и Чудище Лохматое",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "wicker",
+        "name": "Плетёный муж",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия",
+            "история"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -133,25 +208,26 @@
         "length": 90
     },
     {
-        "filmId": "rolling_loud",
-        "name": "Роллинг Лауд. Дикое веселье",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
         "genres": [
             "боевик",
             "триллер",
             "драма",
-            "криминал"
+            "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "les_miserables",
+        "name": "Отверженные",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 183
     },
     {
         "filmId": "tuner",
@@ -190,51 +266,23 @@
         "length": 150
     },
     {
-        "filmId": "the_odyssey",
-        "name": "Одиссея",
-        "rating": 18,
+        "filmId": "78978",
+        "name": "Енисей – Динамо. Прямая трансляция баскетбольного матча (Чемпионат Единой Лиги ВТБ 2026/27)",
+        "rating": 6,
         "genres": [
-            "фэнтези",
-            "боевик",
-            "приключения"
+            "прямая трансляция"
         ],
-        "length": 170
+        "length": 160
     },
     {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
+        "filmId": "navar",
+        "name": "Навар",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "фэнтези",
             "драма",
-            "мелодрама",
-            "комедия",
-            "история"
+            "криминал"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
+        "length": 85
     },
     {
         "filmId": "inglourious_basterds",
@@ -258,44 +306,6 @@
         "length": 95
     },
     {
-        "filmId": "navar",
-        "name": "Навар",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "paket_santet",
         "name": "Шкатулка проклятия. Зло внутри",
         "rating": 18,
@@ -303,27 +313,6 @@
             "ужасы"
         ],
         "length": 100
-    },
-    {
-        "filmId": "78697",
-        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "78978",
-        "name": "Енисей – Динамо. Прямая трансляция баскетбольного матча (Чемпионат Единой Лиги ВТБ 2026/27)",
-        "rating": 6,
-        "genres": [
-            "прямая трансляция"
-        ],
-        "length": 160
     },
     {
         "filmId": "svjatye_predprinimateli",
@@ -472,6 +461,15 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "malika",
+        "name": "Малика",
+        "rating": 18,
+        "genres": [
+            "драма"
+        ],
+        "length": 95
     },
     {
         "filmId": "78650",

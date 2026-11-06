@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
+        "filmId": "morozko_2026",
+        "name": "Морозко",
         "rating": 6,
         "genres": [
             "фэнтези",
-            "приключения",
             "семейный"
         ],
-        "length": 110
+        "length": 100
     },
     {
         "filmId": "shaun_the_sheep_the_beast",
@@ -22,14 +21,15 @@
         "length": 90
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
             "фэнтези",
+            "приключения",
             "семейный"
         ],
-        "length": 100
+        "length": 110
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -53,6 +53,16 @@
         "length": 183
     },
     {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "twilight_saga_eclipse",
         "name": "Сумерки. Сага. Затмение",
         "rating": 18,
@@ -65,24 +75,25 @@
         "length": 125
     },
     {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
     },
     {
         "filmId": "the_beast",
@@ -95,26 +106,5 @@
             "криминал"
         ],
         "length": 100
-    },
-    {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
     }
 ]
