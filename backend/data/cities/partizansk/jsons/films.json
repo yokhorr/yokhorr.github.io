@@ -1,44 +1,5 @@
 [
     {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "rolling_loud",
-        "name": "Роллинг Лауд. Дикое веселье",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -186,6 +147,18 @@
         "length": 105
     },
     {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "minions_and_monsters",
         "name": "Миньоны и Монстры",
         "rating": 6,
@@ -296,12 +269,39 @@
         "length": 110
     },
     {
+        "filmId": "rolling_loud",
+        "name": "Роллинг Лауд. Дикое веселье",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "other_mommy",
         "name": "Чужая мама",
         "rating": 18,
         "genres": [
             "ужасы",
             "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 95
     },
