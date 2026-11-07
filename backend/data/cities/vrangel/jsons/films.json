@@ -1,13 +1,130 @@
 [
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
+        "filmId": "tuner",
+        "name": "Настройщик",
+        "rating": 18,
         "genres": [
+            "драма",
+            "мелодрама",
+            "криминал",
+            "музыка"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "wicker",
+        "name": "Плетёный муж",
+        "rating": 18,
+        "genres": [
+            "фантастика",
             "фэнтези",
-            "семейный"
+            "драма",
+            "мелодрама",
+            "комедия",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "paket_santet",
+        "name": "Шкатулка проклятия. Зло внутри",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "rolling_loud",
+        "name": "Роллинг Лауд. Дикое веселье",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "navar",
+        "name": "Навар",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "length": 85
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -34,6 +151,16 @@
         "length": 110
     },
     {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -54,17 +181,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
     },
     {
         "filmId": "skazka_o_poterjannom_vremeni",
@@ -89,18 +205,6 @@
         "length": 50
     },
     {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "shaun_the_sheep_the_beast",
         "name": "Барашек Шон и Чудище Лохматое",
         "rating": 6,
@@ -108,65 +212,6 @@
             "мультфильм",
             "комедия",
             "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
         ],
         "length": 90
     },
@@ -183,6 +228,29 @@
         "length": 100
     },
     {
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "les_miserables",
         "name": "Отверженные",
         "rating": 18,
@@ -193,16 +261,13 @@
         "length": 183
     },
     {
-        "filmId": "tuner",
-        "name": "Настройщик",
-        "rating": 18,
+        "filmId": "svjatye_predprinimateli",
+        "name": "Святые предприниматели",
+        "rating": 16,
         "genres": [
-            "драма",
-            "мелодрама",
-            "криминал",
-            "музыка"
+            "документальный"
         ],
-        "length": 110
+        "length": 80
     },
     {
         "filmId": "verity",
@@ -229,25 +294,6 @@
         "length": 150
     },
     {
-        "filmId": "78978",
-        "name": "Енисей – Динамо. Прямая трансляция баскетбольного матча (Чемпионат Единой Лиги ВТБ 2026/27)",
-        "rating": 6,
-        "genres": [
-            "прямая трансляция"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "navar",
-        "name": "Навар",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "inglourious_basterds",
         "name": "Бесславные ублюдки",
         "rating": 18,
@@ -259,34 +305,6 @@
         "length": 150
     },
     {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "rolling_loud",
-        "name": "Роллинг Лауд. Дикое веселье",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "other_mommy",
         "name": "Чужая мама",
         "rating": 18,
@@ -295,33 +313,6 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "paket_santet",
-        "name": "Шкатулка проклятия. Зло внутри",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "svjatye_predprinimateli",
-        "name": "Святые предприниматели",
-        "rating": 16,
-        "genres": [
-            "документальный"
-        ],
-        "length": 80
     },
     {
         "filmId": "bigger_splash",
