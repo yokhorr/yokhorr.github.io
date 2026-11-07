@@ -1,26 +1,5 @@
 [
     {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -106,5 +85,26 @@
             "детектив"
         ],
         "length": 110
+    },
+    {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
     }
 ]
