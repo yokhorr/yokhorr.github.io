@@ -23,16 +23,6 @@
         "length": 110
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -77,6 +67,16 @@
         "length": 140
     },
     {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "shaun_the_sheep_the_beast",
         "name": "Барашек Шон и Чудище Лохматое",
         "rating": 6,
@@ -100,15 +100,6 @@
         "length": 125
     },
     {
-        "filmId": "rolling_loud",
-        "name": "Роллинг Лауд. Дикое веселье",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "prikljuchenija_mamontenka",
         "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
@@ -118,6 +109,15 @@
             "семейный"
         ],
         "length": 75
+    },
+    {
+        "filmId": "rolling_loud",
+        "name": "Роллинг Лауд. Дикое веселье",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 95
     },
     {
         "filmId": "minions_and_monsters",
@@ -246,13 +246,13 @@
         "length": 85
     },
     {
-        "filmId": "bigger_splash",
-        "name": "Большой всплеск",
-        "rating": 18,
+        "filmId": "zhenitba_balzaminova_2026",
+        "name": "Московский театр «Современник»: Женитьба Бальзаминова",
+        "rating": 16,
         "genres": [
+            "фильм-спектакль",
             "драма",
-            "криминал",
-            "детектив"
+            "комедия"
         ],
         "length": 125
     },
@@ -305,17 +305,6 @@
         "length": 100
     },
     {
-        "filmId": "zhenitba_balzaminova_2026",
-        "name": "Московский театр «Современник»: Женитьба Бальзаминова",
-        "rating": 16,
-        "genres": [
-            "фильм-спектакль",
-            "драма",
-            "комедия"
-        ],
-        "length": 125
-    },
-    {
         "filmId": "garri_potter_i_tajnaja_komnata",
         "name": "Гарри Поттер и тайная комната",
         "rating": 12,
@@ -325,6 +314,87 @@
             "семейный"
         ],
         "length": 160
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "gg_bond_race_through_time",
+        "name": "Зверодвиж",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "72194",
+        "name": "Театр им. Вл. Маяковского: Лес",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 185
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "spa_weekend",
+        "name": "Девичник в спа",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_influencer_project",
+        "name": "Инфлюенсер",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "the_mask_one_faceless",
+        "name": "Безликие. Кошмар джунглей",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "78427",
@@ -459,5 +529,14 @@
             "история"
         ],
         "length": 130
+    },
+    {
+        "filmId": "pushkins_fairy_tales",
+        "name": "Театр Наций: Сказки Пушкина",
+        "rating": 12,
+        "genres": [
+            "фильм-спектакль"
+        ],
+        "length": 135
     }
 ]
