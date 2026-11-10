@@ -1,26 +1,14 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
         "genres": [
-            "приключения",
-            "детский"
+            "история",
+            "биография",
+            "драма"
         ],
-        "length": 90
-    },
-    {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
+        "length": 140
     },
     {
         "filmId": "chudojudo",
@@ -34,6 +22,17 @@
         "length": 110
     },
     {
+        "filmId": "shaun_the_sheep_the_beast",
+        "name": "Барашек Шон и Чудище Лохматое",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "zhivaja_kniga",
         "name": "Живая книга",
         "rating": 12,
@@ -45,26 +44,15 @@
         "length": 105
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
+        "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "драма",
-            "спорт"
+            "семейный"
         ],
-        "length": 145
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
+        "length": 75
     },
     {
         "filmId": "morozko_2026",
@@ -77,15 +65,15 @@
         "length": 100
     },
     {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
-        "rating": 6,
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
+            "приключения",
+            "драма",
+            "спорт"
         ],
-        "length": 90
+        "length": 145
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -100,17 +88,6 @@
         "length": 125
     },
     {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
         "filmId": "rolling_loud",
         "name": "Роллинг Лауд. Дикое веселье",
         "rating": 18,
@@ -118,6 +95,16 @@
             "комедия"
         ],
         "length": 95
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
     },
     {
         "filmId": "minions_and_monsters",
@@ -303,6 +290,19 @@
             "ужасы"
         ],
         "length": 100
+    },
+    {
+        "filmId": "forgotten_island",
+        "name": "Остров забвения",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
     },
     {
         "filmId": "garri_potter_i_tajnaja_komnata",
