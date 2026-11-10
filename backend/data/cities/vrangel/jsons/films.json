@@ -1,25 +1,36 @@
 [
     {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
         "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "forgotten_island",
+        "name": "Остров забвения",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
             "фэнтези",
+            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 105
+        "length": 110
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "семейный"
         ],
-        "length": 140
+        "length": 100
     },
     {
         "filmId": "chudojudo",
@@ -33,36 +44,15 @@
         "length": 110
     },
     {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
-        "rating": 6,
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
+            "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 75
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
+        "length": 105
     },
     {
         "filmId": "bitva_motorov",
@@ -74,6 +64,28 @@
             "спорт"
         ],
         "length": 145
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "shaun_the_sheep_the_beast",
+        "name": "Барашек Шон и Чудище Лохматое",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -97,14 +109,15 @@
         "length": 95
     },
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
+        "filmId": "prikljuchenija_mamontenka",
+        "name": "Приключения мамонтенка. В поисках мамы",
         "rating": 6,
         "genres": [
+            "мультфильм",
             "приключения",
-            "детский"
+            "семейный"
         ],
-        "length": 90
+        "length": 75
     },
     {
         "filmId": "minions_and_monsters",
@@ -131,6 +144,16 @@
         "length": 100
     },
     {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "wicker",
         "name": "Плетёный муж",
         "rating": 18,
@@ -155,18 +178,6 @@
         "length": 183
     },
     {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "tuner",
         "name": "Настройщик",
         "rating": 18,
@@ -175,6 +186,18 @@
             "мелодрама",
             "криминал",
             "музыка"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
         "length": 110
     },
@@ -189,16 +212,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
     },
     {
         "filmId": "clayface",
@@ -233,15 +246,15 @@
         "length": 85
     },
     {
-        "filmId": "zhenitba_balzaminova_2026",
-        "name": "Московский театр «Современник»: Женитьба Бальзаминова",
-        "rating": 16,
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
         "genres": [
-            "фильм-спектакль",
-            "драма",
-            "комедия"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 125
+        "length": 160
     },
     {
         "filmId": "inglourious_basterds",
@@ -292,8 +305,8 @@
         "length": 100
     },
     {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
         "rating": 6,
         "genres": [
             "мультфильм",
@@ -302,28 +315,7 @@
             "приключения",
             "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 160
-    },
-    {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": -1
+        "length": 105
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -332,6 +324,16 @@
         "genres": [
             "комедия",
             "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 6,
+        "genres": [
+            "комедия",
             "семейный"
         ],
         "length": -1
@@ -349,14 +351,14 @@
         "length": 85
     },
     {
-        "filmId": "72194",
-        "name": "Театр им. Вл. Маяковского: Лес",
-        "rating": 16,
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
         "genres": [
-            "фильм-спектакль",
-            "драма"
+            "драма",
+            "биография"
         ],
-        "length": 185
+        "length": 145
     },
     {
         "filmId": "victorian_psycho",
@@ -368,6 +370,36 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "72194",
+        "name": "Театр им. Вл. Маяковского: Лес",
+        "rating": 16,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 185
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "79232",
+        "name": "Земля леопарда: история спасения",
+        "rating": 0,
+        "genres": [
+            "документальный"
+        ],
+        "length": 122
     },
     {
         "filmId": "spa_weekend",
@@ -478,6 +510,13 @@
         "length": 122
     },
     {
+        "filmId": "79233",
+        "name": "Киноклуб «Кино и Смыслы»: х/ф «Король говорит»",
+        "rating": 16,
+        "genres": [],
+        "length": 160
+    },
+    {
         "filmId": "garri_potter_i_kubok_ognja",
         "name": "Гарри Поттер и Кубок огня",
         "rating": 16,
@@ -536,6 +575,17 @@
         "rating": 12,
         "genres": [
             "фильм-спектакль"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
         "length": 135
     }

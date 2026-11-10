@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
         "filmId": "forgotten_island",
         "name": "Остров забвения",
         "rating": 6,
@@ -22,6 +11,38 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
     },
     {
         "filmId": "clayface",
@@ -99,24 +120,36 @@
         "length": 95
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
+            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 110
+        "length": -1
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "the_influencer_project",
+        "name": "Инфлюенсер",
+        "rating": 18,
+        "genres": [
+            "триллер"
+        ],
+        "length": 100
     }
 ]

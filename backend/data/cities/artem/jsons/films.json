@@ -1,5 +1,37 @@
 [
     {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "shaun_the_sheep_the_beast",
+        "name": "Барашек Шон и Чудище Лохматое",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "zhivaja_kniga",
         "name": "Живая книга",
         "rating": 12,
@@ -19,17 +51,6 @@
             "семейный"
         ],
         "length": 100
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
     },
     {
         "filmId": "chudojudo",
@@ -122,24 +143,69 @@
         "length": 95
     },
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
         "rating": 6,
         "genres": [
             "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 6,
+        "genres": [
             "комедия",
             "семейный"
         ],
-        "length": 90
+        "length": -1
+    },
+    {
+        "filmId": "garri_potter_i_filosofskij_kamen",
+        "name": "Гарри Поттер и философский камень",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "navar",
+        "name": "Навар",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "криминал"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
     }
 ]

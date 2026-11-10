@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -8,17 +19,6 @@
             "семейный"
         ],
         "length": 100
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
     },
     {
         "filmId": "78697",
@@ -33,16 +33,6 @@
         "length": 50
     },
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -52,6 +42,27 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
     },
     {
         "filmId": "shaun_the_sheep_the_beast",
@@ -76,17 +87,6 @@
             "семейный"
         ],
         "length": 110
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
     },
     {
         "filmId": "whalefall",
