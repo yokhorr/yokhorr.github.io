@@ -1,148 +1,5 @@
 [
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
         "filmId": "the_cat_in_the_hat",
         "name": "Кот в шляпе",
         "rating": 6,
@@ -167,6 +24,28 @@
         "length": -1
     },
     {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "luchshee_leto_v_zhizni",
         "name": "Лучшее лето в жизни",
         "rating": 6,
@@ -175,6 +54,29 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     },
     {
         "filmId": "garri_potter_i_filosofskij_kamen",
@@ -188,6 +90,16 @@
         "length": 140
     },
     {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "navar",
         "name": "Навар",
         "rating": 18,
@@ -196,6 +108,26 @@
             "криминал"
         ],
         "length": 85
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
     },
     {
         "filmId": "victorian_psycho",
@@ -207,5 +139,26 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
     }
 ]

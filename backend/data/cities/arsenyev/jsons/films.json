@@ -13,46 +13,15 @@
         "length": 110
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
+            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
+        "length": -1
     },
     {
         "filmId": "zhivaja_kniga",
@@ -66,6 +35,17 @@
         "length": 105
     },
     {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -74,61 +54,6 @@
             "детский"
         ],
         "length": 90
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
     },
     {
         "filmId": "the_cat_in_the_hat",
@@ -151,5 +76,47 @@
             "триллер"
         ],
         "length": 100
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
     }
 ]

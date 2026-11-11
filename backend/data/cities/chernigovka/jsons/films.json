@@ -1,13 +1,15 @@
 [
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "gg_bond_race_through_time",
+        "name": "Зверодвиж",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "семейный"
+            "мультфильм",
+            "детский",
+            "фантастика",
+            "приключения"
         ],
-        "length": 100
+        "length": 85
     },
     {
         "filmId": "chudojudo",
@@ -21,15 +23,25 @@
         "length": 110
     },
     {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 6,
         "genres": [
-            "фэнтези",
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 105
+        "length": -1
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -43,6 +55,16 @@
         "length": 140
     },
     {
+        "filmId": "les",
+        "name": "Лес",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "twilight_saga_eclipse",
         "name": "Сумерки. Сага. Затмение",
         "rating": 18,
@@ -53,5 +75,16 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     }
 ]

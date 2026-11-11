@@ -1,1 +1,110 @@
-[]
+[
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
+    }
+]

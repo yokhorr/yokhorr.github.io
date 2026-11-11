@@ -1,137 +1,5 @@
 [
     {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "rolling_loud",
-        "name": "Роллинг Лауд. Дикое веселье",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "prikljuchenija_mamontenka",
-        "name": "Приключения мамонтенка. В поисках мамы",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
         "filmId": "the_beast",
         "name": "Зверь",
         "rating": 18,
@@ -144,6 +12,15 @@
         "length": 100
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "whalefall",
         "name": "Кит: Во тьме глубин",
         "rating": 18,
@@ -154,40 +31,23 @@
         "length": 105
     },
     {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
+        "filmId": "clayface",
+        "name": "Клэйфейс",
         "rating": 18,
         "genres": [
             "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия",
-            "история"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "les_miserables",
-        "name": "Отверженные",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 183
-    },
-    {
-        "filmId": "tuner",
-        "name": "Настройщик",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "криминал",
-            "музыка"
+            "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "salmokji",
+        "name": "Проклятие Сальмокджи",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 95
     },
     {
         "filmId": "verity",
@@ -202,107 +62,15 @@
         "length": 110
     },
     {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
         "rating": 12,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "navar",
-        "name": "Навар",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "криминал"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "garri_potter_i_tajnaja_komnata",
-        "name": "Гарри Поттер и тайная комната",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
             "приключения",
-            "семейный"
+            "драма",
+            "спорт"
         ],
-        "length": 160
-    },
-    {
-        "filmId": "inglourious_basterds",
-        "name": "Бесславные ублюдки",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "приключения",
-            "военный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "paket_santet",
-        "name": "Шкатулка проклятия. Зло внутри",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 100
+        "length": 145
     },
     {
         "filmId": "the_cat_in_the_hat",
@@ -316,6 +84,37 @@
             "семейный"
         ],
         "length": 105
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "les_miserables",
+        "name": "Отверженные",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -339,6 +138,38 @@
         "length": -1
     },
     {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "gg_bond_race_through_time",
         "name": "Зверодвиж",
         "rating": 6,
@@ -351,6 +182,17 @@
         "length": 85
     },
     {
+        "filmId": "shaun_the_sheep_the_beast",
+        "name": "Барашек Шон и Чудище Лохматое",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "семейный"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "lilja",
         "name": "Лиля",
         "rating": 18,
@@ -359,6 +201,30 @@
             "биография"
         ],
         "length": 145
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
     },
     {
         "filmId": "victorian_psycho",
@@ -372,14 +238,40 @@
         "length": 100
     },
     {
-        "filmId": "72194",
-        "name": "Театр им. Вл. Маяковского: Лес",
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
         "rating": 16,
         "genres": [
-            "фильм-спектакль",
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "les",
+        "name": "Лес",
+        "rating": 18,
+        "genres": [
+            "триллер",
             "драма"
         ],
-        "length": 185
+        "length": -1
+    },
+    {
+        "filmId": "wicker",
+        "name": "Плетёный муж",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия",
+            "история"
+        ],
+        "length": 105
     },
     {
         "filmId": "garri_potter_i_filosofskij_kamen",
@@ -393,13 +285,16 @@
         "length": 140
     },
     {
-        "filmId": "79232",
-        "name": "Земля леопарда: история спасения",
-        "rating": 0,
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
         "genres": [
-            "документальный"
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
         ],
-        "length": 122
+        "length": 150
     },
     {
         "filmId": "spa_weekend",
@@ -409,6 +304,28 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "tuner",
+        "name": "Настройщик",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "криминал",
+            "музыка"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_influencer_project",
@@ -429,6 +346,17 @@
         "length": 90
     },
     {
+        "filmId": "inglourious_basterds",
+        "name": "Бесславные ублюдки",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "приключения",
+            "военный"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "78427",
         "name": "Спартак — Адмирал. Прямая трансляция (Фонбет Чемпионат КХЛ 2026/2027)",
         "rating": 6,
@@ -436,6 +364,17 @@
             "прямая трансляция"
         ],
         "length": -1
+    },
+    {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
     },
     {
         "filmId": "faust_1926",

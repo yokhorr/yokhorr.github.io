@@ -1,5 +1,60 @@
 [
     {
+        "filmId": "gg_bond_race_through_time",
+        "name": "Зверодвиж",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -21,50 +76,14 @@
         "length": 140
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
         "rating": 6,
         "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
             "комедия",
-            "история"
+            "семейный"
         ],
-        "length": 105
+        "length": -1
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -79,12 +98,13 @@
         "length": 125
     },
     {
-        "filmId": "salmokji",
-        "name": "Проклятие Сальмокджи",
+        "filmId": "les",
+        "name": "Лес",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "триллер",
+            "драма"
         ],
-        "length": 95
+        "length": -1
     }
 ]

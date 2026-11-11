@@ -1,24 +1,14 @@
 [
     {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
         "rating": 12,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
+            "история",
+            "биография",
+            "драма"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
+        "length": 140
     },
     {
         "filmId": "78697",
@@ -33,82 +23,54 @@
         "length": 50
     },
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "shaun_the_sheep_the_beast",
-        "name": "Барашек Шон и Чудище Лохматое",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "семейный"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
+        "filmId": "les_miserables",
+        "name": "Отверженные",
         "rating": 18,
         "genres": [
-            "триллер",
-            "драма"
+            "драма",
+            "мелодрама"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "cerita_lila",
+        "name": "Синистер. Дом мертвых",
+        "rating": 18,
+        "genres": [
+            "ужасы"
         ],
         "length": 105
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -123,6 +85,39 @@
         "length": 125
     },
     {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -134,16 +129,14 @@
         "length": 145
     },
     {
-        "filmId": "tuner",
-        "name": "Настройщик",
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
         "rating": 18,
         "genres": [
-            "драма",
-            "мелодрама",
-            "криминал",
-            "музыка"
+            "триллер",
+            "драма"
         ],
-        "length": 110
+        "length": 105
     },
     {
         "filmId": "clayface",
@@ -154,30 +147,6 @@
             "боевик"
         ],
         "length": 110
-    },
-    {
-        "filmId": "les_miserables",
-        "name": "Отверженные",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 183
-    },
-    {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия",
-            "история"
-        ],
-        "length": 105
     },
     {
         "filmId": "the_beast",
@@ -192,14 +161,16 @@
         "length": 100
     },
     {
-        "filmId": "the_dog_stars",
-        "name": "Собачьи звёзды",
-        "rating": 16,
+        "filmId": "tuner",
+        "name": "Настройщик",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "драма"
+            "драма",
+            "мелодрама",
+            "криминал",
+            "музыка"
         ],
-        "length": 122
+        "length": 110
     },
     {
         "filmId": "ruki_vverh_2",
@@ -211,34 +182,5 @@
             "мелодрама"
         ],
         "length": 95
-    },
-    {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
-        "rating": 16,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "the_cycle",
-        "name": "Цикл зверя",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "криминал"
-        ],
-        "length": 110
     }
 ]
