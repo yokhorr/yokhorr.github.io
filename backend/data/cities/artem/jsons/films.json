@@ -1,5 +1,18 @@
 [
     {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "prikljuchenija_pingvinenka",
         "name": "Приключения пингвиненка",
         "rating": 6,
@@ -8,7 +21,17 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
+        "length": 70
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "zhivaja_kniga",
@@ -35,25 +58,23 @@
     {
         "filmId": "luchshee_leto_v_zhizni",
         "name": "Лучшее лето в жизни",
-        "rating": 6,
+        "rating": 12,
         "genres": [
             "комедия",
             "семейный"
         ],
-        "length": -1
+        "length": 80
     },
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "фэнтези",
-            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 105
+        "length": 110
     },
     {
         "filmId": "heart_of_the_beast",
@@ -139,26 +160,5 @@
             "комедия"
         ],
         "length": 100
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
     }
 ]

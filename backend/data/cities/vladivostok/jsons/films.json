@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "the_cat_in_the_hat",
         "name": "Кот в шляпе",
         "rating": 6,
@@ -52,27 +73,17 @@
             "приключения",
             "семейный"
         ],
-        "length": -1
+        "length": 70
     },
     {
         "filmId": "luchshee_leto_v_zhizni",
         "name": "Лучшее лето в жизни",
-        "rating": 6,
+        "rating": 12,
         "genres": [
             "комедия",
             "семейный"
         ],
-        "length": -1
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
+        "length": 80
     },
     {
         "filmId": "zhivaja_kniga",
@@ -95,17 +106,6 @@
             "семейный"
         ],
         "length": 110
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
     },
     {
         "filmId": "gg_bond_race_through_time",
@@ -217,7 +217,7 @@
             "триллер",
             "драма"
         ],
-        "length": -1
+        "length": 100
     },
     {
         "filmId": "wicker",
@@ -278,15 +278,6 @@
         "length": 90
     },
     {
-        "filmId": "spa_weekend",
-        "name": "Девичник в спа",
-        "rating": 18,
-        "genres": [
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "tuner",
         "name": "Настройщик",
         "rating": 18,
@@ -297,6 +288,25 @@
             "музыка"
         ],
         "length": 110
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "spa_weekend",
+        "name": "Девичник в спа",
+        "rating": 18,
+        "genres": [
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "other_mommy",
@@ -316,16 +326,6 @@
             "триллер"
         ],
         "length": 100
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
     },
     {
         "filmId": "the_mask_one_faceless",
