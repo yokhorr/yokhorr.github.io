@@ -1,18 +1,5 @@
 [
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "prikljuchenija_pingvinenka",
         "name": "Приключения пингвиненка",
         "rating": 6,
@@ -54,6 +41,19 @@
             "семейный"
         ],
         "length": -1
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "heart_of_the_beast",

@@ -1,29 +1,5 @@
 [
     {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
         "filmId": "zhivaja_kniga",
         "name": "Живая книга",
         "rating": 12,
@@ -54,6 +30,17 @@
             "детский"
         ],
         "length": 90
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": -1
     },
     {
         "filmId": "the_cat_in_the_hat",
@@ -118,5 +105,18 @@
             "триллер"
         ],
         "length": 95
+    },
+    {
+        "filmId": "forgotten_island",
+        "name": "Остров забвения",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
     }
 ]

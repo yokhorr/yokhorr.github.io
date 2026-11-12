@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "gg_bond_race_through_time",
-        "name": "Зверодвиж",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "детский",
-            "фантастика",
-            "приключения"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "morozko_2026",
         "name": "Морозко",
         "rating": 6,
@@ -106,5 +94,17 @@
             "драма"
         ],
         "length": -1
+    },
+    {
+        "filmId": "gg_bond_race_through_time",
+        "name": "Зверодвиж",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 85
     }
 ]
