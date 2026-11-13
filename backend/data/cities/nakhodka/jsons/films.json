@@ -21,15 +21,15 @@
         "length": 80
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
         "rating": 12,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 140
+        "length": 105
     },
     {
         "filmId": "78697",
@@ -97,17 +97,6 @@
         "length": 105
     },
     {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "cerita_lila",
         "name": "Синистер. Дом мертвых",
         "rating": 18,
@@ -115,6 +104,17 @@
             "ужасы"
         ],
         "length": 105
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
     },
     {
         "filmId": "spa_weekend",
@@ -138,17 +138,6 @@
         "length": 125
     },
     {
-        "filmId": "victorian_psycho",
-        "name": "Психопатка",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -158,6 +147,17 @@
             "семейный"
         ],
         "length": 110
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
     },
     {
         "filmId": "the_dog_stars",
@@ -189,6 +189,17 @@
             "боевик"
         ],
         "length": 110
+    },
+    {
+        "filmId": "ruki_vverh_2",
+        "name": "Руки Вверх! 2",
+        "rating": 16,
+        "genres": [
+            "музыка",
+            "биография",
+            "мелодрама"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_beast",
@@ -245,16 +256,5 @@
             "триллер"
         ],
         "length": 100
-    },
-    {
-        "filmId": "ruki_vverh_2",
-        "name": "Руки Вверх! 2",
-        "rating": 16,
-        "genres": [
-            "музыка",
-            "биография",
-            "мелодрама"
-        ],
-        "length": 95
     }
 ]

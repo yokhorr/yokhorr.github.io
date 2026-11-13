@@ -141,16 +141,6 @@
         "length": 110
     },
     {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "victorian_psycho",
         "name": "Психопатка",
         "rating": 18,
@@ -160,5 +150,15 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 105
     }
 ]

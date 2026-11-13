@@ -12,25 +12,15 @@
         "length": 85
     },
     {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
         "genres": [
             "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 110
-    },
-    {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
+        "length": 105
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -42,6 +32,16 @@
             "семейный"
         ],
         "length": 70
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -75,16 +75,5 @@
             "мелодрама"
         ],
         "length": 125
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
     }
 ]
