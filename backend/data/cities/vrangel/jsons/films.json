@@ -1,81 +1,5 @@
 [
     {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "victorian_psycho",
-        "name": "Психопатка",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tuner",
-        "name": "Настройщик",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "криминал",
-            "музыка"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "lilja",
         "name": "Лиля",
         "rating": 18,
@@ -229,6 +153,29 @@
         "length": 90
     },
     {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "wicker",
         "name": "Плетёный муж",
         "rating": 18,
@@ -239,6 +186,25 @@
             "мелодрама",
             "комедия",
             "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
         ],
         "length": 105
     },
@@ -311,6 +277,18 @@
         "length": 110
     },
     {
+        "filmId": "the_beast",
+        "name": "Зверь",
+        "rating": 18,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "spa_weekend",
         "name": "Девичник в спа",
         "rating": 18,
@@ -318,6 +296,28 @@
             "комедия"
         ],
         "length": 100
+    },
+    {
+        "filmId": "tuner",
+        "name": "Настройщик",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "криминал",
+            "музыка"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
     },
     {
         "filmId": "other_mommy",
