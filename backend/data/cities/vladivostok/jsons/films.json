@@ -1,112 +1,5 @@
 [
     {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "les_miserables",
-        "name": "Отверженные",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 183
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 70
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -130,6 +23,81 @@
         "length": 85
     },
     {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
+    },
+    {
+        "filmId": "les_miserables",
+        "name": "Отверженные",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 183
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "heart_of_the_beast",
         "name": "Сердце зверя",
         "rating": 16,
@@ -142,6 +110,16 @@
         "length": 100
     },
     {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "shaun_the_sheep_the_beast",
         "name": "Барашек Шон и Чудище Лохматое",
         "rating": 6,
@@ -151,6 +129,28 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "minions_and_monsters",
@@ -412,6 +412,17 @@
         "length": 175
     },
     {
+        "filmId": "garri_potter_i_tajnaja_komnata",
+        "name": "Гарри Поттер и тайная комната",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 160
+    },
+    {
         "filmId": "the_odyssey",
         "name": "Одиссея",
         "rating": 18,
@@ -423,10 +434,14 @@
         "length": 170
     },
     {
-        "filmId": "66436",
-        "name": "Киномакс тест 5",
-        "rating": 0,
-        "genres": [],
+        "filmId": "ebenezer",
+        "name": "Скрудж",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "комедия"
+        ],
         "length": -1
     },
     {
