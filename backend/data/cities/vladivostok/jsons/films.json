@@ -1,47 +1,14 @@
 [
     {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
         "rating": 12,
         "genres": [
-            "приключения",
-            "драма",
-            "спорт"
+            "история",
+            "биография",
+            "драма"
         ],
-        "length": 145
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
+        "length": 140
     },
     {
         "filmId": "morozko_2026",
@@ -64,15 +31,15 @@
         "length": 183
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 140
+        "length": 110
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -86,36 +53,15 @@
         "length": 70
     },
     {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
         "rating": 12,
         "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
             "приключения",
-            "семейный"
+            "драма",
+            "спорт"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
+        "length": 145
     },
     {
         "filmId": "gg_bond_race_through_time",
@@ -141,6 +87,29 @@
         "length": 100
     },
     {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "heart_of_the_beast",
         "name": "Сердце зверя",
         "rating": 16,
@@ -153,6 +122,16 @@
         "length": 100
     },
     {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "shaun_the_sheep_the_beast",
         "name": "Барашек Шон и Чудище Лохматое",
         "rating": 6,
@@ -162,6 +141,17 @@
             "семейный"
         ],
         "length": 90
+    },
+    {
+        "filmId": "zhivaja_kniga",
+        "name": "Живая книга",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "minions_and_monsters",
@@ -195,6 +185,16 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "wicker",
@@ -500,6 +500,15 @@
         "rating": 16,
         "genres": [],
         "length": 160
+    },
+    {
+        "filmId": "the_blair_witch_project",
+        "name": "Ведьма из Блэр: Курсовая с того света",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
     },
     {
         "filmId": "garri_potter_i_kubok_ognja",

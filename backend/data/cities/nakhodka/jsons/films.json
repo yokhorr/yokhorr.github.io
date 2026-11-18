@@ -1,14 +1,13 @@
 [
     {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
+            "драма",
+            "биография"
         ],
-        "length": 70
+        "length": 145
     },
     {
         "filmId": "luchshee_leto_v_zhizni",
@@ -21,15 +20,14 @@
         "length": 80
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
+        "filmId": "morozko_2026",
+        "name": "Морозко",
+        "rating": 6,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "семейный"
         ],
-        "length": 140
+        "length": 100
     },
     {
         "filmId": "78697",
@@ -44,49 +42,6 @@
         "length": 50
     },
     {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "les_miserables",
-        "name": "Отверженные",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 183
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "whalefall",
         "name": "Кит: Во тьме глубин",
         "rating": 18,
@@ -95,6 +50,17 @@
             "драма"
         ],
         "length": 105
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
     },
     {
         "filmId": "zhivaja_kniga",
@@ -138,6 +104,19 @@
         "length": 125
     },
     {
+        "filmId": "forgotten_island",
+        "name": "Остров забвения",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "victorian_psycho",
         "name": "Психопатка",
         "rating": 18,
@@ -160,6 +139,16 @@
         "length": 110
     },
     {
+        "filmId": "les_miserables",
+        "name": "Отверженные",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама"
+        ],
+        "length": 183
+    },
+    {
         "filmId": "the_dog_stars",
         "name": "Собачьи звёзды",
         "rating": 16,
@@ -168,6 +157,17 @@
             "драма"
         ],
         "length": 122
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
     },
     {
         "filmId": "bitva_motorov",
