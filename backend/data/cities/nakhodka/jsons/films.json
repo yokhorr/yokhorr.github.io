@@ -1,5 +1,62 @@
 [
     {
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "lilja",
         "name": "Лиля",
         "rating": 18,
@@ -20,38 +77,6 @@
         "length": 80
     },
     {
-        "filmId": "morozko_2026",
-        "name": "Морозко",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "семейный"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "78697",
-        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "prikljuchenija_pingvinenka",
         "name": "Приключения пингвиненка",
         "rating": 6,
@@ -63,22 +88,42 @@
         "length": 70
     },
     {
-        "filmId": "zhivaja_kniga",
-        "name": "Живая книга",
+        "filmId": "i_play_rocky",
+        "name": "Рокки – это я",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "ebenezer",
+        "name": "Скрудж",
         "rating": 12,
         "genres": [
             "фэнтези",
-            "приключения",
-            "семейный"
+            "драма",
+            "комедия"
         ],
-        "length": 105
+        "length": 115
     },
     {
-        "filmId": "cerita_lila",
-        "name": "Синистер. Дом мертвых",
+        "filmId": "the_influencer_project",
+        "name": "Инфлюенсер",
         "rating": 18,
         "genres": [
-            "ужасы"
+            "триллер"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
         ],
         "length": 105
     },
@@ -92,136 +137,13 @@
         "length": 100
     },
     {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
+        "filmId": "dia_bukan_ibu",
+        "name": "Мама. Зло внутри",
         "rating": 18,
         "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
-    },
-    {
-        "filmId": "forgotten_island",
-        "name": "Остров забвения",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "victorian_psycho",
-        "name": "Психопатка",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "les_miserables",
-        "name": "Отверженные",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама"
-        ],
-        "length": 183
-    },
-    {
-        "filmId": "the_dog_stars",
-        "name": "Собачьи звёзды",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "драма"
+            "ужасы"
         ],
         "length": 122
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "боевик"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "the_beast",
-        "name": "Зверь",
-        "rating": 18,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "криминал"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "tuner",
-        "name": "Настройщик",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "мелодрама",
-            "криминал",
-            "музыка"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "street_fighter",
-        "name": "Уличный боец",
-        "rating": 16,
-        "genres": [
-            "боевик"
-        ],
-        "length": 125
     },
     {
         "filmId": "wicker",
@@ -238,11 +160,54 @@
         "length": 105
     },
     {
-        "filmId": "the_influencer_project",
-        "name": "Инфлюенсер",
+        "filmId": "paper_tiger",
+        "name": "Бумажный тигр",
         "rating": 18,
         "genres": [
+            "триллер",
+            "драма",
+            "криминал"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "clayface",
+        "name": "Клэйфейс",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "боевик"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "you_can_see_everything",
+        "name": "Увидеть всё",
+        "rating": 18,
+        "genres": [
+            "документальный",
+            "биография"
+        ],
+        "length": 175
+    },
+    {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
             "триллер"
+        ],
+        "length": 95
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
         ],
         "length": 100
     }
