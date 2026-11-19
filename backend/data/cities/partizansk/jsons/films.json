@@ -1,46 +1,25 @@
 [
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
-            "мультфильм",
             "фэнтези",
-            "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 105
+        "length": 110
     },
     {
-        "filmId": "i_play_rocky",
-        "name": "Рокки – это я",
-        "rating": 18,
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
         "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
-        "genres": [
-            "комедия",
+            "фэнтези",
+            "приключения",
             "семейный"
         ],
-        "length": 85
+        "length": 115
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -52,39 +31,6 @@
             "драма"
         ],
         "length": 140
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 70
-    },
-    {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
     },
     {
         "filmId": "turbozavry_superfilm",
@@ -100,28 +46,6 @@
         "length": 75
     },
     {
-        "filmId": "kolotun_i_volshebnoe_korolevstv",
-        "name": "Колотун и волшебное королевство",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -131,6 +55,60 @@
             "спорт"
         ],
         "length": 145
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
+    },
+    {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "i_play_rocky",
+        "name": "Рокки – это я",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "ebenezer",
@@ -166,6 +144,16 @@
         "length": 125
     },
     {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "wicker",
         "name": "Плетёный муж",
         "rating": 18,
@@ -190,6 +178,18 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
     },
     {
         "filmId": "spider_man_brand_new_day",

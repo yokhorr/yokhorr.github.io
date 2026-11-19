@@ -1,28 +1,5 @@
 [
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "i_play_rocky",
-        "name": "Рокки – это я",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "lilja",
         "name": "Лиля",
         "rating": 18,
@@ -131,6 +108,29 @@
             "спорт"
         ],
         "length": 145
+    },
+    {
+        "filmId": "i_play_rocky",
+        "name": "Рокки – это я",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "ebenezer",
