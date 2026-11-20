@@ -1,38 +1,24 @@
 [
     {
-        "filmId": "turbozavry_superfilm",
-        "name": "Турбозавры. Суперфильм",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения",
-            "детский",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
+        "filmId": "ebenezer",
+        "name": "Скрудж",
         "rating": 12,
         "genres": [
-            "приключения",
+            "фэнтези",
             "драма",
-            "спорт"
+            "комедия"
         ],
-        "length": 145
+        "length": 115
     },
     {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
         "genres": [
             "комедия",
-            "приключения",
             "семейный"
         ],
-        "length": 70
+        "length": 80
     },
     {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
@@ -54,6 +40,84 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
+    },
+    {
+        "filmId": "godzilla_minus_zero",
+        "name": "Годзилла: Минус ноль",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 135
+    },
+    {
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
     },
     {
         "filmId": "i_play_rocky",
@@ -79,27 +143,6 @@
         "length": 105
     },
     {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "ebenezer",
-        "name": "Скрудж",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -110,26 +153,15 @@
         "length": 90
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
         "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
         "genres": [
             "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 110
+        "length": 140
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -142,16 +174,6 @@
             "мелодрама"
         ],
         "length": 125
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
     },
     {
         "filmId": "wicker",
@@ -178,18 +200,6 @@
             "фэнтези"
         ],
         "length": 90
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -226,27 +236,6 @@
         "length": 85
     },
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
         "filmId": "paper_tiger",
         "name": "Бумажный тигр",
         "rating": 18,
@@ -256,6 +245,18 @@
             "криминал"
         ],
         "length": 115
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
     },
     {
         "filmId": "garri_potter_i_tajnaja_komnata",
@@ -280,6 +281,15 @@
         "length": 170
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "inglourious_basterds",
         "name": "Бесславные ублюдки",
         "rating": 18,
@@ -289,16 +299,6 @@
             "военный"
         ],
         "length": 150
-    },
-    {
-        "filmId": "whalefall",
-        "name": "Кит: Во тьме глубин",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
-        ],
-        "length": 105
     },
     {
         "filmId": "victorian_psycho",
@@ -322,15 +322,6 @@
         "length": 95
     },
     {
-        "filmId": "dia_bukan_ibu",
-        "name": "Мама. Зло внутри",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 122
-    },
-    {
         "filmId": "les",
         "name": "Лес",
         "rating": 18,
@@ -341,14 +332,13 @@
         "length": 100
     },
     {
-        "filmId": "clayface",
-        "name": "Клэйфейс",
+        "filmId": "dia_bukan_ibu",
+        "name": "Мама. Зло внутри",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик"
+            "ужасы"
         ],
-        "length": 110
+        "length": 122
     },
     {
         "filmId": "alas_roban",
@@ -360,26 +350,26 @@
         "length": 110
     },
     {
-        "filmId": "godzilla_minus_zero",
-        "name": "Годзилла: Минус ноль",
-        "rating": 16,
+        "filmId": "whalefall",
+        "name": "Кит: Во тьме глубин",
+        "rating": 18,
         "genres": [
-            "фантастика",
-            "боевик",
+            "триллер",
             "драма"
         ],
-        "length": 135
+        "length": 105
     },
     {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
+        "filmId": "verity",
+        "name": "Тайный дневник Верити",
+        "rating": 18,
         "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
+            "триллер",
+            "драма",
+            "криминал",
+            "детектив"
         ],
-        "length": 140
+        "length": 110
     },
     {
         "filmId": "garri_potter_i_kubok_ognja",
@@ -429,9 +419,19 @@
         "length": 80
     },
     {
+        "filmId": "byla_ne_byla",
+        "name": "Была/Не была",
+        "rating": 16,
+        "genres": [
+            "комедия",
+            "драма"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "the_hunger_games_sunrise",
         "name": "Голодные игры: Рассвет жатвы",
-        "rating": 12,
+        "rating": 18,
         "genres": [
             "фантастика",
             "фэнтези",
@@ -547,7 +547,7 @@
         "length": 145
     },
     {
-        "filmId": "34268",
+        "filmId": "singin_in_the_rain",
         "name": "Поющие под дождем",
         "rating": 12,
         "genres": [
@@ -555,7 +555,7 @@
             "мелодрама",
             "комедия"
         ],
-        "length": 103
+        "length": 105
     },
     {
         "filmId": "wiener_staatsoper_die_zauberfl",

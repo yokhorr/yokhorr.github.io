@@ -1,5 +1,16 @@
 [
     {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
+    },
+    {
         "filmId": "turbozavry_superfilm",
         "name": "Турбозавры. Суперфильм",
         "rating": 0,
@@ -13,15 +24,15 @@
         "length": 75
     },
     {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
         "rating": 6,
         "genres": [
-            "комедия",
+            "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 70
+        "length": 115
     },
     {
         "filmId": "dedmobil",
@@ -32,17 +43,6 @@
             "семейный"
         ],
         "length": 85
-    },
-    {
-        "filmId": "kolotun_i_volshebnoe_korolevstv",
-        "name": "Колотун и волшебное королевство",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
     },
     {
         "filmId": "i_play_rocky",
