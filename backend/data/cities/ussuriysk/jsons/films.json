@@ -1,1 +1,89 @@
-[]
+[
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "i_play_rocky",
+        "name": "Рокки – это я",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "ebenezer",
+        "name": "Скрудж",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "комедия"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
+        ],
+        "length": 100
+    }
+]

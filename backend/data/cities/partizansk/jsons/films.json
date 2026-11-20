@@ -1,37 +1,36 @@
 [
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "фэнтези",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 105
+        "length": 70
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
         "genres": [
-            "история",
-            "биография",
-            "драма"
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
-        "length": 140
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
+        "length": 115
     },
     {
         "filmId": "dedmobil",
@@ -54,15 +53,17 @@
         "length": 130
     },
     {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
         "rating": 6,
         "genres": [
+            "мультфильм",
+            "фэнтези",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 70
+        "length": 105
     },
     {
         "filmId": "luchshee_leto_v_zhizni",
@@ -73,18 +74,6 @@
             "семейный"
         ],
         "length": 80
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
     },
     {
         "filmId": "turbozavry_superfilm",
@@ -98,39 +87,6 @@
             "семейный"
         ],
         "length": 75
-    },
-    {
-        "filmId": "kolotun_i_volshebnoe_korolevstv",
-        "name": "Колотун и волшебное королевство",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
     },
     {
         "filmId": "ebenezer",
@@ -154,6 +110,28 @@
         "length": 90
     },
     {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
         "filmId": "twilight_saga_eclipse",
         "name": "Сумерки. Сага. Затмение",
         "rating": 18,
@@ -164,6 +142,16 @@
             "мелодрама"
         ],
         "length": 125
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
     },
     {
         "filmId": "wicker",
@@ -190,6 +178,18 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -511,6 +511,17 @@
             "документальный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "bridget_joness_diary",
+        "name": "Дневник Бриджит Джонс",
+        "rating": 18,
+        "genres": [
+            "комедия",
+            "мелодрама",
+            "драма"
+        ],
+        "length": 100
     },
     {
         "filmId": "harry_potter_and_the_deathly_",

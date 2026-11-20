@@ -1,29 +1,5 @@
 [
     {
-        "filmId": "kolotun_i_volshebnoe_korolevstv",
-        "name": "Колотун и волшебное королевство",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "turbozavry_superfilm",
         "name": "Турбозавры. Суперфильм",
         "rating": 0,
@@ -48,6 +24,19 @@
         "length": 70
     },
     {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "rozhdenie_imperii",
         "name": "Рождение империи",
         "rating": 12,
@@ -66,6 +55,17 @@
             "фэнтези",
             "драма",
             "комедия"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
         ],
         "length": 115
     },
