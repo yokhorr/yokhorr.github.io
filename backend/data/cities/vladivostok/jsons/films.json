@@ -1,16 +1,5 @@
 [
     {
-        "filmId": "ebenezer",
-        "name": "Скрудж",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "luchshee_leto_v_zhizni",
         "name": "Лучшее лето в жизни",
         "rating": 12,
@@ -30,6 +19,19 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
     },
     {
         "filmId": "dedmobil",
@@ -130,19 +132,6 @@
         "length": 130
     },
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
         "filmId": "skazka_o_poterjannom_vremeni",
         "name": "Сказка о потерянном времени",
         "rating": 6,
@@ -153,15 +142,15 @@
         "length": 90
     },
     {
-        "filmId": "garri_potter_i_uznik_azkabana",
-        "name": "Гарри Поттер и узник Азкабана",
-        "rating": 12,
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
         "genres": [
             "фэнтези",
             "приключения",
             "семейный"
         ],
-        "length": 140
+        "length": 150
     },
     {
         "filmId": "twilight_saga_eclipse",
@@ -200,6 +189,17 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "ebenezer",
+        "name": "Скрудж",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "комедия"
+        ],
+        "length": 115
     },
     {
         "filmId": "spider_man_brand_new_day",
@@ -247,18 +247,6 @@
         "length": 115
     },
     {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "garri_potter_i_tajnaja_komnata",
         "name": "Гарри Поттер и тайная комната",
         "rating": 12,
@@ -281,6 +269,18 @@
         "length": 170
     },
     {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "resident_evil",
         "name": "Обитель зла",
         "rating": 18,
@@ -301,6 +301,16 @@
         "length": 150
     },
     {
+        "filmId": "les",
+        "name": "Лес",
+        "rating": 18,
+        "genres": [
+            "триллер",
+            "драма"
+        ],
+        "length": 100
+    },
+    {
         "filmId": "victorian_psycho",
         "name": "Психопатка",
         "rating": 18,
@@ -308,26 +318,6 @@
             "ужасы",
             "триллер",
             "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
-    },
-    {
-        "filmId": "les",
-        "name": "Лес",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма"
         ],
         "length": 100
     },
@@ -360,29 +350,6 @@
         "length": 105
     },
     {
-        "filmId": "verity",
-        "name": "Тайный дневник Верити",
-        "rating": 18,
-        "genres": [
-            "триллер",
-            "драма",
-            "криминал",
-            "детектив"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "la_voce_della_luna",
         "name": "Голос луны",
         "rating": 18,
@@ -391,6 +358,16 @@
             "комедия"
         ],
         "length": 130
+    },
+    {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
     },
     {
         "filmId": "the_nutcracker_neumeier",
