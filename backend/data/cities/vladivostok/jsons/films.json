@@ -1,37 +1,5 @@
 [
     {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "victorian_psycho",
-        "name": "Психопатка",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "комедия"
-        ],
-        "length": 100
-    },
-    {
-        "filmId": "heart_of_the_beast",
-        "name": "Сердце зверя",
-        "rating": 16,
-        "genres": [
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 100
-    },
-    {
         "filmId": "bitva_motorov",
         "name": "Битва моторов",
         "rating": 12,
@@ -300,6 +268,27 @@
         "length": 105
     },
     {
+        "filmId": "heart_of_the_beast",
+        "name": "Сердце зверя",
+        "rating": 16,
+        "genres": [
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
         "filmId": "inglourious_basterds",
         "name": "Бесславные ублюдки",
         "rating": 18,
@@ -317,6 +306,17 @@
         "genres": [
             "триллер",
             "драма"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "victorian_psycho",
+        "name": "Психопатка",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "комедия"
         ],
         "length": 100
     },
@@ -583,5 +583,17 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "16754",
+        "name": "Чунгкингский экспресс",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "комедия",
+            "криминал"
+        ],
+        "length": 105
     }
 ]
