@@ -1,5 +1,27 @@
 [
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
         "filmId": "luchshee_leto_v_zhizni",
         "name": "Лучшее лето в жизни",
         "rating": 12,
@@ -21,6 +43,16 @@
         "length": 115
     },
     {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "the_cat_in_the_hat",
         "name": "Кот в шляпе",
         "rating": 6,
@@ -32,27 +64,6 @@
             "семейный"
         ],
         "length": 105
-    },
-    {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -90,16 +101,6 @@
         "length": 75
     },
     {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "chudojudo",
         "name": "Чудо-Юдо",
         "rating": 6,
@@ -111,15 +112,14 @@
         "length": 110
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
         "rating": 12,
         "genres": [
-            "приключения",
-            "драма",
-            "спорт"
+            "комедия",
+            "семейный"
         ],
-        "length": 145
+        "length": 85
     },
     {
         "filmId": "i_play_rocky",
@@ -142,17 +142,6 @@
         "length": 90
     },
     {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
         "filmId": "twilight_saga_eclipse",
         "name": "Сумерки. Сага. Затмение",
         "rating": 18,
@@ -163,20 +152,6 @@
             "мелодрама"
         ],
         "length": 125
-    },
-    {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
-            "комедия",
-            "история"
-        ],
-        "length": 105
     },
     {
         "filmId": "minions_and_monsters",
@@ -269,6 +244,30 @@
         "length": 170
     },
     {
+        "filmId": "la_voce_della_luna",
+        "name": "Голос луны",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "комедия"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "wicker",
+        "name": "Плетёный муж",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия",
+            "история"
+        ],
+        "length": 105
+    },
+    {
         "filmId": "heart_of_the_beast",
         "name": "Сердце зверя",
         "rating": 16,
@@ -322,6 +321,16 @@
         "length": 100
     },
     {
+        "filmId": "other_mommy",
+        "name": "Чужая мама",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер"
+        ],
+        "length": 95
+    },
+    {
         "filmId": "dia_bukan_ibu",
         "name": "Мама. Зло внутри",
         "rating": 18,
@@ -348,26 +357,6 @@
             "драма"
         ],
         "length": 105
-    },
-    {
-        "filmId": "la_voce_della_luna",
-        "name": "Голос луны",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "комедия"
-        ],
-        "length": 130
-    },
-    {
-        "filmId": "other_mommy",
-        "name": "Чужая мама",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер"
-        ],
-        "length": 95
     },
     {
         "filmId": "the_nutcracker_neumeier",
@@ -406,6 +395,17 @@
         "length": 75
     },
     {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
+    },
+    {
         "filmId": "the_hunger_games_sunrise",
         "name": "Голодные игры: Рассвет жатвы",
         "rating": 18,
@@ -418,6 +418,28 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ispytanie_aulom_2_hod_konem",
+        "name": "Испытание аулом 2. Ход конём",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": -1
     },
     {
         "filmId": "malika",
@@ -561,5 +583,17 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "16754",
+        "name": "Чунгкингский экспресс",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "мелодрама",
+            "комедия",
+            "криминал"
+        ],
+        "length": 105
     }
 ]
