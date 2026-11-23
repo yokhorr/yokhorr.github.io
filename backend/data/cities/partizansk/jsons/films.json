@@ -1,14 +1,16 @@
 [
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
         "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
             "приключения",
-            "драма",
-            "спорт"
+            "семейный"
         ],
-        "length": 145
+        "length": 105
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -20,16 +22,6 @@
             "драма"
         ],
         "length": 140
-    },
-    {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
     },
     {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
@@ -53,17 +45,14 @@
         "length": 145
     },
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
         "genres": [
-            "мультфильм",
-            "фэнтези",
             "комедия",
-            "приключения",
             "семейный"
         ],
-        "length": 105
+        "length": 85
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -86,6 +75,16 @@
             "драма"
         ],
         "length": 135
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
     },
     {
         "filmId": "turbozavry_superfilm",
@@ -112,14 +111,15 @@
         "length": 110
     },
     {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
         "rating": 12,
         "genres": [
-            "комедия",
-            "семейный"
+            "приключения",
+            "драма",
+            "спорт"
         ],
-        "length": 85
+        "length": 145
     },
     {
         "filmId": "i_play_rocky",
@@ -166,6 +166,16 @@
         "length": 90
     },
     {
+        "filmId": "you_can_see_everything",
+        "name": "Увидеть всё",
+        "rating": 18,
+        "genres": [
+            "документальный",
+            "биография"
+        ],
+        "length": 175
+    },
+    {
         "filmId": "ebenezer",
         "name": "Скрудж",
         "rating": 12,
@@ -187,16 +197,6 @@
             "приключения"
         ],
         "length": 150
-    },
-    {
-        "filmId": "you_can_see_everything",
-        "name": "Увидеть всё",
-        "rating": 18,
-        "genres": [
-            "документальный",
-            "биография"
-        ],
-        "length": 175
     },
     {
         "filmId": "gg_bond_race_through_time",
@@ -244,14 +244,21 @@
         "length": 170
     },
     {
-        "filmId": "la_voce_della_luna",
-        "name": "Голос луны",
-        "rating": 18,
+        "filmId": "the_nutcracker_neumeier",
+        "name": "Ноймайер: Щелкунчик",
+        "rating": 12,
         "genres": [
-            "драма",
-            "комедия"
+            "фильм-спектакль",
+            "балет"
         ],
-        "length": 130
+        "length": 122
+    },
+    {
+        "filmId": "79233",
+        "name": "Киноклуб «Кино и Смыслы»: х/ф «Король говорит»",
+        "rating": 16,
+        "genres": [],
+        "length": 160
     },
     {
         "filmId": "wicker",
@@ -268,6 +275,24 @@
         "length": 105
     },
     {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "the_blair_witch_project",
+        "name": "Ведьма из Блэр: Курсовая с того света",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "heart_of_the_beast",
         "name": "Сердце зверя",
         "rating": 16,
@@ -278,15 +303,6 @@
             "приключения"
         ],
         "length": 100
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
     },
     {
         "filmId": "inglourious_basterds",
@@ -359,32 +375,6 @@
         "length": 105
     },
     {
-        "filmId": "the_nutcracker_neumeier",
-        "name": "Ноймайер: Щелкунчик",
-        "rating": 12,
-        "genres": [
-            "фильм-спектакль",
-            "балет"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "79233",
-        "name": "Киноклуб «Кино и Смыслы»: х/ф «Король говорит»",
-        "rating": 16,
-        "genres": [],
-        "length": 160
-    },
-    {
-        "filmId": "the_blair_witch_project",
-        "name": "Ведьма из Блэр: Курсовая с того света",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
-    },
-    {
         "filmId": "byla_ne_byla",
         "name": "Была/Не была",
         "rating": 16,
@@ -406,6 +396,18 @@
         "length": 150
     },
     {
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "the_hunger_games_sunrise",
         "name": "Голодные игры: Рассвет жатвы",
         "rating": 18,
@@ -420,24 +422,48 @@
         "length": 150
     },
     {
-        "filmId": "yugly",
-        "name": "Дворняшка",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "ispytanie_aulom_2_hod_konem",
         "name": "Испытание аулом 2. Ход конём",
         "rating": 6,
         "genres": [
             "комедия",
             "семейный"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "steps",
+        "name": "Сводные сёстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "мюзикл",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "alexandr_i",
+        "name": "Александр I",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
         ],
         "length": -1
     },
@@ -456,6 +482,18 @@
         "rating": 18,
         "genres": [],
         "length": -1
+    },
+    {
+        "filmId": "79428",
+        "name": "МУЛЬТ в кино. Выпуск №202. В поисках чуда",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "harry_potter_and_the_order_",
@@ -595,5 +633,15 @@
             "криминал"
         ],
         "length": 105
+    },
+    {
+        "filmId": "teatr_nacij_djadja_vanja",
+        "name": "Театр Наций: Дядя Ваня",
+        "rating": 18,
+        "genres": [
+            "фильм-спектакль",
+            "драма"
+        ],
+        "length": 150
     }
 ]
