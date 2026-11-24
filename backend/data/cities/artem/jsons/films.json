@@ -1,16 +1,14 @@
 [
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
+        "filmId": "ebenezer",
+        "name": "Скрудж",
+        "rating": 12,
         "genres": [
-            "мультфильм",
             "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
+            "драма",
+            "комедия"
         ],
-        "length": 105
+        "length": 115
     },
     {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
@@ -24,28 +22,14 @@
         "length": 115
     },
     {
-        "filmId": "turbozavry_superfilm",
-        "name": "Турбозавры. Суперфильм",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения",
-            "детский",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
         "genres": [
             "комедия",
-            "приключения",
             "семейный"
         ],
-        "length": 70
+        "length": 85
     },
     {
         "filmId": "rozhdenie_imperii",
@@ -57,27 +41,6 @@
             "драма"
         ],
         "length": 140
-    },
-    {
-        "filmId": "ebenezer",
-        "name": "Скрудж",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
     },
     {
         "filmId": "heart_of_the_beast",
@@ -144,6 +107,43 @@
         "length": 95
     },
     {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
+    },
+    {
         "filmId": "svjatye_predprinimateli",
         "name": "Святые предприниматели",
         "rating": 16,
@@ -151,5 +151,67 @@
             "документальный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_hunger_games_sunrise",
+        "name": "Голодные игры: Рассвет жатвы",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "steps",
+        "name": "Сводные сёстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "мюзикл",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
+    },
+    {
+        "filmId": "alexandr_i",
+        "name": "Александр I",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
+        "filmId": "garri_potter_i_uznik_azkabana",
+        "name": "Гарри Поттер и узник Азкабана",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 140
     }
 ]
