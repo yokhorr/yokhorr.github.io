@@ -1,5 +1,26 @@
 [
     {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
         "name": "Колотун и волшебное королевство",
         "rating": 6,
@@ -9,28 +30,6 @@
             "семейный"
         ],
         "length": 115
-    },
-    {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "twilight_saga_eclipse",
-        "name": "Сумерки. Сага. Затмение",
-        "rating": 18,
-        "genres": [
-            "ужасы",
-            "триллер",
-            "фэнтези",
-            "мелодрама"
-        ],
-        "length": 125
     },
     {
         "filmId": "lilja",
@@ -56,15 +55,26 @@
         "length": 105
     },
     {
-        "filmId": "ebenezer",
-        "name": "Скрудж",
-        "rating": 12,
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
         "genres": [
-            "фэнтези",
-            "драма",
-            "комедия"
+            "комедия",
+            "приключения",
+            "семейный"
         ],
-        "length": 115
+        "length": 70
+    },
+    {
+        "filmId": "godzilla_minus_zero",
+        "name": "Годзилла: Минус ноль",
+        "rating": 16,
+        "genres": [
+            "фантастика",
+            "боевик",
+            "драма"
+        ],
+        "length": 135
     },
     {
         "filmId": "turbozavry_superfilm",
@@ -80,58 +90,23 @@
         "length": 75
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "spider_man_brand_new_day",
-        "name": "Человек-паук: Новый день",
-        "rating": 12,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "godzilla_minus_zero",
-        "name": "Годзилла: Минус ноль",
-        "rating": 16,
-        "genres": [
-            "фантастика",
-            "боевик",
-            "драма"
-        ],
-        "length": 135
-    },
-    {
-        "filmId": "you_can_see_everything",
-        "name": "Увидеть всё",
-        "rating": 18,
-        "genres": [
-            "документальный",
-            "биография"
-        ],
-        "length": 175
-    },
-    {
-        "filmId": "gg_bond_race_through_time",
-        "name": "Зверодвиж",
+        "filmId": "chudojudo",
+        "name": "Чудо-Юдо",
         "rating": 6,
         "genres": [
-            "мультфильм",
-            "детский",
-            "фантастика",
-            "приключения"
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
         ],
         "length": 85
     },
@@ -145,17 +120,6 @@
             "спорт"
         ],
         "length": 145
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 70
     },
     {
         "filmId": "i_play_rocky",
@@ -177,6 +141,99 @@
             "криминал"
         ],
         "length": 115
+    },
+    {
+        "filmId": "skazka_o_poterjannom_vremeni",
+        "name": "Сказка о потерянном времени",
+        "rating": 6,
+        "genres": [
+            "приключения",
+            "детский"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "twilight_saga_eclipse",
+        "name": "Сумерки. Сага. Затмение",
+        "rating": 18,
+        "genres": [
+            "ужасы",
+            "триллер",
+            "фэнтези",
+            "мелодрама"
+        ],
+        "length": 125
+    },
+    {
+        "filmId": "wicker",
+        "name": "Плетёный муж",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "драма",
+            "мелодрама",
+            "комедия",
+            "история"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "minions_and_monsters",
+        "name": "Миньоны и Монстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 90
+    },
+    {
+        "filmId": "you_can_see_everything",
+        "name": "Увидеть всё",
+        "rating": 18,
+        "genres": [
+            "документальный",
+            "биография"
+        ],
+        "length": 175
+    },
+    {
+        "filmId": "ebenezer",
+        "name": "Скрудж",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "комедия"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "spider_man_brand_new_day",
+        "name": "Человек-паук: Новый день",
+        "rating": 12,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "приключения"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "gg_bond_race_through_time",
+        "name": "Зверодвиж",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "детский",
+            "фантастика",
+            "приключения"
+        ],
+        "length": 85
     },
     {
         "filmId": "garri_potter_i_tajnaja_komnata",
@@ -201,53 +258,14 @@
         "length": 170
     },
     {
-        "filmId": "the_nutcracker_neumeier",
-        "name": "Ноймайер: Щелкунчик",
-        "rating": 12,
-        "genres": [
-            "фильм-спектакль",
-            "балет"
-        ],
-        "length": 122
-    },
-    {
-        "filmId": "79233",
-        "name": "Киноклуб «Кино и Смыслы»: х/ф «Король говорит»",
+        "filmId": "byla_ne_byla",
+        "name": "Была/Не была",
         "rating": 16,
-        "genres": [],
-        "length": 160
-    },
-    {
-        "filmId": "wicker",
-        "name": "Плетёный муж",
-        "rating": 18,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "драма",
-            "мелодрама",
             "комедия",
-            "история"
+            "драма"
         ],
-        "length": 105
-    },
-    {
-        "filmId": "resident_evil",
-        "name": "Обитель зла",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "the_blair_witch_project",
-        "name": "Ведьма из Блэр: Курсовая с того света",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 80
+        "length": 75
     },
     {
         "filmId": "heart_of_the_beast",
@@ -260,6 +278,26 @@
             "приключения"
         ],
         "length": 100
+    },
+    {
+        "filmId": "garri_potter_i_kubok_ognja",
+        "name": "Гарри Поттер и Кубок огня",
+        "rating": 16,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 150
+    },
+    {
+        "filmId": "resident_evil",
+        "name": "Обитель зла",
+        "rating": 18,
+        "genres": [
+            "ужасы"
+        ],
+        "length": 90
     },
     {
         "filmId": "inglourious_basterds",
@@ -332,80 +370,15 @@
         "length": 105
     },
     {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
+        "filmId": "alexandr_i",
+        "name": "Александр I",
         "rating": 12,
         "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "chudojudo",
-        "name": "Чудо-Юдо",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 110
-    },
-    {
-        "filmId": "skazka_o_poterjannom_vremeni",
-        "name": "Сказка о потерянном времени",
-        "rating": 6,
-        "genres": [
-            "приключения",
-            "детский"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "minions_and_monsters",
-        "name": "Миньоны и Монстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 90
-    },
-    {
-        "filmId": "byla_ne_byla",
-        "name": "Была/Не была",
-        "rating": 16,
-        "genres": [
-            "комедия",
+            "история",
+            "биография",
             "драма"
         ],
-        "length": 75
-    },
-    {
-        "filmId": "garri_potter_i_kubok_ognja",
-        "name": "Гарри Поттер и Кубок огня",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "yugly",
-        "name": "Дворняшка",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
+        "length": -1
     },
     {
         "filmId": "the_hunger_games_sunrise",
@@ -420,6 +393,18 @@
             "приключения"
         ],
         "length": 150
+    },
+    {
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "ispytanie_aulom_2_hod_konem",
@@ -455,17 +440,6 @@
             "семейный"
         ],
         "length": 140
-    },
-    {
-        "filmId": "alexandr_i",
-        "name": "Александр I",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": -1
     },
     {
         "filmId": "malika",

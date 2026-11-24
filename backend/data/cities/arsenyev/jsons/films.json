@@ -1,5 +1,18 @@
 [
     {
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
         "filmId": "the_cat_in_the_hat",
         "name": "Кот в шляпе",
         "rating": 6,
@@ -13,6 +26,17 @@
         "length": 105
     },
     {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
+    },
+    {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
         "name": "Колотун и волшебное королевство",
         "rating": 6,
@@ -20,17 +44,6 @@
             "фэнтези",
             "приключения",
             "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "ebenezer",
-        "name": "Скрудж",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "комедия"
         ],
         "length": 115
     },
@@ -43,6 +56,17 @@
             "семейный"
         ],
         "length": 85
+    },
+    {
+        "filmId": "ebenezer",
+        "name": "Скрудж",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "драма",
+            "комедия"
+        ],
+        "length": 115
     },
     {
         "filmId": "i_play_rocky",
@@ -63,29 +87,5 @@
             "триллер"
         ],
         "length": 95
-    },
-    {
-        "filmId": "turbozavry_superfilm",
-        "name": "Турбозавры. Суперфильм",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения",
-            "детский",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 70
     }
 ]
