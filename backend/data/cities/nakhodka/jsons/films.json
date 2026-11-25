@@ -1,5 +1,37 @@
 [
     {
+        "filmId": "i_play_rocky",
+        "name": "Рокки – это я",
+        "rating": 18,
+        "genres": [
+            "биография",
+            "драма"
+        ],
+        "length": 130
+    },
+    {
+        "filmId": "luchshee_leto_v_zhizni",
+        "name": "Лучшее лето в жизни",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 80
+    },
+    {
+        "filmId": "78697",
+        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
         "name": "Колотун и волшебное королевство",
         "rating": 6,
@@ -9,6 +41,17 @@
             "семейный"
         ],
         "length": 115
+    },
+    {
+        "filmId": "prikljuchenija_pingvinenka",
+        "name": "Приключения пингвиненка",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 70
     },
     {
         "filmId": "turbozavry_superfilm",
@@ -24,69 +67,6 @@
         "length": 75
     },
     {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "78697",
-        "name": "МУЛЬТ в кино. Выпуск №201. Цифровая азбука с Бодо Бородо",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "luchshee_leto_v_zhizni",
-        "name": "Лучшее лето в жизни",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 80
-    },
-    {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 70
-    },
-    {
-        "filmId": "i_play_rocky",
-        "name": "Рокки – это я",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 130
-    },
-    {
         "filmId": "ebenezer",
         "name": "Скрудж",
         "rating": 12,
@@ -98,6 +78,16 @@
         "length": 115
     },
     {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "the_influencer_project",
         "name": "Инфлюенсер",
         "rating": 18,
@@ -105,6 +95,16 @@
             "триллер"
         ],
         "length": 100
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
     },
     {
         "filmId": "whalefall",
