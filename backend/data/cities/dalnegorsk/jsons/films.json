@@ -1,35 +1,42 @@
 [
     {
-        "filmId": "prikljuchenija_pingvinenka",
-        "name": "Приключения пингвиненка",
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "yugly",
+        "name": "Дворняшка",
         "rating": 6,
         "genres": [
+            "мультфильм",
             "комедия",
             "приключения",
             "семейный"
         ],
-        "length": 70
+        "length": 85
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "les",
-        "name": "Лес",
+        "filmId": "the_hunger_games_sunrise",
+        "name": "Голодные игры: Рассвет жатвы",
         "rating": 18,
         "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
             "триллер",
-            "драма"
+            "драма",
+            "приключения"
         ],
-        "length": 100
+        "length": 150
     },
     {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
@@ -53,6 +60,17 @@
         "length": 85
     },
     {
+        "filmId": "alexandr_i",
+        "name": "Александр I",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": -1
+    },
+    {
         "filmId": "i_play_rocky",
         "name": "Рокки – это я",
         "rating": 18,
@@ -61,14 +79,5 @@
             "драма"
         ],
         "length": 130
-    },
-    {
-        "filmId": "alas_roban",
-        "name": "Астрал. Иной мир",
-        "rating": 18,
-        "genres": [
-            "ужасы"
-        ],
-        "length": 110
     }
 ]
