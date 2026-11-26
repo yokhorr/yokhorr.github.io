@@ -1,14 +1,35 @@
 [
     {
-        "filmId": "alexandr_i",
-        "name": "Александр I",
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "ebenezer",
+        "name": "Скрудж",
         "rating": 12,
         "genres": [
-            "история",
+            "фэнтези",
+            "драма",
+            "комедия"
+        ],
+        "length": 115
+    },
+    {
+        "filmId": "i_play_rocky",
+        "name": "Рокки – это я",
+        "rating": 18,
+        "genres": [
             "биография",
             "драма"
         ],
-        "length": -1
+        "length": 130
     },
     {
         "filmId": "the_hunger_games_sunrise",
@@ -25,49 +46,15 @@
         "length": 150
     },
     {
-        "filmId": "kolotun_i_volshebnoe_korolevstv",
-        "name": "Колотун и волшебное королевство",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "yugly",
-        "name": "Дворняшка",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "ebenezer",
-        "name": "Скрудж",
-        "rating": 12,
-        "genres": [
-            "фэнтези",
-            "драма",
-            "комедия"
-        ],
-        "length": 115
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
+        "filmId": "alexandr_i",
+        "name": "Александр I",
         "rating": 12,
         "genres": [
             "история",
             "биография",
             "драма"
         ],
-        "length": 140
+        "length": 110
     },
     {
         "filmId": "turbozavry_superfilm",
@@ -81,57 +68,6 @@
             "семейный"
         ],
         "length": 75
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "ispytanie_aulom_2_hod_konem",
-        "name": "Испытание аулом 2. Ход конём",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": -1
-    },
-    {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "i_play_rocky",
-        "name": "Рокки – это я",
-        "rating": 18,
-        "genres": [
-            "биография",
-            "драма"
-        ],
-        "length": 130
     },
     {
         "filmId": "prikljuchenija_pingvinenka",
@@ -158,6 +94,49 @@
         "length": 105
     },
     {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "ispytanie_aulom_2_hod_konem",
+        "name": "Испытание аулом 2. Ход конём",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
         "filmId": "godzilla_minus_zero",
         "name": "Годзилла: Минус ноль",
         "rating": 16,
@@ -167,20 +146,6 @@
             "драма"
         ],
         "length": 135
-    },
-    {
-        "filmId": "steps",
-        "name": "Сводные сёстры",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "мюзикл",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 100
     },
     {
         "filmId": "minions_and_monsters",
@@ -207,6 +172,17 @@
         "length": 100
     },
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "you_can_see_everything",
         "name": "Увидеть всё",
         "rating": 18,
@@ -215,6 +191,16 @@
             "биография"
         ],
         "length": 175
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -291,6 +277,20 @@
             "драма"
         ],
         "length": 105
+    },
+    {
+        "filmId": "steps",
+        "name": "Сводные сёстры",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "мюзикл",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 100
     },
     {
         "filmId": "78650",
@@ -439,6 +439,16 @@
             "лекция"
         ],
         "length": 122
+    },
+    {
+        "filmId": "volchek",
+        "name": "Волчек",
+        "rating": 16,
+        "genres": [
+            "документальный",
+            "биография"
+        ],
+        "length": 90
     },
     {
         "filmId": "79291",
