@@ -1,13 +1,17 @@
 [
     {
-        "filmId": "dedmobil",
-        "name": "Дедмобиль",
-        "rating": 12,
+        "filmId": "the_hunger_games_sunrise",
+        "name": "Голодные игры: Рассвет жатвы",
+        "rating": 18,
         "genres": [
-            "комедия",
-            "семейный"
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
         ],
-        "length": 85
+        "length": 150
     },
     {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
@@ -21,18 +25,117 @@
         "length": 115
     },
     {
-        "filmId": "the_hunger_games_sunrise",
-        "name": "Голодные игры: Рассвет жатвы",
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "alexandr_i",
+        "name": "Александр I",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 110
+    },
+    {
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "79428",
+        "name": "МУЛЬТ в кино. Выпуск №202. В поисках чуда",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
+    },
+    {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
         "rating": 18,
         "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
             "драма",
-            "приключения"
+            "биография"
         ],
-        "length": 150
+        "length": 145
+    },
+    {
+        "filmId": "ispytanie_aulom_2_hod_konem",
+        "name": "Испытание аулом 2. Ход конём",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
+    },
+    {
+        "filmId": "the_cat_in_the_hat",
+        "name": "Кот в шляпе",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "фэнтези",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 105
+    },
+    {
+        "filmId": "dedmobil",
+        "name": "Дедмобиль",
+        "rating": 12,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "wicker",
@@ -49,31 +152,6 @@
         "length": 105
     },
     {
-        "filmId": "the_cat_in_the_hat",
-        "name": "Кот в шляпе",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "фэнтези",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 105
-    },
-    {
-        "filmId": "yugly",
-        "name": "Дворняшка",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "prikljuchenija_pingvinenka",
         "name": "Приключения пингвиненка",
         "rating": 6,
@@ -85,60 +163,17 @@
         "length": 70
     },
     {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "turbozavry_superfilm",
-        "name": "Турбозавры. Суперфильм",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения",
-            "детский",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "ispytanie_aulom_2_hod_konem",
-        "name": "Испытание аулом 2. Ход конём",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
-        "filmId": "harry_potter_and_the_order_",
-        "name": "Гарри Поттер и Орден Феникса",
-        "rating": 12,
+        "filmId": "harry_potter_6",
+        "name": "Гарри Поттер и Принц-полукровка",
+        "rating": 16,
         "genres": [
             "фэнтези",
+            "мелодрама",
+            "драма",
             "приключения",
-            "семейный"
+            "детектив"
         ],
-        "length": 135
-    },
-    {
-        "filmId": "alexandr_i",
-        "name": "Александр I",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 110
+        "length": 150
     },
     {
         "filmId": "heart_of_the_beast",
@@ -199,16 +234,6 @@
             "драма"
         ],
         "length": 135
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -274,17 +299,6 @@
         "length": 90
     },
     {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
         "filmId": "whalefall",
         "name": "Кит: Во тьме глубин",
         "rating": 18,
@@ -293,31 +307,6 @@
             "драма"
         ],
         "length": 105
-    },
-    {
-        "filmId": "79428",
-        "name": "МУЛЬТ в кино. Выпуск №202. В поисках чуда",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "harry_potter_6",
-        "name": "Гарри Поттер и Принц-полукровка",
-        "rating": 16,
-        "genres": [
-            "фэнтези",
-            "мелодрама",
-            "драма",
-            "приключения",
-            "детектив"
-        ],
-        "length": 150
     },
     {
         "filmId": "ii_decameron",
@@ -360,6 +349,17 @@
             "документальный"
         ],
         "length": 80
+    },
+    {
+        "filmId": "harry_potter_and_the_order_",
+        "name": "Гарри Поттер и Орден Феникса",
+        "rating": 12,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 135
     },
     {
         "filmId": "diva",
