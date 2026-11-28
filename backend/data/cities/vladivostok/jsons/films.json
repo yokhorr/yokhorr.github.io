@@ -1,30 +1,5 @@
 [
     {
-        "filmId": "the_hunger_games_sunrise",
-        "name": "Голодные игры: Рассвет жатвы",
-        "rating": 18,
-        "genres": [
-            "фантастика",
-            "фэнтези",
-            "боевик",
-            "триллер",
-            "драма",
-            "приключения"
-        ],
-        "length": 150
-    },
-    {
-        "filmId": "kolotun_i_volshebnoe_korolevstv",
-        "name": "Колотун и волшебное королевство",
-        "rating": 6,
-        "genres": [
-            "фэнтези",
-            "приключения",
-            "семейный"
-        ],
-        "length": 115
-    },
-    {
         "filmId": "yugly",
         "name": "Дворняшка",
         "rating": 6,
@@ -48,73 +23,6 @@
         "length": 110
     },
     {
-        "filmId": "turbozavry_superfilm",
-        "name": "Турбозавры. Суперфильм",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "фантастика",
-            "приключения",
-            "детский",
-            "семейный"
-        ],
-        "length": 75
-    },
-    {
-        "filmId": "79428",
-        "name": "МУЛЬТ в кино. Выпуск №202. В поисках чуда",
-        "rating": 0,
-        "genres": [
-            "мультфильм",
-            "приключения",
-            "комедия",
-            "фэнтези"
-        ],
-        "length": 50
-    },
-    {
-        "filmId": "bitva_motorov",
-        "name": "Битва моторов",
-        "rating": 12,
-        "genres": [
-            "приключения",
-            "драма",
-            "спорт"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "rozhdenie_imperii",
-        "name": "Рождение империи",
-        "rating": 12,
-        "genres": [
-            "история",
-            "биография",
-            "драма"
-        ],
-        "length": 140
-    },
-    {
-        "filmId": "lilja",
-        "name": "Лиля",
-        "rating": 18,
-        "genres": [
-            "драма",
-            "биография"
-        ],
-        "length": 145
-    },
-    {
-        "filmId": "ispytanie_aulom_2_hod_konem",
-        "name": "Испытание аулом 2. Ход конём",
-        "rating": 6,
-        "genres": [
-            "комедия",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "godzilla_minus_zero",
         "name": "Годзилла: Минус ноль",
         "rating": 16,
@@ -124,6 +32,20 @@
             "драма"
         ],
         "length": 135
+    },
+    {
+        "filmId": "the_hunger_games_sunrise",
+        "name": "Голодные игры: Рассвет жатвы",
+        "rating": 18,
+        "genres": [
+            "фантастика",
+            "фэнтези",
+            "боевик",
+            "триллер",
+            "драма",
+            "приключения"
+        ],
+        "length": 150
     },
     {
         "filmId": "the_cat_in_the_hat",
@@ -149,6 +71,17 @@
         "length": 85
     },
     {
+        "filmId": "kolotun_i_volshebnoe_korolevstv",
+        "name": "Колотун и волшебное королевство",
+        "rating": 6,
+        "genres": [
+            "фэнтези",
+            "приключения",
+            "семейный"
+        ],
+        "length": 115
+    },
+    {
         "filmId": "wicker",
         "name": "Плетёный муж",
         "rating": 18,
@@ -172,6 +105,40 @@
             "семейный"
         ],
         "length": 70
+    },
+    {
+        "filmId": "rozhdenie_imperii",
+        "name": "Рождение империи",
+        "rating": 12,
+        "genres": [
+            "история",
+            "биография",
+            "драма"
+        ],
+        "length": 140
+    },
+    {
+        "filmId": "turbozavry_superfilm",
+        "name": "Турбозавры. Суперфильм",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "фантастика",
+            "приключения",
+            "детский",
+            "семейный"
+        ],
+        "length": 75
+    },
+    {
+        "filmId": "ispytanie_aulom_2_hod_konem",
+        "name": "Испытание аулом 2. Ход конём",
+        "rating": 6,
+        "genres": [
+            "комедия",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "harry_potter_and_the_order_",
@@ -232,6 +199,16 @@
             "фэнтези"
         ],
         "length": 90
+    },
+    {
+        "filmId": "lilja",
+        "name": "Лиля",
+        "rating": 18,
+        "genres": [
+            "драма",
+            "биография"
+        ],
+        "length": 145
     },
     {
         "filmId": "garri_potter_i_uznik_azkabana",
@@ -297,6 +274,17 @@
         "length": 90
     },
     {
+        "filmId": "bitva_motorov",
+        "name": "Битва моторов",
+        "rating": 12,
+        "genres": [
+            "приключения",
+            "драма",
+            "спорт"
+        ],
+        "length": 145
+    },
+    {
         "filmId": "whalefall",
         "name": "Кит: Во тьме глубин",
         "rating": 18,
@@ -305,6 +293,18 @@
             "драма"
         ],
         "length": 105
+    },
+    {
+        "filmId": "79428",
+        "name": "МУЛЬТ в кино. Выпуск №202. В поисках чуда",
+        "rating": 0,
+        "genres": [
+            "мультфильм",
+            "приключения",
+            "комедия",
+            "фэнтези"
+        ],
+        "length": 50
     },
     {
         "filmId": "harry_potter_6",

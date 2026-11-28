@@ -1,17 +1,5 @@
 [
     {
-        "filmId": "yugly",
-        "name": "Дворняшка",
-        "rating": 6,
-        "genres": [
-            "мультфильм",
-            "комедия",
-            "приключения",
-            "семейный"
-        ],
-        "length": 85
-    },
-    {
         "filmId": "kolotun_i_volshebnoe_korolevstv",
         "name": "Колотун и волшебное королевство",
         "rating": 6,
@@ -55,6 +43,18 @@
             "ужасы"
         ],
         "length": 110
+    },
+    {
+        "filmId": "yugly",
+        "name": "Дворняшка",
+        "rating": 6,
+        "genres": [
+            "мультфильм",
+            "комедия",
+            "приключения",
+            "семейный"
+        ],
+        "length": 85
     },
     {
         "filmId": "dedmobil",
